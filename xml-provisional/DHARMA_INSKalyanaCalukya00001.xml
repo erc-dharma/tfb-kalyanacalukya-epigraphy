@@ -107,7 +107,39 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-         </div>
+            <ab><lb n="1"/>svasti</ab><p>samasta bhuvanāśraya śrī-prithvī-vallabha mahārājādhirāja
+            <lb n="2"/>paramēśvara parama-bhaṭṭāraka satyāśraya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ
+            <lb n="3"/>śrīmad-āhavamalla-dēvara vijaya rājyam uttarōttarābhiv<choice><sic>i</sic><corr>r̥</corr></choice>ddhi pravarddhamāna
+            <lb n="4" break="no"/>m ā candrārkka tārāmbaraṁ saluttam ire saka varṣa <num value="903">903</num> neya vikramasamvatsarada
+               <lb n="5"/>vaiśākha suddha <num value="5">5</num> brihaspativāraṁ agrahāraṁ kañcagāra beḷgaliya
+               <lb n="6"/>pūrvada sthāna-mānyaṁ mūṟuṁ śivālayakke naḍeva piriya kōla kariya
+               <lb n="7"/>matta <num value="18">18</num> pancikēśvarakke matta <num value="6">6</num> bhaḷārige matta <num value="6">6</num> bhaṭṭagey-i matta <num value="6">6</num> caṭṭa
+               <lb n="8" break="no"/>gey-i matta <num value="6">6</num> perggaḍegey-i matta <num value="8">8</num> aṁbigagey-i matta <num value="8">8</num> taḷāṟagey-i ma
+               <lb n="9" break="no"/>tta <num value="12">12</num> antinitumaṁ svadharmmadiṁ pratipāḷippar˙<g type="ddanda">.</g></p>
+            <lg n="1" met="śālinī">
+               <l n="a">sāmānyōyaṁ dharma
+               <lb n="10"/>sēt<choice><sic>u<unclear>ṁ</unclear></sic><corr>ur</corr></choice> nripāṇāṁ</l> 
+               <l n="b">kālē kālē pālinīyō bhavadbhiḥ</l> 
+               <l n="c">sarvvānētāṁ bhāginaḥ
+               <lb n="11"/>pārtthivēṁdrō</l>
+               <l n="d">bhūyō bhūyo yācatē rāmabhadra<supplied reason="omitted">ḥ</supplied></l>
+            </lg>
+            <lg n="2" met="anuṣṭubh">
+               <l n="a">svadadattaṁ para
+            <lb n="12" break="no"/>datta <choice><sic>jvāu</sic><corr>vā</corr></choice>jvāu </l>
+               <l n="b">yō harēti vasundharāṁ</l>
+               <l n="c">ṣaṣṭirv-varṣa-sahasrāṇi</l>
+               <l n="d">viṣṭāyāṁ jāya 
+                  <lb n="13" break="no"/>tē krimiḥ<g type="ddanda">.</g></l>
+            </lg>
+            <p>svasti samadhi-gata-pañcha-mahā-śabda pallavānvayaṁ śrīprithvīva
+            <lb n="14" break="no"/>llabha pallava-kuḷa-tilak’ anēkavākyaṁ kāñcī-pura-varēśvaraṁ śrīman-vīra-no
+               <lb n="15" break="no"/>ḷaṁba-pallava permmānaḍi-dēvara mahādēvi śrīmadu rēvala-dēviyark-kā
+               <lb n="16" break="no"/>ḷapr̥ya-dēvargge biṭṭa matta <num value="6">6</num> eraḍum viṣṇudēvargge biṭṭa matta <num value="12">12</num><supplied reason="omitted">.</supplied>
+            </p>
+       
+    </div>
+       
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
@@ -117,6 +149,7 @@
                   </app>
                </listApp>
          </div>
+        
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
@@ -127,9 +160,9 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        	   <bibl n="S"><ptr target="bib:Shama+Rao1939_01"/><citedRange unit="page">45-46</citedRange></bibl>
 			</listBibl>
-           <listBibl type="secondary">
+         <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
