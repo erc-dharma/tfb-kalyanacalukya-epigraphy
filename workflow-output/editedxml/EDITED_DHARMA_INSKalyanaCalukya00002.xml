@@ -23,7 +23,7 @@
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <!-- This may be the same as the creator of the file -->
-               <persName ref="part:jodo"><!-- Update the id -->
+               <persName ref="http://viaf.org/viaf/77694568"><!-- Update the id -->
                   <name>R. Shama Shastry</name>
                   <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                </persName>
@@ -32,7 +32,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-            <idno type="filename">DHARMA_encodingTemplateInscription_v03</idno>
+            <idno type="filename">DHARMA_INSKalyanaCalukya00002</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
