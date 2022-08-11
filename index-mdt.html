@@ -137,8 +137,8 @@
             <a href="https://github.com/erc-dharma/tfb-kalyanacalukya-epigraphy">Kalyāṇa Cālukya Corpus</a>
           </h1>
           <img src="https://img.shields.io/badge/licence-CC--BY-green.svg" class="img-fluid" alt="CC-BY"/>
-          <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" class="img-fluid" alt="Open Science"/>
-        <p>Texts edited in XML TEI by Samana Gururaja for the ERC-DHARMA Task force B.</p>
+          <p>Preview for metadata reviewing process.</p>
+          <p>Texts edited in XML TEI by Samana Gururaja for the ERC-DHARMA Task force B.</p>
           <p><span  class="badge badge-warning">Number of files <b id="lenght"></b> </span> </p>
           <br/>
       <ul id="list" class="list-group">
@@ -198,7 +198,8 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.md', '');
-          const fileDisplayName = fileName.replace('workflow-output/html/', '').replace('.html', '');
+          let re = /\_[a-z0-9]+\.html/
+          var fileDisplayName = fileName.replace('workflow-output/mdt/DHARMA_mdt_', 'Metadata ').replace(re, '').replace('.html', '');
           htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
@@ -214,7 +215,7 @@
       }
       (async () => {
         // Get GitHub repository file info
-        const response = await fetch('https://api.github.com/repos/erc-dharma/tfb-kalyanacalukya-epigraphy/contents/workflow-output/html');
+        const response = await fetch('https://api.github.com/repos/erc-dharma/tfb-kalyanacalukya-epigraphy/contents/workflow-output/mdt');
         const data = await response.json();
         // Initialize search fields and results
         const search_form = document.getElementById('search_form');
