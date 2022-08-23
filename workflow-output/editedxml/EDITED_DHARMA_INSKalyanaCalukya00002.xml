@@ -111,16 +111,16 @@
              <lb n="2" break="no"/>tsara pravarttise śrī-prithvī-vallabha-mahārājādhirāja-paramēśvara-parama-bha
              <lb n="3" break="no"/>ṭṭāraka-śrīmat･ Āhavamalla-dēvana rājyam uttarōttarābhivr̥ddhi-varddhamā
              <lb n="4" break="no"/>naṁ saluttire</p><p>Āhavamalla-dēva-pāda-padmōpajīvi svasti samadhigata
-             <lb n="5" break="no"/>paṁca-mahāśabda-mahā-sāmanta Āytavarmma kisukāḷ<num value="70">eḻpattumaṁ</num>
+             <lb n="5" break="no"/>paṁca-mahāśabda-mahā-sāmanta Āytavarmma kisukāḷ-<num value="70">eḻpattumaṁ</num>
              <lb n="6"/>kōgaḻi <num value="500">aynūṟu</num>maṁ nidhi-ni<choice><sic><unclear>bh</unclear></sic><corr>dh</corr></choice>āna-nikṣēpa-sahitaṁ duṣṭa-nigraha
              <lb n="7" break="no"/>viśiṣta-pratipāḷanaṁ-geyd’ āḷuttire</p><p> bāḷguḷiy’ <num value="52">ayvadiṁbaruṁ</num>
              <lb n="8"/>duggimayyana pratiṣṭeya āditya-dēvargge maṅalaporiyoḷ-koṭṭa
-             <lb n="9"/> tōṇṭada kamma <num value="60">aṟuvattu</num><g>.</g></p><p> ā tōṇṭava koṇindara kannayya tanna makkaḷ-makkaḷba
+             <lb n="9"/> tōṇṭada kamma <num value="60">aṟuvattu</num><g>.</g></p><p> ā tōṇṭava koṇindara kannayya tanna makkaḷ-makkaḷ-ba
              <lb n="10"/>ra salahid’ uṇba varṣaṁ-prati-varṣa Ānēya ponn’ <num value="6">āṟu</num> gadyāṇamuṁ dharaṇa
              <lb n="11" break="no"/>ponna āditya-devargge ikkuva<g>.</g></p><p>vaisākha suddha tadige āditya-vārad’ andu ko
-             <lb n="12" break="no"/>ṭṭa śāsana Idaṁ</p><p> kāḍ’ oḍad’ avargge prayāgeyoḷ sāsirbbar pārvvargge kurukṣē
+             <lb n="12" break="no"/>ṭṭa śāsana Idaṁ</p><p> kāḍ’ ūḍid’ avargge prayāgeyoḷ sāsirbbar pārvvargge kurukṣē
              <lb n="13" break="no"/>tradoḷ-sāsirbbar-ttapasviyargge Uṇal-koṭṭa bāṇā<choice><sic>na</sic><corr>rā</corr></choice>siyoḷ-kavileya U
-             <lb n="14" break="no"/> bhaya-mukhadānaṁgeydu phalav’ eyduguṁ<g type="danda">.</g></p>      
+             <lb n="14" break="no"/> bhaya-mukha-dānaṁ-geydu phalav’ eyduguṁ<g type="danda">.</g></p>      
             <lg n="1" met="anuṣṭubh">
                 <l n="a">sva-dattaṁ para-dattaṁ vā</l>
                 <l n="b">yō harēti <lb n="15"/>vasundharāṁ<g type="danda">.</g></l>
@@ -139,9 +139,23 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
-         </div>
+         <div type="translation" resp="sagu">
+            <p n="1">Benediction</p>
+            <p n="1-4">A multitude of years having elapsed since the time of king Śaka, during the Sarvajit <foreign>samvatsara</foreign> of the year 909, 
+               when the kingdom of Āhavamalla — lord of the earth, king of kings supreme lord, most venerable — was growing and attaining new heights,</p>
+            <p n= "4-7">a dweller at Āhavamalladeva’s lotus feet -- benediction -- <foreign>Mahāsāmanta</foreign> Āytavarmma who had attained rights to the five great titles, 
+               having punished the wicked and protected the orderly, was ruling the Kisukāḍu 70 and the Kōgali 500 with rights to the hidden treasures of the land</p>
+            <p n="7-9">The grove in Manalapuri which the 52 <supplied reason="subaudible">mahājanas</supplied> of Bāḷguḷi 
+               had given to the deity Āditya, established by Duggimayya, consisted of 60 <foreign>kamma</foreign>.</p>
+            <p n="9-11">So that his children and their children may <seg cert="low">continue to be protected and fed</seg>, every year upon the year, 
+               Koṇindara Kannayya of that grove placed <seg cert="low">the elephant’s gold and six <foreign>gadyāna</foreign> of ornamental gold</seg> for the deity Āditya.</p>
+            <p n="11-12">This order was given on Sunday, during the bright fortnight of Vaisākha.</p>
+            <p n="12-14">Those who protect and support it <supplied reason="subaudible">will receive</supplied> the five fruits of giving food to a thousand brahmins at Prayāga, 
+               and a thousand ascetics at Kurukṣētra, and making a <seg cert="low">double-sided donation</seg> of brown cows at Vāranāsi.</p>
+            <p rend="stanza" n="14-16">Whether given by oneself or another, he who robs/destroys that which is another’s, 
+               for sixty thousand years will be born as a worm in excrement</p>
+            <p n="16">Made by Candōja’s son, Hamsa. </p>
+          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
