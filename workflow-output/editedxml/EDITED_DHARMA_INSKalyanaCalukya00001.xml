@@ -117,7 +117,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <ab><lb n="1"/>svasti<supplied reason="omitted"><g type="ddanda">.</g></supplied></ab><p>samasta-bhuvanāśraya-śrī-prithvī-vallabha-mahārājādhirāja
+            <ab><lb n="1"/>svasti<supplied reason="omitted"><g type="ddanda">..</g></supplied></ab><p>samasta-bhuvanāśraya-śrī-prithvī-vallabha-mahārājādhirāja
             <lb n="2"/>paramēśvara-parama-bhaṭṭāraka-satyāśraya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ
             <lb n="3"/>śrīmad-āhavamalla-dēvara vijaya-rājyam uttarōttarābhiv<choice><sic>i</sic><corr>r̥</corr></choice>ddhi pravarddhamāna
             <lb n="4" break="no"/>m ā candrārkka-tārāmbaraṁ saluttam ire saka varṣa <num value="903">903</num> neya vikramasamvatsarada
@@ -125,7 +125,7 @@
                <lb n="6"/>pūrvada sthāna-mānyaṁ mūṟuṁ śivālayakke naḍeva piriya kōla kariya
                <lb n="7"/>matta <num value="18">18</num> pancikēśvarakke matta <num value="6">6</num> bhaḷārige matta <num value="6">6</num> bhaṭṭagey-i matta <num value="6">6</num> caṭṭa
                <lb n="8" break="no"/>gey-i matta <num value="6">6</num> perggaḍegey-i matta <num value="8">8</num> Aṁbigagey-i matta <num value="8">8</num> taḷāṟagey-i ma
-               <lb n="9" break="no"/>tta <num value="12">12</num> ant’ initumaṁ svadharmmadiṁ pratipāḷippar･<g type="ddanda">.</g></p>
+               <lb n="9" break="no"/>tta <num value="12">12</num> ant’ initumaṁ svadharmmadiṁ pratipāḷippar･<g type="ddanda">..</g></p>
             <lg n="1" met="śālinī">
                <l n="a">sāmānyōyaṁ dharma
                <lb n="10"/>sēt<choice><sic>u<unclear>ṁ</unclear></sic><corr>ur</corr></choice> n<choice><sic>ri</sic><corr>r̥</corr></choice>pāṇāṁ</l> 
@@ -140,7 +140,7 @@
                <l n="b">yō harēti vasundharāṁ</l>
                <l n="c">ṣaṣṭirv-varṣa-sahasrāṇi</l>
                <l n="d">viṣṭāyāṁ jāya 
-                  <lb n="13" break="no"/>tē krimiḥ<g type="ddanda">.</g></l>
+                  <lb n="13" break="no"/>tē krimiḥ<g type="ddanda">..</g></l>
             </lg>
             <p>svasti samadhi-gata-pañca-mahā-śabda-pallavānvayaṁ śrī-prithvīva
             <lb n="14" break="no"/>llabha-pallava-kuḷa-tilak’ anēkavākyaṁ kāñcī-pura-varēśvaraṁ śrīman-vīra-no
@@ -165,9 +165,9 @@
             <p n="1-9">As the victorious rule of Āhavamalla-deva — the refuge of the entire world, lord of the earth, 
                king of kinds, supreme lord, most venerable, ornament to the Satyāśraya family, 
                ornament to the Cāḷukyas — was growing, attaining new heights of prosperity; as long as the moon, sun, and stars exist in the sky, 
-               on Thursday, the 5th day of the bright fortnight of Vaiśākha in the vikrama samvatsara of the year śaka 903 <supplied reason="subaudible">he distributed</supplied>
-              the previous tax-exempt land of the agrahāra of Kañcagara Belgali, 
-              according to the <supplied reason="explanation">measure of the</supplied>large stick in use <supplied reason="subaudible">as follows:</supplied>
+               on Thursday, the 5th day of the bright fortnight of Vaiśākha in the Vikrama Samvatsara of the year <foreign>śaka</foreign> 903 <supplied reason="subaudible">he distributed</supplied>
+              the previous tax-exempt land of the <foreign>agrahāra</foreign> of Kañcagara Belgali, 
+              according to the <supplied reason="explanation">measure of the</supplied> large stick in use <supplied reason="subaudible">as follows:</supplied>
               18 <foreign>matta</foreign> for the three Śiva temples, 6 <foreign>matta</foreign> for the <seg cert="low">local goddess, Bhaḷāri</seg>,  
                6 <foreign>matta</foreign> for the constable, these 6 <foreign>matta</foreign> for the royal official
                these 8 <foreign>matta</foreign> for the local administrator, these 8 <foreign>matta</foreign> for the goddess, Ambige
