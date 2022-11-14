@@ -107,20 +107,20 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <ab><lb n="1"/>svasti<supplied reason="omitted"><g type="ddanda">.</g></supplied></ab>
-             <p>sakanr̥pa-kalātīta-saṁvatsara-sataṁgaḷ
+             <p>sakanr̥pa-kālātīta-saṁvatsara-sataṁgaḷ
                  <lb n="2"/><num value="903">903</num> neya khara-saṁvatsaraṁ pravartise tadvari
                  <lb n="3" break="no"/>ṣābhyantarade māgha suddha paṁcamī maṁgaḷavāra
                  <lb n="4" break="no"/>d’ andu śrī-pr̥thvī-vallabha-mahārājādhirāja-paramēśvara
                  <lb n="5" break="no"/>n ellaram-aruḷaṁ teri-viḷāsaṁ madha-gaja-mallan āne-veḍaṁ
-                 <lb n="6" break="no"/>ga śrī-kannara-dēvana māḍida maryyāde Eleya pēṟige E
+                 <lb n="6" break="no"/>ga-śrī-kannara-dēvana māḍida maryyāde Eleya pēṟige E
                  <lb n="7" break="no"/>raḍu paṅa-vaḍḍaṁ suṁka-samucchaya naḍevudu</p><p>kōgaḻiy’ aynū
                  <lb n="8" break="no"/>ṟuvan-āditya-varmm’ arasar āḷuttavire suṁkad’ anyāya peṟcida
                  <lb n="9" break="no"/>ḍe bāḷguḷiy’ayvadiṁbaruṁ siddhaseṭṭi sōbhanayya mallayya
-                 <lb n="10" break="no"/>seṭṭi aṇnamman-intavar pramukhavāgi taṁbuliga sāsirvvaruṁ A
+                 <lb n="10" break="no"/>seṭṭi aṇnamman intavar pramukhavāgi taṁbuliga sāsirvvaruṁ A
                  <lb n="11" break="no"/>ynūrvvaruṁ pōgi śrīpr̥thvī-vallabha-mahārājādhirāja-pa
                  <lb n="12" break="no"/>ramēśvara-parama-bhaṭṭārakaṁ satyāśraya-kuḷa-tilaka-cāḷu
                  <lb n="13" break="no"/>kyābharaṅaṁ srīmad-āhavamalla-dēvara śrīpādagaḷge śāṣṭāṁga    
-                 <lb n="14" break="no"/>meṟagi poḍevaṭṭu binnapaṁ-geydaḍe kannaradēvana marryādeya
+                 <lb n="14" break="no"/>m eṟagi poḍevaṭṭu binnapaṁ-geydaḍe kannaradēvana marryādeya
                  <lb n="15" break="no"/>l’ āda suṁkada marryādeyuṁ tappade naḍayim-endu biṭṭan-int’ ī  
                  <lb n="16"/>sthitiyaṁ tappi koṇḍutaṁ vāṇarāsiyuṁ kavileyuṁ kurukṣētramu
                  <lb n="17" break="no"/>man-aḻida paṁca-mahā-pātakaṁ <g type="spiral">.</g></p>
@@ -153,12 +153,12 @@
          <div type="translation" resp="part:sagu">
              <p n="1">Benediction</p>
              <p n="1-7">A multitude of years having elapsed since the time of king Śaka, the boundary made by the auspicious 
-                 Kannaradēva — the lord of the earth, king of kings, supreme lord, he who blesses everyone, teri-viḷāsaṃ, 
+                 Kannaradēva — the lord of the earth, king of kings, supreme lord, he who blesses everyone, <foreign>teri-viḷāsaṃ</foreign>, 
                  the one who wrestles intoxicated elephants, the one with the grace of an elephant — during the khara samvatsara of 903, 
                  in the very middle of the year, on Tuesday during the bright fortnight of Magha, 
                  <supplied reason="subaudible">stated that</supplied> for the distribution of the <supplied reason="subaudible">betel</supplied> leaves 
                  there was to proceed the collection of two <seg cert="low">units</seg> (<foreign>vaḍḍa</foreign>) of money (<foreign>paṇa</foreign>)</p>
-             <p n="7-17">When the five hundred <supplied reason="subaudible">mahājanas</supplied> of Kōgali and king Ādityavarma were ruling, as soon as the violation of the boundary increased, 
+             <p n="7-17">When the five hundred <supplied reason="subaudible"><foreign>mahājanas</foreign></supplied> of Kōgali and king Ādityavarma were ruling, as soon as the violation of the boundary increased, 
                  the five hundred of Bāḷguḷi, the thousand <seg cert="low"><supplied reason="subaudible">leaders</supplied></seg> of the betel leaf 
                  merchants — with members such as Siddhaseṭṭi, Sōbhanayya, Mallayyaseṭṭi and Aṇnaman promiment among them — and the five hundred, went to 
                  Āhavamalla Dēva — lord of the earth, king of kings, supreme lord, most venerated, 
@@ -180,7 +180,7 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-			<bibl n="S"><ptr target="bib:Shama+Rao1939_01"/><citedRange unit="page">46</citedRange></bibl>
+			<bibl n="S"><ptr target="bib:Shama+Rao1939_01"/><citedRange unit="page">46-47</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
