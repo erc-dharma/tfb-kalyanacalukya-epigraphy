@@ -163,7 +163,7 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-			<bibl n="K1940"><ptr target="bib:Krishnamacharlu1940_01"/><citedRange unit="page">44-45</citedRange></bibl>
+			<bibl n="K1940"><ptr target="bib:Krishnamacharlu1940_01"/><citedRange unit="page">24-25</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
