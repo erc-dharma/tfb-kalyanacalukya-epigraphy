@@ -154,7 +154,7 @@
 				<bibl n="K1940"><ptr target="bib:Krishnamacharlu1940_01"/><citedRange unit="page">32</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl n="F1895"><ptr target="bib:Fleet1894-1895_01"/><citedRange unit="page">230</citedRange></bibl>
+              <bibl n="F1895"><ptr target="bib:Fleet1894-1895_08"/><citedRange unit="page">230</citedRange></bibl>
                <!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
