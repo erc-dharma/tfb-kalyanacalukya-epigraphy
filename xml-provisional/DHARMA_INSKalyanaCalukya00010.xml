@@ -194,7 +194,7 @@
              <l n="b">mmāḍida supratiṣ<choice><orig>ṭe</orig><reg>ṭhe</reg></choice>y adariṁnde suvarṇṇākṣi-dēvar eṁb’</l>
              <l n="c" enjamb="yes">īḍita
           <lb n="19"/>nāmam ādudu sumāli pesar nagarkke rūḍiyoḷu</l>
-             <l n="d">kūḍidud’ endoḍē vogaḷva[ro] kūṇḍi-mahi-vaḷayāntaradoḷ <g type="ddanda"></g></l></lg>
+             <l n="d">kūḍidud’ endoḍē vogaḷva[ro] kūṇḍi-mahi-vaḷayāntaradoḷ <g type="ddanda">.</g></l></lg>
              
          <ab>ka <g type="ddanda">.</g></ab>  
              
@@ -334,7 +334,7 @@
            <l n="b" enjamb="yes">ggāvuṅḍara baḷake mūḍa tēgūra pola</l>
            <l n="c">kkāvagade baḍaga</l>
            <l n="d">pālvaḷa bhūv <gap reason="lost" unit="character" quantity="2"/>
-         <lb n="50"/>paścimadoḷ irdda <choice><orig>śa</orig><reg>sa</reg></choice>trada <choice><orig>vri</orig><reg>vr̥</reg></choice>tti <g type="ddanda"></g></l></lg>
+         <lb n="50"/>paścimadoḷ irdda <choice><orig>śa</orig><reg>sa</reg></choice>trada <choice><orig>vri</orig><reg>vr̥</reg></choice>tti <g type="ddanda">.</g></l></lg>
              
        <lg n="25" met="kanda">
            <l n="a">uttama-puruṣar ssōl-mū</l>
@@ -442,11 +442,11 @@
           
           <div type="translation" source="bib:Barnett1921-1922_02">
               
-          <p rend="stanza" n="1">Homage to Śamhu beauteous with the yak-tail fan that is the moon kissing his lofty head, the foundation-column for the beginning of the city of the triple world.</p>
+          <p rend="stanza" n="1">Homage to Śambhu beauteous with the yak-tail fan that is the moon kissing his lofty head, the foundation-column for the beginning of the city of the triple world.</p>
           <p n="2-5">Being in the sanctuary of the blessed god Suvarṇākṣi<gap reason="illegible"/>May the god Suvarṇākṣi, lord of the three worlds, 
               whose wondrous pair of blest lotus-feet is ceaselessly touched by the edges of jewelled diadems of demons, mortals, and celestials, grant us welfare!<note resp="part:sagu">Barnett interprets, "May the god..." - "...welfare" 
               as the second stanza. I have rendered it as prose as it does not fit into the metric scheme of kanda. The vere numbering is correspondingly offset to match the edition.</note></p>    
-          <p rend="stanza" n="2">In this region of the land there is a forest of sal-trees resplendent with masses of lotuses, with flowering lakes of water-lilies, 
+          <p rend="stanza" n="2">In this region of the land there is a forest of <foreign>sal</foreign>-trees resplendent with masses of lotuses, with flowering lakes of water-lilies, 
               with budding mangoes, with blossom-bearing kinds of trees named <foreign>kosagu</foreign>, trumpet-flower, <foreign>nēṟil</foreign>, <foreign>aśōka</foreign>, and plantain, 
               with an embellishment <supplied reason="subaudible">consisting</supplied>of cuckoos crying in sweet strains <foreign>pugal</foreign></p>
           <p rend="stanza" n="3">The sanctuary there, bright with cascades of water, shall procure without delay salvation for votaries worshipping the brilliant lotuses of the feet of the god 
@@ -459,7 +459,7 @@
               enter not, <foreign>pugal</foreign>.”<note resp="part:sagu">Barnett notes the double entendre of the word pugal -- both as the negative imperative of "to enter" and as the sound of the cuckoos</note></p>
           <p rend="stanza" n="7"> At the four sides of the mount there is a clamour, shaking the hills of chattering rose-ringed parakeets, of shrilling singing-swans, of murmuring female bees, of madding parrots</p>
           <p rend="stanza" n="8">Look, all the sapful herbs, like wand giving magical powers on touching the body, bestow the state of a King of Gods; heavenly nymphs feed this family of holy men.</p>
-          <p rend="stanzs" n="9">The chief man at the sanctuary within the adepts’ domain which is thus described, a celestial tree to dependents, is the great saint, <persName>Tribhuvanasiṁha</persName>, 
+          <p rend="stanza" n="9">The chief man at the sanctuary within the adepts’ domain which is thus described, a celestial tree to dependents, is the great saint, <persName>Tribhuvanasiṁha</persName>, 
               a lion to those elephants the families of foes of the tribes of ascetics. </p>
           <p rend="stanza" n="10">There was a goodly consecration when the <foreign>dānavas</foreign>, <persName>Māli</persName>, <persName>Sumāli</persName>, who on seeing him became attached to Rāghava’s foe, made it; 
               thence arise the adored name of the god Suvarṇamahākṣi. <persName>Sumāli’s</persName> name came to the currently attached to the town. 
