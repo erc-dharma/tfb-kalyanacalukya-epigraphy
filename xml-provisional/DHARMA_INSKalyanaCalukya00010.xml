@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sogal Inscription of the reign of Taila II, Saka 902</title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:sagu"><!-- Update the id -->
+                        <forename>Samana</forename>
+                        <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Gururaja</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="http://viaf.org/viaf/77694568"><!-- Update the id -->
+                        <name>Lionel D. Barnett</name> 
+                        
+                        <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSKalyanaCalukya00010</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2023 by Samana
+                            Gururaja.</p>
+                        <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2024</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary>
+                        <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide"
+                key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib"
+                    matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part"
+                    matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : movinng the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
+                template</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kan-Latn">
+             <!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7-->
+           <lg n="1" met="anuṣṭubh"> 
+            <lb n="1"/>
+               <l n="a">ōm namastuṁga-śiraś-cuṁbi</l>
+               <l n="b">caṁdra-cāmara-cāravē <g type="danda">.</g></l>
+               <l n="c">trailōkya-nagarārambha</l>
+           <lb n="2"/>
+               <l n="d">mūla-sthaṁbhāya-<choice><orig>sa</orig><reg>śa</reg></choice>ṁbhavē</l></lg>
+             
+           <p>
+               śrīmat-suvarnnākṣi-dēvara tīrtthadal’ iḻdu
+            <lb n="3"/><gap reason="illegible" quantity="10" unit="character" precision="low"/>ntarē tapōdhana<gap reason="illegible" quantity="5" unit="character" precision="low"/> 
+            <lb n="4"/>śrīmad-anavarata-danujanarāmara-maṇi-makuṭa-taṭa-ghaṭita-pada-padmōddāma-yugaḷaṁ  
+            <lb n="5"/>trilōka-svāmi suvarnnākṣi-dēvar īg’ emag’ oḷpa <g type="ddanda">.</g></p>
+             
+           <ab>vr̥i <g type="ddanda">.</g></ab> 
+             
+           <lg n="2" met="utpalamāla">
+               <l n="a">paṁkaja-ṣaṇḍadiṁd’ eseva neydala pūgo 
+            <lb n="6" break="no"/>ḷadiṁ taḷirtta mā</l> 
+               <l n="b" enjamb="yes">viṁ kusumōditaṁ kosagu pādari nēṟil aśōka bāḷeye</l>
+               <l n="c" enjamb="yes">ṁbaṁkada vri[vr̥i]kṣa-jātigaḷi
+            <lb n="7" break="no"/>n iṁcaradiṁ pugal-eṁba kōkilā</l>
+               <l n="d" enjamb="yes">laṁ<choice><orig>kri</orig><reg>kr̥i</reg></choice>tadiṁde sāla-banaṁ oppuvud’ ī viṣayāṁtarāḷadoḷ <g type="ddanda">.</g></l></lg>
+               
+           <lg n="3" met="utpalamāla">
+               <l n="a">Alliya
+            <lb n="8"/>nirjjharōdakadin oppuva tīrttham id’ ī jagakke peṁp'</l>
+               <l n="b">ellamanānta śaṁkara śayambhu suvarṇṇa-mahākṣi-dēva
+            <lb n="9"/>pā</l>
+               <l n="c">dōllāsitāṁbujaṁgaḷane pūjipa bha<choice><orig>kti</orig><reg>kta</reg></choice>janakke mukti ta</l>
+               <l n="d" enjamb="yes">ḷvillade kūḍugeṁdu poga<choice><orig>rdda</orig><reg>ḻda</reg></choice>ṁ kavitē<choice><orig>sa</orig><reg>śa</reg></choice>
+            <lb n="10"/>mada prabhaṁjana</l></lg>
+             
+           <ab>ka <g type="ddanda">.</g></ab>   
+             
+           <lg n="4" met="kanda">
+              <l n="a">puligaḷe dharmma śravaṅa</l> 
+              <l n="b" enjamb="yes">man ele miḍukade kēḷ<supplied reason="undefined">u</supplied>t’ irppuv’ ara giḷigaḷ nir</l>
+              <l n="c" enjamb="yes">mmaḷa
+            <lb n="11"/>munipaś[r] ōduv’ odaṁ</l>
+               <l n="d">caḷav’ ād’ eḍey’ aṟidu pēdvu[ḷvu]v’ iruḷuṁ pagaluṁ <g type="ddanda">.</g></l></lg>
+                
+            <lg n="5" met="kanda">               
+               <l n="a">vānara saṁhati dēva</l>
+               <l n="b" enjamb="yes">snānaṁ māḍuva
+             <lb n="12" break="no"/>rrge gaddugeya nīraṁ san</l>
+               <l n="c" enjamb="yes">mānade tand’ īvuv’ enal</l>
+               <l n="d" enjamb="yes">k’ ān aṟiyeṁ pogaḷal avara tapad’ ugrateya <g type="ddanda">.</g></l></lg>
+ 
+           <lg n="6" met="kanda">
+               <l n="a">pāpi puga
+            <lb n="13"/>lu pugal ugrada</l>
+               <l n="b">kōpi pugalu pugal aśēṣa-dharmma-drōha</l>
+               <l n="c">vyāpāri pugal pugal end’</l>
+               <l n="d">ā porttuṁ kōkiḷaṁgaḷ u
+             <lb n="14"/>liguṁ banadoḷu <g type="ddanda">.</g></l></lg>
+             
+           <lg n="7" met="kanda">
+               <l n="a">gaḷapuv’ ara-giḷiya ku</l>
+               <l n="b" enjamb="yes">kiluva kaḷa-ham<choice><orig>śe</orig><reg>se</reg></choice>ya gāvarippa peṇ-<choice><orig>dhu</orig><reg>du</reg></choice>ṁbiya bā</l>
+               <l n="c" enjamb="yes">vaḷisuva puruḷiya
+            <lb n="15"/>ko<supplied reason="undefined">ṁ</supplied>ḍaṁ</l>
+               <l n="d">gaḷa nagisuva ravame nagada nālkuṁ deseyoḷu<g type="ddanda">.</g></l></lg>
+             
+          <lg n="8" met="kanda">
+              <l n="a">nōḍa tanu muṭṭe siddhaṁ</l>
+              <l n="b">māḍuva selig’ ant’ aśēṣa-rasa
+            <lb n="16"/>mūḷikegaḷu</l>
+              <l n="c">kūḍugum amarēndratvaman</l>
+              <l n="d">ūḍuvar accharis<supplied reason="undefined">i</supplied>ya<supplied reason="undefined">r</supplied>kkaḷ ā muni-kuḷama<g type="ddanda">.</g></l></lg>
+             
+          <lg n="9" met="kanda">
+              <l n="a">Int’ enisuva siddha kṣēt</l>
+              <l n="b" enjamb="yes">rāṁtara
+            <lb n="17"/>tīrtthakke mukhyan āśrita-sura-bhu</l>
+              <l n="c" enjamb="yes">jaṁ tribhuvanasiṁha-munīn</l>
+              <l n="d" enjamb="yes">draṁ tāpasa-gōtra vairi-kuḷa-gaja-siṁha<g type="ddanda">.</g></l></lg>  
+             
+         <ab><choice><orig>vri</orig><reg>vr̥i</reg></choice> <g type="ddanda">.</g></ab>     
+             
+         <lg n="10" met="utpalamāla">
+             <l n="a">nō
+          <lb n="18" break="no"/>ḍire rāghava dviṣaṇa nacchuva māli sumāli dānavar</l>
+             <l n="b">mmāḍida supratiṣ<choice><orig>ṭe</orig><reg>ṭhe</reg></choice>y adariṁnde suvarṇṇākṣi-dēvar eṁb’</l>
+             <l n="c" enjamb="yes">īḍita
+          <lb n="19"/>nāmam ādudu sumāli pesar nagarkke rūḍiyoḷu</l>
+             <l n="d">kūḍidud’ endoḍē vogaḷva[ro] kūṇḍi-mahi-vaḷayāntaradoḷ <g type="ddanda"></g></l></lg>
+             
+         <ab>ka <g type="ddanda">.</g></ab>  
+             
+         <lg n="11" met="kanda">
+           <l n="a">mā
+          <lb n="20" break="no"/>li sumāli dvaya bhū</l>
+           <l n="b">pālar dēvargge sōlu-<num value="30">mūvattaṁ</num> sal</l>
+           <l n="c" enjamb="yes">līleyoḷe biṭṭu sugati su</l>
+           <l n="d" enjamb="yes">khālaya
+          <lb n="21" break="no"/>m ā trētēy-āṁtya kālade pokkar <g type="ddanda">.</g> </l></lg>
+             
+         <ab>vr̥i <g type="ddanda">.</g></ab> 
+             
+         <lg n="12" met="mattēbhavikrīḍita">
+             <l n="a">tapamaṁ māḍuva tāpasarkkaḷ aḷav all ōho tanu
+           <lb n="22" break="no"/>klēśaṁ emb’</l>
+             <l n="b">upasarggakk’ irad’ antu meyyan aṭavi śakhaṁgaḷaṁ tind umā</l>
+             <l n="c">dhīpanaṁ pūjisi mu
+           <lb n="23" break="no"/>ktiyoḷ dhareyal eṁd’irppaṁ suvarnnākṣi-dē</l>
+             <l n="d">va-pādām<choice><orig>bhōja</orig><reg>bōja</reg></choice>-śīlī-mukhābhan enipaṁ śrī gaṁgarā
+           <lb n="24" break="no"/><choice><orig>si</orig><reg>śi</reg></choice> vrati <g type="ddanda">.</g></l></lg>  
+             
+        <ab>ka <g type="ddanda">.</g></ab>    
+             
+        <lg n="13" met="kanda">
+             <l n="a">avar’ upadēsada dharmmaṁ</l>
+             <l n="b">kivivuge nai<choice><orig>ṣṭi</orig><reg>ṣthi</reg></choice>ka tapōdhana brāhmaṇarggaṁ</l>
+             <l n="c">naviśēṣa dā
+           <lb n="25" break="no"/>namaṁ mā</l>
+             <l n="d" enjamb="yes">ḍuvud’ uttama pakṣam eṁba san-matiyiṁda<g type="ddanda">.</g></l></lg> 
+       
+        <ab><g type="ddanda">.</g>vr̥i <g type="ddanda">.</g></ab>      
+             
+        <lg n="14" met="campakamāla">
+            <l n="a">hara-caraṇābja-bhri[bhr̥]ṁgi kapaṭō
+          <lb n="26" break="no"/><choice><orig>dha</orig><reg>da</reg></choice>ya nirjjita nirmmalāṁgi bhā</l>
+            <l n="b" enjamb="yes">suratara-mūrtti nirmmaḷina kīrtti dayā-parodāna-dharmma-ta
+          <lb n="27" break="no"/>t</l>
+            <l n="c" enjamb="yes">para-guṇa-yukte dēva-guru-bhakte sugōtra-pavitrey eṁdu vis</l>
+            <l n="d" enjamb="yes">taradoḷe kīrtrikuṁ vasudhe santa
+          <lb n="28" break="no"/>tadiṁdame kaṁcikabbeya <g type="ddanda">.</g></l></lg>
+             
+        <ab>ka <g type="ddanda">.</g></ab>
+             
+        <lg n="15" met="kanda">
+            <l n="a">mārājana beḷavāḍiya</l>
+            <l n="b">cāru guṇaṁ kariya kētimayyan a
+          <lb n="29" break="no"/>vaḷu vis</l>
+            <l n="c" enjamb="yes">tāra-guṅāṁbudhi dharmmada</l>
+            <l n="d">mēruvan ā kaṁcikabbeyaṁ pogaḷadar ār <g type="ddanda">.</g></l></lg>
+             
+       <lg n="16" met="kanda">
+           <l n="a">para-hita-guṇa-caritada
+         <lb n="30"/>dhana</l>
+           <l n="b" enjamb="yes">gara gōtrada kaṁcikabbe mātā-ratnaṁ </l>
+           <l n="c" enjamb="yes">dhareg’ eseva <choice><orig>dhā</orig><reg>dā</reg></choice>na-dharmmada</l>
+           <l n="d">pariṇatikeye piridu parama-māhēśva
+         <lb n="31"/>riy<supplied reason="undefined">ē</supplied><g type="ddanda">.</g>|</l></lg> 
+             
+       <lg n="17" met="kanda">
+           <l n="a">śrīya-dvāra-yugaṁ lī</l>
+           <l n="b" enjamb="yes">ḷāyata-karaṁ enipa sūrrya-kiraṇa-sthaṁbaṁ</l>
+           <l n="c">bhū-yuvatiyoḷage sale kaḷ</l>
+           <l n="d" enjamb="yes"><lb n="32" break="no"/>pāyuṣyaṁ nilkuṁ endoḍ’ ēn acchariyō <g type="ddanda">.</g></l></lg> 
+             
+       <lg n="18" met="kanda">
+           <l n="a">ene negaḻda kaṁcikabbeya</l>
+           <l n="b">ta<choice><orig>ne</orig><reg>na</reg></choice>yaṁ śiva-caraṇa-yugaḷa-kama
+         <lb n="33"/>ḷa bhramaraṁ</l>
+           <l n="c">muni-jana-bhaktaṁ śiṣṭēṣ</l>
+           <l n="d">ṭa nidhānaṁ caṭṭan ugra-pāpa-gharaṭṭa <g type="ddanda">.</g></l></lg>
+             
+       <ab>dātāra varṇane<g type="ddanda">.</g></ab>
+       
+       <ab>vr̥i <g type="ddanda">.</g></ab>
+             
+       <lg n="19" met="mattēbhavikrīḍita">
+           <l n="a">baḷavaccōḷa
+         <lb n="34"/>mahī-dharēṁdra-kulīśaṁ lāḷēbha-paṁcānanaṁ</l>
+           <l n="b">jaḷa-bhū<choice><orig>bhri</orig><reg>bhr̥</reg></choice>d-vana-durgga-mārga-jaladhi-vrātakk’ elē bāḍa
+         <lb n="35" break="no"/>v’ ā</l>
+           <l n="c" enjamb="yes">naḷa-rūpaṁ raṇa-kambha-kakkala-śira-cchēdaṁ ripūgrāvani</l>
+           <l n="d">vilayōtpāta-vikētu cakri-ti
+         <lb n="36" break="no"/> ḷakaṁ śrī-taila-rājādhipaṁ <g type="ddanda">.</g></l></lg> 
+             
+       <p>svasti samasta-bhuvanāśraya śrī-pri[pr̥]thvī-vallabha-mahārājadhirāja
+         <lb n="37"/>paramē<choice><orig>sva</orig><reg>śva</reg></choice>raṁ parama-bhaṭṭārakaṁ satyā<choice><orig>sra</orig><reg>śra</reg></choice>ya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ śrī-bhuja-baḷa-cakrava
+         <lb n="38" break="no"/>rtti nūrmmaḍi-tailapa-dēva -vijaya-rājyaṁ uttarōttarābhi<choice><orig>vri</orig><reg>vr̥</reg></choice>ddhi-pravarddhamānam ā candrārkka-t<supplied reason="lost">ā</supplied>
+         <lb n="39" break="no"/>raṁ saluttam ire <g type="ddanda">.</g></p>
+             
+       <ab>tat-pāda-padmōpajīvigaḷ <g type="ddanda">.</g></ab>
+             
+       <ab>vr̥i <g type="ddanda">.</g></ab>
+             
+       <lg n="20" met="campakamāla">
+           <l n="a">jana-pati-cakravartti pari-rakṣaṇa-dakṣa
+         <lb n="40"/>bhujāsi vairi-sā</l>
+           <l n="b">dhana-laya-kāri raṭṭa-kuḷa-bhūśaṇan anya-narēṁdra-darppa-bha</l>
+           <l n="c" enjamb="yes">ṁjanan avadāta-kīrtti-vibhu
+         <lb n="41"/>kaṇtheyabhārada nannapayyar ā</l>
+           <l n="d">ṇana ta<choice><orig>ne</orig><reg>na</reg></choice>yaṁ vivēka-nidhi-katta-mahībhujan eṁba permmagaṁ <g type="ddanda">.</g></l></lg>
+             
+       <ab>ka <g type="ddanda">.</g></ab>
+             
+       <lg n="21" met="kanda">
+           <l n="a">Ā
+         <lb n="42"/>taṁ kūṇḍi-mahī-vaḷa</l>
+           <l n="b" enjamb="yes">yātiśayā<choice><orig>dhi</orig><reg>dhī</reg></choice>śvaraṁ virōdhi-mahībhr̥d</l>
+           <l n="c">vrāta-kuḷa-vajra-pātaṁ</l>
+           <l n="d">bhūtaḷadoḷe katta-bhū<supplied reason="lost">pa</supplied> 
+         <lb n="43" break="no"/>n aṁgaja-rūpaṁ <g type="ddanda">.</g></l></lg>
+             
+       <p>svasti <choice><orig>sa</orig><reg>śa</reg></choice>ka varṣa 902neya vikrama-saṁvatsarad’ āṣā<choice><orig>ḍa</orig><reg>ḍha</reg></choice>d’ amāvāsyey’ ādivāra
+         <lb n="44"></lb>sūrrya-grahaṇa-nimittadoḷ manneyaruṁ sōla-mūvadiṁvarggaṁ dhanagara kaṁcikabbeya sthāna-bhū
+         <lb n="45" break="no"/>miyaṁ koṭṭu suvarnnākṣi-dēva-tīrtthadal tapaṁ geyva tapōdhanar āhāra-<choice><orig>dhā</orig><reg>dā</reg></choice>nakke tribhuvana-siṁgi-pa<supplied reason="lost">ṁdi</supplied>
+         <lb n="46" break="no"/>tara kālaṁ karcchi biṭṭa kamma 500 <g type="ddanda">.</g></p>
+             
+       <ab>ka <g type="ddanda">.</g></ab>
+             
+       <lg n="22" met="kanda">
+           <l n="a">Avar’ oḷage caṁdra-dharanam</l>
+           <l n="b" enjamb="yes">ga vibhōgakk’ eyde nūṟu kamma <gap reason="lost" quantity="3" unit="character"></gap>
+         <lb n="47"/> lam ud</l>
+           <l n="c" enjamb="yes">bhavam āgi naḍevud’ ā caṁdr’</l>
+           <l n="d" enjamb="yes">ā-vārddhi-tārā-gaṅaṁ divaṁ nilipinegaṁ <g type="ddanda">.</g></l></lg>
+             
+       <lg n="23" met="kanda">
+           <l n="a">parama-munīśar pannir<gap reason="lost" quantity="3" unit="character"></gap>
+         <lb n="48"/><supplied reason="lost">mu</supplied></l>
+           <l n="b" enjamb="yes">ktige salva phalaṁ ad’ aynūr kkammaṁ</l>
+           <l n="c">nirutam ene sarvva-bādha</l>
+           <l n="d">parihāram ad’ oṁdu mane-nivēśana-sahitaṁ</l></lg>
+             
+       <lg n="24" met="kanda">
+         <lb n="49"/>
+           <l n="a">nāvida<choice><orig>rgge</orig><reg>rge</reg></choice> teṁkalākar</l>
+           <l n="b" enjamb="yes">ggāvuṅḍara baḷake mūḍa tēgūra pola</l>
+           <l n="c">kkāvagade baḍaga</l>
+           <l n="d">pālvaḷa bhūv <gap reason="lost" unit="character" quantity="2"/>
+         <lb n="50"/>paścimadoḷ irdda <choice><orig>śa</orig><reg>sa</reg></choice>trada <choice><orig>vri</orig><reg>vr̥</reg></choice>tti <g type="ddanda"></g></l></lg>
+             
+       <lg n="25" met="kanda">
+           <l n="a">uttama-puruṣar ssōl-mū</l>
+           <l n="b" enjamb="yes">vattārkk adhipar vviśēṣam enisuva <gap reason="illegible" quantity="1" unit="character"/>
+         <lb n="51" break="no"/>l nāl</l>
+           <l n="c" enjamb="yes">vattāru gēnoḷ aḷed’ ā</l>
+           <l n="d" enjamb="yes">yattaṁ enal’ māḍi koṭṭud’ āṟu-nūr-kkammaṁ <g type="ddanda">.</g></l></lg>
+             
+       <lg n="26" met="kanda">
+           <l n="a">nāvidar asagara ma
+         <lb n="52"/>dhyada</l>
+           <l n="b">bhūmiye tān āge naḍeva bīdige baḍagal</l>
+           <l n="c">dēvaṁg’ ērige teṁkal</l>
+           <l n="d">dēva-tapō-dhanara <choice><orig>śa</orig><reg>sa</reg></choice>
+         <lb n="53" break="no"/>tra-<choice><orig>sā</orig><reg>śā</reg></choice>leya geha <g type="ddanda">.</g></l></lg>
+             
+       <p>Ā manege panneraḍu kayyi nīḷāmum eṁṭ’ agalamum akkuṁ <g type="ddanda">.</g></p>
+             
+       <ab>vr̥i <g type="ddanda">.</g></ab>
+             
+       <lg n="27" met="utpalamāla">
+           <l n="a"><gap reason="lost" unit="character" quantity="2"/>
+         <lb n="54"/>ḷamē guṇa-prakaradoḷ soval ādiya mūvad-iṁbar ā</l>
+           <l n="b">pāvana-mūrttigaḷ subhaṭar uttama dāniga<supplied reason="lost">ḷ ā</supplied>
+         <lb n="55" break="no"/>śritargge kaḷp</l>
+           <l n="c" enjamb="yes">āvanijar ss<supplied reason="lost">u</supplied>dāna-nidhi kaṁcale-kāntēya biṭṭa dharmmamaṁ</l>
+           <l n="d">kāvudu tamma vr̥ittiya <gap reason="illegible" quantity="3" unit="character"/>
+         <lb n="56"/>vol ā dhare nēsaṟ uḷḷinaṁ <g type="ddanda">.</g></l></lg>
+             
+       <lg n="28" met="kanda">
+           <l n="a">sthānācāryyaruṁ ūruṁ</l>
+           <l n="b">bhūnātar kkiḍise kāvar ūr kkiḍisalk’ ā</l>
+           <l n="c"><supplied reason="lost">sthānā</supplied>
+         <lb n="57" break="no"/>cāryyaṁ kāvaṁ</l>
+           <l n="d">sthānēśaṁ kiḍise mūvad-iṁbar kkāvaru <g type="ddanda">.</g></l></lg>
+             
+       <ab>vr̥i <g type="ddanda">.</g></ab>
+             
+       <lg n="29" met="utpalamāla">
+           <l n="a">bhūtaḷa-pūtaṁ appa muni n<supplied reason="lost">āthara</supplied> mu
+         <lb n="58" break="no"/>ktige salva dharmmamaṁ</l>
+           <l n="b">ghātisidaṁge durggati-padaṁ pratipālisidoṁge puṅya bandh</l>
+           <l n="c" enjamb="yes">ātiśayāspadaṁ
+         <lb n="59"/>sukha-padaṁ śubha-vr̥iddhi-jayāspadaṁ mahā</l>
+           <l n="d" enjamb="yes">khyāti-padaṁgaḷ emb’ iv’ ivu tappavu dēvana paṇḍit<supplied reason="lost">ā</supplied>
+         <lb n="60" break="no"/> graṇi <g type="ddanda">.</g></l></lg>
+             
+       <lg n="30" met="kanda">
+           <l n="a">sāsira pasuvaṁ dvijar ir</l>
+           <l n="b" enjamb="yes">cchāsiramaṁ kōṭi munigaḷaṁ koṁda mahā</l>
+           <l n="c" enjamb="yes">dōṣaṁ porddugum <gap reason="lost" quantity="3" unit="character"></gap></l>
+           <l n="d" enjamb="yes">
+         <lb n="61"/>va <choice><orig>sā</orig><reg>śā</reg></choice>sana dharmmamane kiḍipa mā-pātakanaṁ <g type="ddanda">.</g></l></lg>
+             
+       <lg n="31" met="kanda">
+           <l n="a">mēḷisi nāy aḍagaṁ caṁ</l>
+           <l n="b" enjamb="yes">daḷe kapāḷadoḷe kaḷḷan eṟed aḍu
+         <lb n="62"/> taṁ <choice><orig>tā</orig><reg>ta</reg></choice>t</l>
+           <l n="c" enjamb="yes">kāḷade kerppiṁ mucche sa</l>
+           <l n="d" enjamb="yes">māḷōkadoḷ iṁdran ākeyaṁ besa goṇḍaṁ <g type="ddanda">.</g></l></lg>  
+             
+       <lg n="32" met="kanda">
+           <l n="a">dēvasvaṁ brahmasvaman</l>
+           <l n="b">āvu <gap reason="illegible" unit="character" quantity="3"></gap>
+         <lb n="63"/>nda pātakana pāda-rājaṁ</l>
+           <l n="c">bhāvisal abhōjyam enal’ ā</l>
+           <l n="d">dēvasvaman aḷivaniṁ ni<choice><orig>kri</orig><reg>kr̥i</reg></choice>ṣarum oḷarē <g type="ddanda">.</g></l></lg>
+             
+       <lg n="33" met="anuṣṭubh">
+           <l n="a">na <choice><orig>viṣaṁ</orig><reg>viṣa</reg></choice>
+         <lb n="64"/>m ityāhu<orig>ḥ</orig><reg>r</reg></l>
+           <l n="b">dēvasvaṁ viṣam uchyate</l>
+           <l n="c">viṣaṁ ēkākinaṁ hanti</l>
+           <l n="d">dēvasvaṁ putra-pau<choice><orig>tri</orig><reg>tra</reg></choice>kaṁ <g type="ddanda">.</g></l></lg>
+             
+       <lg n="34" met="anuṣṭubh">
+            <l n="a">svadatt<supplied reason="omitted">ā</supplied>ṁ pa
+          <lb n="65"/>radatt<supplied reason="omitted">ā</supplied>ṁ vā</l>
+            <l n="b">yō harēti vasundharā<supplied reason="undefined">ṁ</supplied></l>
+            <l n="c">ṣaṣṭir-vvarṣa-saha<choice><orig>śrā</orig><reg>srā</reg></choice>ṇi</l>
+            <l n="d">vi<choice><orig>ṣṭā</orig><reg>ṣṭhā</reg></choice>yāṁ jāyate krimi<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l></lg>
+             
+       <lg n="35" met="kanda">
+           <l n="a"><lb n="66"/>bhuvanaṁ vananidhi suragiri</l>
+           <l n="b">diva-kuḷaṁ ina caṁdrar uḷḷinaṁ idud’ ud</l>
+           <l n="c" enjamb="yes">bhavaṁ āgi naḍege
+         <lb n="67"/>śāsana</l>
+            <l n="d" enjamb="yes">kavi kamalāditya racita kāvyādē<choice><orig>ṣa</orig><reg>śa</reg></choice>ṁ <g type="ddanda">.</g></l></lg>
+             
+       <p><choice><orig>I</orig><reg>Ī</reg></choice> dhrarmmaman ūruṁ sthānācāryya
+          <lb n="68"/>nuṁ kūḍi svadharmmadiṁ naḍeyisuva satrakke brāhmaṅiy’ aḍuvaḷ <g type="ddanda">.</g> maṁgaḷa mahā-srī <g type="ddanda">.</g></p>
+               </div>
+          
+          
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:Barnett1921-1922_02"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         
+          
+          <div type="translation" source="bib:Barnett1921-1922_02">
+              
+          <p rend="stanza" n="1">Homage to Śamhu beauteous with the yak-tail fan that is the moon kissing his lofty head, the foundation-column for the beginning of the city of the triple world.</p>
+          <p n="2-5">Being in the sanctuary of the blessed god Suvarṇākṣi<gap reason="illegible"/>May the god Suvarṇākṣi, lord of the three worlds, 
+              whose wondrous pair of blest lotus-feet is ceaselessly touched by the edges of jewelled diadems of demons, mortals, and celestials, grant us welfare!<note resp="part:sagu">Barnett interprets, "May the god..." - "...welfare" 
+              as the second stanza. I have rendered it as prose as it does not fit into the metric scheme of kanda. The vere numbering is correspondingly offset to match the edition.</note></p>    
+          <p rend="stanza" n="2">In this region of the land there is a forest of sal-trees resplendent with masses of lotuses, with flowering lakes of water-lilies, 
+              with budding mangoes, with blossom-bearing kinds of trees named <foreign>kosagu</foreign>, trumpet-flower, <foreign>nēṟil</foreign>, <foreign>aśōka</foreign>, and plantain, 
+              with an embellishment <supplied reason="subaudible">consisting</supplied>of cuckoos crying in sweet strains <foreign>pugal</foreign></p>
+          <p rend="stanza" n="3">The sanctuary there, bright with cascades of water, shall procure without delay salvation for votaries worshipping the brilliant lotuses of the feet of the god 
+              Śaṅkara-Svayambhu-Suvarṇamahākṣi, who bears all distinction in this world: thus has one who is a shattered of the conceit of kings of poets praised it.</p>
+          <p rend="stanza" n="4">Tigers listen to the preaching of religion without the stirring of a leaf; rose-ringed parrakeets, knowing the chants recited 
+              by the stainless holy men because of their constant utterance, sing them by night and by day.</p>
+          <p rend="stanza" n="5">A flock of apes fetches with due honour water of aspersions(?) for those who are bathing the god: hence I know not how to praise 
+              <supplied reason="subaudible">worthily</supplied> the severity of their mortification of the flesh.</p>
+          <p rend="stanza" n="6">All the day the cuckoos cry in the woods: “sinner, enter not <foreign>pugal</foreign>; man of fierce wrath, enter not, <foreign>pugal</foreign>; thou who breakest all duties, 
+              enter not, <foreign>pugal</foreign>.”<note resp="part:sagu">Barnett notes the double entendre of the word pugal -- both as the negative imperative of "to enter" and as the sound of the cuckoos</note></p>
+          <p rend="stanza" n="7"> At the four sides of the mount there is a clamour, shaking the hills of chattering rose-ringed parakeets, of shrilling singing-swans, of murmuring female bees, of madding parrots</p>
+          <p rend="stanza" n="8">Look, all the sapful herbs, like wand giving magical powers on touching the body, bestow the state of a King of Gods; heavenly nymphs feed this family of holy men.</p>
+          <p rend="stanzs" n="9">The chief man at the sanctuary within the adepts’ domain which is thus described, a celestial tree to dependents, is the great saint, <persName>Tribhuvanasiṁha</persName>, 
+              a lion to those elephants the families of foes of the tribes of ascetics. </p>
+          <p rend="stanza" n="10">There was a goodly consecration when the <foreign>dānavas</foreign>, <persName>Māli</persName>, <persName>Sumāli</persName>, who on seeing him became attached to Rāghava’s foe, made it; 
+              thence arise the adored name of the god Suvarṇamahākṣi. <persName>Sumāli’s</persName> name came to the currently attached to the town. 
+              On this account how do they praise it within the bounds of the surrounding land of <placeName>Kūṇḍi</placeName>.</p>
+          <p rend="stanza" n="11">The two kings <persName>Māli</persName> and <persName>Sumāli</persName>, giving to the god the Thirty of Sōlu in noble freedom, went to the abode of bliss in the last period of the <foreign>Trētā</foreign> Age</p>
+          <p rend="stanza" n="12"> Is there not power in ascetics who observe austerities! bravo! Bearing the body without being subject to the invoncenience of physical pain, feeding on the branches of the wilderness, worshipping Umās’s Lord, 
+              abiding in salvation while nominally on earth, like a bee at the lotus-feet of the god Suvarṇākṣi is that ascetic the blessed <persName>Gaṅgarāsi</persName>.</p>
+          <p rend="stanza" n="13">The doctrine of his teaching having entered her ear, with the good thought that the noblest course is to give general largesse to devotees, ascetics, and Brāhmaṇs,--</p>
+          <p rend="stanza" n="14">A bee to Hara’s lotus-feet, free from the influences of deceit, faultless of body, most brilliant in form, stainless in fame, gracious, inspired by religious charity, 
+              devoted to gods and preceptors, purifying her good <foreign>gotra</foreign>; in these terms the earth abundantly praises at all times <persName>Kañcikabbe</persName>.</p>
+          <p rend="stanza" n="15">She is <supplied reason="subaudible">the wife</supplied> of the amiable <persName>Kētimayya</persName>, <persName>Kari’s</persName> son, of <placeName>Mārājana-Belavadi</placeName>; an ocean of abounding virtues, 
+              a <foreign>Mēru</foreign> of godliness, who are there that do not praise this <persName>Kañcikabbe</persName>?</p>
+          <p rend="stanza" n="16"><persName>Kañciyabbe</persName> of the <foreign>Dhanagas’ gōtra</foreign>, who practices the virtue of beneficence, a gem of matrons, by the perfection of her eminent religious charities 
+              is verily one of the highest order of <foreign>Mahēśvaras</foreign> on earth</p>
+          <p rend="stanza" n="17">A double door of Fortune, a column for the Sun’s beams, where his rays are freely diffused, it shall indeed abide within the lady Earth for the length of the aeon: therefore what a marvel it is!</p>
+          <p rend="stanza" n="18">Of <persName>Kañciyabbe</persName>, who is thus illustrious, the son is <persName>Caṭṭa</persName>, a bee to Śiva’s two lotus-feet, devoted to saintly men, 
+              a treasure to cultured and agreeable men, a grindstone to dire sin.</p>
+          <p n="33">The description of the benefactor</p>
+          <p rend="stanza" n="19">An axe to that great mountain the potent Cōḷa, a lion to those elephants the Lālas, having forsooth the form of a submarine fire to all the oceans <supplied reason="subaudible">consisting of</supplied> 
+              ways of fastnesses in the waters, mountains, and forests, he who cut off the head of <persName>Raṇakambha</persName> and <persName>Kakkala</persName>, 
+              a malign meteor portending destruction to foemen’s grim lands, an ornament of emperors, is the blest lord of monarchs <persName>Taila</persName>.</p>
+          <p n="36-39">When the victorious reign of – hail! – the assylum of the whole world, favourite of Fortune and Earth, great Emperor, supreme Lord, supreme Master, ornament of <persName>Satyāśraya</persName>’s race, embellishment of the Cāḷukyas, 
+              the Emperor strong arm Nūrmaḍi Tailapa-dēva, was advancing the course of successively increasing prosperity, (to endure) as long as moon, sun, and stars: –</p>    
+          <p n="39">One who finds sustenance at his lotus feet — </p>
+          <p rend="stanza" n="20">A son of prince <persName>Kaṇṭheyabhārada Nannapayya</persName>, a sword for arms skilled in defence of that lord of men the Emperor, destroying devices of foes, ornament of the Raṭṭa race, crushing the pride of other monarchs, 
+              a lord pure of fame, a treasure of discretion, is the elder son named king <persName>Kaṭṭa</persName>.</p>
+          <p rend="stanza" n="21">He is the exalted ruler of the circle of land of <placeName>Kūṇḍi</placeName>, a thunderbolt-stroke to the whole crowd of those mountains his adversaries, king <persName>Kaṭṭa</persName>, 
+              wearing the form of the Love-god on earth</p>
+          <p n="43-46">Hail! On Sunday, the new-moon day of Āśādha in the cyclic year Vikrama, the 902nd <supplied reason="subaudible">year</supplied>of the Śaka era, on the occasion of an eclipse of the sun, <persName>Dhanagara Kañciyabbe</persName>, 
+              giving to the seigniors and the Thirty of Sōlu laud for an establishment, laved the feet of <persName>Tribhuvanasiṅgi Paṇḍita</persName> and granted 500 kamma for the supply of food to the ascetics observing austerities in the sanctuary of the god Suvarṇākṣi.</p>
+          <p rend="stanza" n="22">Out of this, one hundred <foreign>kamma</foreign><gap reason="illegible"/> shall be effectively applied in due manner for the personal enjoyment of the moon-bearer for as long as the moon, ocean, stars, and heavens endure.</p>
+          <p rend="stanza" n="23">Verily a fruit leading to the salvation of <gap reason="illegible"/> most excellent holy men are these five hundred <foreign>kamma</foreign>: hence they, together with one dwelling-house, are immune from all conflicting claims.</p>
+          <p rend="stanza" n="24">The estate of the almshouse situate to the south of the <supplied reason="subaudible">quarter of the</supplied> barbers, east of the special estate of <persName>>Ākar Gāvuṇḍar</persName>, north of the field of 
+              <placeName>Tēgūr</placeName> <gap reason="illegible"/> on the west of <gap reason="illegible"/> <supplied reason="subaudible">is as follows</supplied></p>
+          <p rend="stanza" n="25">Those excellent men the chiefs of the Thirty of <placeName>Sōl</placeName>, having measured out by the span of forty-six <gap reason="illegible"/> as a special <supplied reason="subaudible">estate</supplied> 
+              and caused it to be prepared, shall give six-hundred <foreign>kamma</foreign>.</p>
+          <p rend="stanza" n="26">To the north of the roads by which one walks within the land between the <supplied reason="subaudible">Quarters of the</supplied> Barbers and the Washerman, to the south of the God’s tank, 
+              is the buidong of the almshouse for the ascetics of the god.</p>
+          <p rend="stanza" n="27"><gap reason="illegible"/> in the multitude of their virtues the leading Thirty of Soval, they who are pure of body, valiant, supremely generous, trees of desire to dependents, shall preserve the pious foundation 
+              granted by the lady Kañcale, that treasure of bounty, as if it were… of their own estate so long as this earth and sun exist.</p>
+          <p rend="stanza" n="28"> The priors of the establishment and the town jointly shall protect <supplied reason="subaudible">the foundation</supplied>, if princes do harm; if the town harm it, the prior of the establishment shall protect it; 
+              if the head of the establishment do harm, the Thirty shall protect it.</p>
+          <p rend="stanza" n="29">For him who injures the pious foundation serving for the salvation of <gap reason="illegible"/> holy men which purifies the earth <supplied reason="subaudible">there shall be</supplied> a state of misery ; for him who preserves it,
+              a most exalted condition caused by the effect of his merit, a state of happiness, a condition of felicity, increase, and success, states of great reputation: these, these are inevitable O thou eminemt scholar <persName>Dēvana</persName>.</p>
+          <p rend="stanza" n="30">The great guilt of slaying a thousand kine, two thousand <foreign>Brāmaṇs</foreign>, <supplied reason="subaudible">and</supplied> a crore of holy men will accrue to the deadly sinner who injures a
+             <gap reason="illegible"/> pious foundation <supplied reason="subaudible">established</supplied> by edict.</p>
+          <p rend="stanza" n="31">On seeing how the <foreign>Cāṇḍāla</foreign> woman, having mixed dog’s flesh in a human skull and poured <supplied reason="subaudible">over it</supplied> toddy, was covering it with a leather shoe at the time while cooking it, 
+              Indra questioned her <supplied reason="subaudible">as to the reason for covering it</supplied></p>
+          <p rend="stanza" n="32"><supplied reason="subaudible">She answered that her food was</supplied> unfit to eat, if touched by dust from the feet of the sinner who should have appropriated the estates of gods and <foreign>Brāhmaṇs</foreign>: 
+              hence are any more degraded than he who infringes a god’s estate?</p>
+          <p rend="stanza" n="33-34"><gap reason="ellipsis"/><note>two common Sanskrit formulae</note></p>
+          <p rend="stanza" n="35">So long as the earth, the ocean, the celestial mountain, the abode of the sky, the sun and moon exist, may this pious foundation, whereof the versified regulations have been composed by <persName>Kamaḷāditya</persName>, 
+              poet of edicts, continue in effect.</p>
+          <p n="67-68">For the almshouse, in which jointly the town and the prior of the establishment shall religiously maintain in operation this pious foundation, a <foreign>Brāhmaṇ</foreign> woman shall be the cook. Happiness! Great fortune!</p>    
+          </div>
+         
+          
+          
+          <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="B1921"><ptr target="bib:Barnett1921-1922_02"/><citedRange unit="page">1-9</citedRange></bibl>
+			</listBibl>
+           
+        </div>
+      </body>
+  </text>
+</TEI>
+
+
+
+
