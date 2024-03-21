@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hunavalli Kalleśvara Temple Hero Stone I </title>
+                <title>Hunavalli Kalleśvara Temple Hero Stone II</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -23,9 +23,9 @@
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
-                    <persName ref="http://viaf.org/viaf/77694568"><!-- Update the id -->
-                        <name>Benjamin Lewis Rice</name> 
-                        
+                    <persName><!-- Update the id -->
+                        <name>Rice, B.L.</name> 
+                      
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
                 </respStmt>
@@ -33,7 +33,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKalyanaCalukya00011</idno>
+                <idno type="filename">DHARMA_INSKalyanaCalukya00012</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -106,28 +106,43 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kan-Latn">
-             <!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
-           <p>
-               <milestone type="pagelike" unit="column" n="A"/>
-               <lb n="1"/>svasti saka-nr̥pa-kālātīta-saṁvatsa
-               <lb n="2" break="no"/>ra-sataṁgaḷ· 902 pārttiva veṁba
-               <lb n="3"/>saṁvatsaraṁ pravartise maleya rājakkaṁ
-               <lb n="4"/>māvanaṁ koṁdavaṁ kaṇḍava kādi Ibbarraṁkondu
-               <lb n="5"/>surig’ iṟivāta piyaṇan āḷuttire
-            </p>
+             <p>
+                 <lb n="1"/>svasti-prithvī-vallabha-mahārājādhirāja-paramēśvara-parama-bhaṭṭāra
+                 <lb n="2" break="no"/>kaṁ cāḷukyā-vaṁśōdbhavaṁ śrīmat·-nūrmmaḍi-tailapa-dēvana rājyam-uttarō
+                 <lb n="3" break="no"/>ttarābhivr̥ddhige saluttire <g type="ddanda">.</g></p>
+                 
+             <p>jiḍurāḷge Eḻpattakaṁ biṭṭagaṁ nār-ggaṁvuṇḍu geyye</p>
              
-           <p>
-               <milestone type="pagelike" n="B" unit="column"/>
-               <lb n="6"/>tailapa-dēvaṁ rājyaṁ geye banavāsi Arasu geye banū
-               <lb n="7" break="no"/>rayya māḍisida <choice><orig>koṁbha</orig><reg>kaṁbha</reg></choice>
-               <lb n="8"/>kappajakkana keḷage sa <gap reason="undefined" extent="unknown"/> valgaḷaṁ
-               <lb n="9"/>jākaṇavaḷeṇḍati niṟi           
-           </p>  
-         </div>
+             <p>
+                 <lb n="4"/><choice><orig>saka</orig><reg>śaka</reg></choice> varṣa 903 neya pramādi-saṁvatsaraṁ pravarttise <choice><orig>jēṣṭa</orig><reg>jyēṣṭa</reg></choice> bahuḷa paṁca
+                 <lb n="5" break="no"/>me <choice><orig>saṇivāra</orig><reg>śanivāra</reg></choice>dandu mādeyūra sānti-varmmaṁ bariyūran iṟiye baḷagāṟara kō
+                 <lb n="6" break="no"/>karaṁ punupaḷḷiyal' iḻdu pu vana 
+                 <lb n="7" break="no"/>yyalaṁ paridu mārbbalaman taḷt’ iṟidu svarggālayakke sandaṁ <g type="ddanda">.</g></p>
+                 
+                 
+                 <lg n="1" met="anuṣṭubh">
+                     <l n="a">jitēna labhyatē la
+                 <lb n="8" break="no"/>kṣmī</l>
+                     <l n="b"><choice><orig>mr̥tēnābhi</orig><reg>mr̥tēnāpi</reg></choice> surāṁganaḥ<g type="danda">.</g></l>
+                     <l n="c">kṣaṇa-vidhyaṁśinīkāyō</l>
+                     <l n="d">kācintā maraṇē raṇē</l></lg>
+             
+             <p>
+                 <lb n="9"/>kōkarana tāy arasabbeyum ātana maydunaṁ punuvalavaḷḷiya gāvuṇḍan a
+                 <lb n="10" break="no"/>ggasar ēḷavaritamma bāvaṁge parōkṣavinayaṁ geydu kallaṁ nirisidaṁ maṁgaḷaṁ</p>
+                 
+             <lg n="2" met="anuṣṭubh">
+                 <l n="a"><lb n="11"/><choice><orig>sarvvarī</orig><reg>śarvarī</reg></choice> <choice><orig>dīpakō</orig><reg>dīpakaś</reg></choice> candraḥ</l>
+                 <l n="b">prabhātē ravi-dīpakaḥ</l>
+                 <l n="c">traiḷōkya-dīpakō dharmma</l>
+                 <l n="d"><lb n="12"/>suputra kuḷa dīpakaḥ<g type="ddanda">.</g></l>
+             </lg>
+             
+             <p>mādhavayyaṁ baredaṁ nāgaṁ besegeydaṁ<g type="ddanda">.</g></p>
+              </div>
+         
           
-          
-         <div type="apparatus">
+          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
@@ -136,28 +151,29 @@
                   </app>
                </listApp>
          </div>
-         
-          
           <div type="translation" source="bib:Rice1904_01">
-              <p n="1-5">Be it well. (On the date specified), when Piyaṇa, who seeing the murders of Maleya Rājakka and his father-in-law(/maternal uncle), fought and killed them both, stabbing with his dagger, was ruling: —</p>
-              <p n="6-9">When Tailapa-Dēva was ruling the kingdom, and was king of Banavāsi, — Banūrayya had this pillar made.</p>
+              <p n="1=3"><foreign>Ōm.</foreign> Be it well. When (with Chalukya titles), Nūrmmaḍi-Tailapa-Dēva’s kingdom was extending on all sides:</p>
+              <p n="3">— and Biṭṭiga was nāṟ-ggāvuṇḍa of the Jiḍuraḷge Seventy; —</p>
+              <p n="4-7"> (on the date specified), when Mādeyūr Sāntivarmma raided Bariyūr; the bangle-seller Kōkara being in Punuvaḷḷi, attacked <gap reason="ellipsis"/>, drove back the enemy and went to the abode of <foreign>svargga</foreign>.</p>
+              <p rend="stanza" n="1">By the victor is gained spoil and c.</p>
+              <p n="9-10">His mother and other relatives (named) set up this stone.</p>
+              <p rend="stanza" n="2">Verse in praise of a good son.</p>
+              <p n="12">Mādhavayya wrote it; Nāga did the work.</p>   
           </div>
-         
-          
-          
+        
           <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
-       
-         <div type="bibliography">
+      
+          <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-            <bibl n="B1921"><ptr target="bib:Rice1904_01"/><citedRange unit="page">234</citedRange></bibl>
+            <bibl n="B1921"><ptr target="bib:Rice1904_01"/><citedRange unit="page">234-235</citedRange></bibl>
 	</listBibl>
        </div>
-      
       </body>
   </text>
 </TEI>
+
 
