@@ -25,7 +25,7 @@
                     <!-- This may be the same as the creator of the file -->
                     <persName><!-- Update the id -->
                         <name>Lakshminarayan Rao, N.</name>
-                   
+                        
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
                 </respStmt>
@@ -33,7 +33,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKalyanaCalukya00013</idno>
+                <idno type="filename">DHARMA_INSKalyanaCalukya00015</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -107,11 +107,36 @@
       <body>
          <div type="edition" xml:lang="kan-Latn">
              <p>
-                 <lb n="1"/>t-sōbhanarasa<supplied reason="undefined">rbb</supplied>anavāsi-dēsamumaṁ eraḍ’ aṟunūṟu
-                 <lb n="2"/>man āḷuttire <g type="danda">.</g> <choice><orig>saka</orig><reg>śaka</reg></choice>nr̥pa-kālātīta saṁvatsarada sa
-                 <lb n="3" break="no"/>taṁgaḷ 9<supplied reason="undefined">1</supplied>5 daneya vijaya-saṁvatsaraṁ pravartti
-                 <lb n="4" break="no"/>se tad-varṣābhyantara <choice><orig>jēṣṭa</orig><reg>jyēṣṭha</reg></choice> <choice><orig>sudda</orig><reg>śuddha</reg></choice> ta<supplied reason="undefined">dige</supplied> śukravāradandu
+                 <lb n="1"/>śrī svasti samadhi-gata-pañca-mahā-sabda-mahā
+                 <lb n="2" break="no"/><supplied reason="undefined">sā</supplied>maṁtādhi-pati sāhasa-rudraṁ <gap reason="undefined" quantity="2" unit="character" precision="low"/> krānta-nārāyaṇa vivēka-kama
+                 <lb n="3" break="no"/><supplied reason="undefined">ḷā</supplied>sanaṁ saṁgrāma-mārttāṇḍa-pratāpa-diḷīpaṁ raṇa-raṁga-rāghavaṁ
+                 <lb n="4"/>dharmma-dharmātmajaṁ <gap reason="undefined" quantity="5" unit="character" precision="low"/> vikrāntēyaṁ śauca-pavanā
+                 <lb n="5" break="no"/>tmajaṁ satya-rādhēyaṁ bhōga-kusumāyudhaṁ vairībha-ka
+                 <lb n="6" break="no"/>ṇṭhīravaṁ vīra-cūḍāmaṇi <gap reason="undefined" quantity="3" unit="character" precision="low"/> māṇikyaṁ tailana cakraṁ
+                 <lb n="7"/>bhuvanaika-malla śrīmad-āhavamalla pāda-paṁkaja-brahma
+                 <lb n="8" break="no"/>raṁ śrīmad-daśavarmma-dēvara śrī-pāda-padmōpajīvigaḷ</p>
+             <p>
+                 <lb n="9"/><supplied reason="undefined">ḷ</supplied>appa rāja-sāmyada perggaḍe <supplied reason="undefined">daḷā</supplied>payya pramukha-karaṇamuṁ
+                 <lb n="10"/><supplied reason="undefined">ma</supplied>neya verggaḍe goṇayya pramukha-karaṇamuṁ pēṟe <supplied reason="undefined">Avar’ a</supplied>numata
+                 <lb n="11" break="no"/>doḷ</p>
+             
+             <p> śaka-varṣa 918<supplied reason="undefined">ne</supplied>ya durmmukhi samvatsarada śrāvaṇa bahuḷa 1
+                 <lb n="12"/>sōmavāra karaṁjōḷada ūroḍeya kēsavayyaṁge saṁ <gap reason="undefined" quantity="2" unit="character" precision="low"/>
+                 <lb n="13" break="no"/>yya koṭṭa saṁsthā-patrav' ent' andoḍe</p> 
+                 
+             <p> manmatha-saṁvatsarado<supplied reason="undefined">ḷu</supplied>
+                 <lb n="14"/>bīja-biḻda utta<supplied reason="undefined">ma</supplied> kariya nelakke salikke madhyamakke
+                 <lb n="15"/>salike 1 paṇa 3 kaniṣthakke salike 1 uṟkege uḻta <gap reason="undefined" quantity="1" unit="character" precision="low"/>
+                 <lb n="16"/><gap reason="undefined" quantity="2" unit="character" precision="low"/> pēḷda maryyāde baḻikaṁ varṣaṁ-prati</p> 
+             
+             <p> uttama ne
+                 <lb n="17" break="no"/>lakke paṅa 2 madhyakke paṇa 1 aḍḍa 1 kaniṣṭha
+                 <lb n="18" break="no"/>kke paṇa 1 baḻivamārge 7 barisado <gap reason="undefined" quantity="1" unit="character" precision="low"/>
+                 <lb n="19"/>nilkaṁ irkkaṇna maryādege vyavasthe <gap reason="undefined" quantity="3" unit="character" precision="low"/>
+                 <lb n="20"/>lla bareda madhusū<supplied reason="undefined">dana</supplied> <gap reason="undefined" quantity="3" unit="character" precision="low"/>
              </p>
+             
+            
          </div>
          
           
@@ -136,12 +161,15 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-            <bibl n="L1978"><ptr target="bib:LakshminarayanRao1978_01"/><citedRange unit="page">25</citedRange></bibl>
+            <bibl n="L1978"><ptr target="bib:LakshminarayanRao1978_01"/><citedRange unit="page">25-26</citedRange></bibl>
 	</listBibl>
        </div>
       </body>
   </text>
 </TEI>
+
+
+
 
 
 
