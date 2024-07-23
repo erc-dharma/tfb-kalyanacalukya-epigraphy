@@ -107,7 +107,7 @@
          <div type="edition" xml:lang="kan-Latn">
          
          <lg n="1" met="kanda">
-             <l n="a"><lb n="1"/><g type="spiral">.</g> raṭṭa-kuḷānvaya-nr̥paruṁ</l>
+             <l n="a"><lb n="1"/><g type="spiral"/> raṭṭa-kuḷānvaya-nr̥paruṁ</l>
              <l n="b">paṭṭada tavar-mmanegaḷ enipa gāvuṇḍugaḷuṁ</l>
              <l n="c">baṭṭar jinēṁdra pūjege</l>
              <l n="d">neṭṭane dhānyaṁga <lb n="2" break="no"/> ḷoḷage poṁdida kuḷamaṁ </l></lg>
@@ -122,14 +122,14 @@
          <p>dīpāvaḷiya parvvyakke dēvara soḍariṁge gāṇadal ommān eṇṇe <g type="ddanda">.</g></p>
              
          <lg n="3" met="anuṣṭubh">
-             <l n="a"><lb n="4"/><g type="spiral">.</g> śrīmat-parama-gaṁbhīra</l>
+             <l n="a"><lb n="4"/><g type="spiral"/> śrīmat-parama-gaṁbhīra</l>
              <l n="b">syād-vādāmōghā-lāṁcchanaṁ</l>
              <l n="c">jīyā traiḷōkya-nāthasya</l>
-             <l n="d">ṣāsanaṁ jina-śāsanaṁ<g type="spiral">.</g><g type="spiral">.</g></l>
+             <l n="d">ṣāsanaṁ jina-śāsanaṁ<g type="spiral"/><g type="spiral"/></l>
          </lg>    
              
          <p>
-             <lb n="5"/><g type="spiral">.</g>svasti samasta-bhuvanāśrayaṁ śrī-pr̥thvī-vallabhaṁ mahārājādhi-rāja-paramēśvara-parama
+             <lb n="5"/><g type="spiral"/>svasti samasta-bhuvanāśrayaṁ śrī-pr̥thvī-vallabhaṁ mahārājādhi-rāja-paramēśvara-parama
              <lb n="6" break="no"/>bhaṭṭārakaṁ satyāśraya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ śrīmat-tailapa-dēvara vijaya-rājyam uttarōttarābhi
              <lb n="7" break="no"/>vr̥ddhiyiṁ sallutamire <g type="danda">.</g></p>    
              
@@ -196,7 +196,7 @@
          </lg>  
              
          <lg n="9" met="āryā">
-             <l n="a"><g type="spiral">.</g>yati-tārakā-parītaḥ <g type="danda">.</g></l>
+             <l n="a"><g type="spiral"/>yati-tārakā-parītaḥ <g type="danda">.</g></l>
              <l n="b">kaṇḍūra-gaṇōrukanṭhi vr̥ddhikaraḥ</l>
              <l n="c">bāhubali dēva-candrō</l>
              <l n="d">jina samaya-nabha-sthaḷe<lb n="24"/>bhāti <g type="ddanda">.</g></l>
@@ -253,7 +253,7 @@
          </lg>
              
          <p>
-                <g type="spiral">.</g>svasti saka-nr̥pa-kālātīta-saṁvatsara-śataṁga 902 nēya
+                <g type="spiral"/>svasti saka-nr̥pa-kālātīta-saṁvatsara-śataṁga 902 nēya
              <lb n="35"/> vikrama-saṁvatsarada pauśya śuddha daśamī br̥haspati-vārad’ aṁdin’ uttarāyaṅa śaṁkramaṇadoḷ· bāhu
              <lb n="36" break="no"/>bali-baṭṭārakara kālaṁ kacci śānti-varmarasaṁ sugandhavarttiyal tanna māḍisida basadig’ āvūra tanna sīvaṭada polad’ o
              <lb n="37" break="no"/>ḷage sarvva-bādhā-parihāram āgi biṭṭa mattar nnūṟayvatt</p>
@@ -264,7 +264,7 @@
              <lb n="40"/>guḍḍe</p>
              
          <p>
-                <g type="spiral">.</g>mattaṁ nijiyabbarasi tanna magaṁ śāntivarmmarasaṁ māḍisi[da] piriya basadige tanna sīvaṭṭaṁ piri
+                <g type="spiral"/>mattaṁ nijiyabbarasi tanna magaṁ śāntivarmmarasaṁ māḍisi[da] piriya basadige tanna sīvaṭṭaṁ piri
              <lb n="41" break="no"/>ya panuṇḍige pōda baṭṭeyiṁ teṁka kāḍiyūra pola<supplied reason="undefined">da</supplied> <gap reason="illegible" quantity="3" unit="character" precision="low"/>
              nūrayvattu ma<supplied reason="undefined">tta</supplied>
              <lb n="42"/>kkeyyaṁ namasyav’ āgi biṭṭaḷ </p> 
@@ -280,7 +280,7 @@
              <lb n="47"/>sumar· </p>
              
          <p>
-                <g type="spiral">.</g>mā <gap reason="illegible" quantity="7" unit="character" precision="low"/>
+                <g type="spiral"/>mā <gap reason="illegible" quantity="7" unit="character" precision="low"/>
              <lb n="48"/>munāsaṁga <gap reason="illegible" quantity="8" unit="character" precision="low"/>
              <lb n="49"/>davargge <gap reason="illegible" quantity="9" unit="character" precision="low"/>
              <lb n="50"/>ṇḍan· <gap reason="illegible" quantity="9" unit="character" precision="low"/>
