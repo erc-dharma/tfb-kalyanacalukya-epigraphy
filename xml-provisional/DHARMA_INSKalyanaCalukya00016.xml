@@ -111,16 +111,16 @@
              <l n="a"><lb n="1"/><g type="spiral"></g> raṭṭa-kuḷānvaya-nr̥paruṁ</l>
              <l n="b">paṭṭada tavar-mmanegaḷ enipa gāvuṇḍugaḷuṁ</l>
              <l n="c">baṭṭar jinēṁdra pūjege</l>
-             <l n="d">neṭṭane dhānyaṁga <lb n="2" break="no"/> ḷoḷage poṁdida kuḷamaṁ </l></lg>
+             <l n="d">neṭṭane dhānyaṁga <lb n="2" break="no"/> ḷ' oḷage poṁdida kuḷamaṁ </l></lg>
              
          <lg n="2" met="kanda">
              <l n="a">ṟa<supplied reason="undefined">ṭṭa</supplied>ra paṭṭa-jinālayak’</l>
-             <l n="b">iṭṭaḷavād ayvat-okkal’ anumatadiṁdaṁ</l>
+             <l n="b">iṭṭ' aḷav' ād ayvat-okkal’ anumatadiṁdaṁ</l>
              <l n="c">koṭṭar jinēndra pūjege</l>
              <l n="d">neṭṭane<lb n="3" break="no"/><gap reason="undefined" unit="character" quantity="14" precision="low"/> <g type="ddanda">.</g></l>
          </lg>
              
-         <p>dīpāvaḷiya parvvyakke dēvara soḍariṁge gāṇadal ommān eṇṇe <g type="ddanda">.</g></p>
+         <p>dīpāvaḷiya parvvyakke dēvara soḍariṁge gāṇadal ommān' eṇṇe <g type="ddanda">.</g></p>
              
          <lg n="3" met="anuṣṭubh">
              <l n="a"><lb n="4"/><g type="spiral"></g> śrīmat-parama-gaṁbhīra</l>
@@ -143,7 +143,7 @@
              <lb n="10" break="no"/> ta-vajra-paṁjaraṁ śrīmat· śānti-varmmarasara vaṁśāvatāram ent’ eṁdoḍe śrīmad-amarēndra-vibhavōddhāmaṁ
              <lb n="11"/>saṁgrāma-rāmanōrjita-tējaṁ bhīma-parākraman enisidane mahiyoḷ pr̥thvī-rāman anupama-rūpaṁ <g type="ddanda">.</g></p>
              
-         <ab>tatsu<lb n="12"/>ta <g type="ddanda">.</g></ab>
+         <ab>tatsu<lb n="12" break="no"/>ta <g type="ddanda">.</g></ab>
              
          <p> 
              Ārūḍha-vatsa-rājan udāra-guṇaṁ vinuta-kaṁṭakādityaṁ śrī-nārī-kāntaṁ nirjjita-vairi-vrajan enisi piṭṭugaṁ
@@ -152,20 +152,20 @@
          <ab>vr̥ <g type="ddanda">.</g></ab> 
              
          <lg n="4" met="utpalamāla">
-             <l n="1">antakan’ ante band’ idiroḷ āṁt’ aja-varmmana nōḍisutte mā</l>
+             <l n="1">antakan’ ante band’ idiroḷ āṁt’ aja-varmmanan' ōḍisutte mā</l>
              <l n="b" enjamb="yes">ṟāntar’ anēkaraṁ tavisi vastugaḷaṁ mada-vāraṇaṁgaḷaṁ</l>
-             <l n="c">kānte<lb n="14" break="no"/>yaraṁ turuṁgacayamaṁ piḍidit’ oḍe meccir' ābheyaṁ</l>
-             <l n="d">dantiy' anittan aṁduv' e pēḷade piṭṭaga ninna gella <supplied reason="undefined">maṁ</supplied> <g type="ddanda">.</g> </l>
+             <l n="c">kānte<lb n="14" break="no"/>yaraṁ turuṁga-cayamaṁ piḍidit’ oḍe meccirābheyaṁ</l>
+             <l n="d">dantiy' anittan' aṁduv' e pēḷade piṭṭaga ninna gella <supplied reason="undefined">maṁ</supplied> <g type="ddanda">.</g> </l>
          </lg> 
              
-         <ab>ta <lb n="15"/>d-agra-patni <g type="ddanda">.</g></ab>
+         <ab>ta <lb n="15" break="no"/>d-agra-patni <g type="ddanda">.</g></ab>
              
          <ab>vr̥ <g type="ddanda">.</g></ab> 
              
          <lg n="5" met="campakamāla">
              <l n="a">pogaḷal’ aḷuṁbam appa caritaṁ mige baṅṅisal abja-saṁbhavaṁ</l>
              <l n="b" enjamb="yes">g’ agaṇitam appa rūpavibha<lb n="16" break="no"/>vaṁ pati-bhaktiyoḷ ondi sajjani</l>
-             <l n="c" enjamb="yes">kege neleyādam āṁtada peṁpu samaṁ-taḷa-paṭṭa nījakabbara</l>
+             <l n="c" enjamb="yes">kege neleyādam āṁtada peṁpu samaṁ taḷa paṭṭa nījakabbara</l>
              <l n="d" enjamb="yes">si<lb n="17" break="no"/>ge saṁd’ arundhati peṟar-ddorey’ eṁdaḍe <choice><orig>dōsav</orig><reg>dōśav</reg></choice>’ allade <g type="ddanda">.</g></l>        
          </lg>
              
@@ -182,7 +182,7 @@
              
          <lg n="7" met="mattēbhavikrīḍita">
              <l n="a">dayeyiṁd’ oḷpina teḷpiniṁ guṇa-gaṇāḷaṁkāradiṁ mārgga-nir</l>
-             <l n="b" enjamb="yes">ṇayadiṁ tatvavi<lb n="20" break="no"/>cāradiṁ gamakadiṁdāhāra-bhaiṣajya-sā</l>
+             <l n="b" enjamb="yes">ṇayadiṁ <choice><orig>tatva</orig><reg>tattva</reg></choice><lb n="20" break="no"/>-vicāradiṁ gamakadiṁd' āhāra-bhaiṣajya-sā</l>
              <l n="c" enjamb="yes">bhaya-śāstra-maḷa-dānadiṁd’ adhikan eṁd’ aṁd’ oḷpiniṁ śānti-var</l>
              <l n="d" enjamb="yes">mmana vi<lb n="21" break="no"/>khyātiyan onde nālageyoḷ inn’ ē vaṇṇipōṁ baṇṇipa<supplied reason="omitted">r·</supplied></l>
          </lg>
