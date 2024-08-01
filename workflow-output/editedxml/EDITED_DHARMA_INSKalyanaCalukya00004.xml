@@ -113,10 +113,10 @@
                  <lb n="3" break="no"/>nā-dēsāḍīsaraṁ vasagata<supplied reason="explanation">ṁ</supplied>myāḍi duṣṭaraṁ nigrahisi visiṣṭaraṁ pratipāḷisi mahādānaṁ geydu cōḷiya
                  <lb n="4"/>keyan-olagisida <num value="150">nūrayvatt’</num> āneyumaṁ-roddada bīḍinoḷ-koṇḍ’ uttarottarābhivriddhi-pravarddhamāna-vijaya
                  <lb n="5" break="no"/>rājyam ā candrārkka-tāraṁ saluttam ire</p><p>tat-pāda-padmōpajīvitaṁ samadhigata-paṅcamahāśabda-mahāsāma   
-                 <lb n="6" break="no"/>ntan-anēkar praṇutōnnata-lalāṭa-nirīkṣaṇōpalakṣita-kadaṁbakuḷācaḷōditādityaṁ paramēsvara-makuṭa   
-                 <lb n="7" break="no"/> ghaṭṭata-caraṇāravindaṁ śākhāmr̥ga-dhvajan uttuṁga-siṁgha-lāṁchanaṁ mahā-paṭu-paṭa-harava-prapūrṇna-di
-                 <lb n="8" break="no"/>gantarāḷa-virājamāna-caturāśīta-nagarādhiṣṭhatam himavanta-<choice><orig>sakti</orig><reg>śakti</reg></choice>-sthāpitan appa daśāśvamedhādīkṣita-kuḷapra
-                 <lb n="9" break="no"/>sūtaṁ banavāsi-puravarēsvaram aṇiyaṁkakāṟa<supplied reason="explanation">ṁ</supplied>nāha<supplied reason="undefined">vādi</supplied>tyaṁ sāhasa-bhīmaṁ śauca-veḍaṁga-guṇa-pūrṇna-mēru
+                 <lb n="6" break="no"/>ntan-anēkar praṇutōnnata-lalāṭa-nirīkṣaṇōpalakṣita-kadaṁbakuḷācaḷōditādityaṁ paramēsvara-makuṭa-   
+                 <lb n="7" break="no"/> ghaṭṭata-caraṇāravindaṁ śākhāmr̥ga-dhvajan uttuṁga-siṁgha-lāṁchanaṁ mahā-paṭu-paṭaha-rava-prapūrṇna-di
+                 <lb n="8" break="no"/>gantarāḷa-virājamāna-caturāśīta-nagarādhiṣṭhitam himavanta-<choice><orig>sakti</orig><reg>śakti</reg></choice>-sthāpitan appa daśāśvamedhādīkṣita-kuḷapra
+                 <lb n="9" break="no"/>sūtaṁ banavāsi-puravarēsvaram aṇiyaṁkakāṟa<supplied reason="explanation">ṁ</supplied>n āha<supplied reason="undefined">vādi</supplied>tyaṁ sāhasa-bhīmaṁ śauca-veḍaṁga-guṇa-pūrṇna-mēru-
                  <lb n="10" break="no"/>bhr̥tya-cintāmaṇi śrīmad-ādityavarmarasar·kōgaḷiy’ <num value="500">aynūṟuvaṁ</num> sundavatti <num value="12">panneraḍumann</num> āḷuttamire<g type="ddanda">.</g></p>
               
              <p><lb n="11"/><g type="spiral"/><choice><orig>saka</orig><reg>śaka</reg></choice>-nr̥pa-kāḷātīta-saṁvatsara-sataṁga 914 neya naṁdana-saṁvatsaraṁ pravartise tadvarṣābhyaṁtara pauṣya bahuḷa bā
@@ -133,7 +133,7 @@
                  <lb n="22" break="no"/>mūlaṁ basadiy’ aḷiviṁge muṁde nilvar·</p>
              
              <p><g type="danda">.</g> Ekkala gāvuṇḍan oḷavāgi <num value="12">panneraḍu</num> gāvuṇḍaran ellavāḻgi gāvuṇḍana jīya-mānasadiṁ baḷike kāḍ’ ā 
-                 <lb n="23" break="no"/>yamaṁ nōḍiyuṁ kīḻ-ōkkal· pasugege <num value="30">mūvattu</num> mattarum <num value="1">ondu</num> tōṁṭamum āge baṟikke-patti <num value="30">mūvatt’ eraḍum</num> ante-pattig’ aravaṇaṁ
+                 <lb n="23" break="no"/>yamaṁ nōḍiyuṁ kīḻ-ōkkal· pasugege <num value="30">mūvattu</num> mattarum <num value="1">ondu</num> tōṁṭamum āge baṟikke-patti <num value="30">mūvatt’ eraḍum</num> ante-pattig’ <choice><sic>aravaṇaṁ</sic><corr>aruvaṇaṁ</corr></choice>
                  <lb n="24"/><num value="3">mūru</num> gadyāṇaṁ maḻta porisaṁ biṭṭa maryāde <g type="danda">.</g></p>
              
              <p>Eṇtaneya śrāhege pattige <num value="3">mūṟu</num> dharaṇaṁ mūṟeneya śrāhege teṟe ne
@@ -144,33 +144,30 @@
              <p>phalavāgada maṇge Aruvaṇa
                  <lb n="28" break="no"/>villa<g type="ddanda">.</g></p>
              
-             <p>kōgaḻiya caturāghāṭṭadoḷ āda maṇnanīra sāṁyakkaṁ daṇḍadōsam ella basadige seṭṭiyar ppannasigar gāvu
-                 <lb n="29" break="no"/>ṅḍagaḷ śrōdal’ āgi mānyakāṟar <num value="3">mūru</num> śrāhege pariyara gadyāṇav’ antiṟuvar· Avara kīṟokkaluḻtabarisaṁ peṭṭi-ma
-                 <lb n="30" break="no"/>ryyāde Eraḍaneya śrāhege padinayd’ arave mūṟeneya śrāhege purbbasthitiyoḷ kare basadig’ ettiruvar· basadige taḷavr̥tti
+             <p>kōgaḻiya <choice><sic>caturāghāṭṭadoḷ</sic><corr>caturāghāṭadoḷ</corr></choice> āda maṇna-nīra sāṁyakkaṁ daṇḍad’ ōsam ella basadige seṭṭiyar ppannasigar gāvu
+                 <lb n="29" break="no"/>ṅḍagaḷ śrōdal’ āgi mānyakāṟar <num value="3">mūru</num> śrāhege pariyara gadyāṇav’ ant’ iṟuvar· Avara kīṟ’ okkal uḻta barisaṁ peṭṭi-ma
+                 <lb n="30" break="no"/>ryyāde Eraḍaneya śrāhege padinayd’ arave mūṟeneya śrāhege purbba sthitiyoḷ kare basadig’ ett’ iruvar· basadige taḷavr̥tti
                  <lb n="31"/><num value="1000">sāyira</num> mattaru<choice><orig>m</orig><reg>ṁ</reg></choice> <num value="24">irpattu nālku</num>mattaru gaddeyuṁ<g type="danda">.</g></p>
              <ab>mattu tōṇṭavuṁ<g type="danda">.</g></ab>
              <ab>nandanavanamuṁ sarbba-bādhā-parihāraṁ<g type="danda">.</g> </ab> 
-             <ab>pañca maṭhasthānamam
+             <ab>pañca maṭha-sthānamam
                  <lb n="32"/> pūrva-maryādeyoḷ vr̥tti-pāḷisuvudu<g type="danda">.</g></ab>
-             <ab>mūṟu baravuvilla mūr-mmane vārtegara mane pokkaḍemanneraḍu gadyāṇa daṇḍa<g type="danda">.</g></ab>
+             <ab>mūṟu baravuvilla mūr-mmane vārtegara mane pokkaḍe p
+                 panneraḍu gadyāṇa daṇḍa<g type="danda">.</g></ab>
              <p>haradarakka
-                 <lb n="33" break="no"/>naṁgadoḷ vāradarigeya paccavaṁ-koṇḍu pādarigeya mūgan’ aridu pādarigaganaṁ kolvaru<g type="danda">.</g> 
-            </p>
-            <ab>poydaṁg’ eṁṭu paṇaṁ āṇeyaṁ mikkaṁge <num value="12">panne</num>                
-                <lb n="34" break="no"/><num value="12">raḍu</num> paṇaṁ mīṟidaṁge <num value="12">panneraḍu</num> gadyāṇaṁ daṇḍa<g type="danda">.</g> </ab>
-           <p>paradanārbandaḍavaṁgaḍiya sājikadiṁdoḻiyan anyāyadoḷ varadhanaṁ poydaḍe sā
-               <lb n="35" break="no"/>vu sālvar·<g type="danda">.</g></p> 
-           <ab>nakarakkaṁ<g type="danda">.</g></ab>
-           <ab>mahājanakkaṁ gāvuṅḍagaḷgaṁ<g type="danda">.</g></ab>
-           <ab>pañcamaṭasthānakkaṁ biṭṭiyilla<g type="danda">.</g></ab>
-           <p>baṭṭala-taṁbulaṁ baḍevant’ ī maryyāde yellam ā
-             <lb n="36" break="no"/>ytavarmmarasara māḍisid’ eraḍun dēgulaṁ kōgaliya praje verasi mūṟeneya dēgulaṁ idan aḻidoṁ prayāgeyuvaṁ kurukṣētra
-             <lb n="37" break="no"/>vumaṁ<g type="danda">.</g></p>
-           <ab>bāṇarāsiyuvaṁ kaḻbappuvaṁ sāsira kavileyuvaṁ<g type="danda">.</g></ab>  
-           <ab>sāsirbbar pparvvaruvaṁ<g type="danda">.</g></ab>  
-           <ab>sāsirbar· riṣiyuruvan aḻida pātakanu
-               <lb n="38"/>brahmātikāranum-akkuṁ</ab>
+                 <lb n="33" break="no"/>n’ aṁgadoḷ vāradarigeya paccavaṁ koṇḍu pādarigeya mūgan’ aridu pādariganaṁ kolvaru<g type="danda">.</g>poydaṁg’ eṁṭu paṇaṁ āṇeyaṁ mikkaṁge <num value="12">panne</num>                
+                <lb n="34" break="no"/><num value="12">raḍu</num> paṇaṁ mīṟidaṁge <num value="12">panneraḍu</num> gadyāṇaṁ daṇḍa<g type="danda">.</g> </p>
            
+           <p>paradan’ ār bbandaḍav’ aṁgaḍiy’ apājikadiṁd’ iṟey anyāyadoḷ paradhanaṁ poydaḍe sā
+               <lb n="35" break="no"/>vu sālvar·<g type="danda">.</g></p> 
+           
+           <p>nakarakkaṁ<g type="danda">.</g>mahājanakkaṁ gāvuṅḍagaḷgaṁ<g type="danda">.</g>pañcamaṭasthānakkaṁ biṭṭiyilla<g type="danda">.</g></p>
+           
+           <p>baṭṭala-taṁbulaṁ baḍevant’ ī maryyāde yellam ā
+             <lb n="36" break="no"/>ytavarmm’ arasara māḍisid’ eraḍun dēgulaṁ kōgaliya praje verasi mūṟeneya dēgulaṁ idan aḻidoṁ prayāgeyuvaṁ kurukṣētra
+             <lb n="37" break="no"/>vumaṁ<g type="danda">.</g>bāṇarāsiyuvaṁ kaḻbappuvaṁ sāsira kavileyuvaṁ<g type="danda">.</g>sāsirbbar pparvvaruvaṁ<g type="danda">.</g>sāsirbar· riṣiyuruvan aḻida pātakanu
+               <lb n="38"/>brahmātikāranum-akkuṁ</p>
+          
              <lg n="1" met="anustubh" xml:lang="san-Latn">
                <l n="a">svadattaṁ paradattaṁ vā<supplied reason="omitted"><g type="danda">.</g></supplied></l>  
                <l n="b">yō harēti vasundharāṁ<g type="danda">.</g></l> 
@@ -196,6 +193,18 @@
                </listApp>
          </div>
          <div type="translation" resp="part:sagu">
+             
+             <p n="1">Benediction</p>
+             <p n="1-5">Āhavamalla-dēva — the refuge of the entire world, lord of the earth, king of kings, supreme lord, most venerable, ornament to the Satyāśraya family, ornament to the Cāḷukyas -- having paired thieves and enemies with illness and omens of death, 
+                 having brought under his control the leader of the nānādēśi sect, having punished the wicked and protected the lawful, having performed the ritual of the great gift, the one who brought the one hundred fifty elephants which swung the arms of the Coḻa 
+                 to the streets of his residence at Rodda — his rule was growing, attaining new heights of prosperity; as long as sun, moon, and stars exist:</p>
+             
+             <p n="5-10">One sustained by his lotus feet — having attained the five great sounds, the mahāsāmanta, the rising sun over the mountain <supplied reason="subaudible">which is</supplied> the Kadamba family, characterised by the sight of eminent, upheld foreheads,
+                 the lotuses of whose feet are touched by the crests of other kings, the one with the monkey emblem and the raised lion crest, the one who governs 84 towns <supplied reason="subaudible">which</supplied> illuminate the sky, <supplied reason="subaudible">which is</supplied> 
+                 filled with the piercing sound of drums the one who established himanvanta śakti, born in the family which performed ten aśvamēdhas, lord of the town of Banavāsi, champion of beauty, Āhavādityam a terror to the cruel, the wish-fulfilling jewel who serves Meru, 
+                 <supplied reason="subaudible">who is</supplied> filled with purity, beauty, and virtue, the prosperous Ādityavarma; while he was ruling the Kōgaḷi 500 and the Sundavatti 12</p>
+             
+             <p n="11-12">A number of years having elapsed since the time of king Śaka, while the year nandana of 914 was progressing, during the dark half of the month, in the week associated with Puṣya, on the Friday, during the passage of the sun to its northern course</p>
              
           </div>
          <div type="commentary">
