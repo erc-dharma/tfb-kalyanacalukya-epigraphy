@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kudutani Durgēśvari Temple Inscription, Śaka 897</title>
+            <title>Narasalgi Hanumān Temple Inscription, Śaka 886</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -108,12 +108,12 @@
              <!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
               <p> <lb n="1"/>namas-sura-narābhīṣṭa-kāriṇē śakti-dāriṇe saṁsā
-                  <lb n="2" break="no"/>ra-kāraṅa-dhvānta-bhānavē śiva-sūnavē <g type="ddanda">..</g></p> <p>svasti sama
+                  <lb n="2" break="no"/>ra-kāraṅa-dhvānta-bhānavē śiva-sūnavē <g type="ddanda">.</g></p> <p>svasti sama
                   <lb n="3" break="no"/>sta-bhuvanāśraya śrī-pṛthvī-vallabha-mahārājā
                   <lb n="4" break="no"/>dhirāja paramēśvara paramabhaṭṭārakaṁ śatyāśraya-kuḷa-ti
                   <lb n="5" break="no"/>ḷakaṁ cāḷukyābharaṇaṁ śrīmad-āhavamalla-dēvara vija
                   <lb n="6" break="no"/>ya-rājyaṁ uttarōttarābhivṛddhi pravardhamānam-ā
-                  <lb n="7" break="no"/>caṁdrārka-tārāṁbaraṁ saluttim-ire <g type="ddanda">..</g></p> <p>svastyanavarata-vinata
+                  <lb n="7" break="no"/>caṁdrārka-tārāṁbaraṁ saluttim-ire <g type="ddanda">.</g></p> <p>svastyanavarata-vinata
                   <lb n="8" break="no"/>bhuvana-jana-manōbhivāṁcchita-phaḷa-prakara-prasū
                   <lb n="9" break="no"/><supplied reason="lost">ti</supplied>-hētubhūtapādāravinda vinamita-śatānanda-gaṁdha-mādava
                   <lb n="10"/><gap reason="illegible" quantity="1" unit="character" precision="low"/> gandha-sindhura-skaṁdāsanāsīna mayūradhvajavirājamāna 
