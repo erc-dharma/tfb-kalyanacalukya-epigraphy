@@ -107,7 +107,7 @@
          <div type="edition" xml:lang="kan-Latn">
              <!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-              <lg met="anuṣṭubh"> 
+              <lg n="1" met="anuṣṭubh"> 
                   <l n="a"><lb n="1"/>namas-sura-narābhīṣṭa-</l>
                   <l n="b">kāriṇē śakti-dāriṇe</l> 
                   <l n="c">saṁsā<lb n="2" break="no"/>ra-kāraṅa-dhvānta-</l>
@@ -131,7 +131,7 @@
                   <lb n="17" break="no"/><gap reason="undefined" quantity="4" unit="character" precision="low"/>maṁ māḍida haṁpaṅa-bhaṭṭōpādhyāya
                   <lb n="18"/>nālvar kkarma brahmapuri brāhmaṇa
                   <lb n="19"/><gap reason="undefined" quantity="4" unit="character" precision="low"/>vara rājadhāni koṭṭitoṇeya pola
-                  <lb n="20"/><gap reason="undefined" quantity="4" unit="character" precision="low"/>sa padinālku mattara lekkade mattaru
+                  <lb n="20"/><gap reason="undefined" quantity="4" unit="character" precision="low"/>sa padinālku mattara lekk’ ade mattaru
                   <lb n="21"/><gap reason="undefined" quantity="3" unit="character" precision="low"/>kēriya bhairava-dēvargge mattar nnā
                   <lb n="22"/><gap reason="undefined" quantity="3" unit="character" precision="low"/>geyya taṟeyumaṁ Ā kēriya
                   <lb n="23"/><gap reason="undefined" quantity="2" unit="character" precision="low"/>hāram āgi biṭṭaru viśēṣaṁ
@@ -154,6 +154,24 @@
                </listApp>
          </div>
          <div type="translation" resp="part:sagu">
+             
+             <p rend="stanza" n="1">Obeisance to the goddess who is beloved by gods and men, the one who bestows power, she who is a sun to the darkness caused by transmigration, she who was brought forth by Śiva.</p>
+             
+             <p n="2-7">Benediction. As the victorious rule of Āhavamalla-deva — the refuge of the entire world, lord of the earth, king of kinds, supreme lord, most venerable, ornament to the Satyāśraya family, ornament to the Cāḷukyas — was growing, 
+                 attaining new heights of prosperity; as long as the moon, sun, and stars exist in the sky</p>
+             
+             <p n="7-14">Benediction. He who brings forth the cause of being according to the fruit that is desired by the minds of the people of the world continuously and humbly, whose lotus-feet cause bowing <gap reason="undefined" extent="unknown"/> the fragrant sweet/name of a mountain… 
+                 a fragrant elephant seated in the skanda posture, one who is waving a peacock banner <gap reason="undefined" extent="unknown"/> a <seg cert="low">pilgrim who travelsthe entire realm</seg><gap reason="undefined" extent="unknown"/> a plantain tree 
+                 <gap reason="undefined" extent="unknown"/>the consecrated offering born of the <gap reason="undefined" extent="unknown"/> was Svāmidēva — one sustained by his lotus feet was the eminent Daṇḍasāni, 
+                 the ruler of the hermitage, weilder of a mace, administrator of <gap reason="undefined" extent="unknown"/>; the <gap reason="undefined" extent="unknown"/> which was made by the five representatives of the institution <gap reason="undefined" extent="unknown"/></p>
+             <p n="15-24">in the śaka year 897, which was yuva <foreign>samvatsara</foreign>, on the <gap reason="undefined" extent="unknown"/>th Friday, in the presence of Svāmidēva<gap reason="undefined" extent="unknown"/> the four actors of Hampaṇa-bhaṭṭōpādhya<gap reason="undefined" extent="unknown"/>
+                 the brahmans of the the brahmin residence of <gap reason="undefined" extent="unknown"/>’s the capital of at Koṭṭitoṇe, the wetland<gap reason="undefined" extent="unknown"/> the count of fourteen <foreign>mattar</foreign>. 
+                 For the deity Bhairava of the <gap reason="undefined" extent="unknown"/>street the same <foreign>mattar</foreign>; four <foreign>mattar</foreign><gap reason="undefined" extent="unknown"/> the decision of<gap reason="undefined" extent="unknown"/>; of that street, they released 
+                 the land for livelihood… specifically as the land assigned to brahmans.</p>
+             <p n="25-26">He who<gap reason="undefined" extent="unknown"/> this grant<gap reason="undefined" extent="unknown"/> a thousand brown cows</p>
+             <p n="26-29"><supplied reason="lost" evidence="parallel">This <supplied reason="subaudible">grant</supplied> which is a bridge of <foreign>dharma</foreign> for kings, 
+               from time to time is to be maintained by you, all the kings who are partaking of it, 
+               <supplied reason="subaudible">as</supplied> requested again and again by Rāmabhadra.</supplied></p>
              
           </div>
          <div type="commentary">
