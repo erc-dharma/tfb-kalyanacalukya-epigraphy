@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kalleśvara Temple Inscription at Bagali 1</title>
+                <title>Bagali Kalleśvara Temple Inscription of the Reign of Taila II 1, Śaka 909</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -25,8 +25,13 @@
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="http://viaf.org/viaf/77694568"><!-- Update the id -->
                         <name>R. Shama Shastry</name>
-                        <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
+                    <persName><!-- Update the id -->
+                        <forename>Rao</forename>
+                       
+                        <surname>N. Lakshminarayan</surname>
+                    </persName>
+                       
                 </respStmt>
             </titleStmt>
             <publicationStmt>
