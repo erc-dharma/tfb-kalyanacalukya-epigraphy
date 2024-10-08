@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bagali Kalleśvara Temple Inscription of the Reign of Taila II 1, Śaka 909</title>
+            <title>Bāgali Kallēśvara Temple Inscription of the Reign of Taila II 1, Śaka 909</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -23,11 +23,14 @@
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <!-- This may be the same as the creator of the file -->
-               <persName ref="http://viaf.org/viaf/77694568"><!-- Update the id -->
-                  <name>R. Shama Shastry</name>
+               <persName><!-- Update the id -->
+                  <forename>Sastry</forename>
+                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>R. Shama</surname>
                </persName>
                <persName><!-- Update the id -->
                   <forename>Rao</forename>
+                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>N. Lakshminarayan</surname>
                </persName>
             </respStmt>
@@ -118,9 +121,9 @@
              <lb n="6"/>kōgaḻi <num value="500">aynūṟu</num>maṁ nidhi-ni<choice><sic><unclear>bh</unclear></sic><corr>dh</corr></choice>āna-nikṣēpa-sahitaṁ duṣṭa-nigraha
              <lb n="7" break="no"/>viśiṣta-pratipāḷanaṁ-geyd’ āḷuttire</p><p> bāḷguḷiy’ <num value="52">ayvadiṁbaruṁ</num>
              <lb n="8"/>duggimayyana pratiṣṭeya āditya-dēvargge maṅalaporiyoḷ-koṭṭa
-             <lb n="9"/> tōṇṭada kamma <num value="60">aṟuvattu</num><g>.</g></p><p> ā tōṇṭava koṇindara kannayya tanna makkaḷ-makkaḷ-ba
+             <lb n="9"/> tōṇṭada kamma <num value="60">aṟuvattu</num><g type="danda">.</g></p><p> ā tōṇṭava koṇindara kannayya tanna makkaḷ-makkaḷ-ba
              <lb n="10"/>ra salahid’ uṇba varṣaṁ-prati-varṣa Ānēya ponn’ <num value="6">āṟu</num> gadyāṇamuṁ dharaṇa
-             <lb n="11" break="no"/>ponna āditya-devargge ikkuva<g>.</g></p><p>vaisākha suddha tadige āditya-vārad’ andu ko
+             <lb n="11" break="no"/>ponna āditya-devargge ikkuva<g type="danda">.</g></p><p>vaisākha suddha tadige āditya-vārad’ andu ko
              <lb n="12" break="no"/>ṭṭa śāsana Idaṁ</p><p> kāḍ’ ūḍid’ avargge prayāgeyoḷ sāsirbbar pārvvargge kurukṣē
              <lb n="13" break="no"/>tradoḷ-sāsirbbar-ttapasviyargge Uṇal-koṭṭa bāṇā<choice><sic>na</sic><corr>rā</corr></choice>siyoḷ-kavileya U
              <lb n="14" break="no"/> bhaya-mukha-dānaṁ-geydu phalav’ eyduguṁ<g type="danda">.</g></p>      
@@ -131,14 +134,14 @@
                 <l n="d">viṣṭāyāṁ jāyatē kr̥miḥ<g type="danda">.</g></l>
             </lg>
              <p>chandōjana 
-           <lb n="16"/>maga haṁsa māḍida<g type="ddanda">..</g></p>
+           <lb n="16"/>maga haṁsa māḍida<g type="ddanda">.</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Shama+Rao1939_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
