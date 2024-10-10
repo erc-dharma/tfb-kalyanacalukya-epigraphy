@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Narasalgi Hanumān Temple Inscription, Śaka 886</title>
+            <title>Narasalgi Hanumān Temple Inscription of the reign of Kr̥ṣṇa III, Śaka 886</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -24,9 +24,9 @@
                <resp>intellectual authorship of edition</resp>
                <!-- This may be the same as the creator of the file -->
                <persName><!-- Update the id -->
-                  <name>Krishnamacharlu, C. R.</name>
-                  <name>R. S. Panchamukhi</name>
-                  <name>N. Lakshminaraya Rao</name>
+                  <name>Krishnamacharlu, C. R.,</name>
+                  <name>R. S. Panchamukhi,</name>
+                  <name>N. Lakshminaraya Rao,</name>
                   <name>H. K. Narasimhaswami</name>
                   <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                </persName>
@@ -123,9 +123,9 @@
                  <lb n="9"/><gap reason="undefined" quantity="3" unit="character" precision="low"/>di vāsta <supplied reason="undefined">vya śrīman-nā</supplied> murttage mūva<supplied reason="undefined">tta</supplied>ṟ’ oḷagaṇa
                  <lb n="10"/><gap reason="undefined" quantity="3" unit="character" precision="low"/>lageya<gap reason="undefined" quantity="11" unit="character" precision="low"/>
                  <lb n="11"/><gap reason="undefined" quantity="2" unit="character" precision="low"/> maṁ <num value="4">nāḻ</num> caṭṭa <gap reason="undefined" quantity="8" unit="character" precision="low"/>poṅ ga
-                 <lb n="12" break="no"/><supplied reason="undefined">dyāṇa</supplied>m-aydu <supplied reason="undefined">perggaḍe</supplied> gadyāṇam ai 
+                 <lb n="12" break="no"/><supplied reason="undefined">dyāṇa</supplied>m-<num value="5">aydu</num> <supplied reason="undefined">perggaḍe</supplied> gadyāṇam ai 
                                         <gap reason="undefined" quantity="4" unit="character" precision="low"/> kiṟu <supplied reason="undefined">deṟe da</supplied>ṇḍāyam eṁb’ ivu podal āge <supplied reason="undefined">ta</supplied>ṟa
-                 <lb n="13"/><gap reason="undefined" quantity="2" unit="character" precision="low"/> ma<supplied reason="undefined">m ondu</supplied>m illada <supplied reason="undefined">va</supplied>rggamādu
+                 <lb n="13"/><gap reason="undefined" quantity="2" unit="character" precision="low"/> ma<supplied reason="undefined">m ondu</supplied>m illada <supplied reason="undefined">va</supplied>rggam’ ādu
                              <gap reason="undefined" quantity="4" unit="character" precision="low"/> <supplied reason="undefined">gadyā</supplied>ṇa sahaṇikā<supplied reason="undefined">ṭi</supplied>
                              <gap reason="undefined" quantity="2" unit="character" precision="low"/>kūḻu 
                  <lb n="14"/><gap reason="undefined" quantity="2" unit="character" precision="low"/>tuppa mānam ondum esa <gap reason="undefined" quantity="3" unit="character" precision="low"/>raḍu 
@@ -140,8 +140,8 @@
                  <lb n="18"/><supplied reason="lost" evidence="parallel">ṣaṣṭir-varṣa-saha</supplied>srāṇi viṣṭāyāṁ jāyatē <supplied reason="lost" evidence="parallel">krimiḥ</supplied><gap reason="undefined" quantity="5" unit="character" precision="low"/> ṣva-tōyā 
                              <gap reason="undefined" quantity="3" unit="character" precision="low"/>ṭara-vāsiniḥ
                  <lb n="19"/><gap reason="undefined" quantity="7" unit="character" precision="low"/>ntē brahmadēyā<gap reason="undefined" quantity="4" unit="character" precision="low"/>sudhā bhuktā<gap reason="undefined" quantity="2" unit="character" precision="low"/>
-                 <lb n="20"/><gap reason="undefined" quantity="6" unit="character" precision="low"/><supplied reason="undefined">bhū</supplied>mis-tasya tasya tadā phaḷa<gap reason="undefined" quantity="3" unit="character" precision="low"/>
-                 <gap reason="lost" quantity="2" unit="line" precision="low"/></p>
+                 <lb n="20"/><gap reason="undefined" quantity="6" unit="character" precision="low"/><supplied reason="undefined">bhū</supplied>mis-tasya tasya tadā phaḷa<gap reason="undefined" quantity="3" unit="character" precision="low"/></p>
+                 
       
               </div>
          <div type="apparatus">
@@ -154,6 +154,20 @@
                </listApp>
          </div>
          <div type="translation" resp="part:sagu">
+             
+             <p n="1-6">May it be well, as the victorious sun of the kingdom of Akālavarṣa — beloved  of the earth, king of kings, supreme lord, most venerated — was attaining greater and greater heights as long as the moon and sun exist,
+                 when one sustained by his lotus feet, the king Tailapa — one who had obtained the five great sounds, chief of mahāsāmantas, Rāma to the Cāḷukya family, <gap reason="illegible"/> descendent of Raghu  — was ruling Tardavāḍi 1000 as a fief given to him for his maintenance by the king</p>
+             
+             <p n="6-15">When the <foreign>raktākṣi samvatsara</foreign> of the <foreign>śaka</foreign> year 886 was ongoing, in the Phālguṇa month during that year, on the solar eclipse, the eminent Tailapa… the unblemished of the Khācara family<gap reason="illegible"/> dependents<gap reason="illegible"/> of those included in the Murttage 30
+                 <gap reason="illegible"/> four constables<gap reason="illegible"/> five gold <foreign>gadyāṇa</foreign> village headman <foreign>gadyāṇa</foreign> five<gap reason="illegible"/> these payment having appeared as the trivial tax to be paid<gap reason="illegible"/> became<gap reason="illegible"/> for those who don’t even have one 
+                 <gap reason="illegible"/><foreign>gadyāṇa</foreign><gap reason="illegible"/> the groom in charge of horses and elephants<gap reason="illegible"/> cooked rice<gap reason="illegible"/> one <foreign>māna</foreign> of clarified butter<gap reason="illegible"/> two<gap reason="illegible"/> 
+                 the cooked rice for the deity<gap reason="illegible"/></p>
+             
+           <p n="15-16">From now on this state of affairs will not be violated. He who violates it is one who has committed the five great offenses, and has destroyed brown cows, women, and twelve vedic scholars at vāraṇāsi on winter solstice.</p>
+             
+           <p n="17-18">Whether given by oneself or another, he who robs/destroys that which is another’s, for sixty thousand years he will be born as a worm in excrement.</p>
+           
+           <p n="19-20">Many kings like Sāgara have enjoyed this land. Whosoever possesses it at a given time, the fruits are his at that time.</p>
              
           </div>
          <div type="commentary">
