@@ -137,7 +137,7 @@
                  <l n="a">avar’ anvaya-tilakaṁ lō</l>
                  <l n="b" enjamb="yes">ka-viśrutaṁ pi<lb n="9" break="no"/>riya <supplied reason="undefined">kō</supplied>ṭi-gāvuṇḍaṁ saṁ</l>
                  <l n="c" enjamb="yes">bhavisidan ātana māḍida</l> 
-                 <l n="d">śivagr̥hamu<supplied reason="undefined">ṁ jai</supplied>nasāle<lb n="10" break="no"/>yuṁ bhāvidita <g type="danda">.</g></l></lg> 
+                 <l n="d">śivagr̥hamu<supplied reason="undefined">ṁ jai</supplied>nasāle<lb n="10" break="no"/>yuṁ <choice><sic>bhā</sic><corr>bhū</corr></choice>-vidita <g type="danda">.</g></l></lg> 
             
              <lg n="6" met="kanda">
                  <l n="a">nayamaṁ meṟevaṁ tat suta</l>
@@ -145,19 +145,24 @@
                  <l n="c" enjamb="yes">riy’ āycanan āśrayaṇīyan ādan ā kṣa</l>                 
                  <l n="d" enjamb="yes">triyādigaṁ sakaḷa-sama<lb n="12"/>yi<supplied reason="undefined">gaṁ bu</supplied>dha-janakaṁ <g type="danda">.</g></l></lg> 
              
-             <lg met="kanda">
+             <lg n="7" met="kanda">
                  <l n="a">caṇḍa-bhuja-<choice><orig>viṁkramaṁ</orig><reg>vikramaṁ</reg></choice> bhū</l>
                  <l n="2" enjamb="yes">maṇḍala-vikhyāta-nātaniṁ baḷikaṁ-gā</l>
                  <l n="c" enjamb="yes"><lb n="13" break="no"/>vuṇḍdige nindan āhava</l>
                  <l n="d" enjamb="yes">śauṇḍaṁ toṇḍaṁ tad anvavāyana jīyaṁ <g type="danda">.</g></l></lg>  
              
-             <p>piriya magaṁ kā
-                <lb n="14" break="no"/>ḷi-durandhara-nāthaṁ toṇḍiga<supplied reason="undefined">ṁ</supplied>ge meccisidōṁ kannara-dēvana nāḍoḍeyar ppariṇata
-                <lb n="15" break="no"/><supplied reason="undefined">r ā</supplied>r kkanduka<supplied reason="undefined">kke</supplied><gap reason="undefined" quantity="2" unit="character" precision="low"/>rēvantanan ēṁ <g type="danda">.</g></p> 
-             <p>baḷavad-vid-viṭtamō <gap reason="undefined" quantity="2" unit="character" precision="low"/> ṟe mitraṁ-bujaṁga
-                <lb n="16" break="no"/>ḷ nija śrīnilayat· <gap reason="undefined" quantity="4" unit="character" precision="low"/> vikasise <supplied reason="undefined">kha</supplied>ḷa-va<supplied reason="undefined">r</supplied>ggōtpaḷa tējōnaḷa ta
-                <lb n="17" break="no"/>ptaṁ dīna-vṛddha-dvija-naṭa-bhaṭa-saccakrayugmaṁ sarugmaṁ naliyuttaṁ nōḍe tannaṁ be
-                <lb n="18" break="no"/>ḷaguva neḷeyoḷ beḷval' ādityadēvaṁ <g type="ddanda">.</g></p> 
+             <lg n="8" met="kanda">
+                 <l n="a">piriya magaṁ kā<lb n="14" break="no"/>ḷiduran</l>
+                 <l n="b" enjamb="yes">dhara-nāthaṁ toṇḍiga<supplied reason="undefined">ṁ</supplied>ge meccisidōṁ kan</l>
+                 <l n="c" enjamb="yes">nara-dēvana nāḍoḍeyar</l> 
+                 <l n="d">ppariṇata<lb n="15" break="no"/><supplied reason="undefined">r ā</supplied>r kkanduka<supplied reason="undefined">kke</supplied><gap reason="undefined" quantity="2" unit="character" precision="low"/>rēvantanan ēṁ <g type="danda">.</g></l></lg> 
+             
+             <lg n="9" met="unknown">
+                 <l n="a">baḷavad-vid-viṭtamō <gap reason="undefined" quantity="4" unit="character" precision="low"/> ṟe mitraṁ bujaṁga<lb n="16" break="no"/>ḷ nija śrī</l>
+                 <l n="b" enjamb="yes">nilayat· <gap reason="undefined" quantity="4" unit="character" precision="low"/> vikasise <supplied reason="undefined">kha</supplied>ḷa-va<supplied reason="undefined">r</supplied>ggōtpaḷa tējō</l>
+                 <l n="c" enjamb="yes">naḷa ta<lb n="17" break="no"/>ptaṁ dīna-vṛddha-dvija-naṭa-bhaṭa-saccakrayugmaṁ sarugmaṁ</l>
+                 <l n="d">naliyuttaṁ nōḍe tannaṁ be<lb n="18" break="no"/>ḷaguva neḷeyoḷ beḷval' ādityadēvaṁ <g type="ddanda">.</g></l></lg> 
+             
              <p><choice><orig>ātmaṁ</orig><reg>ātma</reg></choice>-jñana prasaṁgaṁ dorekoḷe <supplied reason="undefined">besagō</supplied>
                 <lb n="19" break="no"/>ṇḍa<supplied reason="undefined">ṁ</supplied> phaḷa<supplied reason="undefined">ṁ</supplied> bhūmidā<supplied reason="undefined">nānci</supplied>ta <gap reason="undefined" quantity="1" unit="character" precision="low"/> ḷi <gap reason="undefined" 
                      quantity="4" unit="character" precision="low"/> darppar-ppaṭu mō
@@ -231,6 +236,14 @@
                </listApp>
          </div>
          <div type="translation" resp="part:sagu">
+             
+             <p rend="stanza" n="1">In the family of Lord Rēvanta — the great light of a flashing comet — was the victor in war known as Keṁca — celebrated in the world, the valorous one, the exalted offspring of the sun.</p>
+             <p rend="stanza" n="2">Having caught and attacked, he beat the peacock to death, when he repelled and killed the weak-hearted man by throwing him to the ground, he obtained <supplied reason="subaudible">the characteristic of</supplied> valour. Even before he saw Beḷvaḷa he shook the place, Navilgundapura. </p>
+             <p rend="stanza" n="3">He was called <foreign>mēr-ttale</foreign>; when he resisted, trampled, and defeated <supplied reason="subaudible">his</supplied> enemies it was as if he was darkness to their rising sun <supplied reason="subaudible">and so</supplied> the name, “darkness to his enemies” came to be his only name.</p>
+             <p rend="stanza" n="4">That lord’s elder son, called Sirimuddan, shone; he of the valorous arms. Who can come close <supplied reason="subaudible">in comparison</supplied> to the crushing power of the strength of his arms? How majestic is Muddan?</p>
+             <p rend="stanza" n="5">The forehead ornament to their lineage, celebrated by the world, the senior Kōṭi-gāvuṇḍa was born. The Śiva temple and the Jain hall which he made were known across the world</p>
+             <p rend="stanza" n="6">The one who displays proper conduct on this path is his son, he shone, praised as the supreme, the senior Āyca. He became one in whom to seek refuge, that superior warrior, the wise father to all sects.</p>
+             <p rend="stanza" n="7">From the hero with violent arms, the lord who is known all over the circle of the earth, and to Baḷikaṁ-gāvuṇḍi was born the passionate lover of war, Toṇḍa, the master of his lineage. </p>
              
           </div>
          <div type="commentary">
