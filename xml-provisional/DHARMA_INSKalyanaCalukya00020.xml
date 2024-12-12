@@ -24,7 +24,7 @@
                     <resp>intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="http://viaf.org/viaf/77694568"><!-- Update the id -->
-                        <name>Franz Kielhorn</name> 
+                        <name>Lionel D. Barnett</name> 
                         
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
@@ -33,7 +33,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKalyanaCalukya00019</idno>
+                <idno type="filename">DHARMA_INSKalyanaCalukya00020</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -108,92 +108,26 @@
          <div type="edition" xml:lang="kan-Latn">
              <!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
+             <p>
+                 <lb n="1"/><g type="spiral">.</g>svasti <choice><sic>sa</sic><corr>śa</corr></choice>ka-nr̥pa-kālātīta-samvatsaraṁga 907neya pārtthiva-saṁvatsarada
+                 <lb n="2"/>caitrada puṇṇame buddhavārādandu sōbhanayyana perggaḍe daddapayyaṁ pūliya po
+                 <lb n="3" break="no"/>lada bhaṇḍiy’ eḻtaṁ kemman-akāraṅaṁ koṇḍu pōge kendara kētanuṁ eṟeviṭṭanuṁ taṁbada
+                 <lb n="4"/>kētanuṁ paricc[cch]ēdaṁ-geyda mūvaruṁ mēl-āḻuṁ kudureyuma[ṁ] koṇḍu mōkṣakke sandar</p>
              
-             <ab><g type="om"></g> svasti <g type="danda">.</g></ab>
+             <lg n="1" met="mattēbha vikrīḍita">
+                 <l n="a"><lb n="5"/>duradoḷ kāydu kaḍaṁgi poṁgi maledōr-ant’ iṟdan eytanda mac</l>
+                 <l n="b" enjamb="yes">caradind’ āntoran anta <lb n="6" break="no"/> kaṁg’ iḍaḍ<supplied reason="undefined">e</supplied> kolcand’ ikki mikki vasun</l>
+                 <l n="c" enjamb="yes"><supplied reason="undefined">dh</supplied>areyoḷ tan<supplied reason="undefined">n</supplied>’ adaṭuṁ patāpamumad ā rājōttamaṁ pe<supplied reason="undefined">r</supplied>cci <lb n="7"/> ken</l>
+                 <l n="d" enjamb="yes">dara kēta<supplied reason="undefined">ṁ</supplied> vara-vāsavā<supplied reason="undefined">ṁ</supplied>ganeyaroḷ kūḍ’ iḻdan ā svarggadoḷ <g type="ddanda">.</g></l></lg>
              
-             <lg n="1" met="anuṣṭubh">
-                 <l n="a"><lb n="1"/>jayatyāviṣkri[kr̥]taṁ viṣṇōr</l>
-                 <l n="b">varāhaṁ kṣōbhitārṇṇava<supplied reason="undefined">ṁ</supplied></l>
-                 <l n="c"><lb n="2"/>dakṣinōnnata-daṁṣṭrāgra</l>
-                 <l n="d">viśrānta-bhuvanaṁ vapuḥ <g type="danda">.</g></l></lg>  
+             <p>tōḍuṁ bīḍuṁ ad’ uḍuga
+                <lb n="8" break="no"/> de pāḍ aṟid’ eccāji raṁgadoḷ vājiya<supplied reason="undefined">n</supplied> aḻkāḍi surā<supplied reason="undefined">ṁ</supplied>ganeyaroḷaṁ kūḍidon ēṁ kaliye nega
+                <lb n="9" break="no"/>ḻda ken<supplied reason="undefined">dara kētaṁ <g type="ddanda">.</g></supplied></p>
              
-             <p>svasti samasta bhuvan<supplied reason="undefined">ā</supplied>
-                 <lb n="3" break="no"/>śraya-śrī-pr̥thvī-vallabha-mahārājādhirāja-paramēśvara
-                 <lb n="4" break="no"/>parama-bhaṭṭārakaḥ satyāśraya-kula-tilakaḥ cāḷukyābhara<supplied reason="undefined">ṇa</supplied>
-                 <lb n="5" break="no"/>śrīmad-āhavamalla-dēvaḥ <g type="danda">.</g></p>
+             <p>si<supplied reason="undefined">ṁ</supplied>gam-ibhaṁgaḷaṁ nuguvante tara <gap reason="undefined" unit="character" quantity="3" precision="low"/>gi saṁgadoḷ kaḻida kendara maṟasiṁ
+                 <lb n="10" break="no"/>gaṁ me <gap reason="undefined" unit="character" quantity="7" precision="low"/> ṁ gaṇḍan adaṭanō <g type="ddanda">.</g>
+             </p>
              
-             <lg n="2" met="anuṣṭubh">
-                <l n="a">yō-sau śrī-vīra-mārttāṇḍa</l>
-                <l n="b">rāṣṭrakū <lb n="6" break="no"/>ṭa-nr̥pa-śriyaṁ</l>
-                <l n="c">prāpya pāḷitavān sām<choice><sic>ra</sic><corr>nā</corr></choice></l>
-                <l n="d">ēkacchat<supplied reason="undefined">t</supplied>rēṇa mēdi <lb n="7"/> nīṁ <g type="danda">.</g></l></lg>
-             
-             <ab>vr̥ttaṁ <g type="danda">.</g></ab>
-             
-             <lg n="3" met="sragdhara">
-                 <l n="a">yasya śrutvābhidhānaṁ sakala-ripu-nr̥pānīka-nirmmūlanōtthaṁ</l>
-                 <l n="b">kiṁ <supplied reason="undefined">ka</supplied>rtavvyaṁ kva yā <lb n="8" break="no"/> ma<supplied reason="undefined">ḥ</supplied> kva ca vasatir iti vyākuḷāś cintayanti</l>
-                 <l n="c">cōḍāndhrādhīśa-pāṇḍyōt<choice><sic>ka</sic><corr>pa</corr></choice>ḷa-mahipatayō yē<lb n="9" break="no"/>nacāmbhōdhi-sīmā</l>
-                 <l n="d">kṣmā rāmā svīkri[kr̥]tā yō hasati nr̥pa-guṇair-ādirājān-naḷ-ādīn <g type="danda">.</g></l></lg>
-             
-             <ab><lb n="10"/><choice><sic>ślōkau</sic><corr>ślōkaḥ</corr></choice></ab>
-             
-             <lg n="4" met="anuṣṭubh">
-                 <l n="a">tasya tailapa-dēvasya</l>
-                 <l n="b">prasādāc-cakravarttinō</l>
-                 <l n="c">banavāsyā dvi-tr<supplied reason="undefined">i</supplied>-śataṁ</l>
-                 <l n="d">kogaly-ādi-mahī <lb n="11"/> mmahān <g type="danda">.</g></l></lg>
-             
-             <lg n="5" met="anuṣṭubh">
-                 <l n="a">mahāmaha<supplied reason="undefined">ḥ</supplied> śa<supplied reason="undefined">ś</supplied>āsāv</l>
-                 <l n="b">asamas-samarōddhataḥ</l>
-                 <l n="c">k<supplied reason="undefined"><choice><unclear>a</unclear><unclear>e</unclear></choice></supplied>nnapaḥ kōpadāvagni</l>
-                 <l n="d"><lb n="12"></lb>dagdha-dvirūpakānanaḥ <g type="danda">.</g></l></lg>
-             
-             <lg n="6" met="anuṣṭubh">
-                 <l n="a">tat-atyayē tad-anujaś</l>
-                 <l n="b">śōbhanas tat kramē s<supplied reason="undefined">th</supplied>itaḥ</l>
-                 <l n="c">saṁgrāma-saṁ <lb n="13" break="no"/> gat-apūrvva</l>
-                 <l n="d">vijaya-śrī-vadhū-dhavaḥ <g type="danda">.</g></l></lg>
-             
-             <lg n="7" met="anuṣṭubh">
-                 <l n="a">tat-samaḥ kō[pi] bhūpālō</l>
-                 <l n="b">na bhū <lb n="14" break="no"/> tō na bhaviṣyati <g type="danda">.</g></l>
-                 <l n="c">mahā-guṇēṣu kēnāpi</l>
-                 <l n="d">guṇēṣu bhuvana-trayē <g type="ddanda">.</g></l></lg>
-             
-             <ab><lb n="15"/>gadyaṁ <g type="danda">.</g></ab>
-             
-             <p>tēna samara-sāhasa-pradarśana-prasanna-tailapadēva
-                 <lb n="16" break="no"/>prasād[ā]-sādita-neramode-gaṇḍa-giridurggamalla-sāmantacū
-                 <lb n="17" break="no"/>ḍāmaṇi-kaṭaka-prakārādy-anavarttha-nāmnā <g type="danda">.</g> svasti sa[śa]ka-nr̥pa-sam
-                 <lb n="18" break="no"/>vatsarēṣu caturadhika-navaśatēṣu gatēṣu chitrabhānu-saṁ
-                 <lb n="19" break="no"/>vatsarē bhādrapada-māsē sūryya-grahaṇē sati <g type="danda">.</g> viśvāmi
-                 <lb n="20" break="no"/>tra-gōtriṇē viṣṇubhaṭṭāya sa<supplied reason="undefined">t</supplied>tra-pravarttanārthaṁ nirguṇḍ<supplied reason="undefined">āṁ</supplied>ta
-                 <lb n="21" break="no"/><supplied reason="undefined">r</supplied>-grrāmē rāja-mānēna daṇḍēna trim<supplied reason="undefined">śa</supplied>ṁ-nivarttana-kṣētraṁ da
-                 <lb n="22" break="no"/>ttavān <g type="ddanda">.</g></p>
-             
-             <p>tad-anu vādajabbāyāpi viṣṇubhaṭṭasya
-                 <lb n="23"/>pādau prakśālya śōbhanēna dattam ekadā puna
-                 <lb n="24" break="no"/> r-mmayā dattam iti dattavati <choice><sic>gri</sic><corr>gr̥</corr></choice>haṁ ca ciṁcila
-                 <lb n="25" break="no"/>grāmasya uttara-kṣētra-sīma-lagnaṁ dvādaśa brāhma
-                 <lb n="26" break="no"/>ṇa-bhōjanārtthaṁ <g type="ddanda">.</g></p>
-             
-             <lg n="8" met="śālinī">
-                 <l n="a"><lb n="27"/>sāmānyōyan dharmma-sētuṁ nr̥pānāṁ</l>
-                 <l n="b">kāle kāle pālanīyō bhavadbhiviḥ</l>
-                 <l n="c"><lb n="28"/>)sarvvān-ētāṁnētā bhāvinaḥ-pārtthivēndrā<supplied reason="undefined">n</supplied></l>
-                 <l n="d">bhūyo bhūyo yācatē ramabhadraḥ</l></lg>
-             
-             <lg n="9" met="anuṣṭubh">
-                 <l n="a"><lb n="29"/>ciṁca-kṣētrē dvijaḥ śrīmān</l>
-                 <l n="b">pādapadmōpa-jīvinā</l>
-                 <l n="c">Eṟeviṣṇu <supplied reason="undefined"><choice><sic>kri</sic><corr>kr̥</corr></choice></supplied> <lb n="30"/>taṁ sa<supplied reason="undefined">t</supplied>traṁ</l>
-                 <l n="d">tiṣṭhaty ā-caṁdra-tārakaḥ <g type="ddanda">.</g></l></lg>
-             
-             <p>Kannōjana likhita<supplied reason="undefined">ṁ</supplied></p>
-             
-             <ab>maṁgaḷa<supplied reason="undefined">ṁ</supplied></ab>
                  
              
          </div>
@@ -218,12 +152,13 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-            <bibl n="K1897"><ptr target="bib:Kielhorn1897_03"/><citedRange unit="page">61-67</citedRange></bibl>
-        	  <bibl n="N2004"><ptr target="bib:Nagayya2011"/><citedRange unit="page">29-30</citedRange></bibl>   
+            <bibl n="B1926"><ptr target="bib:Barnett1926_01"/><citedRange unit="page">170-172</citedRange></bibl>
+        	  <bibl n="N2004"><ptr target="bib:Nagayya2011"/><citedRange unit="page">30-31</citedRange></bibl>   
 	</listBibl>
        </div>
       
       </body>
   </text>
 </TEI>
+
 
