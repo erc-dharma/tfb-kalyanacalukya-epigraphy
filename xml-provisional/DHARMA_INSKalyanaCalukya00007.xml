@@ -157,8 +157,8 @@
                  <l n="c" enjamb="yes">nara-dēvana nāḍoḍeyar</l> 
                  <l n="d">ppariṇata<lb n="15" break="no"/><supplied reason="undefined">r ā</supplied>r kkanduka<supplied reason="undefined">kke</supplied><gap reason="undefined" quantity="2" unit="character" precision="low"/>rēvantanan ēṁ <g type="danda">.</g></l></lg> 
              
-             <lg n="9" met="unknown">
-                 <l n="a">baḷavad-vid-viṭtamō <gap reason="undefined" quantity="4" unit="character" precision="low"/> ṟe mitraṁ bujaṁga<lb n="16" break="no"/>ḷ nija śrī</l>
+             <lg n="9" met="mahāsragdharā">
+                 <l n="a">baḷavad-vid-viṭtamō <seg met="+-+-+----"><gap reason="undefined" quantity="9" unit="character"/></seg> ṟe mitraṁ bujaṁga<lb n="16" break="no"/>ḷ nija śrī</l>
                  <l n="b" enjamb="yes">nilayat· <gap reason="undefined" quantity="4" unit="character" precision="low"/> vikasise <supplied reason="undefined">kha</supplied>ḷa-va<supplied reason="undefined">r</supplied>ggōtpaḷa tējō</l>
                  <l n="c" enjamb="yes">naḷa ta<lb n="17" break="no"/>ptaṁ dīna-vṛddha-dvija-naṭa-bhaṭa-saccakrayugmaṁ sarugmaṁ</l>
                  <l n="d">naliyuttaṁ nōḍe tannaṁ be<lb n="18" break="no"/>ḷaguva neḷeyoḷ beḷval' ādityadēvaṁ <g type="ddanda">.</g></l></lg> 
@@ -171,6 +171,7 @@
                 <lb n="21"/>tōr-vviśa-<supplied reason="undefined">sā</supplied>ṁkhyā-sama-samaya <gap reason="undefined" quantity="6" unit="character" precision="low"/> maṭhav’ ī nāga-sō
                 <lb n="22" break="no"/>mayāji pravara-caturvvēdi-bhaṭṭa <gap reason="undefined" quantity="4" unit="character" precision="low"/> nubhavar akhiḷa-śāstra-paṭuga<supplied reason="undefined">ḷ·</supplied>
                 <lb n="23"/>dvēdigaḷ jāta-vēda-bhaṭṭar nnegaḻdar· <g type="danda">.</g></p> 
+             
              <p><supplied reason="undefined">āvēdārṅnava jātarāsi</supplied> tanayaṁ cāvuṅḍda
                 <lb n="24"/>bhaṭṭaṁ vacaśrī-vistārita-bhūtaḷa<supplied reason="undefined">ṁ</supplied> <choice><orig>sadamaḷaṁ</orig><reg>sadamaḷa</reg></choice><supplied reason="undefined">cēta</supplied>śrītar-vviṣṇu-sa
                 <lb n="25" break="no"/>hiṣṇu-dharmma-nirataṁ <supplied reason="undefined">mu</supplied>ḷgunda-vāstavya-<supplied reason="undefined">nāśā</supplied>-viśrānta-yaśaṁ budhapriyan a
