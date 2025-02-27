@@ -134,7 +134,7 @@
                  <l n="d" enjamb="yes">d’ orege<lb n="8"/>varal neṟeyar ēṁ pratāpiyo muddaṁ <g type="ddanda">.</g></l></lg>
              
              <lg n="5" met="kanda">
-                 <l n="a">avar’ anvaya-tilakaṁ lō</l>
+                 <l n="a">Avar’ anvaya-tilakaṁ lō</l>
                  <l n="b" enjamb="yes">ka-viśrutaṁ pi<lb n="9" break="no"/>riya <supplied reason="undefined">kō</supplied>ṭi-gāvuṇḍaṁ saṁ</l>
                  <l n="c" enjamb="yes">bhavisidan ātana māḍida</l> 
                  <l n="d">śivagr̥hamu<supplied reason="undefined">ṁ jai</supplied>nasāle<lb n="10" break="no"/>yuṁ <choice><sic>bhā</sic><corr>bhū</corr></choice>-vidita <g type="danda">.</g></l></lg> 
@@ -158,10 +158,10 @@
                  <l n="d">ppariṇata<lb n="15" break="no"/><supplied reason="undefined">r ā</supplied>r kkanduka<supplied reason="undefined">kke</supplied><gap reason="undefined" quantity="2" unit="character" precision="low"/>rēvantanan ēṁ <g type="danda">.</g></l></lg> 
              
              <lg n="9" met="mahāsragdharā">
-                 <l n="a">baḷavad-vid-viṭtamō <seg met="+-+-+----"><gap reason="undefined" quantity="9" unit="character"/></seg> ṟe mitraṁ bujaṁga<lb n="16" break="no"/>ḷ nija śrī</l>
-                 <l n="b" enjamb="yes">nilayat· <gap reason="undefined" quantity="4" unit="character" precision="low"/> vikasise <supplied reason="undefined">kha</supplied>ḷa-va<supplied reason="undefined">r</supplied>ggōtpaḷa tējō</l>
-                 <l n="c" enjamb="yes">naḷa ta<lb n="17" break="no"/>ptaṁ dīna-vṛddha-dvija-naṭa-bhaṭa-saccakrayugmaṁ sarugmaṁ</l>
-                 <l n="d">naliyuttaṁ nōḍe tannaṁ be<lb n="18" break="no"/>ḷaguva neḷeyoḷ beḷval’ ādityadēvaṁ <g type="ddanda">.</g></l></lg> 
+                 <l n="a">baḷavad-vidviṭtamō <seg met="+-+-+----"><gap reason="undefined" quantity="9" unit="character"/></seg> ṟe-mitraṁ bujaṁga<lb n="16" break="no"/>ḷ nija śrī</l>
+                 <l n="b" enjamb="yes">nilaya<supplied reason="undefined">t·</supplied> <gap reason="undefined" quantity="4" unit="character" precision="low"/> vikasise <supplied reason="undefined">kha</supplied>ḷa-va<supplied reason="undefined">r</supplied>ggōtpaḷa-tējō</l>
+                 <l n="c" enjamb="yes">naḷa-ta<lb n="17" break="no"/>ptaṁ dīna-vṛddha-dvija-naṭa-bhaṭa-saccakra-yugmaṁ sarugmaṁ</l>
+                 <l n="d">naliyuttaṁ nōḍe tannaṁ be<lb n="18" break="no"/>ḷaguvan eḷeyoḷ beḷval’ ādityadēvaṁ <g type="ddanda">.</g></l></lg> 
              
              <p><choice><orig>ātmaṁ</orig><reg>ātma</reg></choice>-jñana prasaṁgaṁ dorekoḷe <supplied reason="undefined">besagō</supplied>
                 <lb n="19" break="no"/>ṇḍa<supplied reason="undefined">ṁ</supplied> phaḷa<supplied reason="undefined">ṁ</supplied> bhūmidā<supplied reason="undefined">nānci</supplied>ta <gap reason="undefined" quantity="1" unit="character" precision="low"/> ḷi <gap reason="undefined" quantity="4" unit="character" precision="low"/> darppar-ppaṭu mō
@@ -242,6 +242,8 @@
              <p rend="stanza" n="5">The forehead ornament to their lineage, celebrated by the world, the senior Kōṭi-gāvuṇḍa was born. The Śiva temple and the Jain hall which he made were known across the world</p>
              <p rend="stanza" n="6">The one who displays proper conduct on this path is his son, he shone, praised as the supreme, the senior Āyca. He became one in whom to seek refuge, that superior warrior, the wise father to all sects.</p>
              <p rend="stanza" n="7">From the hero with violent arms, the lord who is known all over the circle of the earth, and to Baḷikaṁ-gāvuṇḍi was born the passionate lover of war, Toṇḍa, the master of his lineage. </p>
+             <p rend="stanza" n="8">For Toṇḍiga, the elder son <supplied reason="subaudible">was</supplied>the lord Kāḷidurandhara; he pleased the skillful province-governor of Kannaradēva. For this world, who is <gap reason="undefined" extent="unknown"/> the king, what?</p>
+             <p rend="stanza" n="9">Powerful, violent <gap reason="undefined" extent="unknown"/>friend of <gap reason="undefined" extent="unknown"/> his arms being the dwelling of the goddess of wealth <gap reason="undefined" extent="unknown"/> expanding   </p>
              
           </div>
          <div type="commentary">
