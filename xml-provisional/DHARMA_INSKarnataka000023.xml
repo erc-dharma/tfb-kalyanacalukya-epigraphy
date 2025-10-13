@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sūḍi, Kaḷacurya Saṅkama, ? </title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka000023</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-07-24">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215"></p> 
+    <lg n="1" met="anuṣtubh" xml:lang="kan-Latn">
+        <l n="a"><g type="SpiralL"></g>Namas-tuṁgaś-chiraś-cuṁbi</l>
+        <l n="b">caṁdra-cāmara-cāravē<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="c">traiḷōkya-nagar'āraṁbha</l>
+        <l n="d">mūla-staṁbhāya śaṁbhavē<g type="ddanda"></g></l>
+    </lg>
+    <lg n="2" met="śārdūlavikrīḍita" xml:lang="kan-Latn">
+        <l n="a"><lb n="2"/>śrī-dhāmaṁ puruṣ' ōttam' āśrayam ahīn' ōdbhāsitaṁ sarvva-sat<supplied reason="omitted">t</supplied>v</l>
+        <l n="b">ādhāraṁ dvija-rāja-rājitav udaṁcat-kīrtti<lb n="3"/>gaṁ' ānvitaṁ</l>
+        <l n="c">prādhānyaṁ bhuvan-aika-jīvanak' enipp' oḷp-uṇme nāgēśvara</l>
+        <l n="d">śrī-dhany-āk<choice><orig>r</orig><reg>̥r</reg></choice>itiyol ma<lb n="4"/>naṁ go<choice><orig>l</orig><reg>ḷi</reg></choice>sitō ratnākaram śrī-karaṁ<g type="ddanda"></g></l>
+    </lg>
+    <lg n="3" met="mahāsragdharā" xml:lang="kan-Latn">
+        <l n="a">Adu jaṁbū-dvīpamaṁ khāṃgaṇame-baḷasid' ant' irddud' aṁ<lb n="5"/>bhaḥ karīṁdr<supplied reason="omitted">ō</supplied></l>
+        <l n="b">dradan āghāt' ōccaḷat-śikara-makara-kar'āsphāḷa-pāṭhīna-pucca</l>
+        <l n="c">cada-na<choice><orig>ḍ</orig><reg>k</reg></choice>r' ōdvakra-kūrmma-pra<lb n="6"/>kupita-viluṭhac-ciṁśumāra-prahāra-pradalat</l>
+        <l n="d">phēna-pravāha-prabaḷa-ghana-ghan' ārāva-raudraṁ <lb n="7"/>samudram<g type="ddanda"></g></l>
+    </lg>
+    <p>
+        Aṁtu sogayisuva muṁnīre mērey āgi nikhiḷa-dvipa-kuḷa-kadhara-kuhara-kuṁja-raṁ<lb n="8"/>jitamuṁ aśēṣa-doṣ'āpaharaṇa-pariṇata-prabhāva-sukṣētramum enisi sogayisuva jambū<lb n="9"/>dvīpada naṭṭa naḍuve<g type="ddanda"></g>
+    </p>
+    <lg n="4" met="mattēbhavikrīḍita" xml:lang="kan-Latn">
+        <l n="a">sura-kāṁntā-rata-kūjita-pratirava-prōj<supplied reason="omitted">j</supplied><choice><orig>r</orig><reg>̥r</reg></choice>iṁbhitaṁ kiṁnarī</l>
+        <l n="b">vara-gīt' ārava-mōhita-<choice><orig>dh</orig><reg>d</reg></choice>vi<lb n="10"/>pa-kulam siddh' āṁganā-pāda-pam</l>
+        <l n="c">karuha-prāṁcita-kuṁkuma-sthagita-caṁcac-caṁdrakānt' ōpaḷaṁ</l>
+        <l n="d">karam opp' i<lb n="11"/>ppudu ratna-kūṭa-ramaṇīyaṁ mēru-dhātrīdharaṁ<g type="ddanda"></g></l>
+    </lg>
+    <p>
+        Ā kāṁcanācaḷada dakṣina-dig-bhāgadoḷu bharata<lb n="12"/>kṣ<supplied reason="omitted">ē</supplied>tram eṁbud' ippud' adaro<choice><orig>lū</orig><reg>ḷu</reg></choice><g type="ddanda"></g>
+    </p>
+    <lg n="5" met="mahāsrgdhārā" xml:lang="kan-Latn">
+        <l n="a">polan ellaṁ gandha-śāli-prakara-pariv<choice><orig>r</orig><reg>̥r</reg></choice>itaṁ nandana-śrēṇiy ellaṁ</l>
+        <l n="b">phaḷa-bhār<choice><orig>o</orig><reg>ā</reg></choice>namna<lb n="13"/>cūt' āvani<unclear>ja</unclear>-vaḷayitaṁ dīrgghik' ānīkam ellaṁ</l>
+        <l n="c">daḷit' āṁbhōjāta-rēṇu-sthagita-lalitam ūr-ūrggaḷ ellaṁ prajā<lb n="14"/>saṁ</l>
+        <l n="d">kula-gō-dhānya-prakīrṇṇ' āṁcit<choice><orig>e</orig><reg>a</reg></choice>m enal eseguṁ kuṁtaḷ' ōrvvī-viḷāsaṁ<g type="ddanda"></g></l>
+    </lg>
+    <p>
+       kāṭāṁjara-puravar' ā<lb n="16"/>dhīśvaraṁ suvarṇna-v<choice><orig>r</orig><reg>̥r</reg></choice>iṣabha-dhvajaṁ ḍamaruga-tūryya-nirgghōṣaṇa-kadana-pracaṁḍa māna-kanakācaḷa subhaṭa<lb n="17"/>r āditya kaligal aṁkuśa calad-aṁka-rāma-sanivāra-siddhi-giri-durgga-mallaṁ kalacuryya-kula-kamaḷa-mārttaṁ<lb n="18"/>ḍa niśśaṁkammallaṁ cakravartti-saṁkama-dēvarasaru sukha-saṁkathā-vinōdadim rājyaṁ geyutam ire<g type="ddanda"></g> viḷasita<lb n="19"/>m enipa kuṁtala-dēśadoḷu bahu-phala-dhānya-dhēnu-dhana-pūrṇṇam enisuv ūrggaḷa nele naḍu kisukāḍu<g type="ddanda"></g>
+    </p>
+    <lg n="6" met="kanda" xml:lang="kan-Latn">
+        <l n="a">Ā nā<lb n="20"/>ḍan ālvan artthi-jan</l>
+        <l n="b">ānandaṁ siṁnda-maṇḍalika-tilakaṁ tē</l>
+        <l n="c">jō-nidhi-vikrama-dēvaṁ</l>
+        <l n="d">śrī-nandanan eseye taṁnna laht' ākāraṁ<g type="ddanda"></g></l>
+    </lg>
+    <p>
+        <lb n="21"/>Ā jagad-vīran anva' āvatāram' entendoḍe<g type="ddanda"></g>
+    </p>
+    <lg n="7" met="kanda" xml:lang="kan-Latn">
+        <l n="a">moneyoḷu kūrppaṁ tōṟutum</l>
+        <l n="b">anavarataṁ baladol a<lb n="22"/>marutum vikrama-bhū</l>
+        <l n="c">pana kaṭṭiḍala<choice><orig>dh</orig><reg>g</reg></choice>in aṁt' ese</l>
+        <l n="d">van ācarasa-maṁḍalēśvaram bhūtaladol<orig><orig>ū</orig><reg>u</reg></orig><g type="ddanda"></g></l>
+    </lg>
+    <lg n="8" met="campakamālā" xml:lang="kan-Latn">
+        <l n="a">dore-vaḍed' ādi-maṇḍali<lb n="23"/>kan ācugi tat-sahajātan appa Nā</l>
+        <l n="b">karasana siṁha-bhūbhujana dāna-mahīśana dāma-dhāriṇī</l>  
+        <l n="c">śvarana cavuṁḍa-maṇḍa<lb n="24"/>ḷika-v<choice><orig>i</orig><reg>ī</reg></choice>rana cāma-narēṁdran oḷpu vi</l>
+        <l n="d">staridudalli siṁgarasan ātmajan ācugi-maṁḍalēśvaraṁ</l>
+    </lg>
+</div>
+    
+     <div type="translation" source="bib:Barnett1921-1922_04">
+ 
+     </div>
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-I).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025).
+	</p>
+       
+        <bibl n="Ba">
+			<ptr target="bib:Barnett1921-1922_04"/>
+			<citedRange unit="page">109-112</citedRange>
+			<citedRange unit="item">K</citedRange>
+		</bibl>
+    </div>
+    
+      
+    
+  
+    
+        
+    </body>
+        </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

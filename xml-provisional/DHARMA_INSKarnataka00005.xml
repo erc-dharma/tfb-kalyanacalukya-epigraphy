@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ablūr, Sōmēśvara temple, about 1200 CE </title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka00005</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>This inscription is engraved on a stone tablet set against the wall on the right side inside the temple of Sōmēśvara. It does not mention the reign of any particular king, nor is it dated. 
+                            The chief interest and importance of the record lies in Ēkāntada Rāmayya, who, according to legend, brought about a revival of the worship of Śiva.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-01-16">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215"></p>
+   	<milestone type="pagelike" unit="zone" n="A"/>
+             <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+       <lb n="1"/><l n="a"><g type="SpiralL"/>namas-tuṁga-śiraḥś-cuṁbi</l>
+        <l n="b">candra-cāmara-cāravē</l>
+        <l n="c">trai<choice><orig>ḷ</orig><reg>l</reg></choice>ōkya-nagarāṁbha</l>
+        <l n="d">mūla-staṁbhāya <choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē<g type="ddanda"></g></l>
+    </lg>
+    <lg n="2" met="sragdharā" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+        <!--++++-++||-\-\-\-\-\-+||+-++-+=-->
+        <l n="a">śrīmad-gaṁgā-taraṁg'ō<lb break="no" n="2"/>ccaḷita-jaḷa-kaṇa-śrēṇi-puḥp'āḷi-śōbhā-</l>  
+        <l n="b">dhāmaṁ caṁcaj-jaṭā-pallavam am<choice><orig>ri</orig><reg>ṛ</reg></choice>ta-karōdyat-phaḷaṁ bāhu-śākhā-</l>
+        <l n="c">rāmaṁ gaurī-lat'ā <lb break="no" n="3"/>liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruv'ādaṁ</l>
+        <l n="d">rāmaṁgīg'artthiyiṁ vācchita-phaḷa-cayamaṁ saṁtat-ōtsāhadiṁdaṁ<g type="ddanda">.</g></l></lg>
+    
+    <lg n="3" met="sragdhara" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+        <l n="a">śrīkaṇṭhaṁ rāmadēvaṁg' anu<choice><orig>pp</orig><reg>p</reg></choice>ama- 
+<lb break="no" n="4"/>mahimaṁgīge saṁpattan eduṁṇan<note>read saṁpattan enduṁ</note></l>
+   <l n="b">ā nākauk'ānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇ-āṁśu-jāḷa-</l>
+    <l n="c">byākīrnn'āghri-dvay-āḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan amara-varaṁ śita-śailē<supplied reason="omitted">ṁ</supplied>dra-kanyā-ḷ</l>
+       <l n="d"><lb break="no" n="5"/>ōk'āṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ vīrasōmēśan īśaṁ<g type="ddanda">.</g></l>  
+      </lg>
+    <lg n="4" met="mahāsragdhara" xml:lang="kan-Latn">
+        <l n="a">caḷad-ugra-grāha-vaktra-cc<supplied reason="omitted">y</supplied>uta-timi-nikar'ātuccha-pucch'āgra-ghāt'ā</l>
+        <l n="b">kuḷit'āṁ<lb break="no" n="6"/>bhaḥ-kuṁbhi-yūtha-prakara-sajaḷa-phūtkāra-hast'ābhr<choice><orig>i</orig><reg>a</reg></choice>-māḷā</l>
+        <l n="c">miḷitaṁ sutti<choice><orig>ppo</orig><reg>rppu</reg></choice>d udyan maṇi-gaṇa-kiraṇa-sphāra-mukt'āṁśa-vēḷā</l>
+        <l n="d">caḷa-māḷaṁ
+            <milestone type="pagelike" unit="zone" n="B"/>
+<lb n="7"/>bhū-ramā-maṇḍana-vipuḷa-kaṭīdēśa-mudraṁ samudraṁ<g type="ddanda"></g></l>
+    </lg>
+    <p>ant'anēka-jaḷacara-nivā<add place="above">sa</add>muṁ samuttuṁga-laharī-nivāsamum enisi sogayiva  <lb n="8"/>lavaṇa-samudradiṁ pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda jaṃbūdvīpadi teṁkalu niḷa-niśa<choice><orig>d</orig><reg>dh</reg></choice>a-himavanta-parvvataṁgaḷoḷav alli<g type="ddanda">.</g></p>
+    
+    <lg n="5" met="mahāsragdhara" xml:lang="kan-Latn">
+    <l n="a">Eseguṁ pūrvvāpar'āṁbhōnidhi-miti<lb break="no" n="9"/>vitat'āyāmadiṁ siddha-kanyā</l>
+    <l n="b">visarānaṁg'ōru-kēḷī-śrama-śama-mahimā-kaṁdaraṁ svardhunī-vāḥ-</l>
+    <l n="c">prasar'ōpakṣuṇṇa-nānā-naga-ni<lb break="no" n="10"/>kara-gaḷad-gaṇḍaśaiḷ'āḷi-māḷā-</l>     
+    <l n="d">visaraṁ prasphāra-śītadyuti-ruci-nicaya-bhrājitaṁ śītaśailaṁ<g type="ddanda">.</g></l>
+    </lg>
+   
+    <p>
+      ā himagi<supplied reason="omitted">rī</supplied>ndrada dakṣiṇa-pārśva-vartti
+      <lb break="no" n="11"/>y'att'ippa bhāratavarṣadoḷu kuṁtaḷa-dēśav-eṁbud'adhika-śōbhev-ett'esevud'alli <g type="ddanda">.</g>
+    </p>
+   
+    <lg n="6" met="kanda" xml:lang="kan-Latn">
+        <l n="a">sogayipud'alandey-eṁbudu</l>
+        <l n="b">nagaraṁ celuv-esedu nāḍe<choice><orig>v</orig><reg>y</reg></choice>-ama<lb break="no" n="12"/>rāvatigaṁ</l> 
+        <l n="c">migil enisi vibudha-janadiṁ</l>
+        <l n="d">d'agaṇita-dhana-dhānya-jaḷa-sam<choice><orig>r</orig><reg>ṛ</reg></choice>i-ddhiyin eṁduṃ<g type="ddanda"></g></l>
+    </lg>
+   
+    <lg n="7" met="kanda" xml:lang="kan-Latn">
+     <l n="a">prakaṭik-amarāvatiyōḷu</l>
+     <l n="b">sukēśiyuṁ ṁaṁjughoṣeyuṃ tam-irbbar</l> 
+     <l n="c">sa<lb break="no" n="13"/>kaḷa-vadhū-tatiyellaṁ</l>
+     <l n="d">sukeśiyar mmaṁju-ghōṣeyar ttat-puradoḷ<g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="8" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+        <l n="a">Adu nānāvidha-gandhasāḷi-vanadiṁ savvattu<note source="bib:EI_1898-1899">read <foreign>sarvv'arttuk'ōdyāna</foreign></note>-kedyāna-naṁ</l>
+        <l n="b">danadiṁ pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-taṭāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sāras'ōn</l>
+        <l n="c">madabh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī-pika-kōka-kēki-śuka-saṁghānīka-śākunta-nā</l>
+        <l n="d">dadin ettaṁ gaṅikā-vinōda-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadiṁd'eppuguṁ <note source="bib:EI_1898-1899">to read <foreign>oppuguṁ</foreign></note> <g type="ddanda">.</g></l>
+    </lg>
+    <p>
+        ant'aparimīta-kē
+        <lb break="no" n="15"/>dāra-bhūmiyuṁm<note>tu read <foreign>bhūmiyum</foreign></note> apāra-jaḷāśrayābhirāmamuṁ bahu-jan'ākīr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>amum amēya-gaṇikā-nivāsamum agaṇita-vaṇigjan'āśrayamum enisi śōbha-nivāsam āge <g type="ddanda">.</g>
+    </p>
+   
+    <lg n="9" met="campakamāla" xml:lang="kan-Latn"><note>Sanskrit <foreign>pañcakāvalī</foreign></note>
+    <l n="a"><lb n="16"/>avataris'irddan alli rajatācaḷadiṁ girijā-samētam ut</l>
+    <l enjamb="yes" n="b">savadoḷe sōmanāthan akhiḷāmara-m<choice><orig>ō</orig><reg>au</reg></choice>ḷi-vinaddha-ratna-saṁ</l>
+     <l n="c">bhava-kiraṅa-prabhā-paṭala-puṁja-parāga-padābjan artthiyiṁd'</l>
+     <l n="d">a<lb break="no" n="17"/>vanata-bhāktikābhimata-siddhi-phaḷ'ōdaya-kaḷpabhūruhaṁ<g type="ddanda">.</g></l>
+    </lg>
+   
+    <lg n="10" met="kanda" xml:lang="kan-Latn">
+    <l n="a">Ā sōmanātha-pura-saṁ</l>
+    <l n="b">vāsitaroḷu brahmapurigaḷoḷ <choice><orig>p</orig><reg>v</reg></choice>ipraroḷ ā</l>
+    <l n="c"><choice><orig>b</orig><reg>v</reg></choice>yāsa-śuka-vāmadēva-pa</l>
+    <l n="d">rāsara-kapiḷādi-sad<choice><orig>r</orig><reg>ṛ</reg></choice>iśan o<lb n="18"/>r<choice><orig>bb</orig><reg>vv</reg></choice>an negaḷdaṁ <g type="ddanda"></g></l>
+    </lg>
+   
+    <lg n="11" met="kanda" xml:lang="kan-Latn">
+     <l n="a">śrīvatsa-gōtran urbbī</l>
+     <l n="b">dēva-nutaṁ nikhiḷa-vēdāṁga-vidaṁ</l>
+     <l n="c">pāvana-caritra-guṇa-sād</l>
+     <l n="d">bhāvaṁ puruṣōttamaṁ d<choice><orig>p</orig><reg>v</reg></choice>ijōttaman enipaṁ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="12" met="kanda" xml:lang="kan-Latn">
+     <l n="a">Ā viprana sati sītā</l>
+     <l n="b">dēvigav ā satya-<lb break="no" n="19"/>tapana-satigaṁ guṇa-sad</l>
+     <l n="c">bhāvade padmāṁbike sale</l>
+     <l n="d">pāvana-sucaritre-pati-hita<choice><orig>b</orig><reg>v</reg></choice>ratey enipaḷ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <p>
+        Ā daṁpatigaḷ pala-kālavanapatyar āgirddoṁdu devasaṁ nāputrasya lōkō stiyeṁba vēda-vākyama<supplied reason="omitted">ṁ</supplied> ti
+        <lb break="no" n="20"/>ḷidu <g type="ddanda">.</g>
+    </p>
+  
+    <lg n="13" met="kanda" xml:lang="kan-Latn">
+     <l n="a">pūtrārtthavāgi satya-pa</l>
+     <l n="b">vitrācaraṇaṁ negaḷda puruṣōttaman ā</l>
+     <l n="c">pat<supplied reason="omitted">t</supplied>rānan īśan eṁdu ka</l>
+     <l n="d">ḷatrānvitan āgi śaṁbhuvaṁ pūjisidan <g type="ddanda">.</g></l>
+    </lg>
+
+<p>
+    Aṁnegam itta divija-danuja-v<choice><orig>r</orig><reg>ṛ</reg></choice>iṁda-vandita-p<choice><orig>a</orig><reg>ā</reg></choice>dāraviṁda
+    <lb break="no" n="21"/><unclear>n appa</unclear> mahēśvaraṁ kaviḷāsa-par<choice><orig>bb</orig><reg>vv</reg></choice>atada ramya-bhūmiyoḷu kēśava-vāsavābjabhavarōlagisal asaṁkhyāta-gaṇa-pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itan umā-sahitaṁ voḍḍōlagaḷu sukha-saṁkathā
+   <lb break="no" n="22"/>vinōdadiṁdam ire nāradan eṁba gaṇēśvaran inteṁda <g type="ddanda">.</g> 
+</p>
+   
+   <lg n="14" met="utpalamālikā" xml:lang="kan-Latn"><!-- no in apte -->
+   <l n="a">ōhila dās<choice><orig>i</orig><reg>a</reg></choice> ceṁna siriyāḷa haḷāyudha bāṇan udbhaṭar</l>
+   <l n="b">dēhadoḷ oṁdi baṁda maḷayēśvara kēśavarājarādiyā</l>
+   <l n="c">gaihi<lb break="no" n="23"/>ka-saukhyamaṁ bisuṭ asaṁkhya-gaṇaṁ nijavāda bhakti-sad</l>
+   <l n="d">gēhadoḷ illiralu samayam utkaṭavādu<choice><orig>v</orig><reg>d</reg></choice>u jaina-bauddharoḷa<supplied reason="omitted">ḷ</supplied> <g type="ddanda">.</g></l>
+   </lg>
+   
+ <p>
+   eṁbuduṁ mahēśvaraṁ dara-hasita-vadanāraviṁ
+   <lb break="no" n="24"/>dan āgi vīrabhadranaṁ nīṁ manuṣya-lōkadoḷu niṁnaṁśadoḷ orb<choice><orig>vi</orig><reg>ba</reg></choice>nam puṭṭisi para-samayagaḷaṁ niyāmis eṁbuduṁ vīrabhadranuṁ puruṣō
+   <lb break="no" n="25"/>ttama-bhaṭṭargge svapnadoḷ tāpasa-rūpadiṁ baṁdu putraṁ para-samaya-niyāmakaṁ nimage puṭṭugum e<supplied reason="omitted">ṁ</supplied>du mattaṁm iṁteṁda <g type="ddanda">.</g>
+ </p>
+    
+    <lg n="15" met="anuṣṭubh" xml:lang="kan-Latn">
+    <l n="a">jaina-mārggēṣu yē yā<lb break="no" n="26"/>tā</l>
+    <l n="b">bahavō dakṣiṇāpathē</l>
+    <l n="c">tē dūṣitā bhavanu sar</l>
+    <l n="d">vvē rāmēṇa tava sūnunā <g type="ddanda"></g></l>
+    </lg>
+    
+    <p>
+       Endu <choice><orig>v</orig><reg>p</reg></choice>arama-prasādaṁ māḍi pōpuduṁ puruṣōttama-bhaṭṭaru
+       <lb n="27"/>k<choice><orig>r</orig><reg>ṛ</reg></choice>itārtthar āgi saṁtasaṁ baṭṭu maganaṁ paḍedu jātakarmādikriyegaḷaṁ māḍi dēvatōd<supplied reason="omitted">d</supplied>ēśadiṁ rāman e<supplied reason="omitted">ṁ</supplied>du pesaran iṭṭar ātanuṁ tanna di<choice><orig>b</orig><reg>v</reg></choice>ya-janmānurūpamā
+       <lb break="no" n="28"/>ge śiva-yōga-yuktan āgi nispṛiha-v<choice><orig>r</orig><reg>ṛ</reg></choice>ittiyiṁ cariyisuttuṁ <g type="ddanda">.</g>
+    </p>
+    
+  <lg n="16" met="kanda" xml:lang="kan-Latn">  
+    <l n="a">Ēkāgra-bhakti-yōgadin</l>
+    <l n="b">ēkākiy enalke saṁdu śivanaṁ piridapp</l>
+    <l n="c">ēkāntadoḷ ā rādhi<lb break="no" n="29"/>si</l>
+    <l n="d">y ēkāṁntada rāman eṁba pesara<supplied reason="omitted">ṁ</supplied> paḍadaṁ <g type="ddanda">.</g></l>
+  </lg>
+   
+    <lg n="17" met="mattēbhavikrīḍita"><!-- anomalo -->
+        <l n="a">satataṁ saṁdu śivāgamōkta-vividha-kṣētraṁgaḷoḷu śaṁbhav</l>
+        <l n="b">āyatan ānēka-nadī-nada-prakaradoḷu gaur<choice><orig>i</orig><reg>ī</reg></choice>varāghrid</l>
+        <l n="c">a<lb break="no" n="30"/>yāśrita-vāk-kāya-manō-nugaṁ cariyisuttuṁ baṁdu kaṇḍaṁ sur</l>
+        <l n="d">ārccitanaṁ dakṣiṇa-sōmanāthanan aghaugha-trāsiyaṁ prītiyiṁ <g type="ddanda">.</g></l></lg>
+    
+
+
+
+   <p>
+       Āntu baṁdanavara
+   <lb break="no" n="31"/>ta-vinamadamara-vara-mauḷi-maṇi-kiraṇa-maṁjarī-raṁjitāṁghiyugman appa huligeṟeya sōmanāthanan ārādhisuttam ippudum ā paramēśara pratyakṣavāgi <g type="ddanda">.</g>
+   <lb n="32"/>Ātra ślōka-dvayaṁ <g type="ddanda">.</g>
+   </p>
+  
+  <lg n="18" met="anuṣṭubh" xml:lang="san-Latn">
+      <l n="a">Ābbalūru-vara-grāmaṁ</l>
+      <l n="b">gatvā rāma mamājñ<choice><orig>e</orig><reg>a</reg></choice>yā <supplied reason="omitted"><g type="danda">.</g></supplied></l>
+      <l n="c">tatra vāsaṁ kuru svasthaṁ</l>
+      <l n="d">yaja māṁ bhakti-yōgataḥ <g type="ddanda">.</g></l>
+  </lg>
+  
+   <lg n="19" met="anuṣṭubh" xml:lang="san-Latn">
+       <l n="a">jainai<supplied reason="omitted">ḥ</supplied> saha vivādaṁ ca</l>  
+       <l n="b">saṁkaṁ hitvā ku<lb n="33"/>ruṣv atha <g type="danda">.</g></l>
+       <l n="c">svaśirōpi paṇaṁ k<choice><orig>r</orig><reg>ṛ</reg></choice>itvā</l>
+       <l n="d">putra tvaṁ vijayī bhava <g type="ddanda">.</g></l>
+   </lg>
+    
+   <p>
+       eṁdu sōmanātha-dēvar besasidaḍēkāntada rāmayyan abbalūra brahmēśvara-sthānudāḷu nisp<choice><orig>r</orig><reg>ṛ</reg></choice>iha-v<choice><orig>r</orig><reg>ṛ</reg></choice>ittiyiṁdam ire <choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice>
+   </p>
+
+<lg n="20" met="kanda" xml:lang="kan-Latn">
+    <l n="a"><lb n="34"/>yulidaḍḍi baṁdu jainar</l>
+    <l n="b">palar antā saṁka-gauṇḍa-sahitaṃ piriduṁ</l>
+    <l n="c">caladiṁ kaivārisidar</l>
+    <l n="d">ttolagade jina daivan endu śiva saṁnidhiyoḷu<g type="ddanda">.</g></l>
+</lg>
+
+<p>
+    Ādaṁ kēḷdēkāṁntada-rāmayyaṁ
+    <lb n="35"/>n atikru<choice><orig>dhdh</orig><reg>ddh</reg></choice>an āgi śiva-saṁnidhiyoḷ anya-dēvatā-stavanaṁ mādaḷāgad eṁdaḍa<choice><orig>ḍ</orig><reg>d</reg></choice>aṁ māṇade nuḍiy<supplied reason="omitted">u</supplied>ttiral iṁteṁdaṁ <g type="ddanda">.</g>
+</p>
+    
+  <lg n="21" met="mattebhavikrīḍita" xml:lang="kan-Latn"> 
+   <l n="a">jagamaṁ māḍuvan āvan āvan adan ā<lb n="36"/>pat-kā<supplied reason="omitted">la</supplied>doḷ kāvaniṁ </l>
+   <l n="b">mige kōpaṁ tanagāge saṁharisal āvaṁ dakṣan ā śaṁbhu sar</l>
+   <l n="c">vvagan irddante gata-prabhāva-vibhavaṁ saṁsāradoḷu biddu</l><!-- irregolare settima sillana e ultimi due gana -->
+   <l n="d">daṁdugadoḷu bard<choice><orig>v</orig><reg>d</reg></choice>u tapak<supplied reason="omitted">k</supplied>e sārddu<lb n="37"/>sukhamaṁ porddirppanuṁ dēvanē <g type="ddanda">.</g></l><!-- irregolare 22 sillabe -->
+  </lg>
+    
+    <lg n="22" met="kanda" xml:lang="kan-Latn">
+    <l n="a">haran antirīvanē niṁm</l>
+    <l n="b">aruhaṁ muṁ-koṭṭitāv<supplied reason="omitted">u</supplied>d āvudu mun<supplied reason="omitted">n</supplied>aṁ</l>
+    <l n="c">haranoḷ paḍadar anēkar</l>
+    <l n="d">vvaramaṁ bāṇa-diniśāḷa-bhakta-gaṇaṁgaḷu <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="23" met="kanda" xml:lang="kan-Latn">
+    <l n="a">Ene jai<lb n="38"/>nar eṁgu nīṁ muṁ</l>
+    <l n="b">nina hitarara hēḷal ēke niṁnaya <choice><orig>s</orig><reg>ś</reg></choice>iramaṁ</l>
+    <l n="c">janam aṟiyal aridu koṭṭā</l>
+    <l n="d">tanoḷ iṃpaḍe nīne bhaktan ātane dēvaṁ <g type="ddanda"></g></l>
+    </lg>
+   
+   <lg n="24" met="kanda" xml:lang="kan-Latn">
+   <l n="a">Enal ēkāntada-rāmaṁ</l>
+   <l n="b">manasijaripugittu taleya<lb n="39"/>nāṁ paḍedaḍe</l>
+   <l n="c">nīv enagīva paṇam adēnn ene<!-- ene non dovrebbe fare parte del pada --></l>
+   <l n="d">munid eṁdar jjinana kittu śivanaṁ nilipevu<g type="ddanda">.</g></l>
+   </lg> 
+  
+    <lg n="25" met="kanda" xml:lang="kan-Latn"> 
+    <l n="a">Ene kuḍuvudōleyaṁ nīv</l>
+    <l n="b">enageṃdittōle goṃ̇u śiramaṁ tām bhō<supplied reason="omitted">ṁ</supplied>kenal</l> 
+    <l n="c">aridu kuḍuva padado<lb n="40"/>ḷu śi</l>
+    <l n="d">vanaṁ sāṁnidhya-māḍi rāmaṁ nuḍiguṁ <g type="ddanda">.</g></l>    
+    </lg>
+    
+  <lg n="26" met="campakamāla" xml:lang="kan-Latn"> 
+  <l n="a">Uḍugade śaṁbhu nīne śaraṅ eṁnadaḍaṁ manam anya <choice><orig>b</orig><reg>bh</reg></choice>āvadoḷ</l>
+  <l n="b">oḍardaḍam ī k<choice><orig>r</orig><reg>ṛ</reg></choice>ipāṇa-mukhadiṁ tale pōgade nilkadallad-i</l><!-- pada tutto errato -->
+  <l n="c"><lb n="41"/>rddaḍe śiva niṁna muṁnaḍiguruḷugenutaṁ kali rāman ārddu</l><!-- dal quarto gaṇa non ci si trova -->
+  <l n="d">keygiḍad aridikkaluṁrayisidaṁ śiramaṁ śivan aṁghriyugmadoḷu</l><!-- intero verso sbagliato -->
+  </lg>
+   
+   <lg n="27" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+   <l n="a">Are-gayi-goṁḍane<note source="bib:EI_1898-1899">read <foreign>gāy-goṁḍane</foreign>. Gāy is for <foreign>gāya,ghāya</foreign>, a wound</note> kittu nōḍidane kūrppaṁga<note>°aḷuk should be °āḷuk</note><lb n="42"/>ḷuki meyi <!-- gaydanē è fuori pada --></l>
+   <l n="b">seragaṁ pārddane bāḷge bhaktar enutaṁ ballāḷu rāmaṁ svakaṁ</l>
+   <l n="c">dharamaṁ cakkene hulla kaṭṭan arivaṁtaklēśadiṁdāgaḷ aṁt</l>
+   <l n="d">aridīśaṁghriyoḷ i<unclear>kki śaṁkara</unclear>-gaṇak<supplied reason="omitted">k</supplied>āna<supplied reason="omitted">ṁ</supplied>da<lb n="43"/>vaṁ māḍidaṁ</l>
+   </lg>
+    
+   <lg n="28" met="kanda" xml:lang="kan-Latn">
+       <l n="a">Arida taleyēḷu-devasaṁ</l>
+       <l n="b">baregaṁ meṟadiṁ baḷikkav-ittaṁ haran ā</l>
+       <l n="c">daradiṁ tale kaleyillade</l>
+       <l n="d">tiravādudu lōkava<choice><orig>ḻ</orig><reg>ṟ</reg></choice>iye rāma<supplied reason="omitted">ṁ</supplied> paḍadaṁ <g type="ddanda">.</g></l>
+   </lg>
+    
+    
+  <lg n="29" met="kanda" xml:lang="kan-Latn">  
+      <l n="a">beṟa<lb n="44"/>gāgi jainar ellaṁ</l>
+      <l n="b">maṟigi jina-praḷ<choice><orig>e</orig><reg>a</reg></choice>yav eṁbudaṁ māḍadir iṁn</l>
+      <l n="c">eḍ-eṟagi kāl-viḍiye māṇade</l>
+      <l n="d">baṟa-siḍil aṁteṟagi jinana taleyaṁ muṟidaṁ</l>
+  </lg>
+    
+   <lg n="30" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+       <l n="a">baḍi-goṁḍorbbane sokki bāḷe<lb n="45"/>vanamaṁ kāḍāne pokkantiru</l>
+       <l n="b">kaḍagalu kāpina vīraraṁ turugamaṁ sāmantarạṁ tūḷdu</l>
+       <l n="c">māmārppaḍegaḷu jainara māri bandudenutuṁ be<supplied reason="omitted">ṁ</supplied>goṭṭu pō</l>
+       <l n="d">galu jinaṁ keḍeva<supplied reason="omitted">ṁ</supplied>naṃ baḍidalli kai-ko<lb n="46"/>ḷisidaṁ śrī-vīra-sōmēśanaṁ <g type="ddanda">.</g></l><!-- pada a mattebhavikrīḍita, pada b campakamāla, c-d non definito -->
+   </lg>
+    
+   <lg n="31" met="mattebhavikrīḍita" xml:lang="kan-Latn"> 
+       <l n="a">Adan ellaṁ neṟe pōgi bijjaṇa-mahīpāḷaṁge jainarkkaḷ ur</l>
+       <l n="b">kkavadiṁ pēḷdu virōdhavāge piriduṁ dūṟuttiralu kōpa<!-- anomialia ultime 5 sillabe --></l>
+       <l n="c">durmmadan ā bijjaṇa-bhūbhujaṁ munisiniṁ<lb n="47"/>rāmaiyanaṁ kaṁdu <!-- non definito: BHA,TA,JA,BHA,YA,RA,GALA --></l>
+       <l n="d">nīn idan anyāyaman ēke māḍidey enal koṭ<supplied reason="omitted">ṭ</supplied>ōleyaṁ tōṟidaṁ <!-- non definito: BHA,JA,JA,BHA,YA,RA,RA --><g type="ddanda">.</g></l>
+   </lg>
+    
+    <lg n="32" met="kanda" xml:lang="kan-Latn"> 
+        <l n="a">Avaritta yōleyide nīn</l>
+        <l n="b">avadharisuvud ikku niṁna bhaṁḍāradoḷ iṁ</l>
+        <l n="c"><lb n="48"/>n avar oḍḍav iraliyinnoḍ</l>
+        <l n="d">ḍuvudārppaḍe niṁna munde jinaraṁ palaraṁ</l>
+    </lg>
+    
+    <p>
+        Antappadī taleyan arid avara kaiyoḷ oḍ<supplied reason="omitted">ḍ</supplied>uven avar adaṁ suttiṁ-baḷikavāṁ paḍ<supplied reason="omitted">u</supplied>ven enagānesejjeya-basa-
+        <lb break="no" n="49"/>di m<supplied reason="omitted">u</supplied>khyavāgiy eṁ-nuṟuva basadi-jinaraṁ palaran oḍḍuvudene bijjana-rāyaṁ nām ī kautukamaṁ nōḍuvavoṁdu basadigaḷa paṁḍitarumaṁ jainavaṁ karadu nīm <choice><orig>ā</orig><reg>a</reg></choice>ppaḍe
+        <lb n="50"/>basadigaḷaṁ paṇaṁ-māḍi ōleyaṁ kuḍiv endaḍ avarāvī-muṁnoḍada basadiyaṁ dūṟal bandev alladin oḍḍi jina-praḷ<choice><orig>e</orig><reg>a</reg></choice>yaṁ māḍalu baṁdavar all<choice><orig>e</orig><reg>a</reg></choice>vene bijjaṇa-rāyaṁ nakku nīviṁn usi
+        <lb break="no" n="51"/>rade pōgi sukhadin iriveṁdavaraṁ kaḷipi rāmayya<supplied reason="omitted">ṁ</supplied> gaḷigellaruv aṟiye jaya-patramaṁ koṭṭ<choice><orig>u</orig><reg>aṁ</reg></choice> <choice><orig><g type="danda">.</g></orig><reg><g type="ddanda"></g></reg></choice>
+    </p>
+   
+   <lg n="33" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+       <l n="a">Ari-rāya-kṣiti<!-- dovrebbe essere breve. Forse ṛ vocalica non vale come cons.? -->bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁ nagāriy arirāy āṁhōdhi-kuṁbhōdbha<lb n="52"/>vaṁ</l>
+       <l n="b">Ari-rāyēṁdhana-tī<choice><orig>b</orig><reg>v</reg></choice>ra-vahni Ari-rāyānaṁga-bhāḷēkṣaṇaṁ</l>
+       <l n="c">Ari-rāyōgra-bhujaṁga-bhūri-garuḍaṁ śrī-bijjaṇaṁ vairi-rā</l>
+       <l n="d">jya-ramākarṣaṇa-dōl<choice><orig>e</orig><reg>i</reg></choice>tāsi-suhṛ<!-- idem qui -->idaṁ kīrty-aṁganā-vallabhaṁ <g type="ddanda">.</g></l>
+   </lg>
+    
+    <lg n="34" met="utpalamāla" xml:lang="kan-Latn">
+    <l n="a"><lb n="53"/>cōḷanan ikki lāḷanan adhakkarisi sthiti-hīna-māḍi nē</l>
+    <l n="b">pāḷanan aṁdhranaṁ tuḷidu gurjjaranaṁ seṟeyiṭṭu cēdi-bhū</l>
+    <l n="c">pāḷana maimeyaṁ muṟidu vaṁgana bīsis<supplied reason="omitted">i</supplied> kādi koṁdu baṁ</l>
+    <l n="d"><lb n="54"/>gāḷa-kaḷi<supplied reason="omitted">ṁ</supplied>ga-māgadha-paṭasvara-māḷava-bhūmipāḷaraṁ</l>
+    <l n="e">pāḷisidaṁ dharā-vaḷ<choice><orig>e</orig><reg>a</reg></choice>yamaṁ kali bijjaṇarāya-bhūbhujaṁ</l>
+    </lg>
+    
+    <lg n="35" met="kanda" xml:lang="kan-Latn"> 
+        <l n="a">koḍad oḷage puṭṭi kaḍalaṁ</l>
+        <l n="b">kuḍidaṁ ghaṭayōni puṭ<supplied reason="omitted">ṭ</supplied>i kaḷacuryya<lb n="55"/>roḷ ō</l>
+        <l n="c">gaḍisade caḷukyar anvaya</l>
+        <l n="d">gaḍalaṁ kuḍidurkku sajjanaṁ bijjaṇanoḷu <g type="ddanda">.</g></l>
+    </lg>
+    
+    <p>
+        svasti samadhigatapaṁcamahāśabda-mahāmaṇḍalēśvaraṁ <g type="danda">.</g> kaḷ<choice><orig>ā</orig><reg>a</reg></choice>ṁjara-puravarādhīśvaraṁ <supplied reason="omitted"> <g type="danda">.</g></supplied> suvar<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-v<choice><orig>r</orig><reg>ṛ</reg></choice>iṣa
+        <lb break="no" n="56"/>bha-dhvajaṁ <g type="danda">.</g> ḍamaruga-tūryya-nirgghōṣaṇaṁ <g type="danda">.</g> kaḷacuryya-kuḷa-ka<unclear>maḷa</unclear>-ma<supplied reason="omitted">r</supplied>ttaṇḍaṁ <supplied reason="omitted"></supplied><g type="danda">.</g> kadana-pracaṇḍaṁ <g type="danda">.</g> mone-muṭṭe-gaṇḍaṁ <supplied reason="omitted"><g type="danda">.</g></supplied> subhaṭarādityaṁ <g type="danda">.</g> kaligaḷaṁku<choice><orig>s</orig><reg>ś</reg></choice>aṁ <g type="danda">.</g> gaja-sā
+        <lb break="no" n="57"/>manta-śaraṇāgata-vajra-paṁjaraṁ <supplied reason="omitted"><g type="danda">.</g></supplied> pratāpa laṁkeśaraṁ <supplied reason="omitted"><g type="danda">.</g></supplied> para-nārī-sahōdaraṁ <supplied reason="omitted"><g type="danda">.</g></supplied> sanivāra-siddhi <supplied reason="omitted"><g type="danda">.</g></supplied> 
+giridurggamallaṁ <supplied reason="omitted"><g type="danda">.</g></supplied> calada<supplied reason="omitted">ṁ</supplied>ka-rā<supplied reason="omitted">ma</supplied>ṁ <supplied reason="omitted"></supplied><g type="danda">.</g> nissaṁkamallan ityakhīḷa-nāmādi-sa
+        <lb break="no" n="58"/>masta-praśasti-sahita<supplied reason="omitted">ṁ</supplied> śrīmatu bijjaṇadēvaṁ rāmayyaṃgaḷu māḍida parama-sāhasakaṁ niratiśayavappa māhēśvara-bhaktiga<supplied reason="omitted">ṁ</supplied> mecci-vīra-sōmanātha-dēvara dēgula
+        <lb break="no" n="59"/>da māṭa-kūṭa-prākāra-khaṇḍa-sphuṭita-ōdhārkka dēvar aṁgabhōga-naivēdyakaṁ banavase-Enichāsirada  kaṁpaṇi sataḷigeyepattaṟa maneya caṭtarasanum ā ka<supplied reason="omitted">ṁ</supplied>paṇad agrāyita-pra
+        <lb break="no" n="60"/>bhu-gauṇḍaḷaṁ muṁdiṭṭu śrīmadu-bijjanadēva<supplied reason="omitted">ṁ</supplied> sattaḷigeyeppattaṟ oḷage maḷuguṁdadiṁ teṁkaṇa gōgāveyeṁba grāmamaṁ prasiddha-sīmā-sahitaṁ tribhōgamumaṁ
+        <lb break="no" n="61"/>śrīmad-ēkāntada-ramaiyyaṁgaḷa kālaṁ kacci dhārā-pūrbbakaṁ māḍi koṭṭu pratipāḷisidaṁ <g type="ddanda">.</g>
+    </p>
+    
+    <lg n="36" met="utpalamāla" xml:lang="kan-Latn">
+        <l n="a"><g type="SpiraIL">.</g> śrī-nuta-kīrti-vikramadoḷ oṁdida sōma-kulaika-bhūṣaṇaṁ</l>
+        <l n="b">tān enipī<lb n="62"/>caḷukya-nripar anvayadoḷu vasudhādhināthar</l>
+        <l n="c">ākhyāna-parākramar kaḷiye dhātripar ābriteyāge tailapaṁ</l>
+        <l n="d">tāne caḷukya-dhātri-kulaśailan enalu mudadiṁde tāḷdidaṁ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <p>
+        <lb n="63"/>Aṁtā tailapadēvaṁge satyāśrayadēvan eṁba magaṁ puṭṭidaṁ tat-tanayaṁ vikramadēvaṁ tatad-anujaṁ daśavarmmadēvan ātana magaṁ jayasiṁgarāyan ātana magan āhava
+        <lb break="no" n="64"/>mallan ātana magaṁ tribhuvanamalla-permāḍirāyan ātana magaṁ bhūlōkamal<supplied reason="omitted">l</supplied>a-sōmēśvaradēvan ātana maga<supplied reason="omitted">ṁ</supplied> pratāpacakravarti-jagadēkamal<supplied reason="omitted">l</supplied>an ātana tam<supplied reason="omitted">ṁ</supplied>aṁ traiḷō
+        <lb break="no" n="65"/>kyamalla-nūrmmaḍi-tailapan ātana magaṁ tribhuvanamalla-sōmēśvaradēvan ātana parākrama-prabhāvam eṁeṁdaḍe <g type="ddanda">.</g>
+    </p>
+    
+    <lg n="37" met="śārdūlavikrīḍita" xml:lang="kan-Latn">
+        <l n="a">kōḍuḷḷugramadēbhavoṁeraḍenalkeṁpattuvoḍāgiral</l>
+        <l n="b">kōḍi<lb n="66"/>ṭṭānade taḷtu kādi geldaṁ kōḍilladoṁdāneyiṁ nā</l>
+        <l n="c">ḍaṁ bīḍan ibhaṁgaḷaṁ turagamaṁ sōmēśvaraṁ billamaṁ nō</l>
+        <l n="d">ḍalkā kaḷacūryyavaṁśaman adaṁ nirmūḷavaṁ māḍidaṁ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="38" met="mahāsragdhara" xml:lang="kan-Latn">
+        <l n="a">da<lb n="67"/> nisāpatnavāgalu siri nija-vasadiṁ saṁdudārakke tān</l>
+        <l n="b">āgaravēgalu kīrtti dik-pāḷaka-nikara-mukhādēśavāgalu</l>
+        <l n="c">jayā-sauṁdari nicca<supplied reason="omitted">ṁ</supplied> tōḷa bāḷaṁ seṟe-viḍidire sāmrājyamaṁ tāḷdi</l>
+        <l n="d">daṁ du<lb break="no" n="68"/>rddhara-śauryyaṁ vīra-sōmēśvaran ahita-vadhū-nētra-nīrēja-sōmaṁ <g type="ddanda">.</g></l>
+    </lg>  
+    
+    <lg n="39" met="kanda" xml:lang="kan-Latn">
+        <l n="a">Aṁnadha-tamavenipa kaḷacuryy<supplied reason="subaudible">a</supplied></l>
+        <l n="b">āṁdhaṁ masuḷalke taṁna tējade dhareg-anubandhaṁ taṁnoḷe sale sam</l>
+        <l n="c">maṁ<lb break="no" n="69"/>dhise cāḷukya-rāya-sōmaṁ negaḷdaṁ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <p>
+       Antā tribhuvanamalla-sōmēśvaradēvaṁ sakaḷa-camūnātha-śirōmaṇiyuṁ cāḷukya-rājya-pratiṣṭāpakan appa ku
+       <lb break="no" n="70"/>mārabamaiyaṁnuṁ tānu<supplied reason="omitted">ṁ</supplied> seyahaḷiya-koppadoḷu sukha-saṁkhathā-vinōdadin irddoṁdu devasaṁ dharmma-gōṣṭiyoḷ irdu purātana-nūtar appa śiva-bhaktara gu
+       <lb break="no" n="71"/>ṇa-stavanaṁ māḍuttam irdēkāntada-rāmayyaṁgaḷ abbalūraliddalli jainarellaṁ neradu baṁdu mahā-vivādaṁ māḍi nīṁ taleyan aridu koṁḍu  śivana kaiyoḷ paḍadeyappaḍe jina
+        <lb break="no" n="72"/>nan oḍedu śivanaṁ pratiṣṭe-māḍuveṁdoḍḍaman oḍḍiyōleyaṁ koṭṭaḍavaru koṭṭōleyaṁ koṁḍu taṁna taleyan aridukoṁḍu śivaṁge pūje māḍi baḷikā taleyaṁ yēḷu
+        <lb break="no" n="73"/>devasake munninante taleyaṁ polevīḻavantu paḍedu bij<supplied reason="omitted">j</supplied>
+aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan oḍedu basadiyan aḷidu bisu
+        <lb break="no" n="74"/>ṭu nelanaṁ khaḍisi vīra-sōmanātha-dēvaraṁ pratiṣṭhe-māḍi śivāgamōktavāge parbbata-praṇada dēgulamaṁ trikūṭavāge māḍisidar eṁbudaṁ kēḷdu tribhuvanamal<supplied reason="omitted">l</supplied>a-sō
+        <lb break="no" n="75"/>mēśvaradēvaṁ vismayaṁ biṭṭu nōḍuvartthiyiṁ binnavattaḷeyaṁ barayisi barisiyavaran idi<unclear>r</unclear>goṇḍu tannaṁ manegoḍagoṇḍu pōgi piriduṁ satkāradiṁ pūji
+        <lb break="no" n="76"/>si śrīmad-vīra-sōmanātha-dēdēvara dēgulada māṭa-kūṭa-prākāra-khaṁḍa.spuṭita-jinnōdhārakkaṁ dēvara Aṁgabhōga-raṁgabhōga-naivēdyakkaṁ caitra
+        <lb n="77"/>pavitra vasaṁtōtsavādiparvvagaḷigavannadāna-vidyādānakka<supplied reason="omitted">ṁ</supplied> banavase-panichāsirada ka<supplied reason="omitted">ṁ</supplied>paṇaṁ nāgarakhaṁḍaveppat<supplied reason="omitted">t</supplied>aṟ oḷagaṇa Ab<supplied reason="omitted">b</supplied>alūran ā dēvarggā vūrāga
+        <lb n="78"/>lu-bēḷkuveṁdu parama-bhaktiyiṁd ā ka<supplied reason="omitted">ṁ</supplied>paṇada manneya mallidēvanaṁ mu<supplied reason="omitted">ṁ</supplied>diṭṭā vūra mēlāḷike-manneya-suṁka daṁḍa.dōṣa-nidhinikṣēpasahitavāgi Ēkānta
+        <lb break="no" n="79"/><supplied reason="omitted">da</supplied>-rāmaya<supplied reason="omitted">ṁ</supplied>gaḷa kālaṁ karcci pūrvva-prasiddha-sīmā-sahitaṁ tribhōga-sahitaṁ dhārā-pūrvakaṁ māḍi pāramēśvara-dattiyāge tābraśāsanamaṁ koṭ<supplied reason="omitted">ṭ</supplied>āneyan ēḻisi me
+        <lb break="no" n="80"/>ṟayisi parama-bhaktiyiṁ pratipāḷisidaṁ <supplied reason="omitted"><g type="ddanda">.</g></supplied>
+    </p>
+    
+    <lg n="40" met="kanda" xml:lang="kan-Latn">
+        <l n="a"><g type="SpiraIL">.</g> śrīkaṁṭha-padāṁ bujaman a</l>
+        <l n="b">nākuḷa-cittadoḷe pūjipaṁ śiva-samaya-prā</l>
+        <l n="c">kāran eḷa<supplied reason="omitted">ni</supplied>si sale negaḷ</l>
+        <l n="d">ēkāntada-rāman īśa<lb n="81"/>bhakti-prēmaṁ <g type="ddanda">.</g></l>
+       
+    </lg>
+    
+    <lg n="41" met="kanda" xml:lang="kan-Latn">
+        <l n="a"><g type="SpiraIL">.</g> śrīyuṁ dī<supplied reason="omitted">r</supplied>gghāyuvaṁ kīrttiyan anudinavuṁ māḷke gīrvvā</l>
+        <l n="b">ṇa-vriṁda-jyāyaṁ śrī-vīra-sōmaṁ vidhrita-himakaraṁ kāmadēvaṁg</l>
+        <l n="c">udāra-śrī-yuktaṁ<lb break="no" n="82"/>g adrijā-sasmita-sita-taraḷālōla-vistāra-līlā</l>
+        <l n="d">nēyāḷōkōddhata-śrī-lalita-ratilaḷālāsya śailūṣa vēṣaṁ<g type="ddanda">.</g></l>
+        </lg>
+    <p>
+        svasti samadhigatapaṁcamahāśabda-mahāmaṁ
+        <lb break="no" n="83"/>ḍaḷēśvaraṁ banavāsi-puravarādiśvaraṁ jayanti madhukēśvara-dēva-labdhavara-prasādaṁ vidvaj-<supplied reason="omitted">j</supplied>anārhdaṁ mayūrava<supplied reason="omitted">r</supplied>mma-kula-bhūṣaṇaṁ kādaṁba-kaṇṭhīravaṁ kadana-pracaṇḍaṁ sāha
+        <lb break="no" n="84"/>sōttu<unclear>ṁ</unclear>gaṁ kaligaḷ aṁkusaṁ satya-rādhēyaṁ śaraṇāgata-vajra-paṁjara<supplied reason="omitted">ṁ</supplied> yācaka-kāmadhanuvityakhiḷa-nāmāvaḷi-sahitan appa śrīman mahā-maṇḍalēśvara<supplied reason="omitted">ṁ</supplied> kāmadēvarasa
+        <lb break="no" n="85"/>r-ppānuṁgal<supplied reason="omitted">l</supplied>ainūṟuvaṁ duṣṭa-nigraha-śiṣṭa-pratipāḷanadināḷuttam irdd Abbalūra vīra-sōmanātha-dēvaraṁ baṁdu kaṇḍu rāmayyaṁgaḷu śivāgavā-vidhā
+        <lb break="no" n="86"/>nadiṁ māḍisida parbbatōpamānam appa dēgulamaṁ kaṇḍavaru māḍida sāhasamaṁ savistara<supplied reason="omitted">ṁ</supplied> kēḷdu mecci parama-prītiyiṁdoḍa-goṁḍu pōgi
+        <lb n="87"/>pānuṁgalla nelevīḍinoḷ pradhānaru<supplied reason="omitted">ṁ</supplied> tānuṁ madukeya-maṁḍaḷiṁka-sahitaṁ sukha-saṁkathā-vinōdadi<supplied reason="omitted">ṁ</supplied> kuḷḷirddu parama-bhaktiyiṁ vīra-sōmanātha
+        <lb break="no" n="88"/>dēvargge pānu<supplied reason="omitted">ṁ</supplied>gallainūṟaṟ oḷagaṇa kaṁpaṇaṁ hosanāḍeppattaṟ oḷage muṇḍagōḍa samīpada jōgēsaradiṁ baḍagaṇa mallavaḷḷiyeṁba grāmamaṁ prasiddha-sī
+        <lb break="no" n="89"/>mā-sahitavāgi tribhōgābhyantaraṁ namasyaṁ māḍiyā dēvata dēgulada khaṇḍa-spuṭita-jīrnnōdhdārakaṁ dēvar aṁgabhōga-raṁgabhōga-naivēdya-caitra
+        <lb break="no" n="90"/>pavitra-vasaṁtōtsavādi-parbbagaḷgam anna-dānakkaṁbeṁdu rāmayyaṁgaḷa kālaṁ karci dhārā-pūrvvakaṁ māḍi parama-bhaktiyiṁ koṭṭu dharmmamaṁ pratipālisidaṁ <g type="danda">.</g> svastyastu ōm <g type="ddanda">.</g>
+        <lb n="91"/>īntī dharmmaṁgaḷaṁ pratipāḷiyisidavaru śrī-vāraṇāsi prayāge kurukṣētra Argghyatīrttha śrīparvvatādi-puṇya-kṣētradalli sāyira kavilegaḷa kōḍuṁ
+        <lb n="92"/>koḷaguvaṁ honnoḷ kaṭṭisi catu<supplied reason="omitted">r</supplied>vvēda-pāragar appa subrāhma.nargge sūryyagrahaṇa-sōmagrahaṇa-byatīpāta-sa<supplied reason="omitted">ṁ</supplied>kramaṁādipuṇyakāladōḷ vidhi-yuktavāge koṭṭa
+        <lb n="93"/>palavaṁ paḍevaru Ī dharmmavan aḷidavarā gaṁge vāraṇāsi kurukṣētra-prayāgādi-puṇya-kṣētraṁgaḷoḷā kavilegaḷuvaṁ brāhmaṇavaṁ koṁda pāpamaṁ paḍevarīyartthasaṁ
+        <lb break="no" n="94"/>dehavilleṁbudaṁ muṁnnaṁ manu-vākyaṁgaḷuṁ pēḷgu<supplied reason="omitted">ṁ</supplied> <g type="ddanda">.</g> 
+       
+    </p>
+    
+    <lg n="42" met="anuṣṭubh" xml:lang="san-Latn">
+        <l n="a">bahubhir vvasudhā bhuktā</l>
+        <l n="b">rājabhiḥ sagarādibhiḥ</l>
+        <l n="c">yasya yasya yadā bhūmis</l>
+        <l n="d">tasya tasya tadā palaṁ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="43" met="anuṣṭubh" xml:lang="san-Latn">
+        <l n="a">gaṇyaṁte pāṁvavō<lb n="95"/>bhūmer</l>
+        <l n="b">gaṇya<supplied reason="omitted">ṁ</supplied>te vriṣṭi-biṁdanaḥ</l>
+        <l n="c">na gaṅyatē vidhātrāpi</l>
+        <l n="d">dharm<supplied reason="omitted">m</supplied>a-saṁrakṣaṇē phalaṁ <g type="ddanda">.</g></l>
+        
+    </lg>
+    
+    <lg n="44" met="anuṣṭubh" xml:lang="san-Latn">
+        <l n="a">svadat<supplied reason="omitted">tā</supplied>ṁ paradattaṁ vā</l>
+        <l n="b">yō harēta vasuṁdharāṁ <g type="danda">.</g></l>
+        <l n="c">ṣaṣṭhir-vvarṣa-saharāṇi</l>
+        <l n="d">viṣṭhāyāṁ jā<lb n="96"/>yatē krimiḥ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="45" met="anuṣṭubh" xml:lang="san-Latn">
+        <l n="a">karmaṇā manasā vācā</l>
+        <l n="b">ya<supplied reason="omitted">ḥ</supplied>samartthōpyupēkṣatē <g type="danda"></g></l>
+        <l n="c">sabhyās tathaive cāṁḍāla<supplied reason="omitted">ḥ</supplied></l>
+        <l n="d">sarvva-dharmma-bahiṣkritaḥ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="46" met="anuṣṭubh" xml:lang="san-Latn">
+        <l n="a">kulāni tārayēt karttā</l>
+        <l n="b">sapta sapta ca sapta ca <g type="danda"></g></l>
+        <l n="c">adhō vapā<lb n="97"/>tayēd dhartā</l>
+        <l n="d">sapta sapta ca sapta ca <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="47" met="anuṣṭubh" xml:lang="san-Latn">
+        <l n="a">Api gaṁgādi-tīrthhēṣu</l>
+        <l n="b">haṁtur gāmathavā dvijaṁ</l>
+        <l n="c">niṣkriti syān na d<choice><sic>e</sic><corr>ē</corr></choice>vasva</l>
+        <l n="d">brahmasva-haraṇa <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="48" met="śālinī" xml:lang="san-Latn">
+        <l n="a">sāmānyōyaṁ dharmma-sētu<lb n="98"/> nripārṇāṁ</l>
+        <l n="b">kālē-kālē pālanīyō bhavadbhiḥ</l>
+        <l n="c">sarvvān ētānu bhāvitaḥ pārthavēṁdrā</l>
+        <l n="d">bhūyo-bhūyō yācatē rāmacaṁdraḥ <g type="ddanda">.</g></l>
+        </lg>
+    <p>
+        svastyastu maṁgaḷaṁ ca <g type="danda">.</g> śrīś ca <g type="ddanda">.</g> <g type="SpiraIL">.</g>
+    
+    </p>
+    
+    <lg n="49" met="śālinī" xml:lang="kan-Latn">
+        <l n="a"><g type="SpiraIL"></g> haranoḷ tavanidhiyṁtāṁ</l>
+        <l n="b">daravuvillenisi paḍedu dēgulavaṁ pura</l>
+        <l n="c">harana kaiḷāsadaṁtire</l>
+        <l n="d">viracisidaṁ śaṁbhu-bhakti-dhāmaṁ rāmaṁ <g type="ddanda">.</g></l>
+        
+    </lg>
+   
+    <lg n="50" met="utpalamāla" xml:lang="kan-Latn">
+        <l n="a">dēgulak endu bhakta-<lb n="100"/>janavādaradind idir-erdda koṭ<supplied reason="omitted">ṭ</supplied>aḍaṁ</l>
+        <l n="b">hāgavan ādaḍaṁ kaḷadu-koḷ̣lade bēḍade nāḍe dvenyadiṁ</l>
+        <l n="c">pōgi nripāḷaṁ śivan anugrahav akṣayavāge māḍidaṁ</l>
+        <l n="d">dēgulaṁ harādriheṇe-<lb n="101"/>yāgire rāmanidēṁ kritārtthanō <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="51" met="kanda" xml:lang="kan-Latn">
+        <l n="a">kēśavarāja-camūpaṁ</l>
+        <l n="b">śāsanavaṁ pēḷdan aṁtadaṁ tirddi nirā</l>
+        <l n="c">yāsane baradan īśana dāsaṁ śiva-caraṇakamaḷa-śaraṇaṁ saraṇaṁ <g type="ddanda">.</g> <g type="SpiraIL">.</g></l>
+        <l n="d"></l>
+    </lg>
+    
+    <p>
+        <lb n="102"/>svasti śrīmattu-hara-dharaṇī-prasūta-mukkṁṇa-kādaṁbaruṁ banavāsi-puravārādhiśvararuṁ śrī-madukanātha-dēvara dibya-śrī-pāda <g type="ddanda">.</g>
+        <lb n="103"/>padmāradhakaru <g type="ddanda"></g> mal<supplied reason="omitted">l</supplied>dēvarāyaruṁ <g type="ddanda">.</g> nāgarakha<supplied reason="omitted">ṁ</supplied>dēya<gap reason="illegible"></gap>
+    </p> 
+</div>
+    
+      <div type="apparatus">
+        <listApp>
+       
+            <app loc="1">
+            <lem source="bib:EI_1898-1899"><choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē</lem>
+        </app>
+            
+            <app loc="2">
+       <lem source="bib:EI_1898-1899">am<choice><orig>r</orig><reg>ṛ</reg></choice>ita</lem>
+        </app>
+       
+            <app loc="3">
+           <lem>dhāmaṁ</lem>
+           <rdg source="bib:EI_1898-1899">dhāmam</rdg>         
+       </app>
+            
+            <app loc="3">
+                <lem source="bib:EI_1898-1899">anu<choice><orig>pp</orig><reg>p</reg></choice>ama</lem>
+            </app>
+            
+          <app loc="4">
+              <lem source="bib:EI_1898-1899">dvayāḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan</lem>
+          </app> 
+            
+            <app loc="4">
+                <lem source="bib:EI_1898-1899">eduṁnān</lem>
+                <note source="bib:EI_1898-1899">to saṁpattan enduṁ</note>
+            </app>
+            <app loc="5">
+                <lem source="bib:EI_1898-1899">v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ</lem>  
+            </app>
+            
+            <app loc="6">
+                <lem source="bib:EI_1898-1899">hastābhr<choice><orig>i</orig><reg>a</reg></choice>-māḷā</lem>
+            </app>
+            
+            <app loc="6">
+                <lem source="bib:EI_1898-1899">sutti<choice><orig>pp</orig><reg>rpp</reg></choice>ud</lem>
+            </app>
+            
+           <app loc="8">
+               <lem source="bib:EI_1898-1899">pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda</lem>
+           </app>
+            
+            <app loc="8">
+                <lem source="bib:EI_1898-1899">niśa<choice><orig>d</orig><reg>dh</reg></choice>a</lem>
+            </app>
+            
+            <app loc="9">
+                <lem source="bib:EI_1898-1899">naga</lem>
+                <note>I read śaka</note>
+            </app>
+            
+            <app loc="10">
+                <lem source="bib:EI_1898-1899">kara</lem>
+                <note>I read kata</note>
+            </app>
+            
+            <app loc="11">
+                <lem source="bib:EI_1898-1899">nāde<choice><orig>v</orig><reg>y</reg></choice></lem>
+            </app>
+            
+            <app loc="12">
+                <lem source="bib:EI_1898-1899">sam<choice><orig>r</orig><reg>ṛ</reg></choice>iddhitin</lem>
+            </app>
+           
+            <app loc="13">
+                <lem source="bib:EI_1898-1899">pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a</lem>
+            </app>
+            
+            <app loc="14">
+                <lem source="bib:EI_1898-1899">bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī</lem>
+            </app>
+            
+            <app loc="14">
+                <lem source="bib:EI_1898-1899">k<choice><orig>r</orig><reg>ṛ</reg></choice>ita</lem>
+            </app>
+            
+                <app loc="14">
+                <lem source="bib:EI_1898-1899">eppuguṁ</lem>
+                <note source="bib:EI_1898-1899">to read oppuguṁ</note>
+            </app>
+            
+            <app loc="16">
+                <lem source="bib:EI_1898-1899">m<choice><orig>ō</orig><reg>au</reg></choice>ḷi</lem>
+            </app>
+            
+            <app loc="16">
+                <lem source="bib:EI_1898-1899">paṭala</lem>
+                <note>I read pataḷa</note>
+            </app>
+            
+            <app loc="17">
+                <lem source="bib:EI_1898-1899"><choice><orig>p</orig><reg>v</reg></choice>ipraroḷ</lem>
+            </app>
+            
+            <app loc="17">
+                <lem source="bib:EI_1898-1899"><choice><orig>b</orig><reg>v</reg></choice>yāsa</lem>
+            </app>
+            
+            <app loc="17">
+                <lem source="bib:EI_1898-1899">sad<choice><orig>r</orig><reg>ṛ</reg></choice>iśan</lem>
+            </app>
+            
+            <app loc="18">
+                <lem source="bib:EI_1898-1899">o<lb n="18"/>r<choice><orig>bb</orig><reg>vv</reg></choice>an</lem>
+            </app>
+            
+            <app loc="18">
+                <lem source="bib:EI_1898-1899">d<choice><orig>p</orig><reg>v</reg></choice>ijōttaman</lem>
+            </app>
+            
+            <app loc="19">
+                <lem source="bib:EI_1898-1899">hita<choice><orig>b</orig><reg>v</reg></choice>ratey</lem>
+            </app>
+            
+            <app loc="20">
+                <lem source="bib:EI_1898-1899">v<choice><orig>r</orig><reg>ṛ</reg></choice>iṁda</lem>
+            </app>
+            
+            <app loc="20">
+                <lem source="bib:EI_1898-1899">p<choice><orig>a</orig><reg>ā</reg></choice>dāraviṁdaṁ</lem>
+            </app>
+            
+            <app loc="22">
+                <lem source="bib:EI_1898-1899">dās<choice><orig>i</orig><reg>a</reg></choice></lem>
+            </app>
+            
+            <app loc="23">
+                <lem source="bib:EI_1898-1899">bauddharoḷa<supplied reason="omitted">ḷ</supplied></lem>
+            </app>
+            
+            <app loc="24">
+                <lem source="bib:EI_1898-1899">orb<choice><orig>vi</orig><reg>ba</reg></choice>nam</lem>
+            </app>
+        </listApp> 
+      </div>
+    
+    <div type="translation" resp="part:ants">
+        <p n="1-4">Ōm! Homage to Śambhu, adorned with the emblem of the moon that kisses his forehead, the main pillar supporting the foundation of the city of the three worlds.
+            May that tree of paradise which is Śaṁbhu, praised by the gods, which is the abode of the beauty of clusters of flowers which are the rows of the drops of the water agitated by the waves of the holy river Gaṅgā; which has for sprouts the dangling dreadlocks; which has as fruits the ambrosia-rayed <supplied reason="explanation">the moon</supplied>; which is pleasing for the branches that are the arms; and which is embraced by a creeper that is <supplied reason="subaudible">the goddess</supplied> Gaurī, through a praise/supplication <supplied reason="subaudible">give</supplied> to Rāma, with a perpetual perseverance, an abundance of desired fruits.
+            May Śrīkaṇṭha, who is Īśa<supplied reason="subaudible">in the form of</supplied> Vīra-Sōmēśa, surrounded by all the <foreign>gaṇa</foreign>s,-who is adorned by feet in which there are set her and there the numerous crimson rays of the cluster of the jewels in all the tiaras of the multitude of the gods; who is the best of the immortals; and who is the abode of the splendour of the rays of the glances of <supplied reason="explanation">Pārvatī</supplied> the daughter of <supplied reason="explanation">Himālaya</supplied> the lord of the mountain of cold,-always confer good fortune upon Rāmadēva, upon him who is of unequalled greatness!    
+        </p>
+        <p n="5-10">Round about it <supplied reason="explanation">namely Jambūdvīpa</supplied> is the ocean, which is met by banks of clouds that are the trunks, blowing out sprouts of water, of numerous herds of elephants which agitate the waters by the blow of the tips of their tails that are as efficient in doing so as the shoals of great fish which fall out from months of the fierce monsters of the sea that glide to and from which there rise the rays of many jewels and the lustre of large pearls; which has lines of mountains on its shores; and which is enclosed by the brooad hips of the woman who is the Earth. And there, on the south of Jambūdvīpa, whoch is girt about by the salt ocean which is thus beautiful as being the abode of numerous marine animals and the place of very high waves, among all the Nīḷa, Niṣadha, and Himālaya mountains, the cold mountain <supplied reason="subaudible">Himālaya</supplied>, which has vast glens for rest after the fatigue of the great dalliance of love of the crowd of the daughters of the <foreign>siddha</foreign>s; which is full of rows and rings of huge rocks falling down from the many piles of mountains that are pounded by the torrent of the waters of <supplied reason="explanation">the Manākinī</supplied> the river of heaven; and which is irradiated by the mass of the tremulous lustre of the cold-rayed moon,-is beautiful with a lenght stretched out so as to measure to eastern and the western oceans.
+        </p>
+        <p n="10-17">In the land of Bhāratavarṣa, which lies on the southern flank of that same Himālaya, the king of mountains, there shines, with exceedingly great comeliness, the country of Kuntaḷa; and there there is beautiful the city that is called Alande, full of grace and splendour, and ever esteemed to altogether surpass Amarāvatī <supplied reason="explanation">the city of the gods</supplied> with learned people and with a countless wealth of cattle and grain and water. Moreover:-as is well known, in Amarāvatī there are Sukēśi and Mañjughōṣe, these two; but in that town there is a whole multitude of women, all of them with beatiful hair and sweet voices. It is charming with various plantations of sweet-smelling rice, with parks and gardens which are in bloom through all the seasons, with plenty of well-filled tanks and wells and pools, with sounds everywhere of cranes and buzzing bees and cuckoos and ruddy geese and peacocks and numerous flights of parrots and blue jays, and with the music of lutes in the diversions of courtesans. And when it had thus become a place of many charms, as being known to be the site of an infinite number of parks, and pleasing with inexhaustible pools of water, and crowded with many people and the dwelling-place of innumerable courtesans, and the abode of a countless number of merchants, there came down there, from the silver mountain <supplied reason="explanation">Kailāsa</supplied>, accompanied by Girijā <supplied reason="explanation">Pārvatī</supplied>, with great gladness, the god Sōmanātha <supplied reason="explanation">Śiva</supplied>, who has the water-lilies that are his feet made tawny by the mass of the multitude of the rays that dart forth from the jewels inlaid in the tiaras of all the gods, and who is a very tree of paradise having for the ripening of its fruits the accomplishment of the desires of worshippers who bow down before him in supplication.   
+        </p>
+        <p n="17-20">Among the residents of that town of Sōmanātha, in the Brāhmaṇ quarters, amongst the Brāhmaṇs, there became famous one who resembled those <supplied reason="subaudible">well known</supplied> Vyāsa and Śuka and Vāmadēva and Parāśara and Kapiḷa and others; namely he, Puruṣōttama, who was called the best of Brāhmaṇs,-belonging to the Śrīvatsa gōtra; praised by <supplied reason="subaudible">all other</supplied> Brāhmaṇs; acquainted with all the <foreign>Vēda</foreign>s and <foreign>Vēdāṅga</foreign>s; of an excellent disposition through possessing the virtue of pure behaviour. The good wife of that Brāhmaṇ was Padmāmbike, of pure behaviour, devoted to her husband, who by her virtuous disposition caused herself to be likened to both Sītādēvī <supplied reason="explanation">the wife of Rāma</supplied> and the wife of that <supplied reason="subaudible">well-known</supplied> Satyatapas. And, that husband and wife having remained for a long time without offspring, one day, having come to know the saying of the <foreign>Vēda</foreign> that "there is no heaven for him who has no son", the famous Puruṣōttama, who practised truth and purity, did worship, together with his wife, to Śaṁbhu, in order to obtain a son, saying "Īśa is the protection from misfortune".      
+        </p>
+        <p n="20-27">At the same time, when Mahēśvara <supplied reason="explanation">Śiva</supplied>, whose feet, resembling water-lilies, are worshipped by the crowd of gods and demons,-with Kēśava <supplied reason="explanation">Viṣṇu</supplied> and Vāsava<supplied reason="explanation">Indra</supplied> and Abjabhava <supplied reason="explanation">Brahman</supplied> in attendance upon him, and surrounde by countless <foreign>Gaṇa</foreign>s, and accompanied by Umā <supplied reason="explanation">Pārvatī</supplied>,-was enjoying the delight of an interchange of pleasing conversations in royal <foreign>darbār</foreign> in a delightful part of the mountain Kaiḷāsa, Nārada, the leader of the <foreign>Gaṇa</foreign>s, spake thus:-"While Ohila, Dāsa, Cenna, Siriyāḷa, Haḷāyudha, Bāṇa, Udbhaṭa and Maḷayēśvara who came here in human form, and Kēśavarāja, and innumerable other <foreign>Gaṇa</foreign>s, resigning the happiness of earthly life, have been dwelling here in this especial excellet abode of faith, the congregation <supplied reason="subaudible">of Śaivas on the earth</supplied> has been afflicted among the Jains and Buddhist". On his speking thus, Mahḕsvara, with a smile on his face that resembled a water-lily, said to Vīrabhadra:-"Do thou, in the world of men, beget a man with a portion of thyself, and then put a stop to those hostile observances". And thereupon Vīrabhadra came in a dream, in the guise of an ascetic, to Puruṣōttamabhaṭṭa, and said:-"There shall be born to thee a son, who shall suppress hostile observances"; and he further said:-"Those many people, in the region of the south, who have tradden in the paths of the Jains, all of them shall be put to shame, O master! By the son <supplied reason="subaudible">who shall be called</supplied> Rāma". Having thus spoken and having manifested great graciousness, he went away. And Puruṣōttamabhaṭṭa, full of content at having succeeded, obtained a son, and performed the birth-ceremony and other rites, and bestowed the name of Rāma in accordance with the bidding of the god.
+        </p>
+        <p n="27-33">
+            And while he <supplied reason="subaudible">Rāma</supplied>, having become imbued with meditation on Śiva in a manner suitable to his divine birth, was practising observances with strict indifference to other things, it came about that, through the intensity of his devotion which was directed entirely to one object, he was called one who had one sole aim; and, having worshipped Śiva with great exclusivenes, he acquired the name of Ēkāntada-Rāma. And in the course of practising observances with speech and body and mind always devoted to the feet of <supplied reason="subaudible">Śiva</supplied> the lord of Gaurī <supplied reason="subaudible">Pārvatī</supplied>, as various sacred places prescribed by the Śaiva traditions and on all the numerous great and small rivers where there are altars of Śaṁbhu, he came and beheld with joy the Sōmanātha of the south, honoured by the gods, who drives away all sins. And when, having thus come, he was worshipping that Sōmanātha of Huligeṟe, whose feet are beautified by the cluster of the rays of the jewels in the tiaras of the greatest of the gods who unceasingly bow down before him, that supreme lord became manifest, and said:-"Go, O Rāma! At my command, to the excellent village of Abbalūru, and take uo thy abode there at ease, and sacrifice to me with strict devotion; and without any apprehension, enter into controversy with the Jains, and wager thy head; and be victorious, O son!"      
+        </p>
+        <p n="33-38">And when, on the god Sōmanātha having thus given his commands, Ēkāntada-Rāmayya was abiding, with complete indifference to other things, at the shrine of the god Brahmēśvara of Abbalūru, some of the Jains, together with that Saṅkaguaṇḍa, concerted together, and came to obstruct him, and with great resolutness persistently sang <supplied reason="subaudible">of their own god</supplied> in the proximity of Śiva, saying "Jina is the <supplied reason="subaudible">true</supplied> divinity". When he heard that, Ēkāntada-Rāmayya became very full of wrath, and said "It is forbidden to praise any other deity in the proximity of Śiva" but, refusing to desist, they continued vociferating; and then he spake thus:-"Who is it that creates the earth? who is it that protects it in the time of calamity? and further, who is it that is able to destroy it, when his anger becomes great? It is that same Śaṁbhu; and, in the face of the existence of him, who pervades everything, how can he <supplied reason="explanation">Jina</supplied> be a god, who came by chance into the world, and lived in bewilderment, and applied himself to practising austerity, and <supplied reason="subaudible">only thus</supplied> attained happiness? does your <foreign>Arhat</foreign> bestow gifts as Hara <supplied reason="explanation">Śiva</supplied> does? has he ever given even so small a thing? <supplied reason="subaudible">it is</supplied> from Hara <supplied reason="subaudible">that</supplied> in former days the devout <foreign>Gaṇa</foreign>s Bāṇa and Diniśāḷa, and so many others, obtained boons". On his having thus spoken, the Jains said:-"It may be so! but why dost thou simply talk of former worthies? cut off thine own head, under such conditions that all people may know of it, and offer it to him, and get it back from him <supplied reason="subaudible">and then we will admit that</supplied> thou art indeed a pious man and he is indeed the god".
+        </p>
+        <p n="38-43">When they had thus spoken, Ēkantāda-Rāma said "If I offer my head to <supplied reason="explanation">Śiva</supplied> the foe of Love, and obrain it back, what is the wager that ye will pay to me?"; whereupon they replied, in anger "We will pluck up our Jina and set up <supplied reason="subaudible">an image of</supplied> Śiva". Then, saying "Give me <supplied reason="subaudible">it in writing on</supplied> a palmyra-leaf" and taking the palmyra-leaf that they gave, Rāma brought <supplied reason="subaudible">his image of</supplied> Śiva into the presence <supplied reason="subaudible">of the Jains</supplied> at the place where he was to straightway cut off his head and make an offering of it, and spake thus:-"If I have ever not said that thou alone, O Śaṁbhu, art my protection without fail, and if my thoughts have evere gone astray after other gods, my head shall not go from me by the edge of this scimitar, but otherwise, O Śiva, let it roll down before thy feet" and, thus speaking, the brave Rāma, with a loud shout, and with an unfaltering hand, set himself to cut off his head and lay it at the feet of Śiva. While the disciples were saying "Surely he inflicted but a small wound; he drew the sword and thought, indeed, to do a bold thing, but then he became afraid and has preserved his body unhurt; he must have devised some mischief to the sword <supplied reason="subaudible">blunting it,so that it shall not wound him"</supplied>, Rāma, that man of ability, quickly and instantly cut through his own neck with as little difficulty as if he were shearing through a bundle of grass, and placed <supplied reason="subaudible">his head</supplied> at the feet of Īśa <supplied reason="explanation">Śiva</supplied>, and caused joy to the attendants of Śaṁkara <supplied reason="explanation">Śiva</supplied>.
+            
+        </p>
+        <p n="43-46">After the severed head had been exhibited in public during seven days, Hara kindly gave it back: the head became sound again without any scar; and Rāma received it back, to the knowledge of all people. Inmuch perturbation, all the Jains, in great distress, bowed down on the ground and seized his feet, imploring him to abstain from destroying their Jina; but, refusing to abstain, he fell on it like a thunderbolt from a clear sky, and broke the head of the Jains, crying out that Mārī <supplied reason="explanation">the goddess of plague or death</supplied>
+ had come upon them, were running away in flight, he beat the Jina till it fell; and he made them accept the holy Vīra-Sōmēśva.            
+        </p>
+        <p n="46-51">When the jains, having gone in a body, and having related all the matter in a cunning way to king Bijjaṇa, were, with enmity, making a very slanderous complaint about it, king Bijjaṇa became mad with anger, and looked at Rāmayya with wrath, and said:-"Why hast thou done this evil thing?"; whereupon he shewed the palmyra-leaf that they had given, and said:-"This is the palmyra-leaf that they gave; weight it in thy mind, and place it in thy treasury; let them wager again; if they dare further stake, in thy presence, <supplied reason="subaudible">all</supplied> their various Jinas, then I will cut off my head and place ir as the stake in their hands, and will recover it even after they shall have burned it; but they shall wager to me the various Jinas of their eight hundred shrines, the chief of which is the Ānesejjeyabasadi". Thereupon king Bijjaṇa said:-"We will see this marvel"; and he summoned the wise men of the shrines, and the <supplied reason="subaudible">other</supplied> Jains, and said:-"All of you wager your shrines, and give <supplied reason="subaudible">it in writing on</supplied> a palmyra-leaf. But they said:-"We came to lay a complaint about the shrine which has already been ruined; we have certainly not come to lay a wager and lose <supplied reason="subaudible">any more of</supplied> our Jinas!" Then king Bijjaṇa laughed, and dismissed them, bidding them to go without any further words, and to live in peace; and he gave to Rāmayya, in sch a way that all of them knew of it, a certificate of victory.
+            
+        </p>
+        <p n="51-55">
+A very Indra to the mountains that are hostile kings; a very Agastya to the ocean of hostile kings; a hot fire to the fuel of hostile kings; a very Śiva to Love in the form of hostile kings; a great Garuḍa to the fierce serpents that are hostile kings; such is the glorious Bijjaṇa, the friend of those who swing the sword in seizing the wives of inimical kings, and the favourite of the woman Fame. Having put down the Cōḷa, having humbled Lāḷa, having deprived Nēpāḷa of stability, having crushed Andhrato pieces, having madethe Gurjara captive, having broken the greatness of the king of Cēdi, having ground Vaṅga in a mill, having fought and killed the kings of Baṅgaḷa, Kaḷiṅga, Māgadha, Paṭasvara, and Māḷava, the brave king Bijjaṇārāya has protected the whole circuit of the earth. Agastya was born among the Kaḷacuryas <supplied reason="subaudible">there was displayed</supplied> the power of drinking up, without vomiting, the ocean that was the lineage of the Caḷukyas.         
+        </p>
+        <p n="55-61">Hail! The glorious bijjaṇdēva,-who was possessed of all the glory of the names of, among others, the <foreign>Mahāmaṇdalēśvara</foreign> who attained the <foreign>pañcamahāśabda</foreign>, the supreme lord of Kāḷañjara the best of towns, he who had the banner of a golden bull, he who was heralded in public with the sounds of the double drum called ḍamaruga, he who was the sun of the water-lily that was the family of Kaḷacuryas, the fierce in fight, the cage of thunderbolts to <supplied reason="subaudible">protect</supplied> elephant-like chieftains who sought refuge with him, a very <supplied reason="explanation">Rāvaṇa</supplied> lord of Laṅka in prowess, <supplied reason="subaudible">he who behaved like</supplied> a uterine brother to the wives of other men, he who was successful <supplied reason="subaudible">even</supplied> on a Saturday, the wrestler against hill-forts, a very Rāma characterised by firmness of character, the wrestler free from apprehension, was pleased with the great boldness that was displayed by Rāmayya, and with his unsurpassed devotion to the god Mahēśvara; and, for the repairs of the whatever might become broken or torn or worn-out belonging to the enclosure, with beautiful pinnacles, of the temple of the god Vīra-Sōmanātha, and for the <foreign>aṅgabhōga</foreign> and the perpetual oblation of the god, having put forward <supplied reason="subaudible">to manage the grant</supplied> Caṭṭarasa, the chieftain of the Sattaḷige seventy which was <foreign>kampaṇa</foreign> of the Banavase twelve-thousand, and the chief <foreign>Prabhus</foreign> and the village-headmen of that <foreign>kampaṇa</foreign>, and having laved the feet of toh holy Ēkāntada-Rāmayya, he gave, with libations of water, the village named Gōgāve to the south of Maḷugunda in the Sattaḷige seventy, with its established boundaries and <supplied reason="subaudible">to be enjoyed according to</supplied> the <foreign>tribhōga</foreign>, and so maintened. 
+        </p>
+        <p n="61-65">Om! When many kings, possessed of glory and renowned fame and valour, endowed with prowess <supplied reason="subaudible">that has been preserved</supplied> in legends, had passed away in tje lineage of the Caḷukya kings which was considerd to be the chief ornament of the lunar race, Tailapa <supplied reason="subaudible">II</supplied>, as an instance of a typical king, who may be called one of the seven principal mountains of the earth which was the Cāḷukyas, with happiness possessed <supplied reason="subaudible">the world</supplied>. To that Tailapadēva there was born a son name Iṟivabeḍaṅga-Satyāśrayadēva; his son was Vikramadēva <supplied reason="subaudible">V</supplied>; his younger brother was Daśavarmadeva; his son was Jayasiṅgarāya <supplied reason="subaudible">II</supplied>; his son was Āhavamalla-<supplied reason="subaudible">Sōmēśvara I</supplied>; his son was Tribhuvanamalla-Permāḍirāya-<supplied reason="subaudible">Vikramāditya VI</supplied>; his son was Bhūlōkamalla-Sōmēśvara <supplied reason="subaudible">III</supplied>; his son was the <foreign>pratāpacakravartin</foreign> <supplied reason="subaudible">Perma</supplied>-Jagadēkamalla <supplied reason="subaudible">II</supplied>; his younger brother was Traiḷōkyamalla-Nūrmaḍi-Tailapa <supplied reason="subaudible">III</supplied>; and his son was Tribhuvanamalla-Sōmēśvara <supplied reason="subaudible">IV</supplied>, whose prowess and majesty were as follows:-
+        </p>
+        <p n="69-80">That same Tribhuvanamalla-Sōmēśvaradēva <supplied reason="subaudible">IV</supplied>, when the <foreign>kumāra</foreign> Bammayyathe chief of all the leaders of the army, the establisher of the Cāḷukya sovereignity, and he himself, were at the small village of Seleyahaḷḷiyakoppa with the pleasure of an agreeble interchange of communications, and were one day engaged in a discourse about religion and were reciting the praises of ancient and recent devotees of Śiva, heard the story of Ēkāntada-Rāmayya, when he was at Abbalūru, and when all the Jains assembled and came and entered into a great disputation with him and made a wager that, if he would cut off his head and cloud get it back from the hands of Śiva, he might break their Jina and set up Śiva and gave <supplied reason="subaudible">it in writing on</supplied> a palmyra-leaf, took the palmyra-leaf that they gave, and cut off his own head, and then, after doing worship to Śiva, on the seventh day got back his head free from all injury just as it was before, and obtained a certificate of victory, together with respectful treatment, from the hands of Bijjaṇadēva, and broke the Jina, and destroyed the shrine and flung it down, and laid waste the site, and set up the god Vīra-Sōmanātha, and in accordance with the Śaiva traditions founded a temple with three pinnacles, as vast as a mountain. And Tribhuvanamalla-Sōmēśvaradēva <supplied reason="subaudible">IV</supplied> was astonished, and, from a desire to see him, caused a letter of deferential invitation to be written, and made him come, and met him with respect, and took him along with himself to his own house, and did worship to him with great reverence, and, for he repairs of anything that might become broken or torn or worn-out belonging to the enclosure with beautiful pinnacles of the temple of the holy god Vīra-Sōmanātha, and for the <foreign>aṅgabhōga</foreign> and the <foreign>raṅgabhōga</foreign> and the perpetual oblation of the god, and for the occasions, among others, of the purificatory ceremony of the month Caitra and the festival of spring, and for the giving of food and the imparting of knowledge, saying that the village was to belong to the god, with the very greatest devotion, having put forward Mallidēva, the chieftain of the <foreign>kampaṇa</foreign> <supplied reason="subaudible">to manage the grant</supplied>, and having laved the feet of Ēkāntada-Rāmayya gave with libations of water, <supplied reason="subaudible">by</supplied> a copper-plate charter, as a grant to the god Paramēśvara <supplied reason="explanation">Śiva</supplied>, the village of Abbalūru in the Nāgarakhaṇḍa seventy which was a <foreign>kampaṇa</foreign> of the Banavase twelve-thousand, together with the custums-duty called <foreign>mēlāḷike-manneya</foreign> of that village, and with <supplied reason="subaudible">the right to</supplied> fines and ounishments and buried treasure, and with its boundaries established in former times and with the <foreign>trībhōga</foreign>; and he seated him on an elephant and paraded him in public, and thus with the very greatest devotion mainteined.
+        </p>
+        <p n="80-81">Om! Ēkāntada-Rāma, who worshipped the water-lilies that are the feet of Śrīkaṇṭha with thoughts free from any perplexity, and who became famous in being considered to be the bulwark of the Śaiva rites, delighted in devotion to Śiva!
+        </p>
+        <p n="81-82">May the holy god Vīra-Sōma, who is the greatest among all the gods; who carries moon <supplied reason="subaudible">on his forehead</supplied>; and who wears the grab of an actor in the dance of amorous dalliance which is lovely on account of the beauty imparted to it by smiling, white, trembling, full glances of the sweet smiles of <supplied reason="explanation">Pārvatī</supplied> the daughter of the mountain <supplied reason="explanation">Himālaya</supplied>, day by ady confer fortune and long life and fame upon Kāmadēva, upon him who is endowed with nobility!
+        </p>
+        <p n="82-91">Hail! When the illustrious <foreign>Mahāmaṇḍalēśvara</foreign> Kāmadēvarasa, possessed of the string of names of, among others, the <foreign>Mahāmaṇḍalēśvara</foreign> who attained the <foreign>pañcamaśabda</foreign>; the supreme lord of Banavāsi, the best of towns; he who acquired the excellent favour of the god Madhukēśvara of Jayantī <supplied reason="explanation">Banavāsi</supplied>; the delight of learned people; the ornament of the family Mayūravarman; the lion of the Kādambas; the fierce in fight; he who excelled in audacity; the elephnt-goad of brave men; a very Rādhēya <supplied reason="explanation">Karṇa</supplied> in truth; a very cage of thunderbolts to <supplied reason="subaudible">protect</supplied> those who sought refuge with him; a very cow of plenty to petitioners, was governing the Panuṁgal five hundred, punishing the wicked and protecting the good, he came and saw the god Vīra-Sōmanātha of Abbalūru, and beheld the temple, as large as a mountain, which Rāmayya had made according to the precepts of the Śaiva traditions, and listened in detail to the daring that he had displayed, and was pleased, and took him along with himself with the very greatenest affection, and went away; and, when his ministers and himself with the <foreign>maṇḍalika</foreign> Madukeya, were seated <supplied reason="subaudible">in assembly</supplied> at the capital of Pānumgal with the pleasure of an agreeble interchange of communications, with the very greatest devotion he made the village named Mallavaḷḷi, on the north of Jōgēsara whoch near to Muṇḍagōd in the Hosanāḍ seventy which is a <foreign>kampaṇa</foreign> in the Pānuṁgal five hundred, together with its established boundaries and including the <foreign>trībhōga</foreign> into a <foreign>namasya</foreign> grant for the god Vīra-Sōmanātha, and laved the feet of Rāmayya, and gave it, with libation of water, with the very greatest devotion, for the temple of that same god, and for the <foreign>aṅgabhōga</foreign> and the <foreign>raṅgabhōga</foreign> and the perpetual oblation of the god, and for the purificatory ceremony of the mont Caitra and the festival of spring and the other occasions, and for the giving of food and thus preserved religion. May it be well! Om!
+        </p>
+        <p n="91-99">Those who preserve these acts of religion shall obtain the reward of fashioning in gold the horns and hoofs of a thousand tawny-coloured cows at the sacred Vāraṇāsi or Prayāga or Kurukṣētra or Arghyatīrtha or Śrīparvata or any other holy sites, and giving them to Brāhmaṇs versed in the four <foreign>Vēda</foreign>s at such meritorious times as an eclipse of the sun, an eclipse of the moon, a <foreign>vyatīpāta</foreign>, a passage of the sun from one sign of the zodiac to the next, etc.; those who destroy these acts of religion shall incur the sin of slaying those same cows and Brāhmaṇs at the Ganges or Vāraṇāsi or Kurukṣētra or any other sacred sites. And, to shew that there is no doubt about this, he quotes the saying of Manu of former times:-The earth has been enjoyed by many kings, commencing with Sagara; whosoever at any time possesses the earth, to him belongs, at that time, the reward <supplied reason="subaudible">of making this grant, if he contiues it</supplied>. The dust of the earth may be counted, and the drops of rain; but the reward of preserving a religious grant cannot be estimated even by the creator. He who confiscates land that has been given, whether by himself or by another, shall be born as a worm in ordure for te duration of sixty thousand years. He who, though capable <supplied reason="subaudible">of better things</supplied> displays neglect in act or thought or speech, whether he be a person of good condition or a man of low caste, he is outside the pale of all religious rites. The maker <supplied reason="subaudible">of a grant</supplied> shall rise seven times seven times seven family <supplied reason="subaudible">to heaven</supplied>, but he who confiscates shall cause the same number of families to sink down <supplied reason="subaudible">into hell</supplied>. There may be absolution for one who slays a cow or a Brāhmaṇ on the Ganges or at any other sacred place, but not for men who confiscate the property of gods or Brāhmaṇs. "This general bridge of religion should at all times be preserved by you"; thus does Rāmacandra make his earnest request to all future princes. May it be well and auspicious; and may there be good fortune. Om! Om!
+        </p>
+        <p n="99-101">Saying "<supplied reason="subaudible">As</supplied> I am thus <supplied reason="subaudible">notoriously</supplied> a very treasury of austerity directed towards Hara, any small effort is not <supplied reason="subaudible">becoming to me</supplied>", rāma, the abode of devotion to Śaṁbhu, constructed <supplied reason="subaudible">this great</supplied> temple of <supplied reason="explanation">Śiva</supplied> the destroyer of the cities <supplied reason="explanation">of the demon Tripura</supplied>. Without spending or asking for anything, even so little as a <foreign>hūga</foreign>, which devotees, standing in front of him in reverence, might offer for the shrine, but going with great humilty to the princes <supplied reason="subaudible">and obtaining their contributions</supplied>, through the inexhaustible favour of ̀Siva Rāma made this temple, resembling <supplied reason="explanation">Kailāsa</supplied> the mountain of Hara; how successful he was!
+        </p>
+        <p n="101">Kēśavarāja, the leader of the forces, spake this record; and Saraṇa, the slave of Īśa, he whose refuge is the water-lilies that are the feet of Śiva, put it into proper shape and wrote it with facility. Om!
+        </p>
+        <p n="102">Hail! Malidēvarāya <supplied reason="subaudible">who belonged to the race of</supplied> Mukkaṇṇa-Kādamba who was born from the holy Hara <supplied reason="explanation">Śiva</supplied> and the Earth; the supreme lord of Banavāsi, the best of towns; the worshipper of the water-lilies that are the sacred and holy feet of the holy god Madhukanātha,<gap reason="illegible"></gap> of Nāgarakhaṇḍe, gave <gap reason="illegible"></gap>
+        </p>
+    </div>
+    
+    <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:EI_1898-1899"/></bibl> (EI 5-E).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the stone in situ.
+	</p>
+       
+        <bibl n="Fl">
+			<ptr target="bib:EI_1898-1899"/>
+			<citedRange unit="page">237-260</citedRange>
+			<citedRange unit="item">E</citedRange>
+		</bibl>
+    </div>
+    
+        
+    </body>
+        </text>
+</TEI>
+    

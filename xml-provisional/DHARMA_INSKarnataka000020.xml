@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment of inscription, ?</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka000020</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-07-15">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+    </p>
+<p>
+    <lb n="1"/><milestone n="b" unit="column"/>na baddegēśvara-dēva
+    <lb n="2"/>ra saṁnnidhānadoḷ ya
+    <lb n="3"/>ma-niyama-svādhyā
+    <lb n="4"/>ya-dhyānānuṣṭāna
+    <lb n="5"/>samacar appa mū
+    <lb n="6"/><supplied reason="omitted">r</supplied>tti-śivācāryyaruṁ
+    <lb n="7"/>ēḻpadiṁbaru<supplied reason="omitted">ṁ</supplied> sā
+    <lb n="8"/>kṣiy āge pulige
+    <lb n="9"/>ṟeyaṁ baddega-bra
+    <lb n="10"/>hmapuriy endu pesa
+    <lb n="11"/>r <gap reason="lost" unit="character" quantity="5"></gap> śrī
+    <lb n="12"/><gap reason="lost" unit="character" quantity="6"></gap> ba
+</p>
+   <p>
+    <lb n="1"/><milestone n="c" unit="column"/>uttarāyaṇa-sam
+       <lb n="2"/>krāntiyol badde
+       <lb n="3"/>g<supplied reason="omitted">ē</supplied>śvarada munde sā
+       <lb n="4"/>sira tapōdhanara
+       <lb n="5"/>n ūḍuvudu badde
+       <lb n="6"/>ga-grahmapuri <gap reason="lost" unit="character" quantity="2"></gap>
+       <lb n="7"/>buḻaṁ mū<supplied reason="omitted">va</supplied>t<supplied reason="omitted"></supplied>i
+       <lb n="8"/>rccāsiramuman ē
+       <lb n="9"/>ḻ-kōṭi tapōdhana
+       <lb n="10"/>mumaṁ vāraṇ<unclear>āsi</unclear>
+       <lb n="11"/>yuman aḻidoṁ ī
+       <lb n="12"/>sthānam <supplied reason="omitted">ē</supplied>ḻ-kōṭ<choice><orig>o</orig><reg>i</reg></choice> <gap reason="lost" unit="character" quantity="2"></gap><note source="bib:Barnett1921-1922_04">There seem to be traces of two <foreign>akṣara</foreign>s after <foreign>ṭo</foreign>; but it may be that there is only one</note>
+       <lb n="13"/>śvamē<unclear>dha-pha</unclear>lama
+       <lb n="14"/>n e<gap reason="lost" unit="character" quantity="5"></gap>
+      </p>
+    
+</div>
+    <div type="apparatus">
+	
+               <listApp><!-- one <app> for each apparatus entry -->
+               	
+               	<app loc="9"><!-- update the value of @loc.-->
+               		<lem>ṟeyaṁ</lem>
+               		<rdg source="bib:Barnett1921-1922_04">ṟeya</rdg></app>
+               		
+               	
+               </listApp>
+</div>
+    
+   
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-B).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025).
+	</p>
+       
+        <bibl n="Ba">
+			<ptr target="bib:Barnett1921-1922_04"/>
+			<citedRange unit="page">75</citedRange>
+			<citedRange unit="item">B</citedRange>
+		</bibl>
+    </div>
+    
+      
+    
+  
+    
+        
+    </body>
+        </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+

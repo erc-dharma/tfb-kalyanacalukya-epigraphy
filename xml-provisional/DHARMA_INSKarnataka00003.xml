@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Morab, Kalamēśvara Temple, time of Vikramāditya VI, Cāḷukya-Vikrama year 3 (CE 1077)
+                </title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka00003</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the new name of the big tank at Morab in Beḷuvala-nāḍu as Noḷaṃba-samudra and a grant of a land for its maintenance to the twelve Gāvuṇḍas of the village.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2024-03-13">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      
+<body>
+         
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+		<l n="a">namas tuṁga-śiraś-cumbi</l>
+		<l n="b">caṁdra-cāmaracāravē</l>
+		<l n="c">traiḷōkyana-gāraṁbha</l>
+		<l n="d">mūlastaṁbhaya sambhavē <g type="ddanda">.</g><g type="SpiraIL"/></l>
+	</lg>
+    <p>
+        <lb n="2"/>
+svasti samasta-bhuvanāśraya śrī-prithvīvallabha mahārājādirāja paramēśvara paramabhaṭṭarakaṁ satyā
+        <lb break="no" n="3"/> śraya-kuḷa-tiḷakaṁ cāḷukya-bharaṇaṁ śrīmat-tribhuvanamalla-dēvara vijaya-rājyam uttarō
+        <lb break="no" n="4"/>ttarābhivriddhi-pravarddhamānam ā caṁdrārkka-tāraṁ baraṁ saluttam ire <g type="ddanda">.</g> tad-ānujaṁ samasta-bhuvana-saṁstū
+        <lb break="no" n="5"/>yamāna lōkākhyāta pallavānvaya-śrī-mahīvallabhaṁ yuva-rāja-rāja-paramēśvaraṃ vīra-ma   
+        <lb break="no" n="6"/>hēśvaraṁ vikramābharaṇaṁ jaya-lakṣmī-ramaṇaṁ saraṇā-gata-rakṣāmaṇi-cāḷukya-cūḍāmaṇi-kada
+        <lb break="no" n="7"/>na-tri-nētraṁ kṣatriya-pavitraṁ mattaṁga-jāṁga-rājaṁ sahaja-manōja-ripu-rāya-kaṭaka-sūṟe
+        <lb break="no" n="8"/>kāṟan aṇnaṁ aṃkāraṁ śrīma<supplied reason="omitted">t</supplied>-traiḷōkya-malla-vīra-noḷaṁba-pallava-permmāḍi-jayasiṁgha-dēvar
+        <lb break="no" n="9"/>yuva-rāja-padaiyiṃ <supplied reason="lost">kōgaḷe</supplied> sāsiramumaṁ kandūra-sāsiramūmaṁ puligiṟe mūnūṟu
+        <lb break="no" n="10"/>maṁ beḷuvala mūnūṟuman anteraḍaṟunūṟuman āḷdu sukha-saṃkathāvinōdadiṃ rājyaṃ geyyuttu
+        <lb break="no" n="11"/>m ire śrīmac-cāḷukya-vikramakālada 3neya piṃgaḷa-saṃvatsarada phalguṇada puṇname āditya-vāra
+       <lb break="no" n="12"/>muṁ sōma-grahaṇamuṁ kūḍi banda puṇya-dinar ūḷīta-giriya nelevīḍinōḷ tuḷāpuruṣamuṁ hiraṇya
+       <lb break="no" n="13"/>garbbhamum niḻdaṁ dina mahādāna-kāḷadōḷ tat-pāda-padmōpajēvigaḷ-samasta-prasasti-sahitaṁ śrī-man-mahāpra
+        <lb break="no" n="14"/>dhānaṃ hērilāḷa-kannaḍa-sandhivigrahi da<choice><orig>ṇ</orig><reg>ṁ</reg></choice>ḍanāyakạṁ saṁkharayya-nāyakaruṁ samasta-prasasti-sahi
+        <lb break="no" n="15"/>taṁ śrīman-mahāpradhānaṁ sēnādhipati-maneverggaḍe da<choice><orig>ṇ</orig><reg>ṁ</reg></choice>ḍanāyakaṁmadhuvapayya-nāyakarum a
+        <lb break="no" n="16"/>ntavararvvara binnapadiṃ beḷuvala-nāḍa baḷeya morabada pannirvvarggapuṇḍuḷgalli yorapaḍu
+        <lb break="no" n="17"/> vaṇa piriyakeḻege noḷaṁba-samudram-eṁba pasaraṃ koṭṭu paramēśvaradattiyāgi-<supplied reason="omitted">na</supplied>
+        <lb break="no" n="18"/>maśyạṁ biṭṭa keygi sīmeyūriṁ teṁka ghaṭāntakiya basadiya dānasāleya namaśya<gap reason="lost" quantity="2" unit="character"></gap>
+        <lb break="no" n="19"/><gap reason="lost" quantity="1" unit="character"></gap>morabade baṭṭitiṁ mūḍa lalagarapūladiṁ paḍuva<gap reason="lost" quantity="1" unit="character"></gap>ladi baḍaga mūlasthāna di<gap reason="lost" quantity="2" unit="character"></gap>  
+       <lb break="no" n="20"/>valuṁ baḍagaluṁ mā<gap reason="lost" quantity="4" unit="character"></gap>ya baṭṭeya <unclear>mūḍa</unclear> muttarmmūvattu ṟadaḻoḷage pūrvvaigaṁ bai<gap reason="lost" quantity="2" unit="character"></gap>
+       <lb break="no" n="21"/>ballagāvuṇḍaṁ tanna<gap reason="lost" quantity="4" unit="character"></gap>dayda mattarkkayyumaṁ nūḻiṁ mū<unclear>ḍa</unclear> tamma gaḷisida bays<gap reason="lost" quantity="3" unit="character"></gap>
+        <lb break="no" n="22"/> gebiṭṭaṁ <gap reason="lost" quantity="10" unit="character"></gap>phaṭāntakiyabasadiya ka<gap reason="lost" quantity="1" unit="character"></gap>
+        <lb n="23"/>baḍaga mattarppattu ḻastaraḍu sthaḷadōḷaṁ namaśyaṁ mattar nālvattu laṁkadōḷaṁ mattar nalavatthu <supplied reason="omitted"><g type="ddanda">.</g></supplied>
+        <lb n="24"/>sāmānyōyaṁ dharmma-sīturr̥sapāṇāṁ kālē kālē pāḷanīyō bhavadbhiḥ sarvvānētaṁ
+        <lb n="25"/>bhāvina-parthivēṃdrā<supplied reason="omitted">n</supplied> bhūyō bhūyo yācatē rāmabhadra<unclear>ḥ</unclear> <g type="ddanda">.</g> mad-vaṁśa-jā<unclear>ḥ</unclear> para-ma<unclear>hī</unclear>
+        <lb break="no" n="26"/> pativaṁśajā yā vā pādapētamanasā bhuvi bhāvi-bhūpā va pāḷayaṁti mama dharmmam-imaṁ <supplied reason="lost">sama</supplied>
+        <lb break="no" n="27"/>staṁ tēśāṁ mayā viracitā jaḷir-ēśa mūrdhniḥ bahubhir-vvasudhā bhuktaṁ rājabhisvagarādi<supplied reason="lost">bhiḥ</supplied>
+        <lb n="28"/>yasya yasya yadā bhūmistasya tasya tadā phaḷaṁ <g type="ddanda">.</g> svadattaṁ paradattaṁ vā yō ha
+        <lb break="no" n="29"/>rēta vasundharā<supplied reason="omitted">ṁ</supplied> saṣṭhirvvarśa sahasrāṇi miṣvāyāṁ jāyatē kramiḥ <g type="ddanda">.</g> 
+            
+    </p>
+
+</div>
+    
+    <div type="translation" resp="part:ants">
+        <p rend="stanza" n="1"> Obeisance to Śambhu, beauteous with the <foreign>cāmara</foreign> like crescent moon kissing his lofty head, the original foundation-pillar of the city of the three worlds.</p>
+        <p n="2-4">Hail! the Glorious Tribhuvanamalladēva, the shelter of the whole earth, the Glorious <foreign>prithvīvallabha</foreign>, the great king among the kings, the great Lord, <foreign>paramabhaṭṭāraka</foreign>, the distinctive mark of Satyāśraya family, the ornament of Cāḷukya, whose victorious reign is increasing the prosperity perpetually as long as the moon, the sun, the stars exist</p> 
+        <p n="4-8">His younger brother the Glorious Traiḷōkyamalla-Vīra-Noḷamba-Pallava-Permāḍi-Jayasiṅgha was being prised throughout the earth, famous in the world, the venerable king of the Pallava lineage, <foreign>yuvarāja</foreign>, the supreme Lord among the kings, an heroic Mahēśvara, an ornament of victory, the husband of the Lakṣmī of victory, a jewel of protection to refugees, the Cāḷukya crest-jewel, like Trīnētra in the war, a purifier of the Kṣatriya, an Aṅga-rāja to the furious elephants, by nature of Kāma, generous to the circle of enemy kings, his elder brother's warrior</p>
+        <p n="9-10">By the position of yuvarāja, he was ruler Kogaḷe One-Thousand, Kandūr One-Thousand, Puligere Three-Hundred, Beḷuvala Three-Hundred; he was governing his kingdom with happiness and pleasant conversations.</p>
+        <p n="11-12">On the third year of Vikrama era, Piṅgala year, Sunday, the day of full moon and lunar eclipse</p>
+    </div>
+</body>
+</text>  
+</TEI>

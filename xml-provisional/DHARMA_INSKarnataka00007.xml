@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ablūr, Brahmēśvara temple, Śaka 1142 (1219 CE)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Naples</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka00007</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>This record is on a stone tablet outside the back of the temple of Brahmēśvara.
+                          The tablet is a <foreign>vīragal</foreign> or monumental slab, in memory of the death of two local heroes, Māca and Gōma, in battle, on the occasion of a cattle-raid at Ablūr.
+                  The inscription refers to the reign of the Dēvagiri-Yādava king Siṅghaṇa and to a time when a feudatory Siṅgaṇadēvarasa was governing the Banavāsi twelve-thousand province.</p>
+                           
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-01-16">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    
+<p><milestone type="pagelike" unit="zone" n="A"/><lb 
+n="1"/><g type="SpiralL"/><note>Represented by a small circle inside a bigger one</note>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha-pauvurṇṇami sōmavā<lb 
+n="2" break="no"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire<supplied reason="omitted"><g type="ddanda"></g></supplied>  Alliya kaṁpanaṁ nāgarakha<supplied reason="omitted">ṁ</supplied><lb 
+n="3"/><unclear>ḍa</unclear>v-ep<supplied reason="omitted">p</supplied>attaṟa baḷiya bāḍa Abbalūra vistarav-enteṁdaḍe<g type="ddanda">.</g> 
+</p>
+    <lg n="1" met="campakamālā" xml:lang="kan-Latn">
+    <l n="a">giḷi-kuḷa<choice><sic>dh</sic><corr>d</corr></choice>iṁ pikāvaḷi<choice><orig>Ī</orig><reg>yi</reg></choice>n oppuva naṁdanadiṁ viḷāsadiṁ</l>
+    <l n="b"><lb n="4"/><unclear>be</unclear>ḷasida gaṁdha-śāḷi Ī<note source="bib:Fleet1898-1899_02">read sāliyi for śāḷiyiṁ</note> śivālayadōḷi Ī<note>read ōḷiyi for ōḷiyiṁ</note> bhāḷanētra-pū</l>
+        <l n="c">jita-g<choice><orig>ri</orig><reg>r̥</reg></choice>hadiṁ  baḷādhika-kaḷāvida-vīra-samūhadiṁ <choice><orig>dh</orig><reg>d</reg></choice>'i<lb break="no" n="5"/><unclear>ḷ</unclear>ā</l>
+         <l n="d">taḷad' oḷag' abbalūr ati<!-- dovrebbe essere lunga -->vicitrataraṁ nijam āgal oppuguṁ <g type="ddanda">.</g></l>
+     </lg>
+    <p>Antu ś<unclear>ubha</unclear>v-ett'abbalūra bīra-gauvuḍana guṇa-<lb 
+n="6"/><unclear>ka</unclear>thanav-enteṁdaḍe <g type="ddanda">.</g></p>
+         
+    <lg n="2" met="campakamālā" xml:lang="kan-Latn">
+        <l n="a">parahitan eṁdu dāna-vi<choice><orig>d</orig><reg>dh</reg></choice>an eṁdu guṇ<unclear>āṁ</unclear>bhudhiy e<supplied reason="omitted">ṁ</supplied>du līleī<note source="bib:Fleet1898-1899_02">read līleyiṁ</note></l> 
+        <l n="b"><choice><orig>ka</orig><reg>kha</reg></choice>
+        rakara-tējanaṁ guru-padāṁbu<lb n="7"/>j<unclear>a</unclear>-bhaktanan entu nō<choice><orig>p</orig><reg>r</reg></choice>paḍa</l>  
+        <l n="c">purutara-dhairyyanaṁ sakaḷa-vaṁdi-janāśraya-kaḷpa-v<choice><orig>ri</orig><reg>r̥</reg></choice>kṣanaṁ va<!-- gli ultimi due gaṇa dovrebbero essere invertiti --></l> 
+        <l n="d">ra-vibudhōktaraṁ mudado baṁ<lb n="8"/><unclear>ṇ</unclear>ṇisuguṁ<note source="bib:Fleet1898-1899_02">read baṇṇisuguṁ</note> sale bīra-gauvuḍanaṁ<!-- anomalia dal terzo gaṇa in poi --></l>    
+    </lg>
+   <p>Ant'ā bīragauvuḍa sukhadiṁdav ire <choice><orig>bhe</orig><reg>be</reg></choice>ḷagavatti-īśvaradēva<unclear>ṁ</unclear> hala
+        <lb break="no" n="9"/>baru-muṁneya kūḍi sātaḷige-nā<choice><orig>dha</orig><reg>ḍa</reg></choice> nāyakara kūḍi koṁḍu hattu-śasira āḷu sāīra<note source="bib:Fleet1898-1899_02">read sāyira</note> kudure vera 
+        <lb break="no" n="10"/>si naḍadu baṁd Abbalalūran iḻidu hiṇ<unclear>ḍ</unclear>u-<unclear>s</unclear>eṟe-tuṟuvaṁ koṁballiyā seṟe-tuṟavam hiṁdikki bīra-gauvuḍana besa-varaṁ
+        </p>
+    <p>
+        <milestone type="pagelike" unit="zone" n="B"/><lb n="11"/>baḍagi-kētōjana makkaḷu macaṁ gōmaṁgaḷu māḍida vīrav eṁnt<note source="bib:Fleet1898-1899_02">read °ent</note>e<unclear>ṃ</unclear>daḍe <g type="ddanda">.</g>
+    </p>
+ <lg n="2" met="kanda" xml:lang="kan-Latn">
+     <l n="a">ghaṭṭisi nūṁkida vājiya</l>
+     <l n="b">thaṭṭaṁ kaṭṭ<supplied reason="omitted">ā</supplied>ḷu baḍagi<lb n="12"/>mācaṁ tāgalu</l>
+     <l n="c">niṭṭisi gōmanu yise paḍal</l>
+     <l n="d">iṭṭudu tatu-kṣaṇadi vaīri<note source="bib:Fleet1898-1899_02">read vairi</note> balav-enit-anituṁ <g type="ddanda">.</g></l>
+     </lg>
+  
+ <p>
+     māttēno pēḷal iṁ <lb break="no" n="13"/>t' apam-ātitaṁ noḍal ati-bhayaṁkaraṁ enal iṁt'āṁt'ari-balamuman ovade kētōjana maga māca pokku tividaṁ pala<lb n="14"/>raṁ <g type="ddanda">.</g>
+ </p>
+    <p>
+        sodarar ibbava<supplied reason="omitted">ra</supplied> vīraṁ mēdini gaccariyidenisi dhuradoḷu palaraṁ kādi tave koṁdu svargga<lb n="15"/>kk ōdar jjasav eseye macanuṁm ā gōmanuṁ <g type="ddanda">.</g>
+    </p>
+    
+    <lg n="3" met="anuṣṭubh" xml:lang="kan-Latn">
+        <l n="a">jitēna labhyatē lakṣmī</l>
+        <l n="b">m<choice><orig>r</orig><reg>r̥</reg></choice>itēn ā<lb n="16"/></l>
+    </lg>
+    </div>
+    
+    
+    <div type="apparatus">
+        <listApp>
+        <app loc="1">
+            <lem>pauvurṇṇami</lem>
+            <rdg source="bib:Fleet1898-1899_02">p<choice><sic>auvu</sic><corr>au</corr></choice>rṇṇami</rdg>
+        </app>
+        <app loc="4">
+            <lem><unclear>be</unclear>ḷasida</lem>
+            <rdg source="bib:Fleet1898-1899_02">belasida</rdg> 
+        </app>
+        <app loc="4">
+            <lem source="bib:Fleet1898-1899_02">°ōḷiī</lem>
+            <note>read ōḷiyi for ōḷiyiṁ</note>
+        </app>
+        <app loc="5">           
+            <lem>-gauvuḍana</lem>
+            <rdg source="bib:Fleet1898-1899_02">-g<choice><sic>auvu</sic><corr>au</corr></choice>ḍana</rdg>
+        </app>
+        <app loc="5">
+            <lem source="bib:Fleet1898-1899_02">ś<unclear>ubha</unclear></lem>
+        </app>
+        <app loc="5">
+            <lem source="bib:Fleet1898-1899_02">gauvuḍana</lem>
+            <note source="bib:Fleet1898-1899_02">read gauḍana</note>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1898-1899_02"><unclear>ke</unclear>thana°</lem>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1898-1899_02">dāna-vi<choice><orig>d</orig><reg>dh</reg></choice>an</lem>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1898-1899_02">guṇ<unclear>āṁ</unclear></lem>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1898-1899_02">līleī</lem>
+            <note source="bib:Fleet1898-1899_02">read līleyiṁ</note>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1898-1899_02"><choice><orig>ka</orig><reg>kha</reg></choice>rakara</lem>
+        </app>
+        
+        <app loc="7">
+            <lem source="bib:Fleet1898-1899_02">no<choice><orig>p</orig><reg>r</reg></choice>paḍa pu</lem>
+        </app>
+        <app loc="7">    
+            <lem source="bib:Fleet1898-1899_02">kaḷpav<choice><orig>r</orig><reg>r̥</reg></choice>ikṣanaṁ</lem>
+        </app>
+        
+        <app loc="8">
+            <lem source="bib:Fleet1898-1899_02"><unclear>ṇ</unclear>ṇisuguṁ</lem>
+            <note source="bib:Fleet1898-1899_02">read baṇṇisuguṁ</note>
+        </app>
+       
+        <app loc="8">
+                <lem source="bib:Fleet1898-1899_02"><choice><orig>bho</orig><reg>bo</reg></choice>ḷagavatti</lem>
+            </app>
+            
+        <app loc="9">
+            <lem source="bib:Fleet1898-1899_02">nā<choice><orig>dha</orig><reg>ḍa</reg></choice></lem>
+        </app>
+        
+        <app loc="9">
+            <lem source="bib:Fleet1898-1899_02">sāīra</lem>
+            <note source="bib:Fleet1898-1899_02">read sāyira</note>
+        </app>
+        
+        <app loc="10">
+            <lem source="bib:Fleet1898-1899_02">hiṇ<unclear>ḍ</unclear>u</lem>
+        </app>
+            
+        <app loc="11">
+            <lem>eṁnte<unclear>ṃ</unclear>daḍe</lem> 
+            <note source="bib:Fleet1898-1899_02">read °ent</note>
+        </app>
+        
+        <app loc="11">
+            <lem source="bib:Fleet1898-1899_02">kaṭṭ<supplied reason="omitted">ā</supplied>ḷu</lem>
+        </app>
+            
+        <app loc="13">
+            <lem source="bib:Fleet1898-1899_02">ibbava<supplied reason="omitted">ra</supplied></lem>
+        </app>
+        </listApp>    
+    </div>
+    
+    
+    <div type="translation" resp="part:ants">
+       <p n="1-3">Om! Be well! On Monday the full-moon day of the month <foreign>Āṣāḍha</foreign> of the year <foreign>Pramāthin</foreign><note>13th position of the Jupiter's cycle of 60 year (Southern cycle) [see Pillai 1922, vol 1.1 p.195]</note> during the time of the glorious Siṁhaṇadēva, accompanied by all eulogistic titles; while the powerful and brave Siṅgaṇadēvarasa was governing the Banavase twelve-thousand, in order to tell the detailed description of the excellent Abbalūru that belongs to Nāgarakhaṇḍa seventy which was district of those parts:-
+      </p> 
+       
+       <p n="3-5">At that time Abbalūru was uncommonly beautiful on the surface of the earth thanks to the charm of the garden, which is beautiful due to the families of parrots, and the swarm of cuckoos; thanks to the sweet-smelling of the sprouded rice, thanks to the building in which Bhālanētra is worshipped in the sanctuary of Śiva, and thanks to the multitude of heroes abundant in strenght and skilled in arts.   
+       </p>
+        
+        <p n="5-8">In order to give a description of the qualities of Bīragauḍa of the Abblūru exalted as beautiful in this way. Known as devoted to the welfare of others, who practices generosity, a very ocean of virtue, who is as luminous as the sun thanks to his grace, famous as devoted to the water-lilies that are the feet of teachers, who is possessed of the the very greatest resoluteness, who is a wish-fulfilling tree in giving refuge to all devotees, praised by excellent learned men. He always will be praised joyfully.</p>
+        
+        <p n="8-11">Like that, that Bīragauḍa existed happily. Īśvaradēva Belage, having come in front of old people, came in company with chieftains of Satalige nāḍa, descended to Abbalūru and proceeded with ten thousand soldiers and thousand horses and seized a herd of cows. From there, having given shelter to the captive cows, Maca and Goma, sons of Baḍagi of Kētōjana, in accordance with the command requested by Bīragavuṇḍa, carried out their act of heroism, as follow:-</p>
+        
+        <p n="11-15">Having gained strength, Baḍagi Maca while he was restraining the multitude of impetuous horses that he pushed away; Gome having seen them, having shot arrows, immediately the hostile force fell down. How to say this?
+         If you consider, it surpassed all comparison: meeting them in the most terrifying manner, Māca, the son of Kētōja, plunged recklessly into the hostile force and pierced many of them. 
+            In such a way The heroism of the two brothers, having departed from the earth, having struck down in the battle, were killed in that place. The fame of Maca and Goma shines to heaven.</p>
+        
+        <p n="15">He who conquers obtains fortune; and even one dies </p>
+    </div>
+    
+      <div type="bibliography">
+         <p>First edited in <bibl><ptr target="bib:Elliot1825-1832_01"/></bibl>; edited again in <bibl><ptr target="bib:Fleet1898-1899_02"/></bibl>. Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on autopsy of the stone in situ.</p>
+          
+         <listBibl> 
+        <bibl n="Fl">
+			<ptr target="bib:Fleet1898-1899_02"/>
+                           <citedRange unit="section">G</citedRange>
+			<citedRange unit="page">263-264</citedRange>
+		</bibl>
+       <bibl n="El">
+                            <ptr target="bib:Elliot1825-1832_01"/>
+                            <citedRange unit="volume">II</citedRange>
+			<citedRange unit="page">???-???</citedRange>               
+       </bibl>
+             </listBibl>
+    </div>
+    
+        
+    </body>
+        </text>
+</TEI>
+    
+  

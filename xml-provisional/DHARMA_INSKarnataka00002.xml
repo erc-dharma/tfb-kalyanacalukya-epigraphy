@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Uṇachgēri, on a stone near the public well, time of Vikramāditya VI, Śaka year 994 (1072 CE)</title>
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:ants">
+						<forename>Antonella</forename>
+						<surname>Santoro</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+					<persName ref="part:ants">
+						<forename>Antonella</forename>
+						<surname>Santoro</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Napoli</pubPlace>
+				<idno type="filename">DHARMA_INSKarnataka00002</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the grant of a hous to the god Kallidēva of Kūṇṭageyabīḍu by four Gāvuṇḍas, and of a land and money to the gods Kallidēvasvāmi, Madēśvaradēva and Kāmēśvaradēva.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>...</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:ants" when="2024-03-13">Creation of the file.</change>
+
+		</revisionDesc>
+	</teiHeader>
+
+<text xml:space="preserve">
+      
+<body>
+         
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+		
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+		<l n="a">namas tuṁga-śiraś-cumbi</l>
+		<l n="b">caṁdra-cāmaracāravē</l>
+		<l n="c">traiḷōkyana-gāraṁbha</l>
+		<l n="d">mūlastaṁbhaya sambhavē <g type="ddanda">.</g> </l>
+	</lg>
+	
+	<p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+		gaṇapa<supplied reason="undefined">tyā</supplied>ya na<unclear>maḥ</unclear>
+	</p>				
+	
+	<p>
+		<lb n="3"/><g type="SpiraIL"/>svasti śrī-prithvīvallabhaṁ mahārājādhirājaṁ paramēśvaraṁ parama
+		<lb break="no" n="4"/>bhaṭṭārakaṁ satyāśrayakuḷa-tiḷakaṁ cāḷukyābharaṇaṁ śrīmat-tribhuvanamalla
+		<lb break="no" n="5"/>dēvara vijeya-rājyam uttirōttar'-abhivriddhi-pravarddhamānamā-caṁdr'-arkka-tā
+		<lb break="no" n="6"/>raṁ baraṁ saluttam ire <g type="ddanda"/> </p><p>svasti samasta sakha-varśarda 994nēya paridhāvi-saṁvastarada
+		<lb n="7"/>puśya-suddha 13 ādivāram uttar-āyaṇa-saṁkrānti-y-aṁdu śrīmatu-kūṁṭage
+		<lb break="no" n="8"/>ya bīḍina śrī-kalli-dēvargge māḷa-gāvuṁḍa nāgavaṁ-gāvuṁḍa dāsa-gāvuṁḍa haḷḷa-gā
+		<lb break="no" n="9"/>vuṁḍa Intī nālvar ggāvuṁḍugaḷuṁ cikkaṇa-paṁḍitargge dhārā-pūrvvakaṁ māḍi biṭṭa nakharē
+		<lb break="no" n="10"/>svara-dēvariṁ baḍagalu mane Oṁdu dēvara naṁdādīvigege miḷḷi-saṭṭiya magaṁkuḍiyamasa
+		<lb break="no" n="11"/>ṭṭi biṭṭa gāṇa Oṁdu mattaṁ kalvi-dēva-svāmigaṁ mādēsvara-dēvarggaṁ kāmeṁsvaradē<supplied reason="omitted">va</supplied>rgaṁ a<subst><del rend="corrected">n</del><add place="overstrike">ṁ</add></subst>tu mūṟu
+		<lb n="12"/>sṭhānakaṁ sāsir vvaruṁ biṭṭa dharmma Eleyu hēḻeṁge bēḷe hoṟege beḷe hottaḷekke vīsaṁ kāṇi
+		<lb n="13"/>soppiṁge Aravīsa Aḍḍagā<unclear>ḻe</unclear>-dēvariṁ paḍuvalu-hūdōṁṭa-mattar īṁdu dēvari-baḍagalu		
+		<lb n="14"/>Eliya tōṁṭa-mattar oṁdu-mattaṁ dēvara nivēdyake koḷḷada keḻeya keḷage sūṁḍiya
+		<lb n="15"/>nāgēsvara-dēvara gaddeyiṁ mūḍalu-gade kamma 250 mattaṁ hakkana-keḻeya gaddheyiṁ muḍalu
+		<lb n="16"/>keyi mattaru hannaraḍu <g type="ddanda">.</g>
+			
+	</p>
+</div>
+         
+<div type="apparatus">
+	
+              <!-- <listApp><!-\- one <app> for each apparatus entry -\->
+               	
+               	<app loc="line"><!-\- update the value of @loc.-\->
+               		<lem><!-\- fill in a lemma here -\-></lem>
+               		<rdg source="bib:LakshminarayaRao1952_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
+               		<note>...</note>
+               	</app>
+               	
+               </listApp>-->
+</div>
+    
+<div type="translation" resp="part:ants">
+		<p rend="stanza" n="1">	Obeisance to Śambhu, beauteous with the <foreign>cāmara</foreign> like crescent moon kissing his lofty head, the original foundation-pillar of the city of the three worlds.</p>
+	<p n="3-4">Hail! The Glorious <foreign>priṭhvīvallabha</foreign> the great king of the kings, the supreme Lord, <foreign>paramabhaṭṭāraka</foreign>, the distinctive mark of Satyāśraya family, the ornament of Cāḷukya.</p>
+	<p n="5-6">The victorious reign of the Glorious Tribhuvanamalladēva keep increasing its prosperity further and further as long as the moon, the sun, and stars keep shedding their light. </p>
+	<p n="6-7">Hail! Śaka 994 <foreign>paridhāvi</foreign> year, Sunday 13th day of the <foreign>puśya</foreign> month, in the winter solstice, when the sun gradually moves from south to north.</p>
+	<p n="7-11">Māḷa-gāvuṇda, Nāgavaṁ-gāvuṇda, Dāsa-gāvuṇda and Haḷḷa-gāvuṇda, these four chieftains have given <supplied reason="subaudible">a gift</supplied> to Śrīkallidēva of the venerable village Kūṇṭaka making <foreign>dhārāpurvaka</foreign> to Cikkaṟapaṇdita; Kuḍiyamasaṭṭi, son of Miḷḷisaṭṭiya has given to the God Namadivi a house to the north from Nakharēśvaradēva <supplied reason="subaudible">temple</supplied> and one oil-mill.</p>
+	<p n="11-16">The village has given three temples to Kalvi-dēva-svāmi, Mādēsvara, Kāmesvara-dēva. a donation for a bundle of hundreds betel leaves, crop for a bundle of 200 betel leaves, a crop for  a bundle of 300 betel leaves, one <foreign>vīsa</foreign> and one <foreign>kāṇi</foreign>, half <foreign>vīsa</foreign> for the <foreign>soppu</foreign> herbs, one <foreign>mattar</foreign> of garden flower to the east of Aḍḍagāredēva <supplied reason="subaudible">temple</supplied>, one <foreign>mattar</foreign> for a garden of betel and a <foreign>sūṃdiya</foreign> to the lower side/ east of deep lake for the food offering to the God; 250 <foreign>kamma</foreign> in front of white land <note>rice land</note> and twelve <foreign>mattar</foreign>s to work on the east of the Hakkanakeṟeya white land </p>
+</div>
+    
+<div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+</div>
+    
+<div type="bibliography">
+
+	<p>
+		Re-edited and first translated here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the estampage (ASI, Mysore).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="LR">
+			<ptr target="bib:LakshminarayaRao1952_01"/>
+			<citedRange unit="page">141</citedRange>
+			<citedRange unit="item">122</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+<!--	<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:..."/>
+			<citedRange unit="page">...</citedRange>
+			<citedRange unit="figure">...</citedRange>
+		</bibl>
+	</listBibl>-->
+</div>
+</body>
+  </text>
+</TEI>
+<!--
+	MEATADATA:
+	Slab consisting of 60 lines in Kannada language with some damaged parts
+At the time of recording the grant the Sinda Mahāmaṇḍalēśvara Permāḍidēvarasa was ruling over Kisukāḍu Seventy, Keḷavāḍi Three-Hundred, Bāgaḍage Seventy and Narayaṅgal Twelve, from his capital Erambarage. The inscription is dated Śaka 872, Śaumya, Puṣya, śu. puṇṇami, Monday, lunar eclipse, Uttarāyaṇa-saṅkrānti -->

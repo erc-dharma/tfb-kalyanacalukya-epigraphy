@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sūḍi, Vīragaḷu, ca. 900 CE</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka000014</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-07-08">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p>
+        <lb n="1"/>svasti śrī-Turagana mane-magati<gap reason="undefined" unit="character" quantity="5"></gap>>vvajrā<gap reason="undefined" unit="character" quantity="2"></gap>
+        <lb break="no" n="2"/>d ācāryyan Turagā nīnīyeḍeyol iḻdu kūḻaṁ gel<gap reason="undefined" unit="character" quantity="1"></gap><unclear>e</unclear>
+        <lb break="no" n="3"/>ndoḍā mātan ollad<unclear>i</unclear>re sōlama<supplied reason="undefined">ṁ</supplied> kaṇḍātan <supplied reason="undefined">i</supplied>re sōlal āga
+        <lb break="no" n="4"/>d endātaniṁ munna naḍadiṟidu paḍedaṁ yasamān ātaṁg<gap reason="undefined" unit="character" quantity="1"></gap>
+        <lb break="no" n="5"/><gap reason="undefined" unit="character" quantity="1"></gap>ḷabbe laccakkan emboḷāke niṟisidaḷ ī kallaṁ
+        
+    </p>
+</div>
+     <div type="translation" source="bib:Barnett1921-1922_04">
+      <p>Hail! <gap reason="undefined"></gap> the steward of the fortunate Turaga <gap reason="undefined"></gap> when the Ācārya of <gap reason="undefined"></gap> said:"O Turaga, stand in this place and conquer the base man", when he <supplied reason="explanation">Turaga</supplied> did not agree to that speech, and saw <supplied reason="subaudible">the prospect of</supplied> defeat, he said:"We must not be defeated", and advancing in front of him <supplied reason="explanation">Turaga</supplied> and stabbing <supplied reason="subaudible">the enemy</supplied>, he won fame. For him the mother <gap reason="undefined"></gap> she who is named Lacchakka, set up this stone.</p>
+     </div>
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-A).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025).
+	</p>
+       
+        <bibl n="Ba">
+			<ptr target="bib:Barnett1921-1922_04"/>
+			<citedRange unit="page">74</citedRange>
+			<citedRange unit="item">A</citedRange>
+		</bibl>
+    </div>
+    
+      
+    
+  
+    
+        
+    </body>
+        </text>
+</TEI>
+
+
+
+
+
+
+

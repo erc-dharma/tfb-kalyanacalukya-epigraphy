@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sūḍi, Vikramāditya VI, Śaka 1006 (1084 CE)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka000022</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-07-22">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+    </p>
+<p>
+    <lb n="2"/><g type="SpiralL"></g>Samasta-bhuvan'āśraya śrī-pṛithvī-vallabha ma
+    <lb n="3"/>hārāj'ādhirāja paramēśvara paramabhaṭṭārakam satyāśraya-kuḷa-tiḷakaṁ cāḷuky'ābharaṇaṁ 
+    <lb n="4"/>śrīmat-tribhuvanamalla-vallabhaṁ<g type="ddanda"></g>
+    </p>
+    <lg n="2" met="sragdharā" xml:lang="kan-Latn">
+        <l n="a">svasti śrīmac-cāḷuky'ānvaya-gagana-sudhā-rōciy' ā <lb n="5"/>namna-bhībhṛin</l>
+        <l n="b">masta-nyast' āṁghri-padmaṁ nr̥ga-naḷa-nahuṣ'ādy'ādi-bhūpāḷa-lilā</l>
+        <l n="c">vistīrṇṇ'ātma-prabhāvaṁ<lb n="6"/>vimaḷa-nija-yaśō-vallarī-vyāpta-dikpā</l>
+        <l n="d">ḷa-stōmaṁ mūrtti-nārāyaṇan ene negarddaṁ vikramāditya-dēvaṁ<g type="ddanda"></g></l>
+    </lg>
+    <lg n="3" met="campakamālā" xml:lang="kan-Latn">
+        <l n="a"><lb n="7"/>Ida<choice><orig>ḍ</orig><reg>r</reg></choice>ina cōḷikaṁ kaḷake vārane lāḷana līle dūraṁ ā</l>
+        <l n="b">dudu maleparkkaḍaṁgi tale-dōṟade kōṁ<lb n="8"/>kaṇam ellam ebja-pa</l>
+        <l n="c">tra<choice><orig>ḍ</orig><reg>d</reg></choice>a jaḷad' ante saṁcaḷisuttirppuvu mattin arātiḡ̣ligo</l>
+        <l n="d">ṭṭida soḍal ante naṁdidudu <lb n="9"/> vikraman intir aniṁdya-vikramaṁ</l>
+    </lg>
+    <lg n="4" met="kanda" xml:lang="kan-Latn">
+        <l n="a">ā mahipāḷakan esakam ad'</l>
+        <l n="b">ī māhiyola mahime-vaḍadu<lb n="10"/>d udvṛitt'ā</l>
+        <l n="c">ri-stōmaman ātmīya-bhuj-ō</l>
+        <l n="d"><choice><orig>ḍḍ</orig><reg>dd</reg></choice>ām āsi-marīci parbbi sādhise palaraṁ<g type="ddanda"></g></l>
+    </lg>
+    <p>
+        <lb n="11"/>Ant' enisi negaṁrddal śrīmat-tribhuvanamalla-dēvara vijaya-rājyam uttar' ōttar' ābhivr̥iddhi-pra
+        <lb n="12"/>varddhamānam ā-caṁdr' ārkka-tāraṁ saluttam ire<g type="ddanda"></g> tan-manō-vallabhe svasty anavarata-parama-kalyāṇ' ā
+        <lb n="13"/>bhyudaya-saha<choice><orig>ś</orig><reg>s</reg></choice>ra-phaḷa-bhōga-bhāgini saṁsāra-sāra-svasti-saṁpad-abhōgini rāya-nārāyaṇa
+        <lb n="14"/>viśāḷa-vakṣa<supplied reason="omitted">s</supplied>-sthaḷa-sthita-pratyakṣa-lakṣmi yau<supplied reason="lost">vana-na</supplied>ndana-vana-vasanta-lakṣmi sakala-kaḷā-kaḷāpa-līḷādha<supplied reason="lost">re</supplied>
+        <lb n="15"/>vilāsa-vidyādhare vikramāditya-dēva-manō-raṁjani savati-mada-bhaṁjani cāḷukya-rāma
+        <lb n="16"/>hr̥idaya-harṣ' ōtkarṣe santat' ānarghya-maṇi-kanaka-kaṁkaṇa-varṣe nitya-pa<supplied reason="omitted">ra</supplied>ma puṇya-prabh̄va
+        <lb n="17"/>caritra-pavitre sallalita-gātre sujāṇa-ṭhāṇīya-pātra-<choice><orig>s</orig><reg>ś</reg></choice>irōmaṇi dāna-cintāmaṇi
+        <lb n="18"/>amaḷa-savati-mada-khaṇḍani samast' āntahpura-mukha-maṇḍanī śrīmat-tribhuvanamalla-dē
+        <lb n="19"/>va-viśāḷa-vakṣa<supplied reason="omitted">s</supplied>-sthala-nivāsiniyar appa śrīmat-piriy' ārasi lakṣmā-dēviyar<g type="ddanda"></g> 
+    </p>
+    <lg n="5" met="mattēvhavikrīḍita" xml:lang="kan-Latn">
+        <l n="a"><lb n="20"/>Anavady' āṁgaja-rājya-lakṣmi-lalanā-ratnaṁ viḷās' ōtpaḷaṁ</l>
+        <l n="b">janit' ā<choice><orig>s</orig><reg>ś</reg></choice>ēṣa-jagaj-jan' ābhimate <lb n="21"/>yō vipr'āpta-kalpa-drumaṁ</l>
+        <l n="c">dyunadi-nirmmaḷa-kīrtti-viśva-jagatībhr̥id-vikramāditya-ca</l>
+        <l n="d">kri-nisargg' ō<lb n="22"/>dita-puṇya-dēvateye lakṣmā-dēvi-bhū-cakradoḷ<g type="ddanda"></g></l>
+    </lg>
+    <p>
+        Ant' enisi negardda śrīmat-piriy' a<lb n="23"/>rasi lakṣmā-dēviyar kalyāṇa-nele-viḍinoḷ sukha-saṁkathā-vinōdadiṁ rājyaṁ geyyu
+        <lb n="24"/>ttam irddu śrīmac-cāḷukya-vikrama-varṣa 9neya raktākṣi-saṁvatsarada puṣya-bahu
+        <lb n="25"/>la-navami maṁgaḷa-vāradoḷ āduttarāyaṇ-<choice><orig>ś</orig><reg>s</reg></choice>aṁkrānti-nimittaṁ svasti yama-niyama-svadhyā
+        <lb n="26"/>ya-dhyāna-dhāraṇa-m<choice><orig>ō</orig><reg>au</reg></choice>n' ānuṣṭhā<choice><orig>ṇ</orig><reg>n</reg></choice>a-japa-samādhi-śila-saṁpannaruṁ śrīmad-rājadhāni
+        <lb n="27"/>sūṇḍiy ācalēśvarada sōmēśvara-paṇḍita-dēvargge alliya tapōdhanar āhāra-dānakkaṁ vidyā
+        <lb n="28"/>dānakkaṁ dēvar aṁga-bhōgakkam endu kisukāḍ-ēḷpattar̥a <unclear>baḷiya</unclear> bāḍa poṁgariyaṁ sarbba-nama
+        <lb n="29"/>syam āgi dhārā-pūrbbakaṁ māḍi koṭṭar
+    </p>
+</div>
+     <div type="translation" source="bib:Barnett1921-1922_04">
+ <p n="2-4">Ōm. the asylum of the whole world, favourite of Fortune and Earth, great Emperor, supreme Lord, supreme Master, ornament of Satyāśraya's race, embellishment of the Cāḷukyas, Tribhuvanamalla-vallabha:-</p>
+         <p n="4-6">Hail! a nectar-rayed <supplied reason="explanation">Moon</supplied> in the sky of the blest Cāḷukya lineage, the lotuses of whose feet are placed upon the heads of bowing monarchs; whose own puissance is vast as the sport of the quarters of space with the creeping-plant of his stainless personal glory; an incarnate Nārāyaṇa-as such is king Vikramāditya renowned.</p>
+         <p n="7-9">The hostile Cōḷika comes not to the battlefield; the Lāḷa's play has been put far away; the Malepas, straining hard, show not their heads; the Koṁkanas are quivering all like water on a lotus-leaf; other foes have been extinguished like a lamp exposed to the wind: such is Vikrama's faultless prowess.</p>
+         <p n="9-10">This monarch's condition on the earth has become exalted, as the rays of the mighty sword in his arms have spread abroad and overcome many multitudes of haughty foes.</p>
+         <p n="11-12">While the victorious reign of king Tribhuvanamalla, who is thus renowned, was proceeding in a course of successively increasing prosperity, <supplied reason="subaudible">to endure</supplied> as long as moon, sun, and stars.-</p>
+         <p n="12-19">She who is his soul's darling-hail!-who shares in the enjoyment of the fruits of thousand of issues of unceasing supreme felicity: who reveals in possession of fortunes choicest in mortal life; a manifest Laksmī resting on the broad bosom of that Nārāyaṇa among kings; a goddess of spring in the Nandana-park of youth; she who sports in <supplied reason="subaudible">mastery over</supplied> the series of all the arts; a mistress of the arts of pleasure: delighting king Vikramāditya's soul; crushing th conceit of rival wives; raising intense joy in Cāḷukya Rāma's heart; dispensing a constant rain of priceless jewels and golden bracelets; pure in her ceaseless and perfect righteous power and conduct; having goodly graceful limbs: a head-jewel among actors enacting wisdom; a wishing-jewel of bounty; shattering of the conceit of stainless rival wives; adorning the face of the whole sereglio; dwelling on king Tribhuvanamalla's broad bosom: to wit, the Senior Queen Lakṣmā-dēvi:-</p>
+         <p n="20-22">A jewel of women; the Fortune of the kingdom of the faultless Aṅgaja <supplied reason="explanation">i.e. Cupid</supplied>; a lotus of sport; winning the approval of all the people in the world; a tree of desire conveniente for Brahmans; having glory stainless as the Celestial River <supplied reason="explanation">Ganges</supplied>; a holy genius arising from the nature of Vikramāditya the lord of the whole world-such is Lakṣmā-dēvi in the domain of earth.</p>
+         <p n="22-29">The Senior Queen Lakṣmā-dēvi, who is thus renowned while reigning at the standing camp of Kalyāṇa with enjoyment of pleasant conversations, on the occasion of the conjuction of the <foreign>uttarāyaṇa</foreign> on Tuesday, the ninth day of the dark fornight of Puṣya in the 9th Cāḷukya-vikrama year, the cyclic year Raktākṣi, assigned with outpouring of water to Sōmēśvara-paṇḍita-dēva, of <supplied reason="subaudible">the temple of</supplied> Acalēśvara in the capital city Sūṇḍi, who-hail!-posseses the merits of practice of the major and minor disciplines: scriptural study, meditation, spiritual concentration, observance of silence, prayer, and absorption, for the dispensation of the god, the town of Poṁgari, situate within the Kisukāḍ seventy on universally respected tenure.</p>
+     </div>
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-I).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025).
+	</p>
+       
+        <bibl n="Ba">
+			<ptr target="bib:Barnett1921-1922_04"/>
+			<citedRange unit="page">101-103</citedRange>
+			<citedRange unit="item">I</citedRange>
+		</bibl>
+    </div>
+    
+      
+    
+  
+    
+        
+    </body>
+        </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

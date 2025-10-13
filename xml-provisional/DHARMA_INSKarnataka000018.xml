@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sūḍi, Mallikārjuna Temple, Śaka 976</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka000018</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-07-14">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+    </p>
+<p>
+    <lb n="1"/><g type="SpiralL"></g><note>This symbol looks like a reversed 8.</note>Svasti jayaś cābhyudayaś ca<g type="ddanda"></g> Svasti samasta-bhuvanāśraya śrī-pṛitvhvī-vallabha
+    <lb n="2"/>mahārājādhirāja paramēśvara paramabhaṭṭārakaṁ satyāśra
+    <lb n="3"/>ya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ śrimat-Traiḷōkyamalla-dē
+    <lb n="4"/>va-vijaya-rājyam uttarōttarābhivṛiddhi-pravarddha
+    <lb n="5"/><unclear>ma</unclear>nam ā caṁdrārkka-tāraṁ saluttam ire<g type="ddanda"></g> Svasty ari-nṛipa-ma
+    <lb n="6"/><unclear>ku</unclear>ṭa-ghaṭṭita-caranāravindeyar ggaṁgā-snāna-pavitreyar ddīnā
+    <lb n="7"/>nā<choice><orig>t</orig><reg>th</reg></choice>a-ciṁtāmaṇi vivēka-cūḍāmaṇigaḷ ēka.vākyeyar gguṇa
+    <lb n="8"/>da beḍaṁgiyar appa śrīmad-akkā-dēviyar kkisukāḍ ēḷpa
+    <lb n="9"/>ttumaṁ toṟugarey aṟuvattumaṁ māsiyavāḍi nūṟa-nālva
+    <lb n="10"/>ttumaṁ duṣṭa-nigra<unclear>ha viśi</unclear>ṣṭa-pratipāḷanadiṁdā<choice><orig>ḻ</orig><reg>ḍ</reg></choice>du sukha-saṁkathā
+    <lb n="11"/>vinōdadiṁ rājyaṁ-geyyuttaṁ vikramapurada nele-vīḍinoṃ sama
+    <lb n="12"/>sta-pradhānaruṁ nāḍa perggaḍe nāgadēvayyaṁ sēnabōvaṁ rēvadāsayyaṁ
+    <lb n="13"/>dharmmādhyakṣaṁ mādhavayyan intī pramukha karaṇamuṁ berasiḻdu
+    <lb n="14"/><choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa 976<unclear>neya ja</unclear>ya-saṁvatsarada jēṣṭad amavāsye maṁ
+    <lb n="15"/>gaḷa-vārad <gap reason="lost" unit="character" quantity="4"></gap> <unclear>sūryya</unclear>grahaṇadoḷ sūṇḍiy akkēśvara
+    <lb n="16"/>da pātra-caitra-pavitra <gap reason="lost" unit="character" quantity="4"></gap> <choice><orig>s</orig><reg>ś</reg></choice>āsana-maryyādeyentene<g type="ddanda">.</g>
+    <lb n="17"/>a <gap reason="lost" unit="character" quantity="1"></gap> <choice><orig>s</orig><reg>ś</reg></choice>āsana-maryyā<unclear>de</unclear>
+ <gap reason="lost" unit="character" quantity="4"></gap> lu sūṇḍiya poladoḷ biṭṭa taḷa
+    <lb n="18"/>vṛittiya 500 mattar oḷage viśva-śivācāryyargge <gap reason="lost" unit="character" quantity="6"></gap>
+    <lb n="19"/>mattaruṁ <gap reason="lost" unit="character" quantity="3"></gap> ya <gap reason="lost" unit="character" quantity="2"></gap> āṟuva <gap reason="lost" unit="character" quantity="2"></gap> g eraḍu taḷada mattaruṁ vaṁśigaṁ
+    <lb n="20"/>ge mattaruṁ 12 ravāḷavaḷa siṁgayyaṁge mattaruṁ 15 bariya ravā
+    <lb n="21"/>ḷa<supplied reason="omitted">vaḷa</supplied> <gap reason="lost" unit="character" quantity="4"></gap> ge mattaruṁ 18 avara samānad eḍa vakkada kēriya mo
+    <lb n="22"/><gap reason="illegible" unit="character" quantity="2"></gap>dala deseya biṭ<supplied reason="omitted">ṭ</supplied>iya cāmarada sūḷe <gap reason="lost" unit="character" quantity="2"></gap> bbege<note source="bib:Barnett1921-1922_04">The traces of this name rather suggest <foreign>vēṁkabbege, but this hardly seems suitable in a Śaiva temple</foreign>.</note> mattaruṁ 11 perggaḍe
+    <lb n="23"/>bāḷamūkayyaṁge mattaruṁ 15 balada deseya modala kaṁbha
+    <lb n="24"/>da sūḷe <gap reason="lost" unit="character" quantity="2"></gap> bbege mattaruṁ 15 alliya kaṁbhada sūḷe Asa
+    <lb n="25"/>gabbege mattaruṁ 13 eḍada deseya modala kaṁbhada sū
+    <lb n="26"/>ḷe rēvakabbege mattar 13 alliya kaṁbhada sūḷe gubbiya
+    <lb n="27"/>cāvuṇḍabbege mattar <gap reason="lost" unit="character" quantity="2"></gap> balada deseya biṭṭiya cāmara
+    <lb n="28"/>da sūḷe <gap reason="lost" unit="character" quantity="3"></gap> bbege mattaruṁ 12 alliya kēriya cāma
+    <lb n="29"/>rada sūḷe ciṭṭiyabbege mattaruṁ 12 eḍada deseya
+    <lb n="30"/>kēriya cāmarada sūḷe gibbiya kētabbege mattaruṁ 12
+    <lb n="31"/>balada de<unclear>se</unclear>ya pātraṁ sūḷe <gap reason="lost" unit="character" quantity="1"></gap> vakabbege mattaruṁ 12 eḍada dese
+    <lb n="32"/>ya pātraṁ sūḷe <gap reason="lost" unit="character" quantity="2"></gap>bbege mattaruṁ 13 balada māḍada pātraṁ sū
+    <lb n="33"/>ḷe gārbbabbege mattaruṁ 12 eḍa-vakkada kēriya sūḷe
+    <lb n="34"/>mailabbege mattaruṁ 1<unclear>2</unclear> bala-vakkada kēriya sūḷe jakka
+    <lb n="35"/>bbege mattaruṁ 12<supplied reason="omitted"><g type="ddanda"></g></supplied> Inti maryyādeyaṁ tappade pratipāḷi<note source="bib:Barnett1921-1922_04">fragments of two more lines remain; only a few letters are decipherable on them.</note>
+</p>
+</div>
+     <div type="translation"  resp="part:ants">
+  <p></p>
+      
+     </div>
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-E1).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025), based on the stone in situ.
+	</p>
+       
+        <bibl n="Ba">
+			<ptr target="bib:Barnett1921-1922_04"/>
+			<citedRange unit="page">82-83</citedRange>
+			<citedRange unit="item">E(1)</citedRange>
+		</bibl>
+    </div>
+    
+      
+    
+  
+    
+        
+    </body>
+        </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+

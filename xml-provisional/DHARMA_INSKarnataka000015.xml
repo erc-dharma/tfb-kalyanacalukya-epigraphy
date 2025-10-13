@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sūḍi, Jōḍu-kalaśada guḍi, Śaka 932 (1010 CE)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
+                        <forename>Antonella</forename>
+                        <surname>Santoro</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Napoli</pubPlace>
+                <idno type="filename">DHARMA_INSKarnataka000015</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ants" when="2025-07-09">Creation of the file.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    
+    <text xml:space="preserve">
+      
+<body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+    </p>
+<p>
+    <lb n="1"/><unclear>svasti samasta</unclear> bhuvāśraya śrī-p<choice><orig>r</orig><reg>ṛ</reg></choice>i
+    <lb n="2"/>thvi-va<unclear>llabha-ma</unclear>hārā<unclear>jā</unclear>dhirājaṁ paramēśva
+    <lb n="3"/>ra-para<unclear>mabhaṭṭā</unclear>rakaṁ satyāśraya-kuḷa-ti<choice><orig>ḻ</orig><reg>ḷ</reg></choice>akaṁ
+    <lb n="4"/>cāḷukyābharaṇaṁ śrimat-tribhuvanamalla-dēvara
+    <lb n="5"/>vijaya-rājyam uttarōttarābhivṛiddhi-pravarddha
+    <lb n="6"/>mānam ā caṁdrārkka-tāraṁ saluttamire <g type="ddanda"></g> svastya
+    <lb n="7"/>navara<unclear>t</unclear>a-parama-kalyāṇābhyudaya-saha<choice><orig>ś</orig><reg>s</reg></choice>ra
+    <lb n="8"/>phaḷa-bhō<unclear>ga</unclear>-bhāgini-dvitiya-lakṣmī-samāneya
+    <lb n="9"/>r a<unclear>ga</unclear>ṇita-<unclear>dā</unclear>na-cintāmaṇi vivēka-cūḍāmaṇiga
+    <lb n="10"/>ḷ ēka-vākyeyar gguṇada bēḍaṁgiyar appa
+    <lb n="11"/><unclear>śrī</unclear>mad-akkā-dēviyar kkisukāḍ ēḻpattumaṁ duṣṭa-
+    <lb n="12"/>nigraha-viśiṣṭa-pratipāḷanadiṁ sukha-saṁkathā-vi
+    <lb n="13"/>nōdadindāḷdu rājyaṁ geyyuttamire <choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa
+    <lb n="14"/>932neya sādhāraṇa-saṁvatsarada mārggaśira
+    <lb n="15"/>da puṇṇameyoḷ āda sōma-grahaṇadandu sū
+    <lb n="16"/>ṇḍiyaṛuvar ggāvuṇḍaṁgaḷum enbar se<unclear>ṭ</unclear>ṭ<unclear>igaluṃ dē</unclear>
+    <lb n="17"/><unclear>va</unclear>ra sannidhānadoḷ alliya bra<unclear>hmapuri</unclear>
+    <lb n="18"/>ya mahājanakke bariya<note source="bib:Barnett1921-1922_04">uncertain; it may be <foreign>siriya</foreign></note> <gap reason="lost" unit="character" quantity="4"></gap> <unclear>o</unclear>
+    <lb n="19"/>ḷagaṇa bhūmi mūḍal <unclear>sirigu</unclear>ppeya pola
+    <lb n="20"/>da mēre teṁkalu samkalūra sīme paḍuval <gap reason="lost" unit="character" quantity="2"></gap>
+    <lb n="21"/>ṭṭanēśvarada polada mēre baḍagalu p<unclear>u</unclear>rada pola
+    <lb n="22"/>da mēreyiṁdoḷage dhāra-pūrbbakaṁ mū<supplied reason="omitted">r</supplied>ggaru-va
+    <lb n="23"/>ṇamaṁ tettuṇbaṁtāgi biṭṭa ereya mattar
+    <lb n="24"/>nūṟu padinālkuṁ bhatta-bhāgam ādoḍuṁ
+    <lb n="25"/>mūrggaru-vaṇamaṁ tiṟuvarā bhūmiyu
+    <lb n="26"/>man avar iḻda kēriyalnonduṁ kṣudrōḍadravama
+    <lb n="27"/>n āgal īyade sva-dharmmadiṁ <supplied reason="lost">pratipāḷisu</supplied>vur
+    <lb n="28"/>śōk <gap reason="lost" unit="character" quantity="1"></gap> sā <gap reason="lost" unit="character" quantity="11"></gap> sā
+</p>
+
+</div>
+     <div type="translation"  resp="part:ants">
+         <p>
+             Hail! The illustrious Lord Tribhuvanamalla, who was the shelter of the world, who was the beloved of the glorious earth, the great king among kings, the supreme Lord, the <foreign>paramabhattaraka</foreign>, who was the ornament of the Cāḷukya lineage, may his victorious reign keep increasing its prosperity further and further as long as the moon, the sun and the stars keep shedding their light.
+             Hail! The illustrious Akkā Dēvi, sharing in the enjoyment of the fruits of thousands of issues of unceasing supreme felicity, equal to a second Lakṣmī <supplied reason="explanation">Goddess of Fortune</supplied>, the wish-fulfilling jewel of immeasurable bounty, a crest-jewel of discretion, uniform in speech, adorned with virtues, was administrating the Kisukāḍ 70 in the enjoyment of pleasant conversations so as to suppress the evil and protect the excellent. 
+             In the śaka year 932, the cyclic year Sādhāraṇa, on  the full-moon of Mārgaśiras, on the occasion of lunar eclipse, the six Gāvuṇḍas and the eight Seṭṭis of Sūṇḍi, in the presence of the deity, to the Mahājanas <supplied reason="explanation">assembly of learned Brahmins</supplied> of that Brahmapuri quarter
+             [gap] the land of inside, bounded on the east by plough field/corn land of Siriguppe, on the south border by Saṁkalūr, on the west by the plough field/corn land of ..ṭṭanēśvara, on the north by the plough field/corn land of the town <supplied reason="explanation">Sūḍi</supplied>. Within these boundaries, the <foreign>dhāra-pūrva</foreign> <supplied reason="explanation">irrevocably donated land</supplied>, 114 <foreign>mattar</foreign>, which a portion is to enjoy on payment of a <foreign>mūrggaru-vaṇa</foreign>, due when the produce of the field is divided;... That land and also its street, shall remain intact 
+according to the dharma...        
+         </p>
+      
+     </div>
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-C).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025), based on the stone in situ.
+	</p>
+       
+        <bibl n="Ba">
+			<ptr target="bib:Barnett1921-1922_04"/>
+			<citedRange unit="page">76-77</citedRange>
+			<citedRange unit="item">C</citedRange>
+		</bibl>
+    </div>
+    
+      
+    
+  
+    
+        
+    </body>
+        </text>
+</TEI>
+
+
+
+
+
+
