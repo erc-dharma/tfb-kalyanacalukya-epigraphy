@@ -91,24 +91,24 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215"></p>
    	<milestone type="pagelike" unit="zone" n="A"/>
              <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-       <lb n="1"/><l n="a"><g type="SpiralL"/>namas tuṁga-śiraḥś-cuṁbi</l>
+       <lb n="1"/><l n="a"><g type="SpiralL"/>namas tuṁga-śira<choice><orig>ḥś</orig><reg>ś</reg></choice>-cuṁbi</l>
         <l n="b">candra-cāmara-cāravē</l>
         <l n="c">trai<choice><orig>ḷ</orig><reg>l</reg></choice>ōkya-nagarāraṁbha-</l>
         <l n="d">mūla-staṁbhāya <choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē<g type="ddanda"></g></l>
     </lg>
     <lg n="2" met="sragdharā" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
         <!--++++-++||-\-\-\-\-\-+||+-++-+=-->
-        <l n="a">śrīmad-gaṁgā-taraṁg'ō<lb break="no" n="2"/>ccaḷita-jaḷa-kaṇa-śrēṇi-puḥp'āḷi-śōbhā-</l>  
-        <l n="b">dhāmaṁ caṁcaj-jaṭā-pallavam am<choice><orig>ri</orig><reg>r̥</reg></choice>ta-karōdyat-phaḷaṁ bāhu-śākhā-</l>
-        <l n="c">rāmaṁ gaurī-lat'ā <lb break="no" n="3"/>liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruv'ādaṁ</l>
-        <l n="d">rāmaṁgīg'artthiyiṁ vācchita-phaḷa-cayamaṁ saṁtat-ōtsāhadiṁdaṁ<g type="ddanda">.</g></l></lg>
+        <l n="a">śrīmad-gaṁgā-taraṁg-ō<lb break="no" n="2"/>ccaḷita-jaḷa-kaṇa-śrēṇi-pu<choice><orig>ḥ</orig><reg>̣̣s</reg></choice>p-āḷi-śōbhā-</l>  
+        <l n="b">dhāmaṁ caṁcaj-jaṭā-pallavam am<choice><orig>ri</orig><reg>r̥</reg></choice>ta-kar-ōdyat-phaḷaṁ bāhu-śākhā-</l>
+        <l n="c">rāmaṁ gaurī-latā <lb break="no" n="3"/>liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruv-ādaṁ</l>
+        <l n="d">rāmaṁg-īg-artthiyiṁ vā<choice><orig>c</orig><reg>ñ</reg></choice>chita-phaḷa-cayamaṁ saṁtat-ōtsāhadiṁdaṁ<g type="ddanda">.</g></l></lg>
     
     <lg n="3" met="sragdharā" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-        <l n="a">śrīkaṇṭhaṁ rāmadēvaṁg' anu<choice><orig>pp</orig><reg>p</reg></choice>ama- 
-<lb break="no" n="4"/>mahimaṁgīge saṁpattan eduṁṇan<note>read saṁpattan enduṁ</note></l>
-   <l n="b">ā nākauk'ānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇ-āṁśu-jāḷa-</l>
+        <l n="a">śrīkaṇṭhaṁ rāmadēvaṁg anu<choice><orig>pp</orig><reg>p</reg></choice>ama- 
+<lb break="no" n="4"/>mahimaṁg-īge saṁpattan eduṁṇan<note>read saṁpattan enduṁ</note></l>
+   <l n="b">ā nākauk-ānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇ-āṁśu-jāḷa-</l>
     <l n="c">byākīrnn'āghri-dvay-āḷaṁk<choice><orig>r</orig><reg>r̥</reg></choice>itan amara-varaṁ śita-śailē<supplied reason="omitted">ṁ</supplied>dra-kanyā-ḷ</l>
-       <l n="d"><lb break="no" n="5"/>ōk'āṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>r̥</reg></choice>itaṁ vīrasōmēśan īśaṁ<g type="ddanda">.</g></l>  
+       <l n="d"><lb break="no" n="5"/>ōk-āṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>r̥</reg></choice>itaṁ vīrasōmēśan īśaṁ<g type="ddanda">.</g></l>  
       </lg>
     <lg n="4" met="mahāsragdharā" xml:lang="kan-Latn">
         <l n="a">caḷad-ugra-grāha-vaktra-cc<supplied reason="omitted">y</supplied>uta-timi-nikar'ātuccha-pucch'āgra-ghāt'ā</l>
