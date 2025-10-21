@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Balligavē, Kedareśvara Temple inscription, Kalacuri era, year 16</title>
+				<!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+				<!-- Add your name in the respStmt matching your involvement -->
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<!-- Work done in the file, e.g. editor ...-->
+					<persName ref="part:flde">
+						<forename>Florinda</forename>
+						<surname>De Simini</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<!-- This may be the same as the creator of the file -->
+					<persName ref="part:flde"><!-- Update the id -->
+						<forename>Florinda</forename>
+						<surname>De Simini</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+				<idno type="filename">DHARMA_INSKarnataka10001</idno>
+				<!-- Replace by filename, e.g. Pallava00001 -->
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by John Doe.</p>
+						<!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- only the handDesc can be filled in at this stage -->
+				<msDesc>
+					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+						<!-- don't modify this -->
+					</msIdentifier>
+					<msContents>
+						<!-- describe the intellectual content of an inscription -->
+						<summary><!-- //// NOT MANDATORY  ////--></summary>
+						<!-- offers the possibility to give a summary of the inscription's content -->
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreadsheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<!-- UPDATE the link once the release is made official -->
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:flde" when="2024-02-01">Creation of the file</change>
+
+		</revisionDesc>
+	</teiHeader>
+
+	<text xml:space="preserve">
+      
+<body>
+         
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+   
+<p xml:lang="san-Latn" rendition="class:kannada maturity:83215"> 
+    <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><milestone unit="block" n="A"/>
+    <g type="SpiraIL"/> Oṁ namaḥ śivāya</p> 
+    
+    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215"> 
+        <l n="a">namas tuṁga-śiraś-cuṁbi</l>
+        <l n="b">caṁdra-cāmara-cāravē</l>
+        <l n="c">trailokya-nagarāraṁbha</l>
+        <l n="d">mūla-staṁbhāya śaṁbhavē <g type="ddanda">.</g></l>
+    </lg>
+ 
+<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+	<l n="a"><lb n="2"/>namaś śāśvatikānanta</l>
+            <l n="b">jñānaiśvarya-mayātmanē</l>  
+            <l n="c">saṁkalpa-saphala-brahma</l>
+            <l n="d">stambhārambhāya śambhavē</l>
+        </lg>
+     
+	<p>namo rājaguravē <g type="ddanda">.</g></p> <!--not in the printed edition!-->
+  
+   <p xml:lang="kan-Latn">
+<lb n="3"/><g type="SpiraIL"/> svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭāraka kāḷaṁjara-pu<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice> kaḷacuryya-kuḷa-kamaḷa-mārttaṇḍa kadana
+
+<milestone type="pagelike" unit="zone" n="B"/> 
+<lb n="5" break="no"/>pracaṁḍa māna-kanakācaḷa su-bhaṭar-āditya kaligaḷ-aṁkuśa gaja-sāmanta śaraṇāgata-vajra-paṁjara pratāpa-laṅkēśvara 
+<lb n="6" break="no"/>para-nārī-sahōdara-śanivāra-siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁka-mallādi-yathārttha-nāma-
+<lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṁ mahī-vallabheyan anudinav
+anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/>
+   </p>  
+<lb n="8"/>	
+<ab>vṛ <g type="ddanda">.</g></ab>
+    <lg n="3" met="vṛttam" xml:lang="san-Latn" rendition="class:kannada maturity:83215"> 
+    	<l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā </l>
+    	<l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṁ krīḍatē </l>
+    	<l n="c">ra<lb n="9" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē </l>
+    	<l n="d">viṣṇōr vakṣasi kaustubhaṃ nṛpa-vara prauḍhēna sā ślāghatā </l>    
+    </lg>
+<ab>va<g type="ddanda">.</g></ab>
+
+<p>int e<lb n="10" break="no"/>nisida rājādirāja-priya-tanaya-pratāpamaṁ pēḷvaḍe <g type="ddanda">.</g>
+</p> 
+	<ab>vr̥<g type="ddanda">.</g></ab>
+<lg n="4" met="mattēbha" xml:lang="kan-Latn"> 
+	<l n="a">ripu-bhūpāḷa-tamaugham ōḍe kumuda-brātaṁ<lb n="11"/>karaṁ percce tad</l>
+	<l n="b">ripu-kāntā-mukha-paṅkaja<supplied reason="omitted">ṁ</supplied>korage nakṣatrōdayēśaṁ kaḷā</l>
+	<l n="c">ḷi-paribhrājitan uṁnatoṁnata-yaśaś-śrī-candrikādhīśva<lb n="12" break="no"/>raṁ </l>
+	<l n="d">nṛpanē sōman enalke bijjaṇa-mahīpāḷābdhiyoḷ puṭṭida <g type="ddanda">.</g></l>
+	</lg><ab>va<g type="ddanda">.</g></ab>
+<p>antu puṭṭi kṣōṇī-taḷav ellavan ēka-ccatradind ā<lb n="13" break="no"/>ḷda rāya-murāri sōvi-dēvānujan āḷdan
+ent endaḍe  <g type="ddanda">.</g></p> <ab> ka<g type="ddanda">.</g></ab>	
+	<lg n="5" xml:lang="kan-Latn" met="TBC"><!--you should identify the metre here instead of my "TBC"; if you cannot indentify it, just put "uncertain"--> 
+	<l n="a">tat-samanantaradoḷ dhare</l>
+	<l n="b">g utsavamaṁ māḍi <lb n="14"/>satya-śauca-bratada sa</l>
+	<l n="c">ritsuta-doreyaṁ nava-puru</l>
+	<l n="d">kutsaṁ saṃkaṁma-dēvan āḷdaṁ dhareya <g type="ddanda">.</g></l>
+		</lg>
+<ab>utpaḷa<g type="ddanda">.</g></ab>	
+	
+	<lg n="6" xml:lang="kan-Latn" met="TBC">
+<!--you should identify the metre here instead of my "TBC"; if you cannot indentify it, just put "uncertain"--><l n="a">gauḷa-gajan turuṣka-turagaṁ va<lb n="15" break="no"/>ra-siṁhaḷa-nātha-mauktikaṁ </l>
+<l n="b">cōḷa-sudhāmbaraṁ magadha-katturiyuṁ maḷayēśa-caṁdanaṁ </l>
+<l n="c">lāḷana bāḷakan ariyir endu carar sale biṁna<supplied reason="lost">pa</supplied>ṁ<lb n="16" break="no"/>gaḷaṃ </l>
+<l n="d">kēḷisut irppar ōlagadoḷaṁ vibhu-saṁkama-dēva-bhūpana <g type="ddanda">.</g></l>
+	</lg>
+	
+	<p>ant anēka-prakāradiṁ vasudhā-vaḷayavaṃ niḥ-kaṁṭakaṁ <milestone unit="block" n="B"/><choice><unclear>m</unclear><unclear><!--EF: yous hould always have 2 elements within "choice", either "sic"+"corr", or "orig"+"reg" or 2 times "unclear"; you had only one element "unclear"; I have added it, but you should add the alternative unclear reading to the reading "m" you already have--></unclear></choice>āḍi<milestone unit="block" n="A"/><lb n="17" break="no"/><choice><sic>dā</sic><corr>da</corr></choice> mahārājādhirāja cakrēśvarana
+rājya-pradhānāṁgaṅgaḷe mahā-pradhānar ādar enisida piriya-daṁ<unclear>ḍa</unclear>-<milestone unit="block" n="B"/><supplied reason="lost">nā</supplied><unclear>ya</unclear>kaṃ lakṣmi-dēva <milestone unit="block" n="A"/><lb n="18" break="no"/>nu<supplied reason="omitted">ṁ</supplied> <g type="ddanda">.</g> bāhattara-niyōgādhiṣṭhāyakaṁ caṁḍuṅgi-dēvanuṁ vasudhaika-bāṁdhavaṁ rēcaṇayya-<milestone unit="block" n="B"/><supplied reason="lost">daṇḍanā</supplied>yakanuṁ <g type="ddanda">.</g> sa<milestone unit="block" n="A"/><lb n="19" break="no"/>rvādhikāri sōvaṇayya<g type="SpiraIL"/>daṁḍanāyakanuṁ <g type="ddanda">.</g> samasta-sēnāgrēsaraṃ kāvaṇayya-daṇḍanā-
+yakanuṃ voḷagāgi samasta-pradhānasahitaṃ vinōdadiṃ dakṣiṇa-diśāvarakke vandu banavase-
+pannir-ccāsirad adhiṣṭhānaṃ Baḷḷigrāmeya śrīmad-dakṣiṇa-Kēdārēśvara-dēvara tri-kūṭa-
+prāsādamumaṃ latā-maṇṭapamumaṃ ratna-pūjānēka-svarṇa-kaḷaśaṅgaḷumaṃ vidyā-dānānna-dānā-
+dy-anēka-śrī-kāryyamaṃ nōḍi yathārtthaṃ dakṣiṇa-Kēdārav illi nāv ēnānuṃ dharmma-kāryya-
+maṃ māḍalvēḻkuv endu tadīya-sthānānhāryyar appa śrīmad-rāja-guru-dēvaraṃ kaṇḍ avara
+tapaḥ-prabhāvādi-sāmartthyakk āścaryyadiṃ nīḍuṃ nōḍi ǁ</p>	
+</div>
+    
+<div type="apparatus">
+           
+	<listApp><!-- one <app> for each apparatus entry -->
+		
+		
+		<app loc="4">
+			<lem>°nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice></lem>
+			<rdg source="bib:Rice1902_01">nirghōṣaṇa</rdg>			
+		</app>
+		
+		
+		<!--
+			<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Rice1902_01">..</rdg>
+			<note>...</note
+		</app>-->
+		
+	</listApp>
+</div>
+         
+<div type="translation" resp="part:flde">
+    <!--translation encoded as per EGD §9.2 -->
+    <head>English Translation</head> 
+    
+	<p n="1">Oṃ, praise to Śiva</p>
+    
+	<p rend="stanza" n="1">Praise to Śambhu, beautified by the chowrie moon kissing his lofty head; like a foundation pillar of a city that is the three worlds.</p>
+	
+	<p rend="stanza" n="2">Praise to Śambhu, whose Self consists of perpetual, eternal knowledge and sovereignty, who is the foundation of Brahmā's pillar, bearing the fruits of [his] will.</p>
+
+<p n="2">Praise to the king's teacher!</p>
+	
+<p n="3-7">Be it well! Refuge of the entire world, beloved of the glorious Earth, the Mahārājādhirāja Paramēśvara Paramabhaṭṭāraka,  Kalañjarapura's
+munificient Lord, whose banner is the golden bull, accompanied by the sound of <foreign>ḍamaruka</foreign>s and <foreign>tūryya</foreign>s, sun to the lotus flower which is the Kaḷacuryya family, impetuous on the battle field, 
+a mount Sumeru of pride, sun of the good warriors, elephant-driver's hook of heros, a leader of elephants, a diamond-cage for refugees, the Lord of Laṅka for splendour, 
+ a brother to other men's wives, Śanivārasiddhi, powerful on the hill-fortress, Rāma, whose hallmark is being energetic, a lion against the elephant-enemies, Niśśankamalla: with such suitable names
+the glorious strong-armed Cakravartin Tribhuvanamalla Bijjaṇadēva everyday experienced the love of the Earth
+</p>
+
+</div>
+    
+<div type="commentary">
+	<!--commentary encoded as per section §9.3 -->
+	<p><!-- iconography --></p>
+	</div>
+    
+<div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+    
+	<p>First edited and translated in <bibl><ptr target="bib:Rice1902_01"/></bibl>. Revised edition and translation by FDS based on photos Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Florinda De Simini (2024), based on ...</p>
+	
+	<listBibl type="primary">
+		<bibl n="EC">
+			<ptr target="bib:Rice1902_01"/>
+			<citedRange unit="page">111–113 (text)</citedRange>
+			<citedRange unit="page">59–60 (translation)</citedRange>
+			<citedRange unit="page">174–175 (text in Kannada characters)</citedRange> 
+		</bibl>		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:Lorenzen1991_01"/>
+		<!--<citedRange unit="page">5445</citedRange>-->
+		</bibl>
+		<bibl/>
+	</listBibl>
+	
+        </div>
+      </body>
+  </text>
+</TEI>
