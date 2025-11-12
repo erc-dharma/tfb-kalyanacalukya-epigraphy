@@ -172,9 +172,9 @@
     </lg>
    
     <lg n="11" met="kanda" xml:lang="kan-Latn">
-     <l n="a">śrīvatsa-gōtran urbbī</l>
-     <l n="b">dēva-nutaṁ nikhiḷa-vēdāṁga-vidaṁ</l>
-     <l n="c">pāvana-caritra-guṇa-sād</l>
+     <l n="a">śrīvatsa-gōtran ur<choice><orig>bb</orig><reg>vv</reg></choice>ī</l>
+     <l n="b">dēva-nutaṁ nikhiḷa-vēda-vēdāṁga-vidaṁ</l>
+     <l n="c">pāvana-caritra-guṇa-sad</l>
      <l n="d">bhāvaṁ puruṣōttamaṁ d<choice><orig>p</orig><reg>v</reg></choice>ijōttaman enipaṁ <g type="ddanda">.</g></l>
     </lg>
     
