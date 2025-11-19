@@ -148,12 +148,12 @@
 	</p>
 	<ab>vr̥<g type="ddanda">.</g></ab>
 	<lg n="5" met="śārdūlavikrīḍita" xml:lang="kan-Latn">
-	<l n="a" enjamb="yes">ā cāḷukya-kulakke bhaktar enisirdd<supplied reason="subaudible">a</supplied> atyaṁta-vikrāṁta-lī</l>
+	<l n="a" enjamb="yes">ā cāḷukya-kulakke bhaktar enisirdd' atyaṁta-vikrāṁta-lī</l>
 	<l n="b" enjamb="yes">lācāryya<unclear>r kka</unclear>
 		<lb break="no" n="12"/>danaika-dhuryar avanī-prastutya-śuddha-prasi</l>
 	<l n="c" enjamb="yes">ddhācārar jjagad-ēka-vīra<unclear>ra</unclear>-sadr̥kṣa-kṣatra-saṁvēdya-vi</l>
-	<l n="d">dyā-cāturyyar udagra-dhairyyar eseda<unclear>r siṁ</unclear>
-		<lb break="no" n="13"/>dānvayōr vvībhujar<g type="ddanda">.</g></l>
+	<l n="d">dyā-cāturyyaR udagra-dhairyyar eseda<unclear>r siṁ</unclear>
+		<lb break="no" n="13"/>dānvayōr vvībhujar·<g type="ddanda">.</g></l>
 	</lg>
 	<ab>vr̥<g type="ddanda">.</g></ab>
 	<lg n="6" met="śārdūlavikrīḍita" xml:lang="kan-Latn">
@@ -252,11 +252,7 @@ vāgiliṁ paḍuva mattaṁ rāja-vīthiyiṁ mūḍa-v-intī-sthaḷadoḷage 
                		<lem source="bib:Fleet1875_05">cāḷukya</lem>
                		<rdg source="bib:LakshminarayaRao1952_01">caḷakya</rdg>
                	</app>	
-               	<app loc="4">
-               		<lem source="bib:Fleet1875_05">nutar</lem>
-               		<rdg source="bib:LakshminarayaRao1952_01"><unclear>nu</unclear>tar</rdg>
-               		
-               	</app>
+        
                	<app loc="4">
                		<lem source="bib:Fleet1875_05">cāḷukya</lem>
                		<rdg source="bib:LakshminarayaRao1952_01">cālekya</rdg>
@@ -447,15 +443,15 @@ Four landmark stones, composed of a <foreign>liṅga</foreign> together with, sa
 <div type="bibliography">
 
 	<p>
-		First reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1926-1927/F/1926-1927/186 = BK 186).
+		First reported in <bibl><ptr target="bib:ARIE1926-1927"/><citedRange unit="page">14</citedRange><citedRange unit="appendix">F/1926-27</citedRange><citedRange unit="item">186</citedRange></bibl>
 	</p>
 	
 	<p>
-		First edited in <bibl><ptr target="bib:LakshminarayaRao1952_01"/></bibl> (SII 11.119).
+		First edited in <bibl><ptr target="bib:LakshminarayaRao1952_01"/><citedRange unit="volume">11</citedRange><citedRange unit="item">119</citedRange></bibl>
 	</p>
 	
 	<p>
-		Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the estampage (ASI, Mysore).</p>
+		Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the stone in situ.</p>
 	
 	<listBibl type="primary">
 		
