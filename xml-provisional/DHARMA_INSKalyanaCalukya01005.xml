@@ -247,13 +247,13 @@
 
    <p>
        Antu baṁd' anavara
-   <lb break="no" n="31"/>ta-vinamad' amara-vara-mauḷi-maṇi-kiraṇa-maṁajarī<note>read <foreign>maṁjarī</foreign></note>-raṁjitāṁghriyugman appa huligeṟeya sōmanāthanan ārādhisuttam ippudum ā paramēśara<note>read <foreign>paramēśvaraṁ</foreign></note> pratyakṣavāgi <g type="ddanda">.</g>
-   <lb n="32"/>Ātra ślōka-dvayaṁ <g type="ddanda">.</g>
+   <lb break="no" n="31"/>ta-vinamad-amara-vara-mauḷi-maṇi-kiraṇa-maṁajarī<note>read <foreign>maṁjarī</foreign></note>-raṁjitāṁghriyugman appa huligeṟeya sōmanāthanan ārādhisuttam ippudum ā paramēśara<note>read <foreign>paramēśvaraṁ</foreign></note> pratyakṣavāgi<g type="ddanda">.</g>
+   <lb n="32"/>Atra ślōka-dvayaṁ <g type="ddanda">.</g>
    </p>
   
   <lg n="18" met="anuṣṭubh" xml:lang="san-Latn">
-      <l n="a">Ābbalūru-vara-grāmaṁ</l>
-      <l n="b">gatvā rāma mamājñ<choice><orig>e</orig><reg>a</reg></choice>yā <supplied reason="omitted"><g type="danda">.</g></supplied></l>
+      <l n="a">Abbalūru-vara-grāmaṁ</l>
+      <l n="b">gatvā rāma mam ājñ<choice><orig>e</orig><reg>a</reg></choice>yā <supplied reason="omitted"><g type="danda">.</g></supplied></l>
       <l n="c">tatra vāsaṁ kuru svasthaṁ</l>
       <l n="d">yaja māṁ bhakti-yōgataḥ <g type="ddanda">.</g></l>
   </lg>
@@ -261,16 +261,16 @@
    <lg n="19" met="anuṣṭubh" xml:lang="san-Latn">
        <l n="a">jainai<supplied reason="omitted">ḥ</supplied> saha vivādaṁ ca</l>  
        <l n="b">saṁkaṁ hitvā ku<lb n="33"/>ruṣv atha <g type="danda">.</g></l>
-       <l n="c">svaśirōpi paṇaṁ k<choice><orig>r</orig><reg>r̥</reg></choice>itvā</l>
+       <l n="c">svaśirō'pi paṇaṁ k<choice><orig>ri</orig><reg>r̥</reg></choice>tvā</l>
        <l n="d">putra tvaṁ vijayī bhava <g type="ddanda">.</g></l>
    </lg>
     
    <p>
-       eṁdu sōmanātha-dēvar besasidaḍēkāntada rāmayyan abbalūra brahmēśvara-sthānudāḷu nisp<choice><orig>r</orig><reg>r̥</reg></choice>iha-v<choice><orig>r</orig><reg>r̥</reg></choice>ittiyiṁdam ire <choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice>
+       eṁdu sōmanātha-dēvar besasidaḍ' ēkāntada-rāmayyan abbalūra brahmēśvara-sthānudāḷu<note>read <foreign>sthānadoḷu</foreign></note> nisp<choice><orig>ri</orig><reg>r̥</reg></choice>ha-v<choice><orig>ri</orig><reg>r̥</reg></choice>ttiyiṁdam ire <choice><sic><g type="danda"></g></sic><corr><g type="ddanda">.</g></corr></choice>
    </p>
 
 <lg n="20" met="kanda" xml:lang="kan-Latn">
-    <l n="a"><lb n="34"/>yulidaḍḍi baṁdu jainar</l>
+    <l n="a"><lb n="34"/>y-ulidaḍḍi baṁdu jainar</l>
     <l n="b">palar antā saṁka-gauṇḍa-sahitaṃ piriduṁ</l>
     <l n="c">caladiṁ kaivārisidar</l>
     <l n="d">ttolagade jina daivan endu śiva saṁnidhiyoḷu<g type="ddanda">.</g></l>
