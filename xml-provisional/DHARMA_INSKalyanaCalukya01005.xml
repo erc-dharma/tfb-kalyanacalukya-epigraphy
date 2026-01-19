@@ -296,7 +296,7 @@
     </lg>
     
     <lg n="23" met="kanda" xml:lang="kan-Latn">
-    <l n="a">Ene jai<lb n="38"/>nar eṁgu nīṁ muṁ</l>
+    <l enjamb="yes" n="a">Ene jai<lb break="no" n="38"/>nar eṁgu nīṁ muṁ</l>
     <l n="b">nina hitarara<note>read <foreign>hitaraṁ</foreign></note> hēḷal ēke niṁnaya <choice><orig>s</orig><reg>ś</reg></choice>iramaṁ</l>
     <l enjamb="yes" n="c">janam aṟiyal aridu koṭṭā</l>
     <l n="d">tanoḷ iṃ paḍe nīne bhaktan ātane dēvaṁ <g type="ddanda"></g></l>
@@ -304,8 +304,8 @@
    
    <lg n="24" met="kanda" xml:lang="kan-Latn">
    <l n="a">Enal ēkāntada-rāmaṁ</l>
-   <l n="b">manasijaripugittu taleya<lb n="39"/>nāṁ paḍedaḍe</l>
-   <l n="c">nīv enagīva paṇam adēnn ene<!-- ene non dovrebbe fare parte del pada --></l>
+   <l n="b">manasijaripug' ittu taleya<lb n="39"/>nāṁ paḍedaḍe</l>
+   <l n="c">nīv' enag' īva paṇam ad' ēnn ene<!-- ene non dovrebbe fare parte del pada --></l>
    <l n="d">munid eṁdar jjinana kittu śivanaṁ nilipevu<g type="ddanda">.</g></l>
    </lg> 
   
