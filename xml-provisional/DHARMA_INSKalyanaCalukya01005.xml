@@ -318,8 +318,8 @@
     
   <lg n="26" met="campakamālā" xml:lang="kan-Latn"> 
   <l n="a">Uḍugade śaṁbhu nīne śaraṇ' eṁnadaḍaṁ manam anya-<choice><orig>b</orig><reg>bh</reg></choice>āvadoḷ</l>
-  <l enjamb="yes" n="b">oḍardaḍam ī k<choice><orig>ri</orig><reg>r̥</reg></choice>pāṇa-mukhadiṁ tale pōgade nilkad' allad-i</l><!-- pada tutto errato -->
-  <l n="c"><lb n="41"/>rddaḍe śiva niṁna muṁn-aḍig' uruḷug' enutaṁ kali rāman ārddu</l><!-- dal quarto gaṇa non ci si trova -->
+  <l enjamb="yes" n="b">oḍardaḍam ī k<choice><orig>ri</orig><reg>r̥</reg></choice>pāṇa-mukhadiṁ tale pōgade nilkad' allad' i</l><!-- pada tutto errato -->
+  <l n="c"><lb break="no" n="41"/>rddaḍe śiva niṁna muṁn-aḍig' uruḷug' enutaṁ kali rāman ārddu</l><!-- dal quarto gaṇa non ci si trova -->
   <l n="d">key<note>read <foreign>kay</foreign></note>-giḍad arid' ikkaluṁrayisidaṁ<note>read <foreign>ikkal ārayisidan</foreign></note> śiramaṁ śivan aṁghri-yugmadoḷu<g type="ddanda">.</g></l><!-- intero verso sbagliato -->
   </lg>
    
