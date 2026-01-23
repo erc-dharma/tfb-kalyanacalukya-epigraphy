@@ -172,15 +172,15 @@
     </lg>
    
     <lg n="11" met="kanda" xml:lang="kan-Latn">
-     <l n="a">śrīvatsa-gōtran ur<choice><orig>bb</orig><reg>vv</reg></choice>ī</l>
+     <l enjamb="yes" n="a">śrīvatsa-gōtran ur<choice><orig>bb</orig><reg>vv</reg></choice>ī</l>
      <l n="b">-dēva-nutaṁ nikhiḷa-vēda-vēdāṁga-vidaṁ</l>
      <l enjamb="yes" n="c">pāvana-caritra-guṇa-sad</l>
      <l n="d">bhāvaṁ puruṣōttamaṁ d<choice><orig>p</orig><reg>v</reg></choice>ijōttaman enipaṁ <g type="ddanda">.</g></l>
     </lg>
     
     <lg n="12" met="kanda" xml:lang="kan-Latn">
-     <l n="a">Ā viprana sati sītā</l>
-     <l enjamb="yes" n="b">dēvigav ā satya<lb break="no" n="19"/>tapana satigaṁ guṇa-sad</l>
+     <l enjamb="yes" n="a">Ā viprana sati sītā</l>
+     <l enjamb="yes" n="b">-dēvigav ā satya<lb break="no" n="19"/>tapana satigaṁ guṇa-sad</l>
      <l n="c">bhāvade padmāṁbike sale</l>
      <l n="d">pāvana-sucaritre pati-hita<choice><orig>b</orig><reg>v</reg></choice>ratey enipaḷ <g type="ddanda">.</g></l>
     </lg>
