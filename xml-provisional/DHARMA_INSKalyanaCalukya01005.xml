@@ -231,8 +231,8 @@
     
   <lg n="16" met="kanda" xml:lang="kan-Latn">  
     <l n="a">Ēkāgra-bhakti-yōgadin</l>
-    <l n="b">ēkākiy enalke saṁdu śivanaṁ piridapp</l>
-    <l n="c">ēkāntadoḷ ā rādhi<lb break="no" n="29"/>si</l>
+    <l n="b">ēkākiy enalke saṁdu śivanaṁ piridapp'</l>
+    <l enjamb="yes" n="c">ēkāntadoḷ ā rādhi<lb break="no" n="29"/>si</l>
     <l n="d">y ēkāṁntada rāman eṁba pesara<supplied reason="omitted">ṁ</supplied> paḍadaṁ <g type="ddanda">.</g></l>
   </lg>
    
