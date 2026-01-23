@@ -129,7 +129,7 @@
    
     <p>
       ā himagi<supplied reason="omitted">rī</supplied>ndrada dakṣiṇa-pārśva-vartti
-      <lb break="no" n="11"/>y-att' ippa bhāratavarṣadoḷu kuṁtaḷa-dēśav-eṁbud' adhika-śōbhev-ett' esevudalli <g type="ddanda">.</g>
+      <lb break="no" n="11"/>y-att' ippa bhāratavarṣadoḷu kuṁtaḷa-dēśav-eṁbud' adhika-śōbhev-ett' esevud' alli <g type="ddanda">.</g>
     </p>
    
     <lg n="6" met="kanda" xml:lang="kan-Latn">
@@ -153,20 +153,20 @@
         <l n="d">dadin ettaṁ gaṅikā-vinōda-k<choice><orig>r</orig><reg>r̥</reg></choice>ita-vīṇā-nādadiṁd eppuguṁ <note source="bib:EI_1898-1899">to read <foreign>oppuguṁ</foreign></note> <g type="ddanda">.</g></l>
     </lg>
     <p>
-        ant-aparimīta-kē
-        <lb break="no" n="15"/>dāra-bhūmiyuṁm<note>tu read <foreign>bhūmiyum</foreign></note> apāra-jaḷāśrayābhirāmamuṁ bahu-janākīr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>amum amēya-gaṇikā-nivāsamum agaṇita-vaṇigjanāśrayamum enisi śōbha-nivāsam āge <g type="ddanda">.</g>
+        Ant' aparimīta-kē
+        <lb break="no" n="15"/>dāra-bhūmiyuṁm<note>tu read <foreign>bhūmiyum</foreign></note> apāra-jaḷāśrayābhirāmamuṁ bahu-janākīr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>amum amēya-gaṇikā-nivāsamum agaṇita-vaṇigjanāśrayamum enisi śōbha-nivāsam āge<g type="ddanda">.</g>
     </p>
    
     <lg n="9" met="campakamālā" xml:lang="kan-Latn">
-    <l n="a"><lb n="16"/>avataris-irddan alli rajatācaḷadiṁ girijā-samētam ut</l>
-    <l n="b">savadoḷe sōmanāthan akhiḷāmara-m<choice><orig>ō</orig><reg>au</reg></choice>ḷi-vinaddha-ratna-saṁ</l>
-     <l n="c">bhava-kiraṅa-prabhā-paṭala-puṁja-parāga-padābjan artthiyiṁd</l>
+    <l enjamb="yes" n="a"><lb n="16"/>Avatarisirddan alli rajatācaḷadiṁ girijā-samētam ut</l>
+    <l enjamb="yes" n="b">savadoḷe sōmanāthan akhiḷāmara-m<choice><orig>ō</orig><reg>au</reg></choice>ḷi-vinaddha-ratna-saṁ</l>
+     <l enjamb="yes" n="c">bhava-kiraṅa-prabhā-paṭala-puṁja-parāga-padābjan artthiyiṁd'</l>
      <l n="d">a<lb break="no" n="17"/>vanata-bhāktikābhimata-siddhi-phaḷōdaya-kaḷpabhūruhaṁ<g type="ddanda"></g></l>
     </lg>
    
     <lg n="10" met="kanda" xml:lang="kan-Latn">
     <l enjamb="yes" n="a">Ā sōmanātha-pura-saṁ</l>
-    <l n="b">-vāsitaroḷu brahmapurigaḷoḷ <choice><orig>p</orig><reg>v</reg></choice>ipraroḷ ā</l>
+    <l n="b">vāsitaroḷu brahmapurigaḷoḷ <choice><orig>p</orig><reg>v</reg></choice>ipraroḷ ā</l>
     <l  enjamb="yes" n="c"><choice><orig>b</orig><reg>v</reg></choice>yāsa-śuka-vāmadēva-pa</l>
     <l n="d">rāśara-kapiḷādi-sad<choice><orig>ri</orig><reg>r̥</reg></choice>śan o<lb n="18"/>r<choice><orig>bb</orig><reg>vv</reg></choice>an negaḷdaṁ <g type="ddanda"></g></l>
     </lg>
