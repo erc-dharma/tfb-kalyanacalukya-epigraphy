@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sūḍi,backyard attached to the house of <foreign>kulkarṇi</foreign> Lacappā, Śaka 996 (1075 CE)</title>
+                <title>Sūḍi, backyard attached to the house of <foreign>kulkarṇi</foreign> Lacappā, Śaka 996 (1075 CE)</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:ants">
@@ -91,57 +91,58 @@
     </p>
 <p>
     <lb n="2"/><g type="SpiralL"></g>Svasti samasta-bhuvanāśraya śrī-pr̥ithvī-vallabha mahārājadhirāja
-    <lb n="3"/>paramēśvara paramabhaṭṭ' ārakaṁ satyāśraya-kuḷa-tiḷakaṁ cāḷuky' ābharaṇaṁ śrīmad-bhuvanaikamalla-vallabhaṁ<g type="ddanda"></g>
+    <lb n="3"/>paramēśvara paramabhaṭṭārakaṁ satyāśraya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ śrīmad-bhuvanaikamalla-vallabhaṁ<g type="ddanda"></g>
     <lg n="2" met="mattēbhavikrīḍitā" xml:lang="kan-Latn">
-        <l n="a">baḷavac cōḷa-narēṁdra-darppa-daḷanaṁ māḷavya-vám<choice><orig>s</orig><reg>ś</reg></choice>' ārṇṇava</l>
-        <l n="b">jvaḷad-aurbhānaḷan aṁga-vaṁga-khasa-vēṁgi-pāṇḍya-saurāṣṭa-kē</l>
-        <l n="c"><lb n="5"/>raḷa-nēpāḷa-turuṣka-cēra-magadha-kṣmāpāḷa-dhārādhar-ā</l>
-        <l n="d">niḷan aṁbhōdhi-vr̥it'āvanī-vaḷayadoḷ cāḷukua<lb n="6"/>kaṇṭhīravaṁ</l>
+        <l enjamb="yes" n="a">baḷavac-cōḷa-narēṁdra-darppa-daḷanaṁ māḷavya-vaṁ<choice><orig>s</orig><reg>ś</reg></choice>ārṇṇava</l>
+        <l enjamb="yes" n="b">-jvaḷad-aurbhānaḷan aṁga-vaṁga-khasa-vēṁgi-pāṇḍya-saurāṣṭra-kē</l>
+        <l enjamb="yes" n="c"><lb break="no" n="5"/>raḷa-nēpāḷa-turuṣka-cēra-magadha-kṣmāpāḷa-dhārādharā</l>
+        <l n="d">niḷan aṁbhōdhi-vr̥itāvanī-vaḷayadoḷ cāḷukya<lb break="no" n="6"/>kaṇṭhīravaṁ</l>
     </lg>
     <lg n="3" met="kanda" xml:lang="kan-Latn">
-        <l n="a">vīr'āvatāran akhiḷ ā</l>
+        <l enjamb="yes" n="a">vīrāvatāran akhiḷā</l>
         <l n="b">dhāraṁ bhuvanaikamalla-vallabhan āḷdaṁ</l>
         <l n="c">dhāriṇiyam ēka-cakrade</l>
-        <l n="d">vīraṁ <lb n="7"/>nuta-sakaḷa-cakravartti-lalāmaṁ</l>
+        <l n="d">vīraṁ <lb n="7"/>nuta-sakaḷa-cakravartti-lalāmaṁ<g type="ddanda">.</g></l>
     </lg>       
 </p>
-    <p>Ōm ant'enisi negaḻda śrimad-bhuvanaikamalla-dēvara ijaya-rājya
-    <lb n="8"/>m uttar'ōttar'ābhivr̥iddhi-pravarddhamānam ā-caṁdr'ārkka-tāraṁ sukha-saṁkathā vinōdadiṁ rājyaṁ geyyuttam iḻdu
+    <p>Ōm ant' enisi negaḻda śrimad-bhuvanaikamalla-dēvara vijaya-rājya
+    <lb break="no" n="8"/>m uttarōttarābhivr̥iddhi-pravarddhamānam ā-caṁdrārkka-tāraṁ sukha-saṁkathā-vinōdadiṁ rājyaṁ geyyuttam iḻdu
     <lb n="9"/>rājadhāni sūṇḍiya nagarēśvarada pratibaddham appa paṁcaliṁgadēvayyar<g type="danda"></g>
     </p>
     <lg n="4" met="campakamāla" xml:lang="kan-Latn">
-        <l n="a">sugatadoḷ adi-bu<lb n="10"/>ddhan akaḷaṁkadol ādi-jinam pramāṇa-mā</l> 
-        <l n="b">rgga-gatadoḷ akṣapādan akhiḷ-ārttha-vivēka-caṇaṁ kaṇādan ā</l>
-        <l n="c">tma-gatado<lb n="11"/>ḷ akke vākya-gatadoḷ neṛe jaimini śabda-lōka-mā</l>
-        <l n="d">rgga-gatadoḷ ā br̥ihaspatiy enalu negaḻdaṁ nagarēśvar-ādhipaṁ<g type="ddanda"></g></l>
+        <l enjamb="yes" n="a">sugatadoḷ adi-bu<lb break="no" n="10"/>ddhan akaḷaṁkadol ādi-jinam pramāṇa-mā</l> 
+        <l enjamb="yes" n="b">-rgga-gatadoḷ akṣapādan akhiḷārttha-vivēka-caṇaṁ kaṇādan ā</l>
+        <l enjamb="yes" n="c">-tma-gatado<lb break="no" n="11"/>ḷ akke vākya-gatadoḷ neṛe jaimini śabda-lōka-mā</l>
+        <l n="d">-rgga-gatadoḷ ā br̥ihaspatiy enalu negaḻdaṁ nagarēśvarādhipaṁ<g type="ddanda"></g></l>
     </lg>
     <lg n="5" met="mattebhavikrīḍitā">
-        <l n="a"><lb n="12"/>hariṇ'āṁka-jaṭā-viṭaṁka<choice><orig>m</orig><reg>ṁ</reg></choice> urigaṇ vyāghr'ājinaṁ <gap reason="lost" unit="character" quantity="2"></gap> ā</l>
-        <l n="b">bharaṇ'ār <gap reason="lost" unit="character" quantity="4"></gap> triśūlam enis'irrd'ī chi<lb n="13"/>nam ill'eṁban itt'</l>
-        <l n="c">eraḍ'ill'īśvaran eṁban ēm <gap reason="lost" unit="character" quantity="4"></gap>ḷ sōmēśvaraṁ lākuḷī</l>
-        <l n="d">śvara <gap reason="lost" unit="character" quantity="5"></gap> prabhāvaman adi<lb n="14"/>nn'ē vaṇṇipoṁ baṇṇipaṁ<g type="ddanda"></g></l>
+        <l enjamb="yes" n="a"><lb n="12"/>hariṇāṁkāṁka-jaṭā-viṭaṁka<choice><orig>m</orig><reg>ṁ</reg></choice> urigaṇ vyāghrājinaṁ <gap reason="lost" unit="character" quantity="2"></gap> ā</l>
+        <l n="b">-bharaṇār <gap reason="lost" unit="character" quantity="4"></gap> triśūlam enisirrd' ī ci<lb n="13"/>hnam ill' eṁban itt'</l>
+        <l enjamb="yes" n="c">eraḍ' illīśvaran eṁban ēm <gap reason="lost" unit="character" quantity="4"></gap>ḷ sōmēśvaraṁ lākuḷī</l>
+        <l n="d">śvara <gap reason="lost" unit="character" quantity="5"></gap> prabhāvaman adi<lb break="no" n="14"/>nnē vaṇṇipoṁ baṇṇipaṁ<g type="ddanda"></g></l>
     </lg>
     <p>
-        <g type="SpiralL"></g>Ant'enisi negaḻda yama-niyama-svādhyāya-dhyāna<unclear>dhāraṇa-maun</unclear>ānuṣṭā<choice><orig>ṇ</orig><reg>n</reg></choice>a-ja
-        <lb n="15"/>pa-samādhi-śīḷa-guṇa-saṁpannar lākuḷ'āgama-prasannar sāṁkhya-sarōvara-rāja-haṁsar naiyāyika
-        <lb n="16"/>kāminī-karṇṇ'āvataṁsar vai<choice><orig>s</orig><reg>ś</reg></choice>ēṣika-<choice><orig>s</orig><reg>ś</reg></choice>ikhāmaṇigaḷu sakaḷa <gap reason="lost" unit="character" quantity="12"></gap> appa śrīmat
-        <lb n="17"/>sōmēśvara-panditargge paṁca-liṁga-dēvar'aṁga-bhōgakkaṁ vidyā-dānakkam alliya vi<unclear>dva</unclear>t-tapōdhanar āhāra-dāna
-        <lb n="18"/>kkam endu svasti <choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa 996neya ānanda-saṁvatsarada <choice><orig>p</orig><reg>ph</reg></choice>ālguna <gap reason="lost" unit="character" quantity="9"></gap><note source="bib:Barnett1921-1922_04">the last six <foreign>akṣara</foreign>s look somewhat like <foreign>bahuḷa dasami</foreign>.</note> āditya-vāradandu
-        <lb n="19"/>kisukāḍ ̱eḻpattaṟa baḷiya vikramapuradoḷ palavuṁ devasa <gap reason="lost" unit="character" quantity="9"></gap> śrīmad-bhuvanaika
-        <lb n="20"/>malla-dēvar paṇḍitara kālaṁ karcci hast'ōdakaṁ geydu sarbba-namasyaṁ <unclear>sāṣta</unclear>-bhōgaṁ māḍi kottar kisukād ē
-        <lb n="21"/>ḻpattara baliya bāḍaṁ musiyageṟey adaṟa catus-sīme mūdalu āciya keṟe<g type="danda"></g> ā<unclear>gnē</unclear>
-        <lb n="22"/>yadalu kallamanūra gulugavaḷḷiya mugguḍḍe pārtthada mēḷey alli niṟuṁgallu<g type="danda"></g> teṁkalu bicce
-        <lb n="23"/>y ēriya mēgaṇa aṁkōleya mēḷe alli niṛuṁgallu<g type="danda"></g>nai<choice><orig>r</orig><reg>rr̥</reg></choice>ityadalu gulugavaḷḷiya arahina <gap reason="lost" unit="character" quantity="2"></gap>
+        <g type="SpiralL"></g>Ant' enisi negaḻda yama-niyama-svādhyāya-dhyāna-<unclear>dhāraṇa-maun</unclear>-ānuṣṭā<choice><orig>ṇ</orig><reg>n</reg></choice>a-ja
+        <lb break="no" n="15"/>pa-samādhi-śīḷa-guṇa-saṁpannar lākuḷāgama-prasannar sāṁkhya-sarōvara-rāja-haṁsar naiyāyika
+        <lb break="no" n="16"/>kāminī-karṇṇāvataṁsar vai<choice><orig>s</orig><reg>ś</reg></choice>ēṣika-<choice><orig>s</orig><reg>ś</reg></choice>ikhāmaṇigaḷu sakaḷa <gap reason="lost" unit="character" quantity="12"></gap> appa śrīmat
+        <lb break="no" n="17"/>sōmēśvara-panditargge paṁca-liṁga-dēvar aṁga-bhōgakkaṁ vidyā-dānakkam alliya vi<unclear>dva</unclear>t-tapōdhanar āhāra-dāna
+        <lb break="no" n="18"/>kkam endu svasti <choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa 996neya Ānanda-saṁvatsarada <choice><orig>p</orig><reg>ph</reg></choice>ālguna <gap reason="lost" unit="character" quantity="9"></gap><note source="bib:Barnett1921-1922_04">the last six <foreign>akṣara</foreign>s look somewhat like <foreign>bahuḷa dasami</foreign>.</note> Āditya-vāradandu
+        <lb n="19"/>kisukāḍ' eḻpattaṟa baḷiya vikramapuradoḷ palavuṁ devasa <gap reason="lost" unit="character" quantity="9"></gap> śrīmad-bhuvanaika
+        <lb break="no" n="20"/>malla-dēvar paṇḍitara kālaṁ karcci hastōdakaṁ geydu sarbba-namasyaṁ <unclear>s-āṣta</unclear>-bhōgaṁ māḍi kottar kisukād ē
+        <lb break="no" n="21"/>ḻpattara baliya bāḍaṁ musiyageṟey adaṟa catus-sīme mūdalu māciya keṟe<g type="danda"></g> ā<unclear>gnē</unclear>
+        <lb break="no" n="22"/>yadalu kallamanūra gulugavaḷḷiya mugguḍḍe pārtthada mēḷey alli niṟuṁgallu<g type="danda"></g> teṁkalu bicce
+        <lb break="no" n="23"/>y ēriya mēgaṇa aṁkōleya mēḷe alli niṛuṁgallu<g type="danda"></g>nai<choice><orig>r</orig><reg>rr̥</reg></choice>ityadalu gulugavaḷḷiya arahina <gap reason="lost" unit="character" quantity="2"></gap>
         <lb n="24"/>muggudde aṁkōleya mēḷe alli niṟuṁgallu<g type="danda"></g> paḍuvalu dogendelan aṁkōleya mēḷe alli niṟuṁga<supplied reason="lost">llu<g type="danda"></g></supplied>
-        <lb n="25"/>vāyavyadalu nari'oṟavina kūraṁgiya bettada būda-nanaṁdhareya kalla kuppi<g type="danda"></g><note source="bib:Barnett1921-1922_04">possibly <foreign>kurppi</foreign>.</note> baḍa<supplied reason="lost">ga</supplied>
-        <lb n="26"/>lu per'beṭṭa<g type="danda"></g> īśānyadalu turaḷakabbeyiṁ badagana kūraṁgiya mālageṟeya sīmeya mugguḍḍe<g type="danda"></g>
-       <lb n="27"/>alli niruṁgallu<g type="danda"></g> Antu cātur-āghātad'oḷagaṇa bhūmiy ellaṁ taḷa-vr̥ittiy āgi sarbb'ābhyantara-siddhiyiṁ
+        <lb n="25"/>vāyavyadalu nariy oṟavina kūraṁgiya bettada būda-nanaṁdhareya kalla kuppi<g type="danda"></g><note source="bib:Barnett1921-1922_04">possibly <foreign>kurppi</foreign>.</note> baḍa<supplied reason="lost">ga</supplied>
+        <lb break="no" n="26"/>lu per' beṭṭa<g type="danda"></g> īśānyadalu turaḷakabbeyiṁ badagana kūraṁgiya mālageṟeya sīmeya mugguḍḍe<g type="danda"></g>
+       <lb n="27"/>alli niruṁgallu<g type="danda"></g> Antu cātur-āghātad' oḷagaṇa bhūmiy-ellaṁ-taḷa-vr̥ittiy āgi sarbbābhyantara-siddhiyiṁ
         <lb n="28"/>grāmaṁ sarbba-namasyaṁ<g type="danda"></g><g type="SpiralL"></g> sūṇḍiyoḷ āditya-vāradoḷ nereva santheya siṁgavaṭṭigeya suṁkamaṁ
         <lb n="29"/>dēvara n<choice><orig>e</orig><reg>i</reg></choice>vēdyakke biṭṭar<g type="ddanda"></g> dēvālayaṁgaḷa baḍagalu keṟeya keḷage biṭ<unclear>ṭa</unclear><gap reason="lost" unit="character" quantity="2"></gap>oṭṭi mattar eraḍu<g type="ddanda"></g><g type="SpiralL"></g>
-        <lb n="30"/>Int'ī dharmmamaṁ sūṇdiy aṟuvar ggāvuṇḍugaḷum eṇbar sseṭṭiyaruṁ kai-koṇḍu sva-dharmmadiṁ rakṣhisu
-        <lb n="31"/>ttam irppar<g type="ddanda"></g>
+        <lb n="30"/>Int' ī dharmmamaṁ sūṇḍiy-aṟuvar ggāvuṇḍugaḷum eṇbar sseṭṭiyaruṁ kai-koṇḍu sva-dharmmadiṁ rakṣhisu
+        <lb break="no" n="31"/>ttam irppar<g type="ddanda"></g>
     </p>
 </div>
+    
      <div type="translation" source="bib:Barnett1921-1922_04">
   <p n="2-3">Hail! The asylum of the whole world, favourite of Fortune and Earth, great Emperor, supreme Lord, supreme Master, ornament of Satyāśraya's race, embellishment of the Cāḷukyas, Bhuvanaikamalla-vallabha:-
   </p>
