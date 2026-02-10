@@ -136,20 +136,20 @@
     <lg n="6" met="kanda" xml:lang="kan-Latn">
         <l enjamb="yes" n="a">Ā nā<lb n="20"/>ḍan ālvan artthi-jan</l>
         <l enjamb="yes" n="b">ānandaṁ siṁnda-maṇḍalika-tilakaṁ tē</l>
-        <l n="c">jō-nidhi-vikrama-dēvaṁ</l>
-        <l n="d">śrī-nandanan eseye taṁnna lahtākāraṁ<g type="ddanda">.</g></l>
+        <l n="c">jō-nidhi-vikramadēvaṁ</l>
+        <l n="d">śrī-nandanan eseye taṁnna lalitākāraṁ<g type="ddanda">.</g></l>
     </lg>
     <p>
-        <lb n="21"/>Ā jagad-vīran anvay-āvatāram ent' endoḍe<g type="ddanda">.</g>
+        <lb n="21"/>Ā jagad-vīran anvayāvatāram ent' endoḍe<g type="ddanda">.</g>
     </p>
     <lg n="7" met="kanda" xml:lang="kan-Latn">
         <l n="a">moneyoḷu kūrppaṁ tōṟutum</l>
         <l enjamb="yes" n="b">anavarataṁ baladol a<lb break="no" n="22"/>marutum vikrama-bhū</l>
         <l enjamb="yes" n="c">pana kaṭṭiḍala<choice><orig>dh</orig><reg>g</reg></choice>in aṁt' ese</l>
-        <l n="d">van ācarasa-maṁḍalēśvaram bhūtaladol<orig><orig>ū</orig><reg>u</reg></orig><g type="ddanda">.</g></l>
+        <l n="d">van ācarasa-maṁḍalēśvaram bhū-taladol<orig><orig>ū</orig><reg>u</reg></orig><g type="ddanda">.</g></l>
     </lg>
     <lg n="8" met="campakamālā" xml:lang="kan-Latn">
-        <l enjamb="yes" n="a">dore-vaḍed' ādi-maṇḍali<lb break="no" n="23"/>kan ācugi tat-sahajātan appa Nā</l>
+        <l enjamb="yes" n="a">dorev-aḍed' ādi-maṇḍali<lb break="no" n="23"/>kan ācugi tat-sahajātan appa Nā</l>
         <l enjamb="yes" n="b">karasana siṁha-bhūbhujana dāna-mahīśana dāma-dhāriṇī</l>  
         <l enjamb="yes" n="c">śvarana cavuṁḍa-maṇḍa<lb break="no" n="24"/>ḷika-v<choice><orig>i</orig><reg>ī</reg></choice>rana cāma-narēṁdran oḷpu vi</l>
         <l n="d">staridudalli siṁgarasan ātmajan ācugi-maṁḍalēśvaraṁ<g type="ddanda">.</g></l>
@@ -207,9 +207,10 @@
          <p n="18-19">In the bright land of Kuntala is Kisukāḍ, a province containing towns that are full of abundant fruit, grain, kine, and money.</p>
          <p n="19-21">The ruler of this province is a delight to the needy, an ornament of Sinda Maṇḍalikas, a treasure of splendour, Vikramadēva, a child of Fortune,<note><foreign>Śrī-nandana, a play on the name of his mother Siriyā-dēvi(see vv.11-12)</foreign></note> whose own charming form is conspicuous.</p>
          <p n="21">As regards the lineage of this world-hero:-</p>
-         <p n="22-24">The Maṇḍalēśvara Ācarasa <supplied reason="subaudible">I</supplied> appeared on earth like the embodied (or, wielded) sword-edge of king Vikrama, displaying valour in battle [or, sharpness at its point], constantly associated with might [or, with the right hand].</p>
-         <p n="24-26">In dwelling upon the excellence of the illustrious first Maṇḍalika Ācugi <supplied reason="explanation">Ācarasa I</supplied> and of his brother Nākarasa, king Siṁha <supplied reason="explanation">Siṅga I</supplied>, king Dāna, king Dāma, the valiant Maṇḍalika Cavuṇḍa <supplied reason="subaudible">I</supplied>, and king Cāma, <supplied reason="subaudible">it should be said that</supplied> the Maṇḍalēśvara Ācugi <supplied reason="subaudible">II</supplied> was the son of Siṅgarasa <supplied reason="explanation">Siṅga II</supplied>.</p>
-         <p n="26-27">To this distinguished Ācarasa <supplied reason="subaudible">II</supplied> and his high-spirited consort Mādēviyarasi was borm Permāḍidēva of world-renowned majesty, a treasure of truth, incomparable in glory. The younger brother of this distinguished king Perma was king Cāvuṇḍa <supplied reason="subaudible">II</supplied>, who plucked away the leaves in the ears of hostile Maṇḍalēśvaras' mistresses, incomparable in majesty</p>
+         <p n="21-22">The Maṇḍalēśvara Ācarasa <supplied reason="subaudible">I</supplied> appeared on earth like the embodied (or, wielded) sword-edge of king Vikrama, displaying valour in battle [or, sharpness at its point], constantly associated with might [or, with the right hand].</p>
+         <p n="22-24">In dwelling upon the excellence of the illustrious first Maṇḍalika Ācugi <supplied reason="explanation">Ācarasa I</supplied> and of his brother Nākarasa, king Siṁha <supplied reason="explanation">Siṅga I</supplied>, king Dāna, king Dāma, the valiant Maṇḍalika Cavuṇḍa <supplied reason="subaudible">I</supplied>, and king Cāma, <supplied reason="subaudible">it should be said that</supplied> the Maṇḍalēśvara Ācugi <supplied reason="subaudible">II</supplied> was the son of Siṅgarasa <supplied reason="explanation">Siṅga II</supplied>.</p>
+         <p n="24-26">To this distinguished Ācarasa <supplied reason="subaudible">II</supplied> and his high-spirited consort Mādēviyarasi was born Permāḍidēva of world-renowned majesty, a treasure of truth, incomparable in glory.</p> 
+             <p n="26-27">The younger brother of this distinguished king Perma was king Cāvuṇḍa <supplied reason="subaudible">II</supplied>, who plucked away the leaves in the ears of hostile Maṇḍalēśvaras' mistresses, incomparable in majesty</p>
          <p n="27">His chief consort:-</p>
          <p n="27-29">Seeing that her father was the Kaḷacuri monarch Bijjala, foremost of lords of men, her mother Ēcaladēvi, a mine of virtues, her brother the blest Vajradēva, best of kings, her husband Cāvuṇḍa <supplied reason="subaudible">II</supplied>, the scion of the most exalted Sindas, what queens in the two races were so highly honoured forsooth as Siriyādēvi?</p>
          <p n="29">Their sons-</p>
