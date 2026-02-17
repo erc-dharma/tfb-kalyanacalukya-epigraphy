@@ -28,7 +28,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Napoli</pubPlace>
-                <idno type="filename">DHARMA_INSKarnataka000013</idno>
+                <idno type="filename">DHARMA_INSKalyanaCalukya01013</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -90,12 +90,12 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
 <p>
-    <lb n="1"/><g type="SpiraIL"></g>svasti jayas cābhyudayaś ca<g type="danda"></g> 
+    <lb n="1"/><g type="SpiraIL"></g>svasti jayaś cābhyudayaś ca<g type="danda"></g> 
     <lg met="anuṣṭubh" n="1" xml:lang="kan-Latn">
-        <l n="a">jayatyāviṣkṛitaṁ viṣṇōr</l>
+        <l n="a">jayatyāviṣkr̥itaṁ viṣṇōr</l>
         <l n="b">vvārāhaṁ kṣōbhitārṇṇavaṁ<supplied reason="omitted"><g type="danda"></g></supplied></l> 
-        <l n="c">dakṣiṇōnnata
-    <lb break="no" n="2"/>daṁṣtṛāgra</l>
+        <l enjamb="yes" n="c">dakṣiṇōnnata
+    <lb break="no" n="2"/>-daṁṣtṛāgra</l>
         <l n="d">viśrānta-bhuvanaṁ vapuḥ<g type="ddanda">.</g></l> 
     </lg>
     svasti samasta-bhuvanāśrayaṁ śrī-pṛthvīvallabhaṁ mahārājādhi
@@ -292,7 +292,7 @@
 </div>
      <div type="translation" source="bib:Barnett1921-1922_04">
       <p>Hail! Victory and success!</p>   
-      <p n="1-2">Victorious is the Boar-form of Viṣṇu as itself stirring up the ocean, woth the universe resting on the tip of its lofty right tusk.</p>
+      <p n="1-2">Victorious is the Boar-form of Viṣṇu as itself stirring up the ocean, with the universe resting on the tip of its lofty right tusk.</p>
       <p n="2-4">Hail! The asylum of the whole world, favourite of Fortune and Earth, great Emperor, supreme Lord, supreme Master, ornament of Satyāśraya's race, embellishment of the Cāḷikyas, Traiḷōkyamalla-vallabha:-</p>
          <p n="4-6">A shetterer of the pride of the potent Cōḷa monarch, a submarine fire to the whole of the ocean that is the race of the Māḷavyas, a ind to the clouds that are the kings of the Aṅgas, Vaṅgas, Khasas, and Vēṅgī, the Pāṇḍyas, Saurāṣṭras, Kēraḷas, Nēpāḷas, turuṣkas, Cēras, and Magadhas, is the Cāḷukyan lion in the circuit of the ocean-girt earth.</p>
          <p n="6-10">While the victorious reign of king Āhavamalla, who is thus described, was proceeding in a course of successively increasing prosperity <supplied reason="explanation">to endure</supplied> as long as the moon, sun, and stars-one who lives upon his lotus-feet, who has attained the five <foreign>mahā-śabda</foreign>s. The <foreign>mahā-sāmantādhipati</foreign>, the great august General, who bears all titles such as "a Rādhēya <supplied reason="explanation">Karṇa</supplied> in truthfulness, an Añjanēya <supplied reason="explanation">Hanumān</supplied> in purity, gracious to the good one who changes not his words<note source="bib:Barnett1921-1922_04">Literally, "who, having spoken, says not otherwise"</note> a bee to the lotus-feet of king Traiḷōkyamalla, exalted in boldness, the Steward of the Household <supplied reason="subaudible">and</supplied> General, Nāgadēvayya-</p>
