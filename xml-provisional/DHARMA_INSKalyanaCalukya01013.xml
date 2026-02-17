@@ -117,10 +117,10 @@
         <lb break="no" n="10"/>sti-sahitaṁ śrīman-mane-verggaḍe-daṇḍanāyakaṁ nāgadēvayyaṁ<g type="ddanda">.</g> 
     </p>
     <lg n="3" met="mattebhavikrīḍita" xml:lang="kan-Latn">
-        <l n="a">vasudhēśāgraṇi cakravartti-tiḷakaṁ traiḷō
+        <l enjamb="yes" n="a">vasudhēśāgraṇi cakravartti-tiḷakaṁ traiḷō
     <lb break="no" n="11"/>kyamallaṁ nijā</l>
-        <l n="b">vasathāmatya-padakke māḍe mahimāvaṣṭaṁbhamaṁ tāḷdi sā</l>
-        <l n="c">dhisidaṁ munnam aśādhyar appahitaraṁ ta
+        <l enjamb="yes" n="b">vasathāmatya-padakke māḍe mahimāvaṣṭaṁbhamaṁ tāḷdi sā</l>
+        <l enjamb="yes" n="c">dhisidaṁ munnam aśādhyar appahitaraṁ ta
     <lb break="no" n="12"/>d-dravyamaṁ tandu puṁ</l>
         <l n="d">jisidaṁ svāmigapāra-pauruṣa-guṇaṁ śrī-gaṇḍa-nārāyaṇaṁ<g type="ddanda">.</g></l>
         </lg>
