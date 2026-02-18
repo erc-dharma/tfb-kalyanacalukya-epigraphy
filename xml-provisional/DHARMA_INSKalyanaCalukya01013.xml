@@ -132,7 +132,7 @@
         <l n="d">viḷa-bhāsvad-bhūri-bhūgōḷaka-janita-vibhu-śrēṇiyoḷ nāgadēvaṁ<choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice></l>
     </lg>
          <lg n="5" met="mahāsragdhara" xml:lang="kan-Latn">
-         <l n="a"><lb n="15"/>subhaṭar ttan annar illeyum ene negaḻdaṁ cōḷa-kāḷāntakaṁ bhō</l>
+         <l enjamb="yes" n="a"><lb n="15"/>subhaṭar ttan annar illeyum ene negaḻdaṁ cōḷa-kāḷāntakaṁ bhō</l>
          <l n="b">ja-bhujaṁgāhi-dviṣaṁ gūrjjara--mada-haraṇaṁ sēguṇa<lb break="no" n="16"/>dhvaṁ akaṁ cē</l>
           <l n="c">ra-bhaya-bhrānti-èradaṁ kōṁkaṇa-baḷa-daḷanaṁ hāra-nīhāra-tārā</l>
            <l n="d">nibha-śuṁbhat-kirtti daṇḍādhiparoḷ atuḷa-dōr-vvikra
