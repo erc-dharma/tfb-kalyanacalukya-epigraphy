@@ -166,10 +166,10 @@
     </lg>
 
     <lg n="9" met="kanda" xml:lang="kan-Latn">
-        <l n="a">mānasa sarōvarakkaṁ tā</l>
-        <l n="b">ne <lb n="26"/>migil nā-goṇḍam ene kal-vesadim dāna-ni</l>
+        <l enjamb="yes" n="a">mānasa sarōvarakkaṁ tā</l>
+        <l enjamb="yes" n="b">ne <lb n="26"/>migil nāga-goṇḍam ene kal-vesadim dāna-ni</l>
         <l n="c">dhi māḍisidan abhimāna-dha</l>
-        <l n="d">nam nāgalēva-daṇḍādhīśa<choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice></l>
+        <l n="d">nam nāgadva-daṇḍādhīśa<choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice></l>
     </lg>
     <p>
         antu māḍisi <choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa 981neya <!--  --> vikāri
