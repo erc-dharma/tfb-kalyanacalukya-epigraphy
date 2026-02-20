@@ -153,16 +153,16 @@
     </lg>
     
     <lg n="7" met="kanda" xml:lang="kan-Latn">
-        <l n="a">nāḍāḍiyalladantire mā</l>
-        <l n="b"><lb n="24"/>ḍisidaṁ dēva-niḷayad eraduṁ keladoḷ kūḍe</l>
+        <l enjamb="yes" n="a">nāḍāḍiy-allad' antire mā</l>
+        <l n="b"><lb n="24"/>ḍisidaṁ dēva-niḷayad' eraduṁ keladoḷ kūḍe</l>
         <l n="c">dhavaḷāramaṁ </l>
        <!-- check --> <l n="d">sura-nīḍam ivene sūḷe-gēriyaṁ budha-nilaya<g type="ddanda">.</g> </l>
         </lg>
     <lg n="8" met="kanda" xml:lang="kan-Latn">
       <l n="a">sogayisuva sūṇḍiyo<lb break="no" n="25"/>ḷ dhare</l>
       <l n="b">pogale jasaṁ negaḷe pāl-gaḍalgaṁ peṁpiṁ</l>
-      <l n="c">migil enipa taṭākaman osed</l>
-      <l n="d">agaḷisidaṁ rāya-maṁtri-cūḍāratnaṁ<g type="ddanda">.</g></l>
+      <l n="c">migil' enipa taṭākaman osed'</l>
+      <l n="d">agaḷisidaṁ rāya-maṁtri-cūḍā-ratnaṁ<g type="ddanda">.</g></l>
     </lg>
 
     <lg n="9" met="kanda" xml:lang="kan-Latn">
