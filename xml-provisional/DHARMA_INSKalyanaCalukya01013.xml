@@ -219,9 +219,9 @@
     </p>
     <lg n="14" met="mahāsragdhara" xml:lang="kan-Latn">
         <l n="a">goravar kk<choice><orig>a</orig><reg>ā</reg></choice>ḷāmukhar nnaiṣṭhikar enisadoḍaṁ bhōgadoḷ mūṟu porttuṁ</l>
-        <l n="b">vara-kāntā-saṁkuḷaṁ<lb n="50"/>bandirade taḍevaḍaṁ viśva-vidyārtthigaḷ bi</l>
-        <l n="c">ttaradiṁdā porttum ōduttiradoḍam irisalkāgadenduṁ varādhī</l>
-        <l n="d">śvarar endī dharmmamaṁ nirmmisi niyamisidaṁ sūṇḍiyoḷ nāgadēvaṁ<g type="ddanda">.</g></l>
+        <l enjamb="yes" n="b">vara-kāntā-saṁkuḷaṁ<lb n="50"/>bandirade taḍev-aḍaṁ viśva-vidyārtthigaḷ bi</l>
+        <l enjamb="yes" n="c">ttaradiṁd' ā porttum ōduttiradoḍam irisalk' āgad' enduṁ varādhī</l>
+        <l n="d">śvarar end' ī dharmmamaṁ nirmmisi niyamisidaṁ sūṇḍiyoḷ nāgadēvaṁ<g type="ddanda">.</g></l>
     </lg>
     <lg n="15" met="mattebhavikrīḍita" xml:lang="kan-Latn">
         <l n="a"><lb n="51"/><g type="SpiralL"></g>kaṇi vidyā-vibhavakk udāharaṇey artthōpārjjanakk ekka-lā</l>
