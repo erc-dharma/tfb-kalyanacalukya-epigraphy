@@ -224,10 +224,10 @@
         <l n="d">śvarar end' ī dharmmamaṁ nirmmisi niyamisidaṁ sūṇḍiyoḷ nāgadēvaṁ<g type="ddanda">.</g></l>
     </lg>
     <lg n="15" met="mattebhavikrīḍita" xml:lang="kan-Latn">
-        <l n="a"><lb n="51"/><g type="SpiralL"></g>kaṇi vidyā-vibhavakk udāharaṇey artthōpārjjanakk ekka-lā</l>
+        <l enjamb="yes" n="a"><lb n="51"/><g type="SpiralL"></g>kaṇi-vidyā-vibhavakk' udāharaṇey artthōpārjjanakk' ekka-lā</l>
         <l n="b">vaṇam udyad-guṇa-ratna-rājigeṟe-vaṭṭaudāryya-saṁpattigē</l>
-        <l n="c">gaṇaj endī guṇi śaṁ<choice><orig>kh</orig><reg>k</reg></choice>anaṁ pogaḷuguṁ jhātkāri-jhaṁjhā<lb n="52"/>samī</l>
-        <l n="d">raṇa-saṁbh̄ta-taraṁga-saṁbhṛita-payōdhi-prāvṛtōrbbi-talaṁ<g type="ddanda"></g></l>
+        <l enjamb="yes" n="c">gaṇaj' end' ī guṇi-śaṁ<choice><orig>kh</orig><reg>k</reg></choice>anaṁ pogaḷuguṁ jhātkāri-jhaṁjhā<lb n="52"/>samī</l>
+        <l n="d">raṇa-saṁbhūta-taraṁga-saṁbhr̥<surplus>i</surplus>ta-payōdhi-prāvr̥tōrbbi-talaṁ<g type="ddanda"></g></l>
         </lg>
     <lg n="16" met="mahāsragdhara" xml:lang="kan-Latn">
         <l n="a">besanaṁ daṇḍādhināthāgraṇi sakaḷa-jagan-maṇḍanaṁ Nāgadēvaṁ</l>
