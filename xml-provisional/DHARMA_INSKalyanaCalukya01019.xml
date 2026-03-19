@@ -90,7 +90,7 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
 <p>
-    <lb n="1"/>Svasti Yama-niyama
+    <lb break="no" n="1"/>Svasti Yama-niyama-
     <lb n="2"/>svā<choice><orig>d</orig><reg>dh</reg></choice>yāya-dhyāna-dhāraṇa-m<choice><orig>ō</orig><reg>au</reg></choice>
     <lb n="3"/>n ānuṣṭāṇa-parāyaṇaṁ nī
     <lb n="4"/>ti-parāyaṇaṁ siṣṭiṣṭa-vandī-vaitā
