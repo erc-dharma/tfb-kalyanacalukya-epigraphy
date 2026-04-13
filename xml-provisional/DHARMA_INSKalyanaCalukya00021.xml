@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The Kaḍambēśvara Temple Grant of the Reign of Taila II, Śaka 897</title>
+                <title>The Kaḍambēśvara Temple Copper-plate Grant of the Reign of Taila II, Śaka 897 I</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -116,8 +116,8 @@
              <lb n="5" break="no"/>grahaṇad' andu</p>
            <p>śrīmadaṁ kuliyarasar piriya būtayya gaḍaṁ
                <lb n="6" break="no"/>ba kaḍaṁbē<choice><orig>s</orig><reg>ś</reg></choice>varamaṁ māḍsi sivarāsi-jīyara kālaṁ karcci bi
-               <lb n="7" break="no"/>ṭṭa dharmmaṁ</p>
-           <p>taḷagada dharmma-gēri kaḍaṁbēsvara dēvargge yu
+               <lb n="7" break="no"/>ṭṭa dharmmaṁ taḷagada dharmma-gēri kaḍaṁbēsvara dēvargge</p>
+           <p>yu
                <pb n="1v"/>
                <lb n="8"/><gap reason="illegible" unit="character" quantity="1"/>jamaḷasa kaṇnasa baddhagivāḷu sātēvāḷu Ini nityaṁ
                <lb n="9"/>dēvas<choice><sic>t</sic><corr>v</corr></choice>aṁ nandā-dīvigege sōḍargge haradara k<choice><orig>e</orig><reg>ē</reg></choice>riyalu pa
@@ -140,6 +140,23 @@
          </div>
        
          <div type="translation" resp="part:sagu">
+             
+             <p n="1-3">In the kingdom of the prosperous Trailōkyamalladēva — refuge of the entire world, lord of the earth, king of kings, 
+                 supreme lord, most venerable, ornament to the Satyāśraya family, ornament to the Cāḷukyas</p>
+             
+             <p n="3-5">at the time of the solar eclipse, during <supplied reason="subaudible">the highly inauspicious</supplied> <foreign>vyatipāta</foreign>v 
+                 period on Sunday, the new moon of the month of Bhādrapada in the Yuva <foreign>samvatsara</foreign> of the year <foreign>śaka</foreign> 897</p>
+             
+             <p n="5-7">the prosperous Kuliyarasar <supplied reason="subaudible">also known as</supplied> the senior Būtayya-Gaḍamba had the deity Kaḍambēśvara made, 
+                 and having washed the feet of Sivarāsi-jīyar, released this endowment to the unbending Kaḍambēśvara of the ritual lane</p>
+             
+             <p n="7-10"><supplied reason="subaudible">the villages of</supplied> yu<gap reason="illegible" unit="character" quantity="1"></gap>.jamaḷasa, 
+                 kaṇnasa, baddhagivāḷu are from now on compulsory property of the temple. For burning the perpetual lamp, ten gadyāṇa in the merchants' lane and five gadyāṇa 
+                 in the southern lane <supplied reason="subaudible">will be collected</supplied></p>
+             
+             <p n="10-12">Henceforth, whosoever ruins all of this carries the fault of killing a thousand brown cows of Kurukṣētra at Vāraṇāsi, the one who destroys this endowment</p>
+             
+             <p n="12-13">Benediction, the coin of the auspicious and prosperous Kaḍambēśvara <foreign>ppattege siraṁjiyāt</foreign></p>
            
           </div>
          
