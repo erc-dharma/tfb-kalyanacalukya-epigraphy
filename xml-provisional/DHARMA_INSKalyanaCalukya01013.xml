@@ -88,21 +88,21 @@
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+        <lb n="1"/><g type="SpiraIL"/> svasti jayaś cābhyudayaś ca<g type="danda"></g> 
     </p>
-<p>
-    <lb n="1"/><g type="SpiraIL"></g>svasti jayaś cābhyudayaś ca<g type="danda"></g> 
-    <lg met="anuṣṭubh" n="1" xml:lang="kan-Latn">
+    <lg met="anuṣṭubh" n="1" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
         <l n="a">jayatyāviṣkr̥itaṁ viṣṇōr</l>
         <l n="b">vvārāhaṁ kṣōbhitārṇṇavaṁ<supplied reason="omitted"><g type="danda"></g></supplied></l> 
         <l enjamb="yes" n="c">dakṣiṇōnnata
     <lb break="no" n="2"/>-daṁṣtr̥āgra</l>
         <l n="d">viśrānta-bhuvanaṁ vapuḥ<g type="ddanda">.</g></l> 
     </lg>
-    svasti samasta-bhuvanāśrayaṁ śrī-pr̥<surplus>i</surplus>thvīvallabhaṁ mahārājādhi
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+        svasti samasta-bhuvanāśrayaṁ śrī-pr̥<surplus>i</surplus>thvīvallabhaṁ mahārājādhi
     <lb n="3"/>rāja paramēśvara paramabhaṭṭārakaṁ satyāśraya-kula-tilakaṁ cāḷukyābharaṇaṁ śrīmat-traiḷōkyamalla-va
     <lb n="4"/>llabhaṁ <g type="ddanda">.</g>
-</p>
-    <lg n="2" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+    </p>
+    <lg n="2" met="mattebhavikrīḍita" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
         <l enjamb="yes" n="a">baḷavac-cōḷa-narēṁdra-darppa-daḷanaṁ māḷavya-vaṁśārṇṇavā</l>
         <l enjamb="yes" n="b">khilad' aurbbānaḷan aṁga-vaṁga-khasa-vēṁgī
         <lb break="no" n="5"/><choice><orig>ś</orig><reg>p</reg></choice>āṇḍya-<choice><orig>ś</orig><reg>s</reg></choice>aurāṣṭra-kē</l>
