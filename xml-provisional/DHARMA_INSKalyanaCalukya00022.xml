@@ -9,14 +9,12 @@
         <fileDesc>
             <titleStmt>
                 <title>The Kaḍambēśvara Temple Copper-plate Grant of the Reign of Taila II, Śaka 897 II</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <!-- Add your name in the respStmt matching your involvement -->
+               
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:sagu"><!-- Update the id -->
                         <forename>Samana</forename>
-                        <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Gururaja</surname>
                     </persName>
                 </respStmt>
@@ -116,7 +114,7 @@
                 <lb n="5" break="no"/>rājyadalu</p> 
             
          <p><choice><orig>s</orig><reg>ś</reg></choice>aka <choice><orig>variṣa</orig><reg>varṣa</reg></choice> 897 neya
-             <lb n="6"/>yuva-saṁvatsara bhādrapadad’ amā
+             <lb n="6"/>yuva-saṁvatsara-bhādrapadad’ amā
              <lb n="7" break="no"/>vāsye Ādityavāra byatipāta sū<supplied reason="omitted">r</supplied>yya
              <lb n="8" break="no"/>grahaṇad' aṁndu</p> 
         
@@ -147,6 +145,15 @@
          </div>
        
          <div type="translation" resp="part:sagu">
+             
+             <p n="1-5">In the kingdom of the prosperous Trailōkyamalladēva — refuge of the entire world, lord of the earth, king of kings, 
+                 supreme lord, most venerable, ornament to the Satyāśraya family, ornament to the Cāḷukyas</p>
+              
+             <p n="5-8">at the time of the solar eclipse, during <supplied reason="subaudible">the highly inauspicious</supplied> <foreign>byatipāta</foreign> 
+                 period on Sunday, the new moon of the month of Bhādrapada in the Yuva <foreign>samvatsara</foreign> of the year <foreign>śaka</foreign> 897</p>
+             
+             
+             
              
            
           </div>
