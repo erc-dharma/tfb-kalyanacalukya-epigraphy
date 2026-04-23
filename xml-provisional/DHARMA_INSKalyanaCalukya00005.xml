@@ -82,19 +82,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -117,14 +111,14 @@
                   <l n="a"><lb n="1"/>namas-sura-narābhīṣṭa-</l>
                   <l n="b">kāriṇē śakti-dāriṇe</l> 
                   <l n="c">saṁsā<lb n="2" break="no"/>ra-kāraṅa-dhvānta-</l>
-                  <l n="d">bhānavē śiva-sūnavē <g type="ddanda">.</g></l></lg>
+                  <l n="d">bhānavē śiva-sūnavē <g ref="sym:doubleBar" type="punctuation">.</g></l></lg>
              
              <p>svasti sama
                   <lb n="3" break="no"/>sta-bhuvanāśraya śrī-pṛthvī-vallabha-mahārājā
                   <lb n="4" break="no"/>dhirāja paramēśvara paramabhaṭṭārakaṁ śatyāśraya-kuḷa-ti
                   <lb n="5" break="no"/>ḷakaṁ cāḷukyābharaṇaṁ śrīmad-āhavamalla-dēvara vija
                   <lb n="6" break="no"/>ya-rājyaṁ uttarōttarābhivṛddhi pravardhamānam-ā
-                  <lb n="7" break="no"/>caṁdrārka-tārāṁbaraṁ saluttim-ire <g type="ddanda">.</g></p> <p>svastyanavarata-vinata
+                  <lb n="7" break="no"/>caṁdrārka-tārāṁbaraṁ saluttim-ire <g ref="sym:doubleBar" type="punctuation">.</g></p> <p>svastyanavarata-vinata
                   <lb n="8" break="no"/>bhuvana-jana-manōbhivāṁcchita-phaḷa-prakara-prasū
                   <lb n="9" break="no"/><supplied reason="lost">ti</supplied>-hētu-bhūta-pādāravinda-vinamita-śatānanda-gaṁdha-mādava
                   <lb n="10"/><gap reason="undefined" quantity="1" unit="character" precision="low"/> gandha-sindhura-skaṁdāsanāsīna-mayūra-dhvaja-virājamāna 

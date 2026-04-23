@@ -77,19 +77,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -109,7 +103,7 @@
              <p>
                  <lb n="1"/>svasti-prithvī-vallabha-mahārājādhirāja-paramēśvara-parama-bhaṭṭāra
                  <lb n="2" break="no"/>kaṁ cāḷukyā-vaṁśōdbhavaṁ śrīmat·-nūrmmaḍi-tailapa-dēvana rājyam-uttarō
-                 <lb n="3" break="no"/>ttarābhivr̥ddhige saluttire <g type="ddanda">.</g></p>
+                 <lb n="3" break="no"/>ttarābhivr̥ddhige saluttire <g ref="sym:doubleBar" type="punctuation">.</g></p>
                  
              <p>jiḍurāḷge Eḻpattakaṁ biṭṭagaṁ nār-ggaṁvuṇḍu geyye</p>
              
@@ -117,15 +111,15 @@
                  <lb n="4"/><choice><orig>saka</orig><reg>śaka</reg></choice> varṣa 903 neya pramādi-saṁvatsaraṁ pravarttise <choice><orig>jēṣṭa</orig><reg>jyēṣṭa</reg></choice> bahuḷa paṁca
                  <lb n="5" break="no"/>me <choice><orig>saṇivāra</orig><reg>śanivāra</reg></choice>dandu mādeyūra sānti-varmmaṁ bariyūran iṟiye baḷagāṟara kō
                  <lb n="6" break="no"/>karaṁ punupaḷḷiyal' iḻdu pu vana 
-                 <lb n="7" break="no"/>yyalaṁ paridu mārbbalaman taḷt’ iṟidu svarggālayakke sandaṁ <g type="ddanda">.</g></p>
+                 <lb n="7" break="no"/>yyalaṁ paridu mārbbalaman taḷt’ iṟidu svarggālayakke sandaṁ <g ref="sym:doubleBar" type="punctuation">.</g></p>
                  
                  
                  <lg n="1" met="anuṣṭubh">
                      <l n="a">jitēna labhyatē la
                  <lb n="8" break="no"/>kṣmī</l>
-                     <l n="b"><choice><orig>mr̥tēnābhi</orig><reg>mr̥tēnāpi</reg></choice> surāṁganaḥ<g type="danda">.</g></l>
+                     <l n="b"><choice><orig>mr̥tēnābhi</orig><reg>mr̥tēnāpi</reg></choice> surāṁganaḥ<g ref="sym:bar" type="punctuation">.</g></l>
                      <l n="c">kṣaṇa-vidhyaṁśinīkāyō</l>
-                     <l n="d">kācintā maraṇē raṇē<g type="ddanda">.</g></l></lg>
+                     <l n="d">kācintā maraṇē raṇē<g ref="sym:doubleBar" type="punctuation">.</g></l></lg>
              
              <p>
                  <lb n="9"/>kōkarana tāy arasabbeyum ātana maydunaṁ punuvalavaḷḷiya gāvuṇḍan a
@@ -135,10 +129,10 @@
                  <l n="a"><lb n="11"/><choice><orig>sarvvarī</orig><reg>śarvarī</reg></choice> <choice><orig>dīpakō</orig><reg>dīpakaś</reg></choice> candraḥ</l>
                  <l n="b">prabhātē ravi-dīpakaḥ</l>
                  <l n="c">traiḷōkya-dīpakō dharmma</l>
-                 <l n="d"><lb n="12"/>suputra kuḷa dīpakaḥ<g type="ddanda">.</g></l>
+                 <l n="d"><lb n="12"/>suputra kuḷa dīpakaḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
              
-             <p>mādhavayyaṁ baredaṁ nāgaṁ besegeydaṁ<g type="ddanda">.</g></p>
+             <p>mādhavayyaṁ baredaṁ nāgaṁ besegeydaṁ<g ref="sym:doubleBar" type="punctuation">.</g></p>
               </div>
          
           

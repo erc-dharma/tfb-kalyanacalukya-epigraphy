@@ -63,15 +63,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -88,47 +85,47 @@
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-         <lb n="1"/><g type="SpiralL"></g>Svasti samasta-bhuvanāśraya śrī-p<choice><orig>r</orig><reg>ṛ</reg></choice>ithvī-vallabha mahārāj<unclear>ādhirā</unclear>
+         <lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g>Svasti samasta-bhuvanāśraya śrī-p<choice><orig>r</orig><reg>ṛ</reg></choice>ithvī-vallabha mahārāj<unclear>ādhirā</unclear>
         <lb n="2"/>ja paramēśvara paramabhaṭṭārakaṁ satyāśraya-kuḷa-tiḷikaṁ cā<unclear>ḷu</unclear>
         <lb n="3"/>kyābharaṇam śrīmat-traiḷōkyamalla-dēvara vijaya-rājyam uttarō<unclear>ttarā</unclear>
-        <lb n="4"/>bhivṛddhi-pravarddhamānam ā caṁdrārkka-tāraṁ saluttam ire<g type="danda"></g> svasty ari-nṛipa <unclear>maku</unclear>
+        <lb n="4"/>bhivṛddhi-pravarddhamānam ā caṁdrārkka-tāraṁ saluttam ire<g ref="sym:bar" type="punctuation">.</g> svasty ari-nṛipa <unclear>maku</unclear>
         <lb n="5"/>ṭa-ghaṭṭit-caraṇāravindeyar ggaṁgā-snāna-pavitreyar ddīnānātha-cintā<unclear>maṇi</unclear>
         <lb n="6"/>vivēka-cūḍāmaṇigaḷ ēka-vākyeyar gguṇada beḍaṁgiya<unclear>r appa</unclear>
         <lb n="7"/>śrīmad-akkā-dēviyar kkisukāḍ ēḻ<choice><orig>v</orig><reg>p</reg></choice>attumaṁ toṟugarey aṟuva<unclear>ttu</unclear>
         <lb n="8"/>maṁ māsavāḍi nūṟa-nālvattumaṁ duṣṭa-nigraha-viśiṣṭa-pratipāḷa<unclear>nadiṁ</unclear>
         <lb n="9"/>sukha-saṁkathā-vinōdadindāḷuttam ire pannāḷeya-kōṭeya nele-vīḍino<unclear>ḷ</unclear>
         <lb n="10"/><choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa 973neya vikṛita-saṁvatsarada jēṣṭa <choice><orig>s</orig><reg>ś</reg></choice>uddha 13 āditya-vāra
-        <lb n="11"/>śrīman-mane-verggaḍe kāḷudāsayya<g type="danda"></g> taṁtrapāḷa miḷḷayya<g type="danda"></g> taṁtrapāḷa ciṭṭimayya<supplied reason="omitted"><g type="danda"></g></supplied>
-       <lb n="12"/>pradhāna deṁmaṇṇa<g type="danda"></g> aḷiyaṁ candimayya<g type="danda"></g> aḍapada cāvuṇḍarāyaṁ<g type="danda"></g> taṁ
-        <lb n="13"/>trada sēnabōvaṁ dāsimayya<g type="danda"></g> n antu samasta-pradhānaruṁ śrīmat-nā
-        <lb n="14"/>ḍa perggaḍe nāgadēvayya pramukha karaṇamum iḻdu<g type="danda"></g> sūṇḍi ajava
-        <lb n="15"/>rmmayya seṭṭi<g type="danda"></g> <choice><orig>s</orig><reg>ś</reg></choice>āntivarmmayya seṭṭi<g type="danda"></g> dēmayya seṭṭi<g type="danda"></g> cāvuṇḍi seṭṭiya
-        <lb n="16"/>magaṁ ballayya<g type="danda"></g> <choice><orig>s</orig><reg>ś</reg></choice>ōbhanayya seṭṭi
-<g type="danda"></g> mada nāgayya seṭṭi<g type="danda"></g> cāmaṇṇa seṭṭi<g type="danda"></g> jaya
-        <lb n="17"/>dēvayya seṭṭi<g type="danda"></g> anteṇbar sseṭṭiyarggaṁ eṇbhaṭṭokkalgaṁ cōḷikara praghaṭṭakadiṁ
-        <lb n="18"/>keṭṭa sammandhiyiṁ punarbbharaṇaṁ māḍi koṭṭa <choice><orig>s</orig><reg>ś</reg></choice>āsana-maryyādey entendoḍe<g type="danda"></g> aṁga
+        <lb n="11"/>śrīman-mane-verggaḍe kāḷudāsayya<g ref="sym:bar" type="punctuation">.</g> taṁtrapāḷa miḷḷayya<g ref="sym:bar" type="punctuation">.</g> taṁtrapāḷa ciṭṭimayya<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied>
+       <lb n="12"/>pradhāna deṁmaṇṇa<g ref="sym:bar" type="punctuation">.</g> aḷiyaṁ candimayya<g ref="sym:bar" type="punctuation">.</g> aḍapada cāvuṇḍarāyaṁ<g ref="sym:bar" type="punctuation">.</g> taṁ
+        <lb n="13"/>trada sēnabōvaṁ dāsimayya<g ref="sym:bar" type="punctuation">.</g> n antu samasta-pradhānaruṁ śrīmat-nā
+        <lb n="14"/>ḍa perggaḍe nāgadēvayya pramukha karaṇamum iḻdu<g ref="sym:bar" type="punctuation">.</g> sūṇḍi ajava
+        <lb n="15"/>rmmayya seṭṭi<g ref="sym:bar" type="punctuation">.</g> <choice><orig>s</orig><reg>ś</reg></choice>āntivarmmayya seṭṭi<g ref="sym:bar" type="punctuation">.</g> dēmayya seṭṭi<g ref="sym:bar" type="punctuation">.</g> cāvuṇḍi seṭṭiya
+        <lb n="16"/>magaṁ ballayya<g ref="sym:bar" type="punctuation">.</g> <choice><orig>s</orig><reg>ś</reg></choice>ōbhanayya seṭṭi
+<g ref="sym:bar" type="punctuation">.</g> mada nāgayya seṭṭi<g ref="sym:bar" type="punctuation">.</g> cāmaṇṇa seṭṭi<g ref="sym:bar" type="punctuation">.</g> jaya
+        <lb n="17"/>dēvayya seṭṭi<g ref="sym:bar" type="punctuation">.</g> anteṇbar sseṭṭiyarggaṁ eṇbhaṭṭokkalgaṁ cōḷikara praghaṭṭakadiṁ
+        <lb n="18"/>keṭṭa sammandhiyiṁ punarbbharaṇaṁ māḍi koṭṭa <choice><orig>s</orig><reg>ś</reg></choice>āsana-maryyādey entendoḍe<g ref="sym:bar" type="punctuation">.</g> aṁga
         <lb n="19"/>ḍiyuṁ maneyuṁ karagaṁbāḍa polada nelada cāturāghāṭa-sahitaṁ tad-varṣammo
         <lb n="20"/>dal āgiyeraḍu śrāheya siddhāyam oḷagāgi sarbba-bādhā-parihāraṁ-goṭṭu nilisi
-        <lb n="21"/>alliṁ mēle nandana-saṁvatsaram ādiyāgi varṣaṁ prati sarbbāya-sahitaṁ<supplied reason="omitted"><g type="danda"></g></supplied> dharmma
-        <lb n="22"/>vatteḷeya śāsana-maryyādeyal tiṟuva siddhāyaṁ poṁgadyāṇam eṇbattu<supplied reason="omitted"><g type="danda"></g></supplied> eṇba
-        <lb n="23"/>r seṭṭiyara maryyāde nāḻkilla nāḍa maryyādey eṇbarggilla<g type="danda"></g> kisukāḍ ēḻpattaṟoḷaṁ sā
-        <lb n="24"/>rige bīra-vaṇa-sahitaṁ suṁkaṁ parihāraṁ<supplied reason="omitted"><g type="danda"></g></supplied> poḷal oḷage ara-taḷāṟaṁ keṭṭudarkke koṭ̣tu kāvaṁ<g type="danda"></g>
-        <lb n="25"/>tandeya dōṣaṁ maganan eydadu magana doṣaṁ tandeyan eydadu<supplied reason="omitted"><g type="danda"></g></supplied> kaḷḷaṁ bandikāṟaṁ maṁcal-vi
+        <lb n="21"/>alliṁ mēle nandana-saṁvatsaram ādiyāgi varṣaṁ prati sarbbāya-sahitaṁ<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied> dharmma
+        <lb n="22"/>vatteḷeya śāsana-maryyādeyal tiṟuva siddhāyaṁ poṁgadyāṇam eṇbattu<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied> eṇba
+        <lb n="23"/>r seṭṭiyara maryyāde nāḻkilla nāḍa maryyādey eṇbarggilla<g ref="sym:bar" type="punctuation">.</g> kisukāḍ ēḻpattaṟoḷaṁ sā
+        <lb n="24"/>rige bīra-vaṇa-sahitaṁ suṁkaṁ parihāraṁ<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied> poḷal oḷage ara-taḷāṟaṁ keṭṭudarkke koṭ̣tu kāvaṁ<g ref="sym:bar" type="punctuation">.</g>
+        <lb n="25"/>tandeya dōṣaṁ maganan eydadu magana doṣaṁ tandeyan eydadu<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied> kaḷḷaṁ bandikāṟaṁ maṁcal-vi
         <lb n="26"/>ḍivavaṁ pagevaṁ polla-mānasan intiruvaran aṁgaḍiya taḍikeya kiḷila keḷagiṟidoḍe daṇḍaṁ
-        <lb n="27"/>dōṣam illa<g type="danda"></g> iṟidavaṁge daṇḍaṁ poṁ-gadyāṇam āṟu <choice><orig>pī</orig><reg>ba</reg></choice>ṭṭin ātanan iṟidoḍe daṇḍaṁ poṁ-ga
-        <lb n="28"/>dyāṇaṁ <gap reason="lost" unit="character" quantity="5"></gap>e mikkātaṁge daṇḍaṁ paṇavond<unclear>u</unclear> poydavaṁge daṇḍaṁ paṇaveraḍu suri
-        <lb n="29"/><gap reason="lost" unit="character" quantity="11"></gap> nūvadu <gap reason="lost" unit="character" quantity="11"></gap> <unclear>po</unclear>ṁ-gadyāṇaṁ mūṟu<note source="bib:Barnett1921-1922_04">After this line traces of two more lines appear;l.30 ended in <foreign>ydu</foreign>, l.31 in (?)<foreign>ṭa</foreign></note>       
+        <lb n="27"/>dōṣam illa<g ref="sym:bar" type="punctuation">.</g> iṟidavaṁge daṇḍaṁ poṁ-gadyāṇam āṟu <choice><orig>pī</orig><reg>ba</reg></choice>ṭṭin ātanan iṟidoḍe daṇḍaṁ poṁ-ga
+        <lb n="28"/>dyāṇaṁ <gap reason="lost" unit="character" quantity="5"/>e mikkātaṁge daṇḍaṁ paṇavond<unclear>u</unclear> poydavaṁge daṇḍaṁ paṇaveraḍu suri
+        <lb n="29"/><gap reason="lost" unit="character" quantity="11"/> nūvadu <gap reason="lost" unit="character" quantity="11"/> <unclear>po</unclear>ṁ-gadyāṇaṁ mūṟu<note source="bib:Barnett1921-1922_04">After this line traces of two more lines appear;l.30 ended in <foreign>ydu</foreign>, l.31 in (?)<foreign>ṭa</foreign></note>       
     </p>
 
 </div>
-     <div type="translation"  source="bib:Barnett1921-1922_04">
+     <div type="translation" source="bib:Barnett1921-1922_04">
          <p n="1-4">Ōm! Hail! When the voctorious reign of king Traiḷōkyamalla, the refuge of the whole earth, favourite of Fortune and Earth, great Emperor, supreme Lord, supreme Master, ornament of Satyāśrayas's race, embellishment of the Cāḷukyas, was advancing in its course of successively increasing prosperity <supplied reason="subaudible">to endure</supplied> as long as moon, sun and stars:-
          </p>
          <p n="4-9">Hail! While Akkā-dēvi, whose feet-lotuses are rubbed by the diadems of opponent kings, who is pure through bathing in the Ganges, a wishing-jewel to the distressed and masterless, a crest-jewel of discretion, uniform in speech, adorned with virtues, was administering the Kisukāḍ seventy, the Toṟugare sixty, and the Māsavāḍi hundred-and-forty in the enjoyment of pleasant conversations so as to suppress the evil and protect the excellent;-
          </p>
          <p n="9-18">in the standing camp of Pannēḷeya-kōṭe, on Sunday, the 13th day of the bright fortnight of Jyaiṣṭa in the Śaka year 973, the cyclic year Vikṛita, all the MInisters of State, to wit, Kāḷidāsayya, Steward of Household, the Councillor Miḷḷeyya, the Councillor Ciṭṭimayya, the Minister of State Demmaṇṇa, the <foreign>aḷiya</foreign> Candimayya, Cāvuṇḍarāya the Steward of the Betel-bag, and Dāsimayya the Secretary to the Council, in concert with the administrators headed by Nādēvayya, Commissioner of the County, made for the Eight Seṭṭis Ajavarmayya Seṭṭi of Sūṇḍi, Śantivarmayya Seṭṭi, Dēmayya Seṭṭi, Cāvuṇḍi Seṭṭi's son Ballayya, Śōbhanayya Seṭṭi, Mada Nāgayya Seṭ̣i, Cāmaṇṇa Seṭṭi, <supplied reason="subaudible">and</supplied> Jayadēvayyas Seṭṭi and for the Eight Households, a renewal of their corporate regulations in so far as they had broken down through the invasion of the Cōḷikas, and granted a statutory consitution of the following tenour:
          </p>
-        <p n="18-28">The shops and houses are to have their four sides of access situate in the grounds of the lands of Karagambāḍu. They allow them to stand with a grant of immunity from all imposts, including fixed land-rent, for two <foreign>śrāhe</foreign>s beginning from the present year; subsequently, from the year Nandana onwards, they are to be charged with the <foreign>sarv-āya</foreign> annually. The fixed land-rent to be paid by them under the statutory constitution of the Department of Charities is to be eighteen gold <foreign>gadyāṇa</foreign>s. The constitution of the Eight Seṭṭis is not to apply to the county, nor the constitution of the county of the Eight. Within the Kisukāḍ sevent the land plots are to be immune from tolls woth the <foreign>bīra-vaṇa</foreign>. Within the town, in cases where anything is lost, the <foreign>ara-taḷāra</foreign> has to make <supplied reason="subaudible">it</supplied> good. The guilt of a father shall not attach to a son, nor the guilt of a son attach to a father. If one strike <supplied reason="subaudible">with a weapon</supplied> a thief, rubber, burgalar, enemy, <supplied reason="subaudible">or</supplied> evil-minded person under a shop, screen <supplied reason="subaudible">or</supplied> veranda, <supplied reason="subaudible">there shall be</supplied> a fine, <supplied reason="subaudible">but</supplied> no guilt; the fine <supplied reason="subaudible">shall be</supplied><gap reason="lost"></gap> gold <foreign>gadyāṇas</foreign>; for him who exceeds <gap reason="lost"></gap> the fine <supplied reason="subaudible">shall be</supplied> one <foreign>paṇa</foreign>; for him who cudgels <supplied reason="subaudible">sucj a one</supplied>, the fine <supplied reason="subaudible">shal be</supplied> two <foreign>paṇa</foreign>s <gap reason="lost"></gap></p>
+        <p n="18-28">The shops and houses are to have their four sides of access situate in the grounds of the lands of Karagambāḍu. They allow them to stand with a grant of immunity from all imposts, including fixed land-rent, for two <foreign>śrāhe</foreign>s beginning from the present year; subsequently, from the year Nandana onwards, they are to be charged with the <foreign>sarv-āya</foreign> annually. The fixed land-rent to be paid by them under the statutory constitution of the Department of Charities is to be eighteen gold <foreign>gadyāṇa</foreign>s. The constitution of the Eight Seṭṭis is not to apply to the county, nor the constitution of the county of the Eight. Within the Kisukāḍ sevent the land plots are to be immune from tolls woth the <foreign>bīra-vaṇa</foreign>. Within the town, in cases where anything is lost, the <foreign>ara-taḷāra</foreign> has to make <supplied reason="subaudible">it</supplied> good. The guilt of a father shall not attach to a son, nor the guilt of a son attach to a father. If one strike <supplied reason="subaudible">with a weapon</supplied> a thief, rubber, burgalar, enemy, <supplied reason="subaudible">or</supplied> evil-minded person under a shop, screen <supplied reason="subaudible">or</supplied> veranda, <supplied reason="subaudible">there shall be</supplied> a fine, <supplied reason="subaudible">but</supplied> no guilt; the fine <supplied reason="subaudible">shall be</supplied><gap reason="lost"/> gold <foreign>gadyāṇas</foreign>; for him who exceeds <gap reason="lost"/> the fine <supplied reason="subaudible">shall be</supplied> one <foreign>paṇa</foreign>; for him who cudgels <supplied reason="subaudible">sucj a one</supplied>, the fine <supplied reason="subaudible">shal be</supplied> two <foreign>paṇa</foreign>s <gap reason="lost"/></p>
          
       
      </div>

@@ -72,24 +72,16 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
-                <prefixDef ident="cal"
-                    matchPattern="([\w]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
+                <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                     <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -107,7 +99,7 @@
       <body>
     <div type="edition" xml:lang="kan-Latn">
            <p><pb n="1r"/>
-             <lb n="1"/><g type="spiral">.</g>svasti samasta-bhuvanā<choice><orig>s</orig><reg>ś</reg></choice>raya srī-<choice><orig>prituvi</orig><reg>pr̥thvī</reg></choice>
+             <lb n="1"/><g ref="sym:spiral" type="punctuation">.</g>svasti samasta-bhuvanā<choice><orig>s</orig><reg>ś</reg></choice>raya srī-<choice><orig>prituvi</orig><reg>pr̥thvī</reg></choice>
                  -vallabhaṁ mahārājādhirāja parame
              <lb n="2" break="no"/>śvara-parama-bhaṭṭāra-satyā<choice><orig>s</orig><reg>ś</reg></choice>raya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ
              <lb n="3"/>śrīmatr<choice><orig>i</orig><reg>ai</reg></choice>lōkyamalladēvara rājyadalu</p>
@@ -124,9 +116,9 @@
                <lb n="10" break="no"/>tu gadyāṇaṁ teṁkaṇa kēriyal aydu gadyāṇa</p> 
             <p>In' idhellamaṁ
                <lb n="11"/><choice><orig>ki</orig><reg>ke</reg></choice>ḍisidavargge kurukṣētrada banārāsiyalu sāsira kavile
-               <lb n="12" break="no"/>yan aḷida dōṣaṁ <supplied reason="lost">ī</supplied> dharmmavaṁ aḻidavriṁge <g type="danda">.</g></p>
-           <p><g type="spiral">.</g><g type="danda">.</g>svasti <choice><sic>kō</sic><corr>ma</corr></choice>ṁgaḷa ka
-               <lb n="13" break="no"/>lyāṇaṁ kaḍaṁbē<supplied reason="lost">śva</supplied>ra dēvara kāsu pattege siraṁjiyāt·<g type="spiral"></g></p>
+               <lb n="12" break="no"/>yan aḷida dōṣaṁ <supplied reason="lost">ī</supplied> dharmmavaṁ aḻidavriṁge <g ref="sym:bar" type="punctuation">.</g></p>
+           <p><g ref="sym:spiral" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g>svasti <choice><sic>kō</sic><corr>ma</corr></choice>ṁgaḷa ka
+               <lb n="13" break="no"/>lyāṇaṁ kaḍaṁbē<supplied reason="lost">śva</supplied>ra dēvara kāsu pattege siraṁjiyāt·<g ref="sym:spiral" type="symbol">*</g></p>
     </div>
        
          <div type="apparatus">
@@ -134,7 +126,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:ARIE2020-2021"></rdg>
+                     <rdg source="bib:ARIE2020-2021"/>
                   </app>
                </listApp>
          </div>
@@ -150,7 +142,7 @@
              <p n="5-7">the prosperous Kuliyarasar <supplied reason="subaudible">also known as</supplied> the senior Būtayya-Gaḍamba had the deity Kaḍambēśvara made, 
                  and having washed the feet of Sivarāsi-jīyar, released this endowment to the unbending Kaḍambēśvara of the ritual lane</p>
              
-             <p n="7-10"><supplied reason="subaudible">the villages of</supplied> Yu<gap reason="illegible" unit="character" quantity="1"></gap>.jamaḷasa, 
+             <p n="7-10"><supplied reason="subaudible">the villages of</supplied> Yu<gap reason="illegible" unit="character" quantity="1"/>.jamaḷasa, 
                  Kaṇnasa, Baddhagivāḷu are from now on compulsory property of the temple. For burning the perpetual lamp, ten <foreign>gadyāṇa</foreign> in the merchants' lane and five <foreign>gadyāṇa</foreign> 
                  in the southern lane <supplied reason="subaudible">will be collected</supplied></p>
              

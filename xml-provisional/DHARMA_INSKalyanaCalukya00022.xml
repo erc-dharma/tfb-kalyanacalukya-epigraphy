@@ -70,24 +70,16 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
-                <prefixDef ident="cal"
-                    matchPattern="([\w]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
+                <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                     <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -107,7 +99,7 @@
         <pb n="1r"/>
         <p>
             <pb n="1v"/>
-                <lb n="1"/><g type="spiral">.</g>svasti samasta <supplied reason="lost" evidence="parallel">bhuva</supplied>nāśraya śrī-pritvī-va<supplied reason="lost" evidence="parallel">lla</supplied>bha ma
+                <lb n="1"/><g ref="sym:spiral" type="punctuation">.</g>svasti samasta <supplied reason="lost" evidence="parallel">bhuva</supplied>nāśraya śrī-pritvī-va<supplied reason="lost" evidence="parallel">lla</supplied>bha ma
                 <lb n="2" break="no"/>hārājādhirāja paramē<choice><orig>s</orig><reg>ś</reg></choice>vara-parama
                 <lb n="3" break="no"/>bhaṭṭārakaṁ sattyā<choice><orig>s</orig><reg>ś</reg></choice>raya-kuḷa-tiḷaka cā
                 <lb n="4" break="no"/>ḷukyābharaṇaṁ śrīma<choice><sic>trō</sic><corr>ai</corr></choice>lōkyamallad<choice><orig>e</orig><reg>ē</reg></choice>vara
@@ -128,7 +120,7 @@
             <lb n="13" break="no"/>dy<choice><sic>a</sic><corr>ā</corr></choice>ṇa</p>
          <p>bāṇarāsiyyalu sāĪraṁ
              <lb n="14"/>kavileya konda dō<choice><orig>s</orig><reg>ś</reg></choice>a Ī <choice><orig>dhamma</orig><reg>dharma</reg></choice>v<choice><sic>aṁ</sic><corr>n a</corr></choice>
-             <lb n="15" break="no"/>ḷidavarige <g type="danda">.</g><g type="spiral">.</g><g type="danda">.</g></p>
+             <lb n="15" break="no"/>ḷidavarige <g ref="sym:bar" type="punctuation">.</g><g ref="sym:spiral" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g></p>
         
         <pb n="2v"/>
            
@@ -139,7 +131,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:ARIE2020-2021"></rdg>
+                     <rdg source="bib:ARIE2020-2021"/>
                   </app>
                </listApp>
          </div>

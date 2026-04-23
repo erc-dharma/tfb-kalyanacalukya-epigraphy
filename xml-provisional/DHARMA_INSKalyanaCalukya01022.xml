@@ -63,15 +63,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -90,15 +87,15 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
 <p>
-    <lb n="2"/><g type="SpiralL"></g>Samasta-bhuvan'āśraya śrī-pṛithvī-vallabha ma
+    <lb n="2"/><g ref="sym:spiral-left" type="symbol">*</g>Samasta-bhuvan'āśraya śrī-pṛithvī-vallabha ma
     <lb n="3"/>hārāj'ādhirāja paramēśvara paramabhaṭṭārakam satyāśraya-kuḷa-tiḷakaṁ cāḷuky'ābharaṇaṁ 
-    <lb n="4"/>śrīmat-tribhuvanamalla-vallabhaṁ<g type="ddanda"></g>
+    <lb n="4"/>śrīmat-tribhuvanamalla-vallabhaṁ<g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     <lg n="2" met="sragdharā" xml:lang="kan-Latn">
         <l n="a">svasti śrīmac-cāḷuky'ānvaya-gagana-sudhā-rōciy' ā <lb n="5"/>namna-bhībhṛin</l>
         <l n="b">masta-nyast' āṁghri-padmaṁ nr̥ga-naḷa-nahuṣ'ādy'ādi-bhūpāḷa-lilā</l>
         <l n="c">vistīrṇṇ'ātma-prabhāvaṁ<lb n="6"/>vimaḷa-nija-yaśō-vallarī-vyāpta-dikpā</l>
-        <l n="d">ḷa-stōmaṁ mūrtti-nārāyaṇan ene negarddaṁ vikramāditya-dēvaṁ<g type="ddanda"></g></l>
+        <l n="d">ḷa-stōmaṁ mūrtti-nārāyaṇan ene negarddaṁ vikramāditya-dēvaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <lg n="3" met="campakamālā" xml:lang="kan-Latn">
         <l n="a"><lb n="7"/>Ida<choice><orig>ḍ</orig><reg>r</reg></choice>ina cōḷikaṁ kaḷake vārane lāḷana līle dūraṁ ā</l>
@@ -110,24 +107,24 @@
         <l n="a">ā mahipāḷakan esakam ad'</l>
         <l n="b">ī māhiyola mahime-vaḍadu<lb n="10"/>d udvṛitt'ā</l>
         <l n="c">ri-stōmaman ātmīya-bhuj-ō</l>
-        <l n="d"><choice><orig>ḍḍ</orig><reg>dd</reg></choice>ām āsi-marīci parbbi sādhise palaraṁ<g type="ddanda"></g></l>
+        <l n="d"><choice><orig>ḍḍ</orig><reg>dd</reg></choice>ām āsi-marīci parbbi sādhise palaraṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <p>
         <lb n="11"/>Ant' enisi negaṁrddal śrīmat-tribhuvanamalla-dēvara vijaya-rājyam uttar' ōttar' ābhivr̥iddhi-pra
-        <lb n="12"/>varddhamānam ā-caṁdr' ārkka-tāraṁ saluttam ire<g type="ddanda"></g> tan-manō-vallabhe svasty anavarata-parama-kalyāṇ' ā
+        <lb n="12"/>varddhamānam ā-caṁdr' ārkka-tāraṁ saluttam ire<g ref="sym:doubleBar" type="punctuation">.</g> tan-manō-vallabhe svasty anavarata-parama-kalyāṇ' ā
         <lb n="13"/>bhyudaya-saha<choice><orig>ś</orig><reg>s</reg></choice>ra-phaḷa-bhōga-bhāgini saṁsāra-sāra-svasti-saṁpad-abhōgini rāya-nārāyaṇa
         <lb n="14"/>viśāḷa-vakṣa<supplied reason="omitted">s</supplied>-sthaḷa-sthita-pratyakṣa-lakṣmi yau<supplied reason="lost">vana-na</supplied>ndana-vana-vasanta-lakṣmi sakala-kaḷā-kaḷāpa-līḷādha<supplied reason="lost">re</supplied>
         <lb n="15"/>vilāsa-vidyādhare vikramāditya-dēva-manō-raṁjani savati-mada-bhaṁjani cāḷukya-rāma
         <lb n="16"/>hr̥idaya-harṣ' ōtkarṣe santat' ānarghya-maṇi-kanaka-kaṁkaṇa-varṣe nitya-pa<supplied reason="omitted">ra</supplied>ma puṇya-prabh̄va
         <lb n="17"/>caritra-pavitre sallalita-gātre sujāṇa-ṭhāṇīya-pātra-<choice><orig>s</orig><reg>ś</reg></choice>irōmaṇi dāna-cintāmaṇi
         <lb n="18"/>amaḷa-savati-mada-khaṇḍani samast' āntahpura-mukha-maṇḍanī śrīmat-tribhuvanamalla-dē
-        <lb n="19"/>va-viśāḷa-vakṣa<supplied reason="omitted">s</supplied>-sthala-nivāsiniyar appa śrīmat-piriy' ārasi lakṣmā-dēviyar<g type="ddanda"></g> 
+        <lb n="19"/>va-viśāḷa-vakṣa<supplied reason="omitted">s</supplied>-sthala-nivāsiniyar appa śrīmat-piriy' ārasi lakṣmā-dēviyar<g ref="sym:doubleBar" type="punctuation">.</g> 
     </p>
     <lg n="5" met="mattēvhavikrīḍita" xml:lang="kan-Latn">
         <l n="a"><lb n="20"/>Anavady' āṁgaja-rājya-lakṣmi-lalanā-ratnaṁ viḷās' ōtpaḷaṁ</l>
         <l n="b">janit' ā<choice><orig>s</orig><reg>ś</reg></choice>ēṣa-jagaj-jan' ābhimate <lb n="21"/>yō vipr'āpta-kalpa-drumaṁ</l>
         <l n="c">dyunadi-nirmmaḷa-kīrtti-viśva-jagatībhr̥id-vikramāditya-ca</l>
-        <l n="d">kri-nisargg' ō<lb n="22"/>dita-puṇya-dēvateye lakṣmā-dēvi-bhū-cakradoḷ<g type="ddanda"></g></l>
+        <l n="d">kri-nisargg' ō<lb n="22"/>dita-puṇya-dēvateye lakṣmā-dēvi-bhū-cakradoḷ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <p>
         Ant' enisi negardda śrīmat-piriy' a<lb n="23"/>rasi lakṣmā-dēviyar kalyāṇa-nele-viḍinoḷ sukha-saṁkathā-vinōdadiṁ rājyaṁ geyyu
