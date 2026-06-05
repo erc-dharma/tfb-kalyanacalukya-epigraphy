@@ -57,7 +57,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -67,15 +67,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -92,19 +89,15 @@
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     
-<p><milestone type="pagelike" unit="zone" n="A"/><lb 
-n="1"/><g type="SpiralL"/><note>Represented by a small circle inside a bigger one</note>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha-pauvurṇṇami sōmavā<lb 
-n="2" break="no"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire<supplied reason="omitted"><g type="ddanda"></g></supplied>  Alliya kaṁpanaṁ nāgarakha<supplied reason="omitted">ṁ</supplied><lb 
-n="3"/><unclear>ḍa</unclear>v-ep<supplied reason="omitted">p</supplied>attaṟa baḷiya-bāḍa-Abbalūra vistarav-enteṁdaḍe<g type="ddanda">.</g> 
+<p><milestone type="pagelike" unit="zone" n="A"/><lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g><note>Represented by a small circle inside a bigger one</note>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha-pauvurṇṇami sōmavā<lb n="2" break="no"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire<supplied reason="omitted"><g ref="sym:doubleBar" type="punctuation">.</g></supplied>  Alliya kaṁpanaṁ nāgarakha<supplied reason="omitted">ṁ</supplied><lb n="3"/><unclear>ḍa</unclear>v-ep<supplied reason="omitted">p</supplied>attaṟa baḷiya-bāḍa-Abbalūra vistarav-enteṁdaḍe<g ref="sym:doubleBar" type="punctuation">.</g> 
 </p>
     <lg n="1" met="campakamālā" xml:lang="kan-Latn">
     <l n="a">giḷi-kuḷa<choice><sic>dh</sic><corr>d</corr></choice>iṁ pikāvaḷi<choice><orig>Ī</orig><reg>yi</reg></choice>n oppuva naṁdanadiṁ viḷāsadiṁ</l>
     <l n="b"><lb n="4"/><unclear>be</unclear>ḷasida gaṁdha-śāḷi Ī<note source="bib:Fleet1898-1899_02">read sāliyi for śāḷiyiṁ</note> śivālayadōḷi Ī<note>read ōḷiyi for ōḷiyiṁ</note> bhāḷanētra-pū</l>
         <l enjamb="yes" n="c">jita-g<choice><orig>ri</orig><reg>r̥</reg></choice>hadiṁ  baḷādhika-kaḷāvida-vīra-samūhadiṁ<choice><orig>dh</orig><reg>d</reg></choice>'i<lb break="no" n="5"/><unclear>l</unclear>ā</l>
-         <l n="d">-ta<choice><orig>ḷ</orig><reg>l</reg></choice>ad' oḷag' abbalūr ati<!-- dovrebbe essere lunga -->vicitrataraṁ nijam āgal oppuguṁ <g type="ddanda">.</g></l>
+         <l n="d">-ta<choice><orig>ḷ</orig><reg>l</reg></choice>ad' oḷag' abbalūr ati<!-- dovrebbe essere lunga -->vicitrataraṁ nijam āgal oppuguṁ <g ref="sym:doubleBar" type="punctuation">.</g></l>
      </lg>
-    <p>Antu ś<unclear>ubha</unclear>v-ett'abbalūra bīra-gauvuḍana guṇa-<lb 
-n="6"/><unclear>ka</unclear>thanav-enteṁdaḍe <g type="ddanda">.</g></p>
+    <p>Antu ś<unclear>ubha</unclear>v-ett'abbalūra bīra-gauvuḍana guṇa-<lb n="6"/><unclear>ka</unclear>thanav-enteṁdaḍe <g ref="sym:doubleBar" type="punctuation">.</g></p>
          
     <lg n="2" met="campakamālā" xml:lang="kan-Latn">
         <l n="a">parahitan eṁdu dāna-vi<choice><orig>d</orig><reg>dh</reg></choice>an eṁdu guṇ<unclear>āṁ</unclear>bhudhiy e<supplied reason="omitted">ṁ</supplied>du līleī<note source="bib:Fleet1898-1899_02">read līleyiṁ</note></l> 
@@ -118,20 +111,20 @@ n="6"/><unclear>ka</unclear>thanav-enteṁdaḍe <g type="ddanda">.</g></p>
         <lb break="no" n="10"/>si naḍadu baṁd Abbalalūran iḻidu hiṇ<unclear>ḍ</unclear>u-<unclear>s</unclear>eṟe-tuṟuvaṁ koṁballiyā seṟe-tuṟavam hiṁdikki bīra-gauvuḍana besa-varaṁ
         </p>
     <p>
-        <milestone type="pagelike" unit="zone" n="B"/><lb n="11"/>baḍagi-kētōjana makkaḷu macaṁ gōmaṁgaḷu māḍida vīrav eṁnt<note source="bib:Fleet1898-1899_02">read °ent</note>e<unclear>ṃ</unclear>daḍe <g type="ddanda">.</g>
+        <milestone type="pagelike" unit="zone" n="B"/><lb n="11"/>baḍagi-kētōjana makkaḷu macaṁ gōmaṁgaḷu māḍida vīrav eṁnt<note source="bib:Fleet1898-1899_02">read °ent</note>e<unclear>ṃ</unclear>daḍe <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
  <lg n="2" met="kanda" xml:lang="kan-Latn">
      <l n="a">ghaṭṭisi nūṁkida vājiya</l>
      <l n="b">thaṭṭaṁ kaṭṭ<supplied reason="omitted">ā</supplied>ḷu baḍagi<lb n="12"/>mācaṁ tāgalu</l>
      <l n="c">niṭṭisi gōmanu yise paḍal</l>
-     <l n="d">iṭṭudu tatu-kṣaṇadi vaīri<note source="bib:Fleet1898-1899_02">read vairi</note> balav-enit-anituṁ <g type="ddanda">.</g></l>
+     <l n="d">iṭṭudu tatu-kṣaṇadi vaīri<note source="bib:Fleet1898-1899_02">read vairi</note> balav-enit-anituṁ <g ref="sym:doubleBar" type="punctuation">.</g></l>
      </lg>
   
  <p>
-     māttēno pēḷal iṁ <lb break="no" n="13"/>t' apam-ātitaṁ noḍal ati-bhayaṁkaraṁ enal iṁt'āṁt'ari-balamuman ovade kētōjana maga māca pokku tividaṁ pala<lb n="14"/>raṁ <g type="ddanda">.</g>
+     māttēno pēḷal iṁ <lb break="no" n="13"/>t' apam-ātitaṁ noḍal ati-bhayaṁkaraṁ enal iṁt'āṁt'ari-balamuman ovade kētōjana maga māca pokku tividaṁ pala<lb n="14"/>raṁ <g ref="sym:doubleBar" type="punctuation">.</g>
  </p>
     <p>
-        sodarar ibbava<supplied reason="omitted">ra</supplied> vīraṁ mēdini gaccariyidenisi dhuradoḷu palaraṁ kādi tave koṁdu svargga<lb n="15"/>kk ōdar jjasav eseye macanuṁm ā gōmanuṁ <g type="ddanda">.</g>
+        sodarar ibbava<supplied reason="omitted">ra</supplied> vīraṁ mēdini gaccariyidenisi dhuradoḷu palaraṁ kādi tave koṁdu svargga<lb n="15"/>kk ōdar jjasav eseye macanuṁm ā gōmanuṁ <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
     <lg n="3" met="anuṣṭubh" xml:lang="kan-Latn">

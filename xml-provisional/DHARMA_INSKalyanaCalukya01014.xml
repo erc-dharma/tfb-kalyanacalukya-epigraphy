@@ -63,15 +63,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -88,16 +85,16 @@
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     <p>
-        <lb n="1"/>svasti śrī-Turagana mane-magati<gap reason="undefined" unit="character" quantity="5"></gap>>vvajrā<gap reason="undefined" unit="character" quantity="2"></gap>
-        <lb break="no" n="2"/>d ācāryyan Turagā nīn īy eḍeyol iḻdu kūḻaṁ gel<gap reason="undefined" unit="character" quantity="1"></gap><unclear>e</unclear>
+        <lb n="1"/>svasti śrī-Turagana mane-magati<gap reason="undefined" unit="character" quantity="5"/>&gt;vvajrā<gap reason="undefined" unit="character" quantity="2"/>
+        <lb break="no" n="2"/>d ācāryyan Turagā nīn īy eḍeyol iḻdu kūḻaṁ gel<gap reason="undefined" unit="character" quantity="1"/><unclear>e</unclear>
         <lb break="no" n="3"/>ndoḍ' ā mātan ollad<unclear>i</unclear>re sōlama<supplied reason="undefined">ṁ</supplied> kaṇḍ' ātan <supplied reason="undefined">i</supplied>re sōlal āga
-        <lb break="no" n="4"/>d' end' ātaniṁ munna naḍadiṟidu paḍedaṁ yasamān ātaṁg<gap reason="undefined" unit="character" quantity="1"></gap>
-        <lb break="no" n="5"/><gap reason="undefined" unit="character" quantity="1"></gap>ḷabbe laccakkan emboḷāke niṟisidaḷ ī kallaṁ
+        <lb break="no" n="4"/>d' end' ātaniṁ munna naḍadiṟidu paḍedaṁ yasamān ātaṁg<gap reason="undefined" unit="character" quantity="1"/>
+        <lb break="no" n="5"/><gap reason="undefined" unit="character" quantity="1"/>ḷabbe laccakkan emboḷāke niṟisidaḷ ī kallaṁ
         
     </p>
 </div>
      <div type="translation" source="bib:Barnett1921-1922_04">
-      <p>Hail! <gap reason="undefined"></gap> the steward of the fortunate Turaga <gap reason="undefined"></gap> when the Ācārya of <gap reason="undefined"></gap> said:"O Turaga, stand in this place and conquer the base man", when he <supplied reason="explanation">Turaga</supplied> did not agree to that speech, and saw <supplied reason="subaudible">the prospect of</supplied> defeat, he said:"We must not be defeated", and advancing in front of him <supplied reason="explanation">Turaga</supplied> and stabbing <supplied reason="subaudible">the enemy</supplied>, he won fame. For him the mother <gap reason="undefined"></gap> she who is named Lacchakka, set up this stone.</p>
+      <p>Hail! <gap reason="undefined"/> the steward of the fortunate Turaga <gap reason="undefined"/> when the Ācārya of <gap reason="undefined"/> said:"O Turaga, stand in this place and conquer the base man", when he <supplied reason="explanation">Turaga</supplied> did not agree to that speech, and saw <supplied reason="subaudible">the prospect of</supplied> defeat, he said:"We must not be defeated", and advancing in front of him <supplied reason="explanation">Turaga</supplied> and stabbing <supplied reason="subaudible">the enemy</supplied>, he won fame. For him the mother <gap reason="undefined"/> she who is named Lacchakka, set up this stone.</p>
      </div>
       <div type="bibliography">
         <p>

@@ -63,15 +63,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -87,101 +84,101 @@
       
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
-    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215"></p> 
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215"/> 
     <lg n="1" met="anuṣtubh" xml:lang="kan-Latn">
-        <l n="a"><g type="SpiralL"></g>Namas tuṁga<surplus>ś</surplus>-<choice><orig>c</orig><reg>ś</reg></choice>iraś-cuṁbi</l>
-        <l n="b">caṁdra-cāmara-cāravē<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="a"><g ref="sym:spiral-left" type="symbol">*</g>Namas tuṁga<surplus>ś</surplus>-<choice><orig>c</orig><reg>ś</reg></choice>iraś-cuṁbi</l>
+        <l n="b">caṁdra-cāmara-cāravē<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
         <l enjamb="yes" n="c">traiḷōkya-nagarāraṁbha</l>
-        <l n="d">-mūla-staṁbhāya śaṁbhavē<g type="ddanda"></g></l>
+        <l n="d">-mūla-staṁbhāya śaṁbhavē<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <lg n="2" met="śārdūlavikrīḍita" xml:lang="kan-Latn">
         <l enjamb="yes" n="a"><lb n="2"/>śrī-dhāmaṁ puruṣōttamāśrayam ahīnōdbhāsitaṁ sarvva-sat<supplied reason="omitted">t</supplied>v</l>
         <l n="b">ādhāraṁ dvija-rāja-rājitav udaṁcat-kīrtti<lb break="no" n="3"/>gaṁgānvitaṁ</l>
         <l enjamb="yes" n="c">prādhānyaṁ bhuvan-aika-jīvanak' enipp' oḷp' uṇme nāgēśvara</l>
-        <l n="d">-śrī-dhanyāk<choice><orig>ri</orig><reg>̥r</reg></choice>tiyol ma<lb break="no" n="4"/>naṁ go<choice><orig>l</orig><reg>ḷi</reg></choice>sitō ratnākaram śrī-karaṁ<g type="ddanda"></g></l>
+        <l n="d">-śrī-dhanyāk<choice><orig>ri</orig><reg>̥r</reg></choice>tiyol ma<lb break="no" n="4"/>naṁ go<choice><orig>l</orig><reg>ḷi</reg></choice>sitō ratnākaram śrī-karaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <lg n="3" met="mahāsragdharā" xml:lang="kan-Latn">
         <l enjamb="yes" n="a">Adu jaṁbū-dvīpamaṁ khāṁgaṇame-baḷasid' ant' irddud' aṁ<lb break="no" n="5"/>bhaḥ-karīṁdr<supplied reason="omitted">ō</supplied></l>
         <l enjamb="yes" n="b">dradan āghātōccaḷat-śikara-makara-karāsphāḷa-pāṭhīna-puccha</l>
         <l enjamb="yes" n="c">-cada-na<choice><orig>ḍ</orig><reg>k</reg></choice>rōdvakra-kūrmma-pra<lb break="no" n="6"/>kupita-viluṭhac-ciṁśumāra-prahāra-pradalat</l>
-        <l n="d">-phēna-pravāha-prabaḷa-ghanaghanārāva-raudraṁ <lb n="7"/>samudram<g type="ddanda">.</g></l>
+        <l n="d">-phēna-pravāha-prabaḷa-ghanaghanārāva-raudraṁ <lb n="7"/>samudram<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <p>
         Aṁtu sogayisuva muṁnīre mērey āgi nikhiḷa-dvipa-kuḷa-kadhara-kuhara-kuṁja-raṁ<lb break="no" n="8"/>jitamuṁ aśēṣa-doṣāpaharaṇa-pariṇata-prabhāva-sukṣētramum enisi sogayisuva jambū
-        <lb break="no" n="9"/>dvīpada naṭṭa naḍuve<g type="ddanda">.</g>
+        <lb break="no" n="9"/>dvīpada naṭṭa naḍuve<g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     <lg n="4" met="mattēbhavikrīḍita" xml:lang="kan-Latn">
         <l enjamb="yes" n="a">sura-kāṁntā-rata-kūjita-pratirava-prōj<supplied reason="omitted">j</supplied><choice><orig>ri</orig><reg>̥r</reg></choice>ṁbhitaṁ kiṁnarī</l>
         <l enjamb="yes" n="b">-vara-gītārava-mōhita-<choice><orig>dh</orig><reg>d</reg></choice>vi<lb break="no" n="10"/>pa-kulam siddhāṁganā-pāda-pam</l>
         <l n="c">karuha-prāṁcita-kuṁkuma-sthagita-caṁcac-caṁdra-kāntōpaḷaṁ</l>
-        <l n="d">karam opp' i<lb break="no" n="11"/>ppudu ratna-kūṭa-ramaṇīyaṁ mēru-dhātrīdharaṁ<g type="ddanda">.</g></l>
+        <l n="d">karam opp' i<lb break="no" n="11"/>ppudu ratna-kūṭa-ramaṇīyaṁ mēru-dhātrīdharaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <p>
         Ā kāṁcanācaḷada dakṣina-dig-bhāgadoḷu bharata
-        <lb break="no" n="12"/>kṣ<supplied reason="omitted">ē</supplied>tram eṁbud' ippud' adaro<choice><orig>lū</orig><reg>ḷu</reg></choice><g type="ddanda">.</g>
+        <lb break="no" n="12"/>kṣ<supplied reason="omitted">ē</supplied>tram eṁbud' ippud' adaro<choice><orig>lū</orig><reg>ḷu</reg></choice><g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     <lg n="5" met="mahāsrgdhārā" xml:lang="kan-Latn">
         <l n="a">polan ellaṁ gandha-śāli-prakara-pariv<choice><orig>ri</orig><reg>̥r</reg></choice>taṁ nandana-śrēṇiy ellaṁ</l>
         <l n="b">phaḷa-bhār<choice><orig>o</orig><reg>ā</reg></choice>namna<lb break="no" n="13"/>cūtāvani-<unclear>ja</unclear>-vaḷayitaṁ dīrgghik' ānīkam ellaṁ</l>
         <l enjamb="yes" n="c">daḷitāṁbhōjāta-rēṇu-sthagita-lalitam ūrūrggaḷ ellaṁ prajā<lb break="no" n="14"/>saṁ</l>
-        <l n="d">kula-gō-dhānya-prakīrṇṇāṁcit<choice><orig>e</orig><reg>a</reg></choice>m enal eseguṁ kuṁtaḷ-ōrvvī-viḷāsaṁ<g type="ddanda">.</g></l>
+        <l n="d">kula-gō-dhānya-prakīrṇṇāṁcit<choice><orig>e</orig><reg>a</reg></choice>m enal eseguṁ kuṁtaḷ-ōrvvī-viḷāsaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
-    <p>tat-kuṁtal-ādhipati<g type="ddanda">.</g></p>
+    <p>tat-kuṁtal-ādhipati<g ref="sym:doubleBar" type="punctuation">.</g></p>
     <p>
-       <g type="SpiralL"></g>svasti sa
+       <g ref="sym:spiral-left" type="symbol">*</g>svasti sa
         <lb break="no" n="15"/>masta-bhuvanāśrayaṁ śrī-p<choice><orig>ri</orig><reg>r̥</reg></choice>thvī-vallabhaṁ mahārājādhirāja-paramēśvara-kāṭāṁjara-pura-varā<lb break="no" n="16"/>dhīśvaraṁ suvarṇna-v<choice><orig>ri</orig><reg>̥r</reg></choice>ṣabha-dhvajaṁ ḍamaruga-tūryya-nirgghōṣaṇa kadana-pracaṁḍa māna-kanakācaḷa subhaṭa
         <lb break="no" n="17"/>rāditya kaligalaṁ-kuśa calad-aṁka-rāma sanivāra-siddhi giri-durgga-mallaṁ kalacuryya-kula-kamaḷa-mārttaṁ
-        <lb break="no" n="18"/>ḍa niśśaṁkam-mallaṁ cakravartti-saṁkama-dēvarasaru sukha-saṁkathā-vinōdadim rājyaṁ geyyuttam ire<g type="ddanda">.</g> viḷasita<lb break="no" n="19"/>m enipa kuṁtala-dēśadoḷu bahu-phala-dhānya-dhēnu-dhana-pūrṇṇam enisuv ūrggaḷa nele naḍu kisukāḍu<g type="ddanda">.</g>
+        <lb break="no" n="18"/>ḍa niśśaṁkam-mallaṁ cakravartti-saṁkama-dēvarasaru sukha-saṁkathā-vinōdadim rājyaṁ geyyuttam ire<g ref="sym:doubleBar" type="punctuation">.</g> viḷasita<lb break="no" n="19"/>m enipa kuṁtala-dēśadoḷu bahu-phala-dhānya-dhēnu-dhana-pūrṇṇam enisuv ūrggaḷa nele naḍu kisukāḍu<g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     <lg n="6" met="kanda" xml:lang="kan-Latn">
         <l enjamb="yes" n="a">Ā nā<lb n="20"/>ḍan ālvan artthi-jan</l>
         <l enjamb="yes" n="b">ānandaṁ siṁnda-maṇḍalika-tilakaṁ tē</l>
         <l n="c">jō-nidhi-vikramadēvaṁ</l>
-        <l n="d">śrī-nandanan eseye taṁnna lalitākāraṁ<g type="ddanda">.</g></l>
+        <l n="d">śrī-nandanan eseye taṁnna lalitākāraṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <p>
-        <lb n="21"/>Ā jagad-vīran anvayāvatāram ent' endoḍe<g type="ddanda">.</g>
+        <lb n="21"/>Ā jagad-vīran anvayāvatāram ent' endoḍe<g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     <lg n="7" met="kanda" xml:lang="kan-Latn">
         <l n="a">moneyoḷu kūrppaṁ tōṟutum</l>
         <l enjamb="yes" n="b">anavarataṁ baladol a<lb break="no" n="22"/>marutum vikrama-bhū</l>
         <l enjamb="yes" n="c">pana kaṭṭiḍala<choice><orig>dh</orig><reg>g</reg></choice>in aṁt' ese</l>
-        <l n="d">van ācarasa-maṁḍalēśvaram bhū-taladol<orig><orig>ū</orig><reg>u</reg></orig><g type="ddanda">.</g></l>
+        <l n="d">van ācarasa-maṁḍalēśvaram bhū-taladol<orig><orig>ū</orig><reg>u</reg></orig><g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <lg n="8" met="campakamālā" xml:lang="kan-Latn">
         <l enjamb="yes" n="a">dorev-aḍed' ādi-maṇḍali<lb break="no" n="23"/>kan ācugi tat-sahajātan appa Nā</l>
         <l enjamb="yes" n="b">karasana siṁha-bhūbhujana dāna-mahīśana dāma-dhāriṇī</l>  
         <l enjamb="yes" n="c">śvarana cavuṁḍa-maṇḍa<lb break="no" n="24"/>ḷika-v<choice><orig>i</orig><reg>ī</reg></choice>rana cāma-narēṁdran oḷpu vi</l>
-        <l n="d">staridudalli siṁgarasan ātmajan ācugi-maṁḍalēśvaraṁ<g type="ddanda">.</g></l>
+        <l n="d">staridudalli siṁgarasan ātmajan ācugi-maṁḍalēśvaraṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <lg n="9" met="kanda" xml:lang="kan-Latn">
     <l n="a">Ā negaḷdācarasam<lb n="25"/>gaṁ</l>
     <l n="b">mānini siriyā-dēviyarasigaṁ puṭṭidan</l>
     <l enjamb="yes" n="c">urvvī-nuta-vibhavaṁ sat</l>
-    <l n="d">tya-nidhānaṁ permmāḍi-dēvan apratima<lb n="26"/>yaśaṁ<g type="ddanda">.</g></l>
+    <l n="d">tya-nidhānaṁ permmāḍi-dēvan apratima<lb n="26"/>yaśaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
-    <p>Ene negaḷda permma-bhūbhujan anujan vidviṣṭa-maṇḍaḷēśvara-kāntā-jana-karṇṇa-patra-vicchēdanan apratima-pratāpi <lb n="27"/>c<unclear>ā</unclear>vuṁḍa-n<choice><orig>ri</orig><reg>r̥</reg></choice>paṁ<g type="ddanda">.</g></p> <!--According to Barrett this is a kanda verse 
+    <p>Ene negaḷda permma-bhūbhujan anujan vidviṣṭa-maṇḍaḷēśvara-kāntā-jana-karṇṇa-patra-vicchēdanan apratima-pratāpi <lb n="27"/>c<unclear>ā</unclear>vuṁḍa-n<choice><orig>ri</orig><reg>r̥</reg></choice>paṁ<g ref="sym:doubleBar" type="punctuation">.</g></p> <!--According to Barrett this is a kanda verse 
 -->
-    <p>Tat-paṭṭa-mahādēvi<g type="ddanda">.</g></p>
+    <p>Tat-paṭṭa-mahādēvi<g ref="sym:doubleBar" type="punctuation">.</g></p>
      <lg n="11" met="mattēbhavikrāḍita" xml:lang="kan-Latn">
          <l enjamb="yes" n="a">nara-nāthāgraṇi bijjalaṁ Kaḷacuri-kṣmāpāḷan ayyaṁ gu<lb break="no" n="28"/>ṇā</l>
          <l enjamb="yes" n="b">karey ād' ēcala-dēvi tāyi n<choice><orig>ri</orig><reg>r̥</reg></choice>pa-varaṁ śrī-vajra-dēvaṁ sahō</l>
          <l n="c">daran atyuṁnata-simda-vaṁśyan adhipaṁ cāvuṇḍan eṁ<lb break="no" n="29"/><unclear>daṁde dal</unclear></l>
-         <l n="d">siriyā-dēviyolār' eraḷ-kuḷadoḷaṁ saṁpūjyeyaru rāṇiyaru<g type="ddanda">.</g></l> 
+         <l n="d">siriyā-dēviyolār' eraḷ-kuḷadoḷaṁ saṁpūjyeyaru rāṇiyaru<g ref="sym:doubleBar" type="punctuation">.</g></l> 
      </lg>
-    <p>tat-tanūjar<choice><orig>ū</orig><reg>u</reg></choice><g type="ddanda">.</g></p>
+    <p>tat-tanūjar<choice><orig>ū</orig><reg>u</reg></choice><g ref="sym:doubleBar" type="punctuation">.</g></p>
     <lg n="12" met="mattēbhavikrāḍita" xml:lang="kan-Latn">
      <l enjamb="yes" n="a">dhareyaṁ pāḷisa<unclear>l eṁ</unclear><lb break="no" n="30"/><unclear>de gaurige gajāsya</unclear>ṁ ṣaṇ<unclear>m</unclear>ukhaṁ sīteg' ud</l>
      <l enjamb="yes" n="b">dhura-tējaṁ lava-bhūbhujaṁ kuśa-n<choice><orig>ri</orig><reg>r̥</reg></choice>paṁ śrī-dēvakī-dēvig' ā</l>
      <l n="c">daradiṁdaṁ bala-k<choice><orig>ri</orig><reg>r̥</reg></choice>ṣṇar udbhavi<lb break="no" n="31"/><unclear>pa vol lōkōttamar ppu</unclear>ṭṭidar</l>
-     <l n="d">ssiriyā-dēvige vīra-bijjala-n<choice><orig>ri</orig><reg>r̥</reg></choice>paṁ vikkayann eṁb' ātmajar<choice><orig>ū</orig><reg>u</reg></choice><g type="ddanda">.</g></l>
+     <l n="d">ssiriyā-dēvige vīra-bijjala-n<choice><orig>ri</orig><reg>r̥</reg></choice>paṁ vikkayann eṁb' ātmajar<choice><orig>ū</orig><reg>u</reg></choice><g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
-<p>Avar oḷage<g type="ddanda">.</g></p>
+<p>Avar oḷage<g ref="sym:doubleBar" type="punctuation">.</g></p>
     <lg n="13" met="mattēbhavikrāḍita" xml:lang="kan-Latn">
         <l enjamb="yes" n="a"><unclear>prajeyaṁ</unclear><lb break="no" n="32"/><unclear>pālisi dharmmaṁ nilisi śiṣṭa-brātamaṁ kād' ari</unclear></l>
         <l enjamb="yes" n="b">-brajamaṁ sōd<unclear>u niraṁtaraṁ vipuḷa-lakṣmī-dhāman ādaṁ</unclear> mahī</l>
         <l enjamb="yes" n="c">bhuja <unclear>cūḍāmaṇi</unclear><lb n="33"/><unclear>siṁda-vaṁśyan ajitaṁ śrī-vikramādityan ā</unclear></l>
-        <l n="d"><unclear>pta-janōdyan-nidhi maṁḍaḷēśa-tiḷakaṁ cāvumḍa-dēvātmajaṁ<g type="ddanda">.</g></unclear></l>
+        <l n="d"><unclear>pta-janōdyan-nidhi maṁḍaḷēśa-tiḷakaṁ cāvumḍa-dēvātmajaṁ<g ref="sym:doubleBar" type="punctuation">.</g></unclear></l>
     </lg>
     <p>
         <lb n="34"/>Almost wholly illegible.</p>

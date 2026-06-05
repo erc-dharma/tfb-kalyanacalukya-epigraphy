@@ -77,19 +77,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -121,7 +115,7 @@
                  <lb n="8" break="no"/>pannar appa śrīmād uttamad’ agrahāraṁ kākaṇḍikey’ ūrroḍeya pramukha<supplied reason="undefined">ma</supplied>
                  <lb n="9" break="no"/><supplied reason="undefined">hā</supplied>janam innūrvvarggē <supplied reason="undefined">pūrvva</supplied>svarūpadiṁ sarvva-namasyam appa 
                   <gap reason="undefined" quantity="4" unit="character" precision="low"/>
-                 <lb n="10"/>śiḷā-śāsana-vyavastey entendaḍe <g type="danda">.</g></p> 
+                 <lb n="10"/>śiḷā-śāsana-vyavastey entendaḍe <g ref="sym:bar" type="punctuation">.</g></p> 
               
              <p>niya<supplied reason="undefined">ta</supplied>-mārgga<supplied reason="undefined">m-a</supplied>ryyadey eṁdu 
                   <gap reason="undefined" quantity="4" unit="character" precision="low"/>
@@ -129,25 +123,25 @@
                   </supplied>va maryyāde <gap reason="undefined" quantity="3" unit="character" precision="low"/>
                  <lb n="12"/>kōlu <supplied reason="undefined">vīsa</supplied>v' eṁṭu voṁdu mattar mmogeya <gap reason="undefined" quantity="2" unit="character" precision="low"/> 
                   keyy vīsa <gap reason="undefined" quantity="4" unit="character" precision="low"/>
-                 <lb n="13"/>vā moṭṭage karyianelakisara[maṁ] kākaṇḍigeyoḷ <g type="ddanda">.</g></p> 
+                 <lb n="13"/>vā moṭṭage karyianelakisara[maṁ] kākaṇḍigeyoḷ <g ref="sym:doubleBar" type="punctuation">.</g></p> 
              
              <p>ki 
                   <gap reason="undefined" quantity="4" unit="character" precision="low"/> nasin' oḷaṁ <gap reason="undefined" quantity="2" unit="character" precision="low"/> ṁḍige pattu vīsa 
                   <gap reason="undefined" quantity="3" unit="character" precision="low"/>
                  <lb n="14"/>pokka<supplied reason="undefined">ḷi</supplied>yadu paṁcarasa-varjjamārcanā-bhōga <gap reason="undefined" quantity="2" unit="character" precision="low"/> 
                   <supplied reason="undefined">sa</supplied>rbba-nama<supplied reason="undefined">śya</supplied> 
-                 <lb n="15" break="no"/>m eṟaḍu kirugo<supplied reason="undefined">ḷa</supplied>yī daṇḍamū<supplied reason="undefined">de</supplied>ydiḍe daṇḍa <g type="ddanda">.</g></p> 
+                 <lb n="15" break="no"/>m eṟaḍu kirugo<supplied reason="undefined">ḷa</supplied>yī daṇḍamū<supplied reason="undefined">de</supplied>ydiḍe daṇḍa <g ref="sym:doubleBar" type="punctuation">.</g></p> 
              
              <p>Avivennade <supplied reason="undefined">pā</supplied>
                  <lb n="16" break="no"/>rvvyara ma<supplied reason="undefined">ne</supplied>-mānya visaka dēva-bhōgaru vaṇam ond’ intimam eyde kā
-                 <lb n="17" break="no"/>pupeṟa vaṅav’ ellamaṁ takkudaruṁdaṁ nadeyisugellaṁ <g type="ddanda">.</g></p>
+                 <lb n="17" break="no"/>pupeṟa vaṅav’ ellamaṁ takkudaruṁdaṁ nadeyisugellaṁ <g ref="sym:doubleBar" type="punctuation">.</g></p>
              <p>inite pavaṅiṁ
                  <lb n="18"/><gap reason="undefined" quantity="2" unit="character" precision="low"/> ya kāpina desagara siṁge mūṟu ponna nibanthaṁ mane-deṟeyo
                  <lb n="19"/><gap reason="undefined" quantity="3" unit="character" precision="low"/> śi maneyire paḷe manege salike posamaneg’ arddha sthirav' ā
                  <lb n="20"/><gap reason="undefined" quantity="4" unit="character" precision="low"/> vibhudhāgra-gaṇyar abhayade mānyamaṁ mahā-dānigaḷ· niravadyar· ba
                  <lb n="21" break="no"/>hu-tarkka-śāstra-kuśaḷar vvēdāṁta-śikṣāparisphurita-brahma-vinōdar· <gap reason="undefined" quantity="1" unit="character" precision="low"/>
                  <lb n="22"/>kamaṁ <supplied reason="undefined">kē</supplied>ḷdeyde kākaṇḍikā-puradinnūrvvaru guṇa-praṇayadiṁ dhā
-                 <lb n="23" break="no"/>trī-taḷaṁ baṇnikuṁ <supplied reason="omitted"><g type="danda">.</g></supplied>
+                 <lb n="23" break="no"/>trī-taḷaṁ baṇnikuṁ <supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied>
              </p>
              
              <lg n="1" met="śālinī">
@@ -156,7 +150,7 @@
                  <lb n="24" break="no"/>yō bhavadbhiḥ</l>
                  <l n="c">sarvvān ētān· bhāginaṟ pārtthivēndrāṁ</l>
                  <l n="d">bhūyō bhūyō yā
-                 <lb n="25" break="no"/>catē rāmabhadraḥ<g type="ddanda">.</g></l>
+                 <lb n="25" break="no"/>catē rāmabhadraḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
              
              <lg n="2" met="anuṣṭubh">
@@ -164,7 +158,7 @@
                  <l n="b"><supplied reason="undefined">bhūri</supplied>bhiḥ sagarādibhiḥ</l>
                  <l n="c">ya
                  <lb n="26" break="no"/>sya yasya yadā bhūmi</l>
-                 <l n="d">tasya tasya tadā phale <g type="ddanda">.</g></l>
+                 <l n="d">tasya tasya tadā phale <g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
              
              <lg n="3" met="anuṣṭubh">
@@ -172,7 +166,7 @@
                  <l n="b">yō
                  <lb n="27"/>harēti vasundharāṁ</l>
                  <l n="c">ṣaṣṭir-varṣa-sahasrāṇi</l>
-                 <l n="d"> viṣṭāyāṁ jāyatē kr̥miḥ <g type="ddanda">.</g></l>
+                 <l n="d"> viṣṭāyāṁ jāyatē kr̥miḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
             
          </div>

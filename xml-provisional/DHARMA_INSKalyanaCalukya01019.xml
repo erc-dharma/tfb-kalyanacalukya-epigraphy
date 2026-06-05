@@ -63,15 +63,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -99,16 +96,16 @@
     <lb n="7"/>ci-cārudatta-jīmūtavāhana-samān<unclear>ō</unclear>
     <lb n="8"/>dāri raṇa-raṁga-sūtradhāri mūrtti
     <lb n="9"/>nārāyaṇaṁ sarasvat<choice><orig>i</orig><reg>ī</reg></choice>-karṇṇa
-    <lb n="10"/>kuṇḍaḷ-ābharaṇaṁ śrīma<gap reason="illegible" unit="character" quantity="1"></gap>
-    <lb n="11"/><gap reason="lost" unit="character" quantity="3"></gap> dēva-pāda-paṁ
-    <lb n="12"/><supplied reason="lost">kaja-brahma</supplied>rar appa śrī <gap reason="lost" unit="character" quantity="2"></gap>
-    <lb n="13"/><gap reason="lost" unit="character" quantity="10"></gap>
-    <lb n="14"/><gap reason="lost" unit="character" quantity="8"></gap> nirūp<supplied reason="omitted">i</supplied>
+    <lb n="10"/>kuṇḍaḷ-ābharaṇaṁ śrīma<gap reason="illegible" unit="character" quantity="1"/>
+    <lb n="11"/><gap reason="lost" unit="character" quantity="3"/> dēva-pāda-paṁ
+    <lb n="12"/><supplied reason="lost">kaja-brahma</supplied>rar appa śrī <gap reason="lost" unit="character" quantity="2"/>
+    <lb n="13"/><gap reason="lost" unit="character" quantity="10"/>
+    <lb n="14"/><gap reason="lost" unit="character" quantity="8"/> nirūp<supplied reason="omitted">i</supplied>
     <lb n="15"/>ta-mahāmātya-pada<choice><orig>ri</orig><reg>vī</reg></choice>-virā
     <lb n="16"/>jmāna mānōnnata prabhu-ma
     <lb n="17"/>ntr-ōtsāha-<choice><orig>s</orig><reg>ś</reg></choice>akti-traya-saṁpa
-    <lb n="18"/>nnar appa śrīmat-perggaḍe <gap reason="lost" unit="character" quantity="1"></gap>
-    <lb n="19"/><gap reason="lost" unit="character" quantity="3"></gap> nāyaka-pramukha
+    <lb n="18"/>nnar appa śrīmat-perggaḍe <gap reason="lost" unit="character" quantity="1"/>
+    <lb n="19"/><gap reason="lost" unit="character" quantity="3"/> nāyaka-pramukha
     <lb n="20"/>karaṇav iḻdu <choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa 980
     <lb n="21"/>
 neya viḷaṁbi-saṁvatsarada jyē
@@ -132,12 +129,12 @@ neya viḷaṁbi-saṁvatsarada jyē
     <lb n="39"/>rvvaru brāhmaṇaruvaṁ sāsi
     <lb n="40"/>ra kavileyaṁ sāsirvvaru
     <lb n="41"/>tapōdhanaran aḷida pātakava 
-    <lb n="42"/>kku<g type="ddanda"></g> śrī śrī śrī
+    <lb n="42"/>kku<g ref="sym:doubleBar" type="punctuation">.</g> śrī śrī śrī
 </p>
 </div>
      <div type="translation" source="bib:Barnett1921-1922_04">
-  <p n="1-20">Hail! Acting in concert, the administrative officials, headed by the Steward <gap reason="lost" unit="character" quantity="4"></gap> nāyaka, who is devoted to the major and minor disciplines, scripture-reading, meditation, spiritual concentration, and observance of silence, devoted to the conduct of policy, a supporter of the cultured, the agreeable, eulogists, heralds, witty poets, readers, disputants, and orators, a hero of the bodyguard, equal in nobility of soul to Bali, Karṇa, Śiva, Dadhīci, Cārudatta, and Jīmūtavāhana, a controller of the stage of battle, an incarnate Nārāyaṇa, adorned with the earrings of Sarasvatī, a bee at the lotus-feet of 
- <gap reason="lost" unit="character" quantity="5"></gap>dēva, who is illustrious in the office of high minister appointed  <gap reason="lost" unit="character" quantity="5"></gap> exalted in dignity, possessed of the three powers of lordship, counsel, and enterprise<note>The three <foreign>śakti</foreign>s: see Kittel, s.v. <foreign>śakti-traya</foreign></note>, -
+  <p n="1-20">Hail! Acting in concert, the administrative officials, headed by the Steward <gap reason="lost" unit="character" quantity="4"/> nāyaka, who is devoted to the major and minor disciplines, scripture-reading, meditation, spiritual concentration, and observance of silence, devoted to the conduct of policy, a supporter of the cultured, the agreeable, eulogists, heralds, witty poets, readers, disputants, and orators, a hero of the bodyguard, equal in nobility of soul to Bali, Karṇa, Śiva, Dadhīci, Cārudatta, and Jīmūtavāhana, a controller of the stage of battle, an incarnate Nārāyaṇa, adorned with the earrings of Sarasvatī, a bee at the lotus-feet of 
+ <gap reason="lost" unit="character" quantity="5"/>dēva, who is illustrious in the office of high minister appointed  <gap reason="lost" unit="character" quantity="5"/> exalted in dignity, possessed of the three powers of lordship, counsel, and enterprise<note>The three <foreign>śakti</foreign>s: see Kittel, s.v. <foreign>śakti-traya</foreign></note>, -
   </p>
   <p n="20-23">on Sunday, the full-moon of Jyēṣṭa of the Śaka year 980, the cyclic year Vilambin-</p>
   <p n="23-26">granted for the god Akkēśvara of Sūṇḍi and for the thousand persons of that <supplied reason="explanation">establishment</supplied> and for the staff and attendants a statutory constitution in the following terms:-</p>

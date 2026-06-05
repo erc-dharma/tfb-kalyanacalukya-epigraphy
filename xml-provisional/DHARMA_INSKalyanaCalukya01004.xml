@@ -64,15 +64,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -90,28 +87,28 @@
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 	   <l n="ab">namas tasmai varāhāya līlaya carate mahīṃ</l>
-	   <l n="cd">khurāntara-gatō yasya mēruḥ khaṇa-khaṇāyatē <g type="ddanda">.</g></l></lg>
+	   <l n="cd">khurāntara-gatō yasya mēruḥ khaṇa-khaṇāyatē <g ref="sym:doubleBar" type="punctuation">.</g></l></lg>
     <p>
         <lb n="1"/>svasti samasta-bhuvanāśrayaṁ śrī-pr̥ṭhvīvallabha-mahārājādhirāja-para
         <lb break="no" n="2"/>mēśaraṁ paramabhaṭṭarakaṁ satyāśraya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ śrīma<supplied reason="omitted">t</supplied>tribhuvanamalla-dēvara vijaya-rājyam uttarōttarābhivr̥ddhi-pravarddhamānam ā-ccaṁdrārkka-tāraṁ salutta
-        <lb break="no" n="3"/>m ire <g type="danda">.</g> tat-vāda-padmōpajīvi <g type="ddanda">.</g> ene negarddā tribhuvanamalla-narēśvaranoḷ pasāyitaṁ sakaḷa-jagaj-jana-nutar deceyabheṭṭara tanayaṁ vāśiṣṭa-kuḷa-viyat-taḷa-candra <g type="ddanda">.</g> kuntaḷa vikramaṭaka <g type="danda">.</g>
-       <lb break="no" n="4"/>ya santōśamegaṁḍagāyāyitunipaṁ niści<supplied reason="omitted">ṁ</supplied>ntamahāpasāyita nāntaribiḷavidayanaṁ mahādēvabudha <g type="ddanda">.</g> narapati-cāḷukya-kuḷāṃbara-maṇi-permmāḍidēvan ati-vīra-nirantara-dhyāni tanna kaṭṭu
-       <lb break="no" n="5"/>va surigeya nesa-v-eseye piḍisuvaṃ jaga-v-aṟiyalu<g type="ddanda">.</g>mādige budha-jana-hṛdayāhlādige karppura-caṁdana-agaru-khuśriṇāvōdige nuta-sakaḷa-kaḷā-vēdige sama noḷa
-        <lb break="no" n="6"/>re sakaḷa-viśvaṃbharayoḷu <g type="ddanda">.</g> ā daṇḍēśana sati munnādiyarundhuti dharitri jānake sāvitradēvi satyabhāmā śrīdeviye muddiyakke neṁbudu lōka <g type="ddanda">.</g>
+        <lb break="no" n="3"/>m ire <g ref="sym:bar" type="punctuation">.</g> tat-vāda-padmōpajīvi <g ref="sym:doubleBar" type="punctuation">.</g> ene negarddā tribhuvanamalla-narēśvaranoḷ pasāyitaṁ sakaḷa-jagaj-jana-nutar deceyabheṭṭara tanayaṁ vāśiṣṭa-kuḷa-viyat-taḷa-candra <g ref="sym:doubleBar" type="punctuation">.</g> kuntaḷa vikramaṭaka <g ref="sym:bar" type="punctuation">.</g>
+       <lb break="no" n="4"/>ya santōśamegaṁḍagāyāyitunipaṁ niści<supplied reason="omitted">ṁ</supplied>ntamahāpasāyita nāntaribiḷavidayanaṁ mahādēvabudha <g ref="sym:doubleBar" type="punctuation">.</g> narapati-cāḷukya-kuḷāṃbara-maṇi-permmāḍidēvan ati-vīra-nirantara-dhyāni tanna kaṭṭu
+       <lb break="no" n="5"/>va surigeya nesa-v-eseye piḍisuvaṃ jaga-v-aṟiyalu<g ref="sym:doubleBar" type="punctuation">.</g>mādige budha-jana-hṛdayāhlādige karppura-caṁdana-agaru-khuśriṇāvōdige nuta-sakaḷa-kaḷā-vēdige sama noḷa
+        <lb break="no" n="6"/>re sakaḷa-viśvaṃbharayoḷu <g ref="sym:doubleBar" type="punctuation">.</g> ā daṇḍēśana sati munnādiyarundhuti dharitri jānake sāvitradēvi satyabhāmā śrīdeviye muddiyakke neṁbudu lōka <g ref="sym:doubleBar" type="punctuation">.</g>
      </p>  
-        <ab>vr̥<g type="ddanda">.</g></ab>
+        <ab>vr̥<g ref="sym:doubleBar" type="punctuation">.</g></ab>
         <lg n="2" xml:lang="kan-Latn">
           <l n="a">giriśaṁgaṁ gaurigaṁ śaṅmukhan asura-kuḷa-dhvaṁśigaṁ rukmiṇīsu ndarigaṁ pradyumnan iṁdraṃ gagaṇita-guṇa-paulōmigaṁ śrījayantaṁ suravaryar ppaṭṭuvant-uttaman enise mahādēva-daṇḍādhipaṁgaṁ carita-śrī-muddiyukkaṁ gagaṇita-vibhavaṁ puṭṭe permmāḍidēva</l>
         </lg>
     <p>
         <lb n="8"/>sādhita-vibhavaṁ surigeya mādhavan eṁb udaya-kudharadind udiyisidaṁ bādhita-ripu-timiraṁ sū<supplied reason="lost">rigeya </supplied> budha-kaṁja
-        <lb n="9"/>permmadin eṁbāditya <g type="ddanda">.</g>
+        <lb n="9"/>permmadin eṁbāditya <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
-    <ab>vr̥<g type="ddanda">.</g></ab>
+    <ab>vr̥<g ref="sym:doubleBar" type="punctuation">.</g></ab>
         <lg n="3" xml:lang="kan-Latn">
         <l n="a">sthiranē mēru-dharādharaṁ śuciye gaṁgā-śaṁbhavaṁ dharma-tattvaranē pāṁdu-sutāgrajaṁ kaliye kālēyārjjunaṁ satya-nirbhbheranēr kaṇnan udāranē sura-kujaṁ
-        tāneṁba sat-kīrttita vistarisal parmmege nermma-vādana-tuḷaṁ permmāḍi bhūpōttama<g type="ddanda">.</g></l> 
+        tāneṁba sat-kīrttita vistarisal parmmege nermma-vādana-tuḷaṁ permmāḍi bhūpōttama<g ref="sym:doubleBar" type="punctuation">.</g></l> 
     </lg>
      <lg n="4" xml:lang="kan-Latn">
      <l n="a">siri-śiṣṭēṣṭādigē hāmara-giri-caritaṁ vēda-śāstrōkti māḷābharitaṁ rūpajagan mōhanamadanajayat vupratāpaṁ svaśauryyaṁ dhuradurddāntāryyavārya<choice><sic>n</sic><corr>ṁ</corr></choice>tanagasadire cāḷukya-cakrēśa-kāruṇnya-rasakkādhāranādaṁ kali surigeya permmāḍi kīrtti-prasaṁgaṁ</l>     
