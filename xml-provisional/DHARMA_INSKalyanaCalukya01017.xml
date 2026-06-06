@@ -87,10 +87,8 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
 <p>
-<<<<<<< HEAD
-    <lb n="1"/><g type="SpiralL"></g>Svasti jayaś cābhyudayaś ca<g type="ddanda"></g> Svasti samasta-bhuvanāśraya śrī-pṛitvhvī-vallabha
-=======
-    <lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g><note>This symbol looks like a reversed 8.</note>Svasti jayaś cābhyudayaś ca<g ref="sym:doubleBar" type="punctuation">.</g> Svasti samasta-bhuvanāśraya śrī-pṛitvī-vallabha
+   
+    <lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g>Svasti jayaś cābhyudayaś ca<g ref="sym:doubleBar" type="punctuation">.</g> Svasti samasta-bhuvanāśraya śrī-pṛitvī-vallabha
 >>>>>>> a7683f45481e9d1c35bc5b34ae44cfa1054ef24d
     <lb n="2"/>mahārājādhirāja paramēśvara paramabhaṭṭārakaṁ satyāśra
     <lb n="3"/>ya-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ śrimat-Traiḷōkyamalla-dē
