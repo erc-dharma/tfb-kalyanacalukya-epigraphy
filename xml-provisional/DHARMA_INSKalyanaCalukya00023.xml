@@ -24,7 +24,7 @@
                     <resp>intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName><!-- Update the id -->
-                        <name></name>
+                        <name/>
                         
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
@@ -109,7 +109,7 @@
              </lg>
              
              <lg n="2" met="śārdūlavikrīḍita" xml:lang="san-Latn">
-                <l n="a">śrīmad-rāma-ma <supplied reason="lost">hīṁ</supplied>/supplied> <lb n="2" break="no"/> dra-datta-sakaḷa-kṣōṇī-vadhū-maṇḍanē</l> 
+                <l n="a">śrīmad-rāma-ma <supplied reason="lost">hīṁ</supplied>/supplied&gt; <lb n="2" break="no"/> dra-datta-sakaḷa-kṣōṇī-vadhū-maṇḍanē</l> 
                 <l n="b">sākṣāt-kōkanadāsanēna sadṛśaṁ brahmātmajaissēvitē</l> 
                 <l n="c">śumbhattōyaja-nābha-sattananibhī <lb n="3" break="no"/> śrīlokkiguṇḍyāh vayē</l>
                 <l n="d">jainasthānam acīkarad guṇa-nidhiḥ śrī-dāna-cintāmaṇiḥ <g type="punctuation" ref="sym:doubleBar">.</g></l>
@@ -123,7 +123,7 @@
              </lg>
              
             <p>
-                <lb n="5"/><g type="symbol" ref="sym:spiral-spoked"></g>svasti samasta-bhuvanāśraya-śri-pṛthvīvallabha-mahārājādhirāja-paramēśvara-paramabhaṭṭāraka-satyāśraya-kuḷatilaka-cāḷukyābha
+                <lb n="5"/><g type="symbol" ref="sym:spiral-spoked"/>svasti samasta-bhuvanāśraya-śri-pṛthvīvallabha-mahārājādhirāja-paramēśvara-paramabhaṭṭāraka-satyāśraya-kuḷatilaka-cāḷukyābha
                 <lb n="6" break="no"/>raṇa-śrīmad-āhavamalla-dēvara rājyam uttarōttarābhivṛddhi pravarddamānam ā candrārka-tārambaram saluttamire tat-pāda-padmōpajīviyu
                 <lb n="7" break="no"/>m akhila rājyabhara ṇirūpita mahā-mantrākṣapaṭaḷādhipatiyum enisi <g type="punctuation" ref="sym:doubleBar">.</g></p> 
              
@@ -138,7 +138,7 @@
             
             <ab>vr̥tta<g type="punctuation" ref="sym:doubleBar">.</g></ab>
              
-             <lg n="5" met="">
+             <lg n="5">
                  <l n="a">poṇardd’ idir āgi tāgi doranāneyoḷ okkuvan andu bercce koṁ</l>
                  <l n="b" enjamb="yes">kaṇam eḻdiyikke beṁgi beṟagāge tivuḷḷelanḷke māḷava</l>
                  <l n="c" enjamb="yes">maṇiyi podaḷdudirkkelade munddaṇa-sindaṇa-maṇḍalakke bhī</l>
@@ -411,7 +411,7 @@
              
       <lg n="27" met="śālinī" xml:lang="san-Latn">
          <l n="a">sāmānyōyaṁ dharmmasēturnripāṇāṁ</l>
-         <l n="b">kāḷē <lb n="82"></lb>kāḷē sāḷanīyō bhavadbhiḥ</l> 
+         <l n="b">kāḷē <lb n="82"/>kāḷē sāḷanīyō bhavadbhiḥ</l> 
          <l n="c">savvan ētān bhāvinar̥ pārrthivēṁdrō</l>
          <l n="d">bhūyō bhūyō yācatē rāmabhadraḥ <g type="punctuation" ref="sym:doubleBar">.</g></l> 
       </lg>
@@ -440,7 +440,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Krishnamacharlu1940_01"></rdg>
+                     <rdg source="bib:Krishnamacharlu1940_01"/>
                   </app>
                </listApp>
          </div>
