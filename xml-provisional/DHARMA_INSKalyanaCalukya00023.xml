@@ -102,30 +102,30 @@
          <div type="edition" xml:lang="kan-Latn">
              
              <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
-                 <l n="a"><lb n="1"/><supplied reason="lost" evidence="parallel">śubham</supplied> bhūyājjinendrāṇā <supplied reason="lost" evidence="parallel">ṁ</supplied></l>
+                 <l n="a"><lb n="1"/><supplied reason="lost" evidence="parallel">śubham</supplied> bhūyāj-jinēndrāṇā<supplied reason="lost" evidence="parallel">ṁ</supplied></l>
                  <l n="b">śāsanāghanāśinē </l>
-                 <l n="c">ku<supplied reason="lost" evidence="parallel">tīrttha</supplied> dhvānta-saṁghāta</l>
-                 <l n="d">prabhinna <supplied reason="lost" evidence="parallel">ghanabhānavē</supplied> <supplied reason="lost"><g type="punctuation" ref="sym:doubleBar">.</g></supplied></l>
+                 <l n="c">ku<supplied reason="lost" evidence="parallel">tīrttha</supplied>-dhvānta-saṁghāta</l>
+                 <l n="d" enjamb="yes">prabhinna <supplied reason="lost" evidence="parallel">ghanabhānavē</supplied> <supplied reason="lost"><g type="punctuation" ref="sym:doubleBar">.</g></supplied></l>
              </lg>
              
              <lg n="2" met="śārdūlavikrīḍita" xml:lang="san-Latn">
-                <l n="a">śrīmad-rāma-ma <supplied reason="lost">hīṁ</supplied>/supplied&gt; <lb n="2" break="no"/> dra-datta-sakaḷa-kṣōṇī-vadhū-maṇḍanē</l> 
-                <l n="b">sākṣāt-kōkanadāsanēna sadṛśaṁ brahmātmajaissēvitē</l> 
-                <l n="c">śumbhattōyaja-nābha-sattananibhī <lb n="3" break="no"/> śrīlokkiguṇḍyāh vayē</l>
-                <l n="d">jainasthānam acīkarad guṇa-nidhiḥ śrī-dāna-cintāmaṇiḥ <g type="punctuation" ref="sym:doubleBar">.</g></l>
+                <l n="a">śrīmad-rāma-ma<supplied reason="lost">hīṁ</supplied><lb n="2" break="no"/>dra-datta-sakaḷa-kṣōṇī-vadhū-maṇḍanē</l> 
+                <l n="b">sākṣāt kōkanadāsanēna sadṛśaṁ brahmātmajais-sēvitē</l> 
+                <l n="c">śumbhat-tōyaja-nābha-sattananibhī<lb n="3" break="no"/>-śrī-lokkiguṇḍyāh vayē</l>
+                <l n="d">jaina-sthānam acīkarad guṇa-nidhiḥ śrī-dāna-cintāmaṇiḥ <g type="punctuation" ref="sym:doubleBar">.</g></l>
              </lg>
              
-             <lg n="3" met="unknown" xml:lang="san-Latn">
+             <lg n="3" met="upajāti" xml:lang="san-Latn">
                  <l n="a">cāḷukya-cakri-dhvajinīpamātra</l>
-                 <l n="b">samarppitaḥ kā <lb n="4" break="no"/> rita-jainagēhaḥ<gap reason="illegible" unit="character" quantity="1"/></l>
+                 <l n="b">samarppitaḥ kā <lb n="4" break="no"/> rita-jaina-gēhaḥ<gap reason="illegible" unit="character" quantity="1"/></l>
                  <l n="c">śrī-lokkiguṇḍyā<supplied reason="omitted">ḥ</supplied> paripāḷanārthaṁ</l> 
                  <l n="d">sahasrasaṁ khyeṣu dharāmarēṣu <g type="punctuation" ref="sym:doubleBar">.</g></l>
              </lg>
              
             <p>
                 <lb n="5"/><g type="symbol" ref="sym:spiral-spoked"/>svasti samasta-bhuvanāśraya-śri-pṛthvīvallabha-mahārājādhirāja-paramēśvara-paramabhaṭṭāraka-satyāśraya-kuḷatilaka-cāḷukyābha
-                <lb n="6" break="no"/>raṇa-śrīmad-āhavamalla-dēvara rājyam uttarōttarābhivṛddhi pravarddamānam ā candrārka-tārambaram saluttamire tat-pāda-padmōpajīviyu
-                <lb n="7" break="no"/>m akhila rājyabhara ṇirūpita mahā-mantrākṣapaṭaḷādhipatiyum enisi <g type="punctuation" ref="sym:doubleBar">.</g></p> 
+                <lb n="6" break="no"/>raṇa-śrīmad-āhavamalla-dēvara rājyam uttarōttarābhivṛddhi-pravar<choice><sic>dd</sic><corr>dh</corr></choice>amānam ā candrārka-tārambaram saluttam ire tat-pāda-padmōpajīviyu
+                <lb n="7" break="no"/>m akhila-rājyabhara-ṇirūpita-mahā-mantrākṣapaṭaḷādhipatiyum enisi <g type="punctuation" ref="sym:doubleBar">.</g></p> 
              
              <ab>kanda <g type="punctuation" ref="sym:doubleBar">.</g></ab>
              
@@ -138,9 +138,9 @@
             
             <ab>vr̥tta<g type="punctuation" ref="sym:doubleBar">.</g></ab>
              
-             <lg n="5">
+             <lg n="5" >
                  <l n="a">poṇardd’ idir āgi tāgi doranāneyoḷ okkuvan andu bercce koṁ</l>
-                 <l n="b" enjamb="yes">kaṇam eḻdiyikke beṁgi beṟagāge tivuḷḷelanḷke māḷava</l>
+                 <l n="b" enjamb="yes"><lb n="9" break="no"/>kaṇam eḻdiyikke beṁgi beṟagāge tivuḷḷelanḷke māḷava</l>
                  <l n="c" enjamb="yes">maṇiyi podaḷdudirkkelade munddaṇa-sindaṇa-maṇḍalakke bhī</l>
                  <l n="d" enjamb="yes">ṣaṇam atiraudrama <lb n="10" break="no"/>dbhutam agurvvine tējadaḷ urkke dhallana<g type="punctuation" ref="sym:doubleBar">.</g></l>
              </lg>
@@ -178,23 +178,23 @@
              <lg n="8" met="unknown">
                  <l n="a">dhāḷiyo<lb n="15" break="no"/>ḷ andhranaṁ piḍidapeṁ magadhēśanan ikki meṭṭipeṁ</l>
                  <l n="b">lāḷana gaṇṭalaṁ muridapeṁ khasanaṁ puḍiyoḷ poraḷcapeṁ</l>
-                 <l n="c">kōḷadoḷ ikkipeṁ maleva pā<lb n="16" break="no"/>ṇḍyanan āhavamalladēvaniṁ</l>
-                 <l n="d">pēḷ enutirppan ī doretu  śauryaguṇōnnati nāgadēvana <g type="punctuation" ref="sym:doubleBar">.</g></l>
+                 <l n="c">kōḷadoḷ ikkipeṁ maleva pā<lb n="16" break="no"/>ṇḍyanan āhavamalla-dēvaniṁ</l>
+                 <l n="d">pēḷ enutirppan ī doretu  śaurya-guṇōnnati nāgadēvana <g type="punctuation" ref="sym:doubleBar">.</g></l>
              </lg>
              
              <ab>va<g type="punctuation" ref="sym:doubleBar">.</g></ab>
              
              <p>ā mahīdēva-kuḷa-gagana-gabha
-             <lb n="17" break="no"/>sti-māḷige mahā-satī-ratnaṁ kuḷa-patniyāgi guṇadaṁkakārtiyuṁ kavivara-kāmadhēnumuṁ kaṭakapavitreyuṁ ji
+             <lb n="17" break="no"/>sti-māḷige mahā-satī-ratnaṁ kuḷa-patniyāgi guṇad' aṁkakārtiyuṁ kavivara-kāmadhēnumuṁ kaṭaka-pavitreyuṁ ji
              <lb n="18" break="no"/>na-dharma-patākeyum enisida dānacintāmaṇiya mahāprabhāvamē dōrentene <g type="punctuation" ref="sym:doubleBar">.</g></p>
              
              <ab>vr̥<g type="punctuation" ref="sym:doubleBar">.</g></ab>
              
              <lg n="9" met="utpalamala">
-                 <l n="a">unnata kukkuṭēśvara jinēśvaranaṁ <lb n="19"/> jinabhakti pōgi kāṇ</l>
-                 <l n="b" enjamb="yes">bannegam annamaṁ toṟedu parvvatamaṁ mudadēṟe tajjinā</l>                 
-                 <l n="c" enjamb="yes">sannadoḷ attiyabbege pathaśramam ādōḍ’ akāḷavṛṣṭi<lb n="20"/>yāy</l> 
-                 <l n="d" enjamb="yes">t’ innavu dēva-bhaktig’ adu cōdyame koḷḷave puḻvavṛṣṭigaḷ <g type="punctuation" ref="sym:doubleBar">.</g></l></lg>
+                 <l n="a">unnata-kukkuṭēśvara-jinēśvaranaṁ <lb n="19"/> jina-bhakti pōgi kāṇ</l>
+                 <l n="b" enjamb="yes">b' annegam annamaṁ toṟedu parvvatamaṁ mudadēṟe tajjinā</l>                 
+                 <l n="c" enjamb="yes">sannadoḷ attiyabbege pathaśramam ād' ōḍ’ akāḷa-vṛṣṭi<lb n="20"/>y āy</l> 
+                 <l n="d" enjamb="yes">t’ innavu dēva-bhaktig’ adu cōdyame koḷḷave puḻva-vṛṣṭigaḷ <g type="punctuation" ref="sym:doubleBar">.</g></l></lg>
              
              <lg n="10" met="kanda">
                  <l n="a">narapana besadiṁ jinanaṁ</l>
@@ -280,8 +280,8 @@
         <ab>va<g type="punctuation" ref="sym:doubleBar">.</g></ab>
              
         <p>
-        <lb n="35"/>Intu nanni-nārāyaṇaṁ samyaktva-ratnākaraṁ patimecce-gaṇḍan āḷdana-cakraṁ karppvūra-varṣam catura-caturānanaṁ guṇa-mēru vāyidhā
-        <lb n="36" break="no"/>cāryan eṁba nāma-māḷe dig-vadhū-dhamm' ellam āḷe yenisi śrīmat-vaḍevaḷḷa tailapayyaṁ māsavāḍi nuṟanālvattumaṁ bēḷavṛ
+        <lb n="35"/>Intu nanni-nārāyaṇaṁ samyaktva-ratnākaraṁ patimecce-gaṇḍan āḷdana-cakraṁ karppvūra-varṣam catura-caturānanaṁ guṇa-mēru-vāyidhā
+        <lb n="36" break="no"/>cāryan eṁba nāma-māḷe dig-vadhū-dhamm' ellam āḷe yenisi śrīmat-vaḍevaḷḷa-tailapayyaṁ māsavāḍi nuṟanālvattumaṁ bēḷavṛ
         <lb n="37" break="no"/>ttiyin āḷuttamire <g type="punctuation" ref="sym:doubleBar">.</g></p>
              
         <ab>vr̥<g type="punctuation" ref="sym:doubleBar">.</g></ab>
@@ -376,9 +376,9 @@
       <p><lb n="67"/>svasti yama-niyama-svādhyāya-dhyāna-dhāraṇa-mōnānuṣṭhāṇa-parāyaṇa-japa-samāḍhi-śīḷa-sampannar ssamasta-guṇagaṇāḷaṁkr̥tar vvidita-vē
       <lb n="68" break="no"/>dārttha-vidyāsāragar ṣṣaṭkarmma-niratar ssapta-sōma-saṁsthāva-bhr̥dhāvagāhana-pavitrī-kr̥ta-śarīrar aṣṭādaśa-dharmma-śāstra-kuśaḷar ēka-vākyar acaḷita-dhairyya
       <lb n="69" break="no"/>r ssiṁha-parākramar āśr̥ta-tajana-kaḷpavr̥kṣar ahita-pakṣakṣayakarar kkaliyuga-gāṁgēyar pparama-parōpa-kārigaḷ sānugraha-samartthar kkā
-      <lb n="70" break="no"/>ryya-br̥haspatigaḷ ēkaika-paṇḍitar vvaiṣṇava-gīta-manūharar pāpabhīrugaḷ <choice><sic>v</sic><corr>v</corr></choice>aranārī-dorar dduṣṭa-vidhyaṁsakar ṣṣiṣṭa-janāśrayar kkāma-krōdha-lōbhamō
-      <lb n="71" break="no"/>ha-bhaya-vivarjjitar ddvāttriṁśa-sahasrasa-mayārgghyarhar dvija-kuḷa-tiḷakar ssaraṇāgata-vajra-paṁjarar śrī-dāśarathi-vinirmmita-mahāgramaṁ śrī
-      <lb n="72" break="no"/>lokkiguṇdiy ūroḍeya pramukha-mahājana-sāsirvvara kayyoḷ tanna basadige pūjānim ittadiṁ bēḍi paḍeduv' iv' āvuv' end' oḍariṁ paḍuva
+      <lb n="70" break="no"/>ryya-br̥haspatigaḷ ēkaika-paṇḍitar vvaiṣṇava-gīta-manūharar pāpabhīrugaḷ <choice><sic>v</sic><corr>p</corr></choice>ara-nārī-dorar dduṣṭa-vidhyaṁsakar ṣṣiṣṭa-janāśrayar kkāma-krōdha-lōbhamō
+      <lb n="71" break="no"/>ha-bhaya-vivarjjitar ddvāttriṁśa-sahasrasa-mayārgghyarhar dvija-kuḷa-tiḷakar ssaraṇāgata-vajra-paṁjarar śrī-dāśarathi-vinirmmita-mahāgramaṁ śrī-
+      <lb n="72" break="no"/>lokkiguṇdiy ūr-oḍeya-pramukha-mahājana-<num value="1000">sāsirvvara</num> kayyoḷ tanna basadige pūjānim ittadiṁ bēḍi paḍeduv' iv' āvuv' end' oḍariṁ paḍuva
       <lb n="73" break="no"/>luṁ carasatad' oḷag' itta mūṟu muttara tōṁṭam oṇd' adam jainar prati-sāḷisuvarā tōṇṭakke tōṇṭaga samayav illadan ār ōrvvar mmārppar avar bbasa
       <lb n="74" break="no"/>dige sama-bhāgav' ikki uṇbar tōṇṭakke karavaṁda taḷabhōgam asatu modal' āge sarvvabhādāparihāra <g type="punctuation" ref="sym:bar">.</g></p>
 
@@ -405,14 +405,14 @@
       <lg n="26" met="anuṣṭubh" xml:lang="san-Latn">
          <l n="a">svadattaṁ paradattaṁ vā</l>
          <l n="b">yō harati vasundharāṁ</l>
-         <l n="c">ṣaṣṭirvarṣasahsrāṇi</l>
+         <l n="c">ṣaṣṭir-varṣa-sahsrāṇi</l>
           <l n="d">viṣṭhāyāṁ jāyate krimiḥ <g type="punctuation" ref="sym:doubleBar">.</g></l>
       </lg>
              
       <lg n="27" met="śālinī" xml:lang="san-Latn">
-         <l n="a">sāmānyōyaṁ dharmmasēturnripāṇāṁ</l>
-         <l n="b">kāḷē <lb n="82"/>kāḷē sāḷanīyō bhavadbhiḥ</l> 
-         <l n="c">savvan ētān bhāvinar̥ pārrthivēṁdrō</l>
+         <l n="a">sāmānyō yaṁ dharmmasētur <choice><sic>nri</sic><corr>nr̥</corr></choice>pāṇāṁ</l>
+         <l n="b">kāḷē <lb n="82"/>kāḷē pāḷanīyō bhavadbhiḥ</l> 
+         <l n="c"><choice><sic>savvan</sic><corr>sarvān</corr></choice> ētān bhāvinaṟ pārtthivēṁdrō</l>
          <l n="d">bhūyō bhūyō yācatē rāmabhadraḥ <g type="punctuation" ref="sym:doubleBar">.</g></l> 
       </lg>
       
@@ -420,7 +420,7 @@
       <lb n="83" break="no"/>jinatīrttha-vyoma-śītāṁśu-dig-dviradāghāṭa-sukīrtir jaina-vr̥ṣa-daṇḍādhīśan udyajjinēśvara-pādāṁbuja-ṣaṭ<choice><sic>v</sic><corr>p</corr></choice>vadaṁ beḷagidaṁ samyaktva-ratnā
       <lb n="84" break="no"/>karaṁ siripāḷaṁ jina-dharmma-nirmmaḷa-nuta-prakhyāteyiṁ lōkamaṁ <g type="punctuation" ref="sym:doubleBar">.</g>
         parama-śrī-jina-dharmmāṁbara-ravi siripāḷa-seṭṭiyātmaja
-      <lb n="85" break="no"/>n udyaccaritaṁ bāhubali savistaradimdaṁ baredan end' oḍ’ ār pogaḷar idaṁ <g type="punctuation" ref="sym:doubleBar">.</g></p>
+      <lb n="85" break="no"/>n udyac-caritaṁ bāhubali savistaradimdaṁ baredan end' oḍ’ ār pogaḷar idaṁ <g type="punctuation" ref="sym:doubleBar">.</g></p>
       
       <p>nirupamam attiyabbeya jinēndra-gr̥haṁ dharaṇītaḷ ikke
       <lb n="86" break="no"/>bēḷir posatāgi deyvabharatāryyanin ā bharatāryyaniṁ baḷ' ikkirad' adu
