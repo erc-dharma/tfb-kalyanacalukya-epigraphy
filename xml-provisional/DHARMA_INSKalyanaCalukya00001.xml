@@ -38,7 +38,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_INSKalyanaCalukya00001</idno>
+            <idno type="filename">DHARMA_INSKalyanaCalukya00001.xml</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
