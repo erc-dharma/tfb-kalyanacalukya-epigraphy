@@ -11,14 +11,14 @@
                 <title>Ālūr, Vīrabhadradēva Temple, time of Tribhuvanamalladēva (Vikramāditya VI), Cāḷukya-Vikrama 49 (1124 CE).
                 </title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:ants">
                         <forename>Antonella</forename>
                         <surname>Santoro</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
                     <persName ref="part:ants">
                         <forename>Antonella</forename>

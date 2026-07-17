@@ -11,7 +11,7 @@
                 <title>The Kaḍambēśvara Temple Copper-plate Grant of the Reign of Taila II, Śaka 897 II</title>
                
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:sagu"><!-- Update the id -->
                         <forename>Samana</forename>
@@ -19,7 +19,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName>Samana Gururaja</persName>                  
                 </respStmt>
             </titleStmt>
