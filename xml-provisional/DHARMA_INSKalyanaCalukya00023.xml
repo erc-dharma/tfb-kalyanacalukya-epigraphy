@@ -12,7 +12,7 @@
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
-                    <resp key="contributor">EpiDoc Encoding</resp>
+                    <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:sagu"><!-- Update the id -->
                         <forename>Samana</forename>
@@ -21,9 +21,9 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
+                    <resp>intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
-                    <persName><!-- Update the id -->
+                    <persName ref="part:sagu"><!-- Update the id -->
                         <name/>
                         
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
@@ -31,12 +31,23 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
                 <idno type="filename">DHARMA_INSKalyanaCalukya00023.xml</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
-                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-                <date from="2019" to="2025">2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2023 by Samana
+                            Gururaja.</p>
+                        <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025"></date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -63,8 +74,20 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:axja" when="2020-10-12">Version 3.2 : movinng the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -79,22 +102,22 @@
          <div type="edition" xml:lang="kan-Latn">
              
              <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
-                 <l n="a"><lb n="1"/><supplied reason="lost" evidence="parallel">śubham</supplied> bhūyāj-jinēndrāṇā<supplied reason="lost" evidence="parallel">ṁ</supplied></l>
+                 <l n="a"><lb n="1"/><supplied reason="lost" evidence="parallel">śubham</supplied> bhūyāj jinēndrāṇā<supplied reason="lost" evidence="parallel">ṁ</supplied></l>
                  <l n="b">śāsanāyāghanāśinē </l>
                  <l n="c">ku<supplied reason="lost" evidence="parallel">tīrttha</supplied>-dhvānta-saṁghāta</l>
-                 <l n="d" enjamb="yes">prabhinna-<supplied reason="lost" evidence="parallel">ghana-bhānavē</supplied> <supplied reason="lost"><g type="punctuation" ref="sym:doubleBar">.</g></supplied></l>
+                 <l n="d" enjamb="yes">-prabhinna-<supplied reason="lost" evidence="parallel">ghana-bhānavē</supplied> <supplied reason="lost"><g type="punctuation" ref="sym:doubleBar">.</g></supplied></l>
              </lg>
              
              <lg n="2" met="śārdūlavikrīḍita" xml:lang="san-Latn">
                 <l n="a">śrīmad-rāma-ma<supplied reason="lost">hīṁ</supplied><lb n="2" break="no"/>dra-datta-sakaḷa-kṣōṇī-vadhū-maṇḍanē</l> 
-                <l n="b">sākṣāt-kōkanadāsanēna sadṛśaṁ brahmātmajai-ssēvitē</l> 
+                <l n="b">sākṣāt kōkanadāsanēna sadṛśaṁ brahmātmajais sēvitē</l> 
                 <l n="c">śumbhat-tōyaja-nābha-pattana-nibhē <lb n="3"/> śrī-lokkiguṇḍyāhvayē</l>
                 <l n="d">jaina-sthānam acīkarad guṇa-nidhiḥ śrī-dāna-cintāmaṇiḥ <g type="punctuation" ref="sym:doubleBar">.</g></l>
              </lg>
              
              <lg n="3" met="upajāti" xml:lang="san-Latn">
                  <l n="a">cāḷukya-cakri-dhvajinīpa-mātrā</l>
-                 <l n="b" enjamb="yes">-samarppitaḥ kā <lb n="4" break="no"/> rita-jaina-gēhaḥ<gap reason="illegible" unit="character" quantity="1"/></l>
+                 <l n="b" enjamb="yes">samarppitaḥ kā <lb n="4" break="no"/> rita-jaina-gēhaḥ</l>
                  <l n="c">śrī-lokkiguṇḍyā<supplied reason="omitted">ḥ</supplied> paripāḷanārthaṁ</l> 
                  <l n="d">sahasra-saṁkhyeṣu dharāmarēṣu <g type="punctuation" ref="sym:doubleBar">.</g></l>
              </lg>
