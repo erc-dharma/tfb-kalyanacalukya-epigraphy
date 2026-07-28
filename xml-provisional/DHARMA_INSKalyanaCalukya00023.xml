@@ -12,7 +12,7 @@
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="creator">EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:sagu"><!-- Update the id -->
                         <forename>Samana</forename>
@@ -103,7 +103,7 @@
              
              <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
                  <l n="a"><lb n="1"/><supplied reason="lost" evidence="parallel">śubham</supplied> bhūyāj jinēndrāṇā<supplied reason="lost" evidence="parallel">ṁ</supplied></l>
-                 <l n="b">śāsanāyāghanāśinē </l>
+                 <l n="b">śāsanāyāgha-nāśinē </l>
                  <l n="c">ku<supplied reason="lost" evidence="parallel">tīrttha</supplied>-dhvānta-saṁghāta</l>
                  <l n="d" enjamb="yes">-prabhinna-<supplied reason="lost" evidence="parallel">ghana-bhānavē</supplied> <supplied reason="lost"><g type="punctuation" ref="sym:doubleBar">.</g></supplied></l>
              </lg>
