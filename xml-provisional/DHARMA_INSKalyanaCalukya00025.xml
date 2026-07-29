@@ -143,9 +143,9 @@
           <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="19"><!-- update the value of @loc.-->
-                     <lem>Rice provides this addition in his Roman transcription of the inscription. It does not appear in the Kannada transcription.</lem>
-                     <rdg source="bib:Rice1904_01"></rdg>
+                  <app><!-- update the value of @loc.-->
+                     <lem></lem>
+                     <rdg></rdg>
                   </app>
                </listApp>
          </div>
