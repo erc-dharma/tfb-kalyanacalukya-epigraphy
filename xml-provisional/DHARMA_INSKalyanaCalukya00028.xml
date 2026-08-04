@@ -57,7 +57,8 @@
                         <!-- don't modify this -->
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary>
+                        <summary>This inscription records the gift of an agrahāra by Rēvarasa, who was ruling the region of Medaku-300 from Ravipoḷ. In the Pramādi samvatsara, he renewed a previous grant made by Saṁkaragaṇḍa to the brāhman Pāmbalapāla Veṇṇayya in the Vr̥ṣabha samvatsara. 
+                            The inscription provides details of the donation and lists the witnesses and the executors, including the eight lords (prabhū), and one hundred mahājana.  </summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -102,21 +103,21 @@
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
               <p>
                   <milestone n="A" type="pagelike" unit="face"/>
-                  <lb n="1"/>svasti saka-nr<supplied reason="lost" evidence="previouseditor">̥pa-kā</supplied>
+                  <lb n="1"/>svasti saka-nr̥<supplied reason="lost" evidence="previouseditor">pa-kā</supplied>
                   <lb n="2" break="no"/>lātīta-saṁva<supplied reason="lost" evidence="previouseditor">tsara</supplied>
                   <lb n="3" break="no"/>-sataṁgaḷ· <supplied reason="lost" evidence="previouseditor">901</supplied>
-                  <lb n="4"/>ya pramā<supplied reason="lost" evidence="previouseditor">dīca saṁ</supplied>
+                  <lb n="4"/>ya pramā<supplied reason="lost" evidence="previouseditor">dī saṁ</supplied>
                   <lb n="5" break="no"/>vatsara br̥<supplied reason="lost" evidence="previouseditor">ha</supplied>
                   <lb n="6" break="no"/>spati mēṣa<supplied reason="lost" evidence="previouseditor">doḷ pra</supplied>
                   <lb n="7" break="no"/>varttisa tad-va
                   <lb n="8" break="no"/>rṣābhyantarada <supplied reason="lost" evidence="previouseditor">jēṣṭa</supplied>
-                  <lb n="9" break="no"/><supplied reason="lost" evidence="previouseditor">māsada</supplied> sudddhi tadigiya 
+                  <lb n="9" break="no"/><supplied reason="lost" evidence="previouseditor">māsada</supplied> suddhi tadigiya 
                   <lb n="10"/>budhavāram utta<supplied reason="lost" evidence="previouseditor">rā</supplied>
                   <lb n="11" break="no"/>yaṇad’ <choice><unclear>andu</unclear><unclear>anduṁ</unclear></choice></p> 
                   
               <p>sama
                   <lb n="12" break="no"/>sta-bhuvanāśraya
-                  <lb n="13" break="no"/>-śrī-<choice><unclear>pr̥</unclear><unclear>pra</unclear></choice><unclear></unclear>thvī-vallabha-ma
+                  <lb n="13" break="no"/>-śrī-<choice><unclear>pr̥</unclear><unclear>pra</unclear></choice>thvī-vallabha-ma
                   <lb n="14" break="no"/>hā-rājādhi-rāja-para
                   <lb n="15" break="no"/>mēṣvara-parama-bhaṭṭā
                   <lb n="16" break="no"/>rakaṁ cālukya-rāmaṁ
@@ -134,11 +135,11 @@
                   <lb n="26" break="no"/>-dhvaja-virājamānaṁ
                   
                   <milestone n="B" unit="face" type="pagelike"/>
-                  <lb n="27" break="no"/><supplied reason="lost" evidence="previouseditor">śau</supplied>ryya-diḷīpaṇa
+                  <lb n="27"/><supplied reason="lost" evidence="previouseditor">śau</supplied>ryya-diḷīpaṇa
                   <lb n="28"/><gap reason="lost" unit="character" quantity="1"/>sugaḷ āṇma-bhu
                   <lb n="29" break="no"/><supplied reason="lost" evidence="previouseditor">va</supplied>na-manōbhavaṁ tō
                   <lb n="30" break="no"/><supplied reason="lost" evidence="previouseditor">ya</supplied>-bal-gaṇḍaṁ rāja
-                  <lb n="31" break="no"/><supplied reason="lost" evidence="previouseditor">ruṁ</supplied> śrīmat· rēva<supplied reason="lost" evidence="previouseditor">ṇa</supplied>
+                  <lb n="31" break="no"/><supplied reason="lost" evidence="previouseditor">ruṁ</supplied> śrīmat· rēva<supplied reason="lost" evidence="previouseditor">ṇ' a</supplied>
                   <lb n="32" break="no"/><supplied reason="lost" evidence="previouseditor">ra</supplied>sara medaku mū
                   <lb n="33" break="no"/><supplied reason="lost" evidence="previouseditor">nū</supplied>ṟaṟa baḻi
                   <lb n="34" break="no"/><supplied reason="lost" evidence="previouseditor">ya</supplied> rāvipoḻala
@@ -147,7 +148,7 @@
                   <lb n="37" break="no"/><supplied reason="lost" evidence="previouseditor">d' ā</supplied>ḷuttire</p> 
               
               <p>Agrahā<supplied reason="lost" evidence="previouseditor">ra</supplied>
-                  <lb n="38"/><gap reason="lost" unit="character" quantity="1"/>pellūru vr̥tti
+                  <lb n="38"/><gap reason="lost" unit="character" quantity="1"/>vellūru vr̥tti
                   <lb n="39" break="no"/>-lōpageydaya
                   <lb n="40" break="no"/><supplied reason="lost" evidence="previouseditor">dhā</supplied>yadhaṁ para
                   <lb n="41" break="no"/>kivisi modaḷe E
@@ -173,18 +174,18 @@
                   <lb n="57" break="no"/><supplied reason="lost" evidence="previouseditor">buḷumillamigā</supplied>
                   <lb n="58" break="no"/><supplied reason="lost" evidence="previouseditor">na saṁ</supplied>vatsara<supplied reason="lost" evidence="previouseditor">diṁ tōṁṭṭa</supplied>
                   <lb n="59"/>pūrvvaṁ dattiṟ eyya
-                  <lb n="60" break="no"/>maṁ biṭṭaḷyacimu
+                  <lb n="60" break="no"/>maṁ biṭṭaḷāyacimu
                   <lb n="61" break="no"/>maṁtētte sukhabāṭdi
                   <lb n="62" break="no"/>riṁ tirikoṇḍarēgaḍu nā
-                  <lb n="63" break="no"/>ḍa Agrahāraṁ vemba
-                  <lb n="64" break="no"/>laveṭi veṇnaya vi
+                  <lb n="63" break="no"/>ḍa Agrahāraṁ pāmba
+                  <lb n="64" break="no"/>lapāḻi veṇnaya vi
                   <lb n="65" break="no"/>prōttara bhaṭṭaru dharmma
                   <lb n="66" break="no"/>goṭṭa Ādityayya
                   <lb n="67" break="no"/>vaṁgeya rēvaya-gā
                   <lb n="68" break="no"/>vuṇḍanuṁ tiḷḷa bāde
                   <lb n="69" break="no"/>yu gāvuṇḍanu rāvi
                   <lb n="70" break="no"/>volul· rāvivolu
-                  <lb n="71" break="no"/>la kuci-rājanu dō
+                  <lb n="71" break="no"/>la kūci-rājanu dō
                   <lb n="72" break="no"/>ppeligeya nārānayya
                   <lb n="73" break="no"/>nuṁ bījeyagāmi
                   <lb n="74" break="no"/>ya saṁkeya gāvuṇḍa
@@ -200,7 +201,7 @@
                   <lb n="82" break="no"/>da pāpam aku</p> 
               
               <p>Āha
-                  <lb n="83" break="no"/>vamalladēvar' āṇi
+                  <lb n="83" break="no"/>vamalla-dēvar' āṇi
                   
                   <milestone n="D" unit="face" type="pagelike"/>
                   <lb n="84" break="no"/>yaṁ mikkorappara
