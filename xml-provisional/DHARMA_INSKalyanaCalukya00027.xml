@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gaṅgāpuram Benakayya-guḍi Inscription of the Reign of Taila II, Śaka 895</title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:sagu"><!-- Update the id -->
+                        <forename>Samana</forename>
+                        <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Gururaja</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="creator">intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="part:sagu">
+                        <name></name> 
+                        
+                        <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                    </persName>
+                    
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSKalyanaCalukya00027.xml</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2023 by Samana
+                            Gururaja.</p>
+                        <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025"></date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary>This inscription was found at the Benakayya-guḍi near the Cennakeśava Temple in Gaṅgāpuram, Mahbubnagar Taluk and District in Telangana. The inscription 
+                        is engraved on three sides of a slab but the top has been lost, making the inscription incomplete. The date has been conjectured based on the incomplete details that remain, 
+                        the mention of Kalyāṇa Cālukya king Tailapa II, and the tenth-century paleography. It records the establishment of a Jaina temple and the consecration of an idol of
+                        Cenna Pārśvanātha by the senior jewel merchant, Kāliseṭṭi Tūbaḷa, and the gift of income from levies on commodities such as areca nut for the ritual fuctions of the temple.</summary>
+                        <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : movinng the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
+                template</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+          <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
+             <p>
+                 <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavya<choice><unclear>doḷanal</unclear><unclear>doḷ</unclear></choice>indu <gap reason="lost" extent="unknown"></gap>
+                 <lb n="2"/><gap reason="lost" quantity="1" unit="character"/>seṭṭi paramārtha vaḍeda puṇameni<choice><unclear>si tubā</unclear><unclear>svaruci</unclear></choice>
+                 <lb n="3"/>ya dānaman anavarataṁ naḍeyisidaṁ <gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">mā</supplied>ḍida<choice><unclear>m ayaṁ</unclear><unclear>vayiṁ</unclear></choice>
+                 <gap reason="illegible" unit="character" quantity="1"/>du 
+                 <lb n="4" break="no"/>m ādudu vismayam enesalu jina-<choice><orig>gri</orig><reg>gr̥</reg></choice>hamaṁ māḍisidaṁ pu<gap reason="illegible" unit="character" quantity="2"/>danavidō
+                 <lb n="5" break="no"/><choice><unclear>ḷte</unclear><unclear>diḷe</unclear></choice>nū <gap reason="illegible" unit="character" quantity="1"/> kāḷi-seṭṭi baḷḷaṁgoḷadoḷu <g type="punctuation" ref="sym:doubleBar">.</g></p>
+                
+             <p> Ā vibhuge kā <gap reason="illegible" unit="character" quantity="2"/> caula-dē
+                 <lb n="6" break="no"/>vi jagaj-jana-vinūtana-<gap reason="illegible" unit="character" quantity="2"/>-bhavita-bhūpādad' ira bhū-dēva-bā <gap reason="illegible" unit="character" quantity="3"/>
+                 <lb n="7"/>mā-dēvi tān enal udārita <gap reason="illegible" unit="character" quantity="2"/> jinan’ āptam nāyakīrti-dēva muni
+                 <lb n="8" break="no"/>paṁ rāddhānta cakrēśvaraṁ jinavaṁ <gap reason="illegible" unit="character" quantity="4"/> tataṁ śrī-kalidēva-śrēṣṭa-rāyaṁ
+                 <lb n="9"></lb>kīrtiy-aṁka-siṁhaṁ śruta <supplied reason="lost" evidence="previouseditor">tala-bhūpa</supplied> bhayavalu bhūsiradā <gap reason="illegible" unit="character" quantity="2"/>
+                 <lb n="10"/>di vrinda nidānaṁ vibhu<supplied reason="lost" evidence="previouseditor">kāḷa</supplied>-seṭṭiya <gap reason="illegible" unit="character" quantity="2"/> dhanyaṁ peṟar dhanyarē <g type="punctuation" ref="sym:doubleBar">.</g>
+             </p>
+
+             
+         </div>
+          
+          <div type="apparatus">
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="1">
+                     <lem>doḷ</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="2">
+                     <lem>svaruci</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                  </app>
+               </listApp>
+              
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="5">
+                     <lem>ḷte</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="5">
+                     <lem>de</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                  </app>
+               </listApp>
+
+
+
+              
+
+              
+         </div>
+          
+        <div type="translation">
+           
+                
+          </div>
+        
+          <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+      
+          <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>Encoded and re-edited from the estampage by Samana Gururaja</p>
+           <p>First edited in South Indian Inscriptions by <bibl n="D1958"><ptr target="bib:NarasimhaMurthy2022_01"/></bibl></p>   
+        	<listBibl type="primary">
+        	 <bibl n="D1958"><ptr target="bib:NarasimhaMurthy2022_01"/><citedRange unit="page">3-5</citedRange></bibl>  
+	</listBibl>
+       </div>
+      </body>
+  </text>
+</TEI>
+
+
+
+
+
+
+
