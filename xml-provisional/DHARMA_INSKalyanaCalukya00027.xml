@@ -105,12 +105,13 @@
       <body>
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
              <p>
-                 <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavya<choice><unclear>doḷanal</unclear><unclear>doḷ</unclear></choice>indu <gap reason="lost" extent="unknown"></gap>
-                 <lb n="2"/><gap reason="lost" quantity="1" unit="character"/>seṭṭi paramārtha vaḍeda puṇameni<choice><unclear>si tubā</unclear><unclear>svaruci</unclear></choice>
-                 <lb n="3"/>ya dānaman anavarataṁ naḍeyisidaṁ <gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">mā</supplied>ḍida<choice><unclear>m ayaṁ</unclear><unclear>vayiṁ</unclear></choice>
+                 <milestone n="A" unit="face"/>
+                 <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavyadoḷan alindu <gap reason="lost" extent="unknown"></gap>
+                 <lb n="2"/><gap reason="lost" quantity="1" unit="character"/>seṭṭi paramārtha vaḍeda puṇamenisi tubā
+                 <lb n="3"/>ya dānaman anavarataṁ naḍeyisidaṁ <gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">mā</supplied>ḍidam ayaṁ
                  <gap reason="illegible" unit="character" quantity="1"/>du 
                  <lb n="4" break="no"/>m ādudu vismayam enesalu jina-<choice><orig>gri</orig><reg>gr̥</reg></choice>hamaṁ māḍisidaṁ pu<gap reason="illegible" unit="character" quantity="2"/>danavidō
-                 <lb n="5" break="no"/><choice><unclear>ḷte</unclear><unclear>diḷe</unclear></choice>nū <gap reason="illegible" unit="character" quantity="1"/> kāḷi-seṭṭi baḷḷaṁgoḷadoḷu <g type="punctuation" ref="sym:doubleBar">.</g></p>
+                 <lb n="5" break="no"/>didēnū <gap reason="illegible" unit="character" quantity="1"/> kāḷi-seṭṭi baḷḷaṁgoḷadoḷu <g type="punctuation" ref="sym:doubleBar">.</g></p>
                 
              <p> Ā vibhuge kā <gap reason="illegible" unit="character" quantity="2"/> caula-dē
                  <lb n="6" break="no"/>vi jagaj-jana-vinūtana-<gap reason="illegible" unit="character" quantity="2"/>-bhavita-bhūpādad' ira bhū-dēva-bā <gap reason="illegible" unit="character" quantity="3"/>
@@ -119,6 +120,15 @@
                  <lb n="9"></lb>kīrtiy-aṁka-siṁhaṁ śruta <supplied reason="lost" evidence="previouseditor">tala-bhūpa</supplied> bhayavalu bhūsiradā <gap reason="illegible" unit="character" quantity="2"/>
                  <lb n="10"/>di vrinda nidānaṁ vibhu<supplied reason="lost" evidence="previouseditor">kāḷa</supplied>-seṭṭiya <gap reason="illegible" unit="character" quantity="2"/> dhanyaṁ peṟar dhanyarē <g type="punctuation" ref="sym:doubleBar">.</g>
              </p>
+              
+             <p>Eṁdū
+                 <lb n="11"/>varṇisuttire jagaṁ puṭṭidan agaṇya puṇyav ānuḷitavasurita gōtraṁ <g type="punctuation" ref="sym:doubleBar">.</g>
+                 <lb n="12" break="no"/>dranano<supplied reason="lost" evidence="previouseditor">ḷ</supplied> virat' a<supplied reason="lost" evidence="previouseditor">nvaya marjja</supplied>naṁga-nāḍ' udarar āda
+                 <lb n="13" break="no"/>n utpalan udāra<supplied reason="lost" evidence="previouseditor">kāḷapa-seṭṭi</supplied><gap reason="illegible" unit="character" quantity="4"/>gānaṁdade māḍisalke
+                 <lb n="14"/>bagedaṁ ke <gap reason="illegible" unit="character" quantity="8"/> daḍe divya-<choice><unclear>taragāvi</unclear><unclear>bhōgārtha</unclear></choice>
+                 <lb n="15"/>bhū-vaḷeyadoḷu <gap reason="illegible" unit="character" quantity="4"/>tā<supplied reason="lost" evidence="previouseditor">rama</supplied>ṁtaradol anāvidi                 
+                 <lb n="16" break="no"/>
+             </p>
 
              
          </div>
@@ -126,38 +136,78 @@
           <div type="apparatus">
               <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
-                     <lem>doḷ</lem>
-                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                     <lem>doḷana</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">doḷ</rdg>
                   </app>
                </listApp>
               
               <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="2">
-                     <lem>svaruci</lem>
-                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                     <lem>si tubā</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">svaruci</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="3">
+                     <lem>m ayaṁ</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">vayiṁ</rdg>
                   </app>
                </listApp>
               
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="5">
-                     <lem>ḷte</lem>
-                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                     <lem>didē</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">ḷte</rdg>
                   </app>
                </listApp>
               
               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="5">
-                     <lem>de</lem>
-                     <rdg source="bib:NarasimhaMurthy2022_01"/>
+                  <app loc="10">
+                     <lem>didē</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">ḷte</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="10">
+                     <lem>Eṁdū</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">Eṁ</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="11">
+                     <lem>ṁ <g type="punctuation" ref="sym:doubleBar">.</g></lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">niṁ</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="13">
+                     <lem>utpalan</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">utvaḷa</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="14">
+                     <lem>taragāvi</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">bhōgā(rtha)</rdg>
+                      <note>Narasimhamurthy employs both square and round brackets in his edition. Based on conjecture, the square brackets are to denote what is supplied while
+                      the round brackets indicate what is unclear in the reading.</note>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="15">
+                     <lem>ṁtaradol anāvidi</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">(pā)Usavirehi</rdg>
                   </app>
                </listApp>
 
 
-
-              
-
-              
-         </div>
+               </div>
           
         <div type="translation">
            
