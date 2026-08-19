@@ -127,8 +127,23 @@
                  <lb n="13" break="no"/>n utpalan udāra<supplied reason="lost" evidence="previouseditor">kāḷapa-seṭṭi</supplied><gap reason="illegible" unit="character" quantity="4"/>gānaṁdade māḍisalke
                  <lb n="14"/>bagedaṁ ke <gap reason="illegible" unit="character" quantity="8"/> daḍe divya-<choice><unclear>taragāvi</unclear><unclear>bhōgārtha</unclear></choice>
                  <lb n="15"/>bhū-vaḷeyadoḷu <gap reason="illegible" unit="character" quantity="4"/>tā<supplied reason="lost" evidence="previouseditor">rama</supplied>ṁtaradol anāvidi                 
-                 <lb n="16" break="no"/>
+                 <lb n="16" break="no"/>māppasunāhama <gap reason="illegible" unit="character" quantity="6"/> nādi kaṇgoḷikukapa
+                 <lb n="17" break="no"/>ranā<supplied reason="lost" evidence="previouseditor">dhadindrariṁda sāḷōparivājya</supplied>tālutadārdd' a
+                 <lb n="18" break="no"/>ppuda sūnasau <gap reason="lost" unit="character" quantity="4"></gap><supplied reason="lost" evidence="previouseditor">gō</supplied>puraṁ saṁtataṁ <g type="punctuation" ref="sym:doubleBar">.</g>
              </p>
+              
+              <p>na da 
+                  <lb n="19" break="no"/>dyōtkara paṁkaja-kararppa <gap reason="illegible" unit="character" quantity="5"/>dirppā vāṭadin udvānadi
+                  <lb n="20" break="no"/>dgha saraḷidan adō <gap reason="illegible" unit="character" quantity="3"/><supplied reason="lost" evidence="previouseditor">vikṣitri</supplied>dapinunandabaka
+                  <lb n="21" break="no"/>ḷikira daḷahāri <gap reason="illegible" unit="character" quantity="1"/>nā<gap reason="illegible" unit="character" quantity="3"/>sva
+                  <supplied reason="lost" evidence="previouseditor">ta</supplied>tadanāgēṣvādavaḥkṣē
+                  <lb n="22"/>tāmara-puraṁ gaṁgāpuraṁ <g type="punctuation" ref="sym:doubleBar">.</g>
+              </p>
+              
+              <p>dārayat kāmad' uddaṇḍanāyāma śrī
+                  <lb n="23"/>
+                  
+              </p>
 
              
          </div>
@@ -205,7 +220,34 @@
                      <rdg source="bib:NarasimhaMurthy2022_01">(pā)Usavirehi</rdg>
                   </app>
                </listApp>
-
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="16">
+                     <lem>māppasunāhama</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">māppsunṣahama</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="17">
+                     <lem>ārdda</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">ōrdda</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="21">
+                     <lem>ḷiki</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">ḷika</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="21">
+                     <lem>sva</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">dya</rdg>
+                  </app>
+               </listApp>
 
                </div>
           
