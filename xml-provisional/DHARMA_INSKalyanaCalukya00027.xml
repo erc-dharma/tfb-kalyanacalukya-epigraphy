@@ -141,7 +141,31 @@
               </p>
               
               <p>dārayat kāmad' uddaṇḍanāyāma śrī
-                  <lb n="23"/>
+                  <lb n="23"/>-ramya-hārmmya-chāru<gap reason="illegible" unit="character" quantity="1"/>dityāṁganā<gap reason="illegible" unit="character" quantity="4"/>saṁpadinu
+                  <gap reason="illegible" unit="character" quantity="3"/>samasta divasadā
+                  <lb n="24"/>niraṁgaḷiṁ dānam āvarggayānvēkādya <supplied reason="lost" evidence="previouseditor">kāḷādivana</supplied><gap reason="illegible" unit="character" quantity="3"/>ryyadayve
+                  <lb n="25"/>kaḷoṁ pada-paṁcēṟu<supplied reason="lost" evidence="previouseditor">ha vakṣa-saṁpadaṁ</supplied><gap reason="illegible" unit="character" quantity="3"/>ṇimana
+                  <gap reason="illegible" unit="character" quantity="3"/>kaddi<gap reason="illegible" unit="character" quantity="3"/>
+                  <lb n="26" break="no"/>ddiṁ palakālada pratimāṇiyyādipadi habbada bā
+                  <lb n="27" break="no"/>ra latikādātraṁ caḷukyānvayam ābhyudayan udāmaldā jārā
+                  <lb n="28" break="no"/>dri-hāra-hāsa-svarṇādhikāṟi saṁpada-kīrtti pramadādi nārā<gap reason="illegible" unit="character" quantity="2"/>
+                  <lb n="29" break="no"/>ḷum pukilāpaṁ tailapaṁ<gap reason="illegible" unit="character" quantity="3"/>nitinudidarvaṁ mārakārege
+                  <lb n="30" break="no"/>ṇi karṇaḷikalāvaṇam enisidd’ ā vibhutala-pradavaṁ janādrapattāre ja
+                  <lb n="31" break="no"/>n allaṁ baḷiya bāḷakuḷam aṁḍanaṁ ka<gap reason="illegible" unit="character" quantity="3"/>dvayaraṇa
+                  <lb n="32"/>subrā-jana tākṣilōlanaradayabhyudayā <gap reason="illegible" unit="character" quantity="7"/>
+                  <lb n="33" break="no"/>varu <gap reason="illegible" unit="character" quantity="6"/>madrā <gap reason="illegible" unit="character" quantity="1"/>yū<gap reason="illegible" unit="character" quantity="7"/>
+              </p>
+              
+              <p><milestone n="B" unit="face"/>
+                  <lb n="34"/><gap reason="illegible" unit="character" quantity="11"/>
+                  <lb n="35"/><gap reason="illegible" unit="character" quantity="6"/>nisida tapaṁ
+                  <lb n="36"/><gap reason="illegible" unit="character" quantity="4"/>samanilla tamage
+                  <lb n="37"/>kāvya-kaḷā catura caturmmukha
+                  <lb n="38" break="no"/>nti kṣitiyoḷe naya-kīrtti-dē
+                  <lb n="39" break="no"/>va-munipaṁ negaḻda <g type="punctuation" ref="sym:doubleBar">.</g>
+              </p>
+              
+              <p>amarādiya
                   
               </p>
 
@@ -246,6 +270,20 @@
                   <app loc="21">
                      <lem>sva</lem>
                      <rdg source="bib:NarasimhaMurthy2022_01">dya</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="23">
+                     <lem>chāru<gap reason="illegible" unit="character" quantity="1"/> dityāṁganā</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">chāyādi divyāṁganā</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="27">
+                     <lem>jārā</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">jāḻā</rdg>
                   </app>
                </listApp>
 
