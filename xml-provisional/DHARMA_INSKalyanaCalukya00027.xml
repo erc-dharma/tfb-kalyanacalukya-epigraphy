@@ -156,7 +156,8 @@
                   <lb n="33" break="no"/>varu <gap reason="illegible" unit="character" quantity="6"/>madrā <gap reason="illegible" unit="character" quantity="1"/>yū<gap reason="illegible" unit="character" quantity="7"/>
               </p>
               
-              <p><milestone n="B" unit="face"/>
+              <p>
+                  <milestone n="B" unit="face"/>
                   <lb n="34"/><gap reason="illegible" unit="character" quantity="11"/>
                   <lb n="35"/><gap reason="illegible" unit="character" quantity="6"/>nisida tapaṁ
                   <lb n="36"/><gap reason="illegible" unit="character" quantity="4"/>samanilla tamage
@@ -187,7 +188,8 @@
                   <lb n="56" break="no"/>ni goṁḍāntadāntadoḷu <g type="punctuation" ref="sym:doubleBar">.</g>
               </p>
               
-              <p><milestone n="C" unit="face"/>
+              <p>
+                  <milestone n="C" unit="face"/>
                   <lb n="57"/>mukhaṁ samvatsarada phālguna su
                   <lb n="58" break="no"/>haspati vārad’ aṁd’ uttarāyaṅa <supplied reason="lost" evidence="previouseditor">saṁkrā</supplied>
                   <lb n="59" break="no"/>nti nimittavāgi śrīman-mahā-vaḍḍa-vyava<supplied reason="lost" evidence="previouseditor">hā</supplied>
