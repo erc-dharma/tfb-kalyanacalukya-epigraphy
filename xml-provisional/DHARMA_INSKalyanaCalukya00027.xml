@@ -165,7 +165,54 @@
                   <lb n="39" break="no"/>va-munipaṁ negaḻda <g type="punctuation" ref="sym:doubleBar">.</g>
               </p>
               
-              <p>amarādiya
+              <p>amarādiyā
+                  <lb n="40" break="no"/>ge sanmunanivakāhāra dānamaṁ jinapaṁ
+                  <lb n="42"/>bōstsavamuṁ salenelōntiral avā
+                  <lb n="43" break="no"/>ryya-śauryy' app' arāṁgan-ārati dū
+                  <lb n="44" break="no"/><supplied reason="lost" evidence="previouseditor">rūra</supplied>vitaraṇanidigoḷu saraṇā
+                  <lb n="45" break="no"/>gata-rakṣaṇa-dakṣaranritadūramā
+                  <lb n="46"/>krita-kali-kālakaḷaṁka-krita-kri
+                  <lb n="47" break="no"/>tyarnnara pulilōyiṁḍaya
+                  <lb n="48" break="no"/>ru <g type="punctuation" ref="sym:doubleBar">.</g>
+              </p>
+              
+              <p>idhanintī kramadiṁ
+                  <lb n="49" break="no"/>ba pāḷisuveṁbargge hikāva
+                  <lb n="50" break="no"/>trikābhyudayaṁ niścaya
+                  <lb n="51" break="no"/>kk' urvamādijanuttigamma
+                  <lb n="52" break="no"/>maṁ kaṁḍu kāydu durātmaka
+                  <lb n="53" break="no"/>disalumanaṁdare mahā
+                  <lb n="54" break="no"/>pāpakke pakkāni baḷadirappa
+                  <lb n="55"/>trakaḷatra mitranivahānvi
+                  <lb n="56" break="no"/>ni goṁḍāntadāntadoḷu <g type="punctuation" ref="sym:doubleBar">.</g>
+              </p>
+              
+              <p><milestone n="C" unit="face"/>
+                  <lb n="57"/>mukhaṁ samvatsarada phālguna su
+                  <lb n="58" break="no"/>haspati vārad’ aṁd’ uttarāyaṅa <supplied reason="lost" evidence="previouseditor">saṁkrā</supplied>
+                  <lb n="59" break="no"/>nti nimittavāgi śrīman-mahā-vaḍḍa-vyava<supplied reason="lost" evidence="previouseditor">hā</supplied>
+                  <lb n="60" break="no"/>ri tūbāḷa maṇigāṟa kāḷi<supplied reason="lost" evidence="previouseditor">se</supplied>
+                  <lb n="61" break="no"/>ṭṭiyaru pratiṣṭṭheyaṁ māḍida srīmacenna
+                  <lb n="62"/>pārśva-nāthavar aṁgabhōga-nivēdya-pūja
+                  <lb n="63"/>punaskārak’ ā caṁdr’ ārkka tāraṁbaraṁ naḍe
+                  <lb n="64" break="no"/>vant’ āgi biṭṭayya Ettina Aḍakeya heṟige Aḍake 20
+                  <lb n="65"/>Aḍakeya kōṇana kabbe mādara Aḍake 20 kattoyva aḍakeya ka
+                  <lb n="66"/>vyaduḍake aḍa 10 Aḍakeya tale javaḷakke Aḍake 5 vr̥tti
+                  <lb n="67"/><supplied reason="lost" evidence="previouseditor">ḷubha</supplied>kōṇana meḷasina hēṟiṁge kabbeg’ uḍukevoḷ sāgi
+                  <lb n="68" break="no"/>da sūlage 1 kattiya meḷasina kabbeg’ aḍakke Adaṟ’ arddha
+                  <lb n="69"/><gap reason="illegible" unit="character" quantity="2"/>sina ravē javaḷakke aṁtadaṟarddha Ettina maḷavige
+                  <lb n="70"/><gap reason="illegible" unit="character" quantity="2"/>1 kattiya maḷave capasāli alējavakke hāga
+                  <lb n="71" break="no"/><supplied reason="lost" evidence="previouseditor">sūra</supplied>diṁ jīrage Eleya nāga meḷasinopādiya nū
+                  <lb n="72" break="no"/>r-ppatti gaṁdesigaṁ talaṁdiy' āgi suṁkad’ adhikārigaḷge
+                  <lb n="73"/>tiṁgaḷige paṇa 1 <g type="punctuation" ref="sym:doubleBar">.</g>aḍḍa karmmadadhikārigaḷu tiṁgaḷiṁge
+                  <lb n="74"/>haṇa 1
+              </p>
+              
+              <p>Intī dharmmamaṁ prati-pālḷisid’ avaru śrī-vāraṇāsi
+                  <lb n="75" break="no"/>yalu sāvira kavileyaṁ sāvira bhrāhmaṇarige koṭṭa pha
+                  <lb n="76" break="no"/>lam akku kādharmma mēlādanvuke bājanaru Ā vāraṇāsiya
+                  <lb n="77" break="no"/>lu sāyira kavileyaṁ sāyira bhrāhmaṇarddaṁ <choice><unclear>kā</unclear><unclear>sā</unclear></choice>la
+                  <lb n="78" break="no"/>mmaṁ <supplied reason="lost" evidence="previouseditor">kōnda</supplied> pāpaman eydaru <g type="punctuation" ref="sym:doubleBar">.</g>
                   
               </p>
 
@@ -284,6 +331,27 @@
                   <app loc="27">
                      <lem>jārā</lem>
                      <rdg source="bib:NarasimhaMurthy2022_01">jāḻā</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="40">
+                     <lem>sanmunani</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">sanmuni</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="43">
+                     <lem>śauryy' app' arāṁgan-ārati</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">śauryya parāṁganārati</rdg>
+                  </app>
+               </listApp>
+              
+              <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="62">
+                     <lem>pārśvad' avar</lem>
+                     <rdg source="bib:NarasimhaMurthy2022_01">pārśva-nāthavar</rdg>
                   </app>
                </listApp>
 
