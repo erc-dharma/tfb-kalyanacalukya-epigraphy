@@ -203,7 +203,7 @@
       
           <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Re-edited here by Samana Gururaja from edition in <bibl n="DVP2005"><ptr target="bib:Paramasivamurti2005"/><citedRange unit="page">103-105</citedRange></bibl></p>
+           <p>Re-edited here by Samana Gururaja from estampage image provided by the Archaeological Survey of India, Mysuru</p>
         	<listBibl type="primary">
         	 <bibl n="DVP2005"><ptr target="bib:Paramasivamurti2005"/><citedRange unit="page">103-105</citedRange></bibl>  
             <bibl n="B1921"><ptr target="bib:Nagayya2011"/><citedRange unit="page"></citedRange></bibl>
