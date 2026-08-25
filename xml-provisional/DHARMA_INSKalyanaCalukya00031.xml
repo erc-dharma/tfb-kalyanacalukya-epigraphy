@@ -127,10 +127,10 @@
               </p>
                   
               <lg n="1" met="campakamālā">
-                      <l n="a"><supplied reason="lost" evidence="parallel">jina-pada-paṁkaja-bhramara</supplied><lb n="13"/>raneṁbatanepaṁ negaḻteyan ānta mallapa</l>
-                      <l n="b" enjamb="yes">yyana negaḻd’ appa<supplied reason="lost" evidence="parallel">ya magaḷ śacivōttaman appa dhalla<lb n="14" break="no"/>ppa</supplied></l>
-                      <l n="c" enjamb="yes">yana sose nāgadēvana <choice><sic>kaḷāṁgane</sic><corr>kuḷāṁgane</corr></choice> tailana tāy jasakke<supplied reason="lost" evidence="parallel">bhā</supplied></l>
-                      <l n="d" enjamb="yes"><supplied reason="lost" evidence="parallel">janam enim attimabbe jina</supplied><lb n="15"/>-śāsanamaṁ beḷaguttam iṟdapaḷ <g type="punctuation" ref="sym:doubleBar">.</g></l>
+                   <l n="a"><supplied reason="lost" evidence="parallel">jina-pada-paṁkaja-bhramara</supplied><lb n="13"/>ran eṁba negaḻteyan ānta mallapa</l>
+                   <l n="b" enjamb="yes">yyana negaḻd’ appa<supplied reason="lost" evidence="parallel">ya magaḷ śacivōttaman appa dhalla<lb n="14" break="no"/>ppa</supplied></l>
+                   <l n="c" enjamb="yes">yana sose nāgadēvana <choice><sic>kaḷāṁgane</sic><corr>kuḷāṁgane</corr></choice> tailana tāy jasakke<supplied reason="lost" evidence="parallel">bhā</supplied></l>
+                   <l n="d" enjamb="yes"><supplied reason="lost" evidence="parallel">janam enim attimabbe jina</supplied><lb n="15"/>-śāsanamaṁ beḷaguttam iṟdapaḷ <g type="punctuation" ref="sym:doubleBar">.</g></l>
               </lg>
               
               <p>intu jina-dharmma-patākeyuṁ <supplied reason="lost" evidence="previouseditor">kaṭaka</supplied><supplied reason="lost" evidence="parallel">-pavitreyum</supplied><gap reason="lost" unit="character" quantity="2"/> 
@@ -188,7 +188,18 @@
              
          </div>
           
-        <div type="apparatus"></div>  
+        <div type="apparatus">
+            <listApp>
+                <app loc="13">
+                    <lem>ran eṁba</lem>
+                    <rdg source="bib:Paramasivamurti2005">tanepaṁ</rdg>
+                    <note>I have reconstructed this verse based on its appearance in both Ranna's Ajitapurāṇam and the Lakkuṇḍi Inscription. The characters for "ra" and "ta" are
+                    very similar as are "ba" and "pa" which I think accounts for Paramaśivamūrti's reading.</note>
+                </app>
+            </listApp>
+            
+        </div>
+         
           
           
           
