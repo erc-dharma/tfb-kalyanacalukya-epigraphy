@@ -24,7 +24,7 @@
                     <resp key="creator">intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="part:sagu">
-                        <name></name> 
+                        <name/> 
                         
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
@@ -48,7 +48,7 @@
                         <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
-                <date from="2019" to="2025"></date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -106,7 +106,7 @@
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
              <p>
                  <milestone n="A" unit="face"/>
-                 <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavyadoḷan alindu <gap reason="lost" extent="unknown"></gap>
+                 <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavyadoḷan alindu <gap reason="lost" extent="unknown"/>
                  <lb n="2"/><gap reason="lost" quantity="1" unit="character"/>seṭṭi paramārtha vaḍeda puṇamenisi tubā
                  <lb n="3"/>ya dānaman anavarataṁ naḍeyisidaṁ <gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">mā</supplied>ḍidam ayaṁ
                  <gap reason="illegible" unit="character" quantity="1"/>du 
@@ -117,7 +117,7 @@
                  <lb n="6" break="no"/>vi jagaj-jana-vinūtana-<gap reason="illegible" unit="character" quantity="2"/>-bhavita-bhūpādad' ira bhū-dēva-bā <gap reason="illegible" unit="character" quantity="3"/>
                  <lb n="7"/>mā-dēvi tān enal udārita <gap reason="illegible" unit="character" quantity="2"/> jinan’ āptam nāyakīrti-dēva muni
                  <lb n="8" break="no"/>paṁ rāddhānta cakrēśvaraṁ jinavaṁ <gap reason="illegible" unit="character" quantity="4"/> tataṁ śrī-kalidēva-śrēṣṭa-rāyaṁ
-                 <lb n="9"></lb>kīrtiy-aṁka-siṁhaṁ śruta <supplied reason="lost" evidence="previouseditor">tala-bhūpa</supplied> bhayavalu bhūsiradā <gap reason="illegible" unit="character" quantity="2"/>
+                 <lb n="9"/>kīrtiy-aṁka-siṁhaṁ śruta <supplied reason="lost" evidence="previouseditor">tala-bhūpa</supplied> bhayavalu bhūsiradā <gap reason="illegible" unit="character" quantity="2"/>
                  <lb n="10"/>di vrinda nidānaṁ vibhu<supplied reason="lost" evidence="previouseditor">kāḷa</supplied>-seṭṭiya <gap reason="illegible" unit="character" quantity="2"/> dhanyaṁ peṟar dhanyarē <g type="punctuation" ref="sym:doubleBar">.</g>
              </p>
               
@@ -129,7 +129,7 @@
                  <lb n="15"/>bhū-vaḷeyadoḷu <gap reason="illegible" unit="character" quantity="4"/>tā<supplied reason="lost" evidence="previouseditor">rama</supplied>ṁtaradol anāvidi                 
                  <lb n="16" break="no"/>māppasunāhama <gap reason="illegible" unit="character" quantity="6"/> nādi kaṇgoḷikukapa
                  <lb n="17" break="no"/>ranā<supplied reason="lost" evidence="previouseditor">dhadindrariṁda sāḷōparivājya</supplied>tālutadārdd' a
-                 <lb n="18" break="no"/>ppuda sūnasau <gap reason="lost" unit="character" quantity="4"></gap><supplied reason="lost" evidence="previouseditor">gō</supplied>puraṁ saṁtataṁ <g type="punctuation" ref="sym:doubleBar">.</g>
+                 <lb n="18" break="no"/>ppuda sūnasau <gap reason="lost" unit="character" quantity="4"/><supplied reason="lost" evidence="previouseditor">gō</supplied>puraṁ saṁtataṁ <g type="punctuation" ref="sym:doubleBar">.</g>
              </p>
               
               <p>na da 

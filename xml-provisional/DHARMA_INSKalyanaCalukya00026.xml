@@ -24,7 +24,7 @@
                     <resp key="creator">intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="part:sagu">
-                    <name></name> 
+                    <name/> 
                         
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
@@ -48,7 +48,7 @@
                         <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
-                <date from="2019" to="2025"></date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -130,7 +130,7 @@
                 <lb n="9" break="no"/>śyapa-gōtra-pavitrar appa rē<supplied reason="lost" evidence="previouseditor">va</supplied> ya-dvēdi caṭṭōpādhyāya sōmayājiyaru modeyanūraṁ <supplied reason="lost" evidence="previouseditor">sarva</supplied>-namasyav’ āgi paḍedu
                 <lb n="10"/>mahāvidvāṁsar app’ ippadiṁbaru brāhmaṇarge kālaṁ karcchi dhārā-pūrvakaṁ māḍi koṭṭu ūru naḍeva traipuruṣadēvaraṁ prati
                 <lb n="11" break="no"/>ṣṭhā māḍi dēvatā-bhavanamaṁ nirmmisi khaṁḍa-sphuṭita-jīrṇōddhārakkaṁ dēvar’ aṁga-bhōgakkaṁ naivēdyakkaṁ nandā-dīvigegaṁ <choice><sic>prā</sic><corr>pra</corr></choice>bhāka
-                <lb n="12" break="no"/>ra-bhaṭṭa-<choice><orig>vri</orig><reg>vr̥</reg></choice>ttigaṁ pūjāriya jīvitakkaṁ tammū<choice><orig>ra</orig><reg>ro</reg></choice>ḍetanada daśa <gap reason="lost" unit="character" quantity="7" precision="low"></gap> 
+                <lb n="12" break="no"/>ra-bhaṭṭa-<choice><orig>vri</orig><reg>vr̥</reg></choice>ttigaṁ pūjāriya jīvitakkaṁ tammū<choice><orig>ra</orig><reg>ro</reg></choice>ḍetanada daśa <gap reason="lost" unit="character" quantity="7" precision="low"/> 
                     gadyāṇa mūṟu bhaṭṭa<choice><orig>vri</orig><reg>vr̥</reg></choice>ttige nareyaṁ
                 <lb n="13"/>galla baṭṭeyiṁ mū<supplied reason="lost" evidence="previouseditor">ḍa ki</supplied>ṟidaṁtara mattaru mūṟu <gap reason="lost" unit="character" quantity="5" precision="low"/>paḍuva kiṟidantaradal ā mānyadoḷage mattaru Irppa
                 <lb n="14" break="no"/>tta Ēḷu mārakabbeya tumbiṁdaṁ paḍuvalu mānyadoḷa <gap reason="lost" unit="character" extent="unknown"/> lommān eṇne
@@ -166,7 +166,7 @@
               
            <p>svasti samasta-bhuvanāśraya<supplied reason="lost" evidence="parallel">-śrī-pr̥thvī-vallabhaṁ  mahārājādhirājaṁ</supplied> paramēśvara-parama-bhaṭṭā
                <lb n="27" break="no"/>rakaṁ satyāśraya<supplied reason="lost" evidence="parallel">-kuḷa-tiḷakaṁ cāḷukyābharaṇaṁ</supplied>  śrīmat· sarvajña-bhūlōkamalla-dēvar akhila
-               <lb n="28"></lb>-jaḷa-nidhi mēkhalālaṁ<choice><orig>kri</orig><reg>kr̥</reg></choice>ta-mahī-maṁḍaḷaman ēka-cchatra<supplied reason="lost" evidence="previouseditor">diṁdāḷuttaṁ kalyāṇapurada nelevīḍinoḷu</supplied> sukha-samkathā-vinō
+               <lb n="28"/>-jaḷa-nidhi mēkhalālaṁ<choice><orig>kri</orig><reg>kr̥</reg></choice>ta-mahī-maṁḍaḷaman ēka-cchatra<supplied reason="lost" evidence="previouseditor">diṁdāḷuttaṁ kalyāṇapurada nelevīḍinoḷu</supplied> sukha-samkathā-vinō
                <lb n="29" break="no"/>dadiṁ rājyaṁgeyyuttam iral eḍedoṟey ircchāsirada baḷiya <supplied reason="lost" evidence="previouseditor">keḷavāḍi mūnūṟakkaṁ tiḷakada</supplied>ppantirippaggad agrahāraṁ modeya
                <lb n="30" break="no"/>nūra dentendaḍe <g type="symbol" ref="sym:doubleBar">.</g> <gap reason="lost" unit="character" extent="unknown"/>
            </p>
@@ -198,7 +198,7 @@
             <lb n="70"/>saumya saṁvatsarada <supplied reason="lost" evidence="previouseditor">māgha su 1</supplied> <gap reason="lost" unit="character" extent="unknown"/>
         </p>
               
-        <gap reason="lost" unit="line" quantity="5"></gap>
+        <gap reason="lost" unit="line" quantity="5"/>
 
              
          </div>
