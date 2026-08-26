@@ -24,7 +24,7 @@
                     <resp key="creator">intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="part:sagu">
-                        <name></name> 
+                        <name/> 
                         
                         <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                     </persName>
@@ -47,7 +47,7 @@
                         <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
-                <date from="2019" to="2025"></date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -264,18 +264,18 @@
                   
                    <app loc="32"><!-- update the value of @loc.-->
                      <lem>ḷa<g type="punctuation" ref="sym:doubleBar">.</g>ṟa</lem>
-                     <rdg source="bib:Sreenivasachar+Desai1961"></rdg>
+                     <rdg source="bib:Sreenivasachar+Desai1961"/>
                       <note>I have included Nāgayya's reading in the edition as it's unclear what the several editorial markups in 1961 edition mean</note>
                   </app>
                    
                   <app loc="39">
                       <lem>ḍiggirge</lem>
-                      <rdg source="bib:Sreenivasachar+Desai1961"></rdg>
+                      <rdg source="bib:Sreenivasachar+Desai1961"/>
                   </app>
                    
                    <app loc="62">
                        <lem>The 1961 edition ends here</lem>
-                       <rdg source="bib:Sreenivasachar+Desai1961"></rdg>
+                       <rdg source="bib:Sreenivasachar+Desai1961"/>
                        
                    </app>
                    
