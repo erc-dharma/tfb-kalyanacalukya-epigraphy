@@ -105,7 +105,7 @@
       <body>
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
              <p>
-                 <milestone n="A" unit="face"/>
+                 <milestone n="A" type="pagelike" unit="face"/>
                  <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavyadoḷan alindu <gap reason="lost" extent="unknown"/>
                  <lb n="2"/><gap reason="lost" quantity="1" unit="character"/>seṭṭi paramārtha vaḍeda puṇamenisi tubā
                  <lb n="3"/>ya dānaman anavarataṁ naḍeyisidaṁ <gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">mā</supplied>ḍidam ayaṁ
@@ -157,7 +157,7 @@
               </p>
               
               <p>
-                  <milestone n="B" unit="face"/>
+                  <milestone n="B" type="pagelike" unit="face"/>
                   <lb n="34"/><gap reason="illegible" unit="character" quantity="11"/>
                   <lb n="35"/><gap reason="illegible" unit="character" quantity="6"/>nisida tapaṁ
                   <lb n="36"/><gap reason="illegible" unit="character" quantity="4"/>samanilla tamage
@@ -189,7 +189,7 @@
               </p>
               
               <p>
-                  <milestone n="C" unit="face"/>
+                  <milestone n="C" type="pagelike" unit="face"/>
                   <lb n="57"/>mukhaṁ samvatsarada phālguna su
                   <lb n="58" break="no"/>haspati vārad’ aṁd’ uttarāyaṅa <supplied reason="lost" evidence="previouseditor">saṁkrā</supplied>
                   <lb n="59" break="no"/>nti nimittavāgi śrīman-mahā-vaḍḍa-vyava<supplied reason="lost" evidence="previouseditor">hā</supplied>
