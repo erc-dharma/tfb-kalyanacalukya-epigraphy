@@ -105,10 +105,10 @@
               
               <p>
                   <milestone type="pagelike" n="A" unit="face"/>
-                  <lb n="1"/>svasti sakava<choice><orig>ri</orig><reg>r̥</reg></choice>
+                  <lb n="1"/>svasti <choice><orig>saka</orig><reg>śaka</reg></choice>va<choice><orig>ri</orig><reg>r̥</reg></choice>
                   <lb n="2" break="no"/>ṣa 909 sarvvaji
                   <lb n="3" break="no"/>t· saṁvatsarada
-                  <lb n="4"/>kārttika suddha pa
+                  <lb n="4"/>kārttika-<choice><orig>suddha</orig><reg>śuddha</reg></choice>-pa
                   <lb n="5" break="no"/>ñcamiyu sōma
                   <lb n="6" break="no"/>vārad’ andu śrī-<choice><orig>prithi</orig><reg>pr̥th</reg></choice>
                   <lb n="7" break="no"/>vī-vallabha-mahā
@@ -161,7 +161,7 @@
           <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 
-           <p>Re-edited here by Samana Gururaja from the editions, with reference to an unclear photograph of the estampage of the second face in <bibl n="RMR2001"><ptr target="bib:Ramalakshman+Murthy+Row2001"/><citedRange unit="page">11-12</citedRange></bibl> p. 12a</p>
+           <p>Encoded by Samana Gururaja from the below cited editions</p>
         	<listBibl type="primary">
         	 <bibl n="S1992"><ptr target="bib:Sastry1992_01"/><citedRange unit="page">5-6</citedRange></bibl>  
             <bibl n="B1921"><ptr target="bib:Nagayya2011"/><citedRange unit="page">34-35</citedRange></bibl>
