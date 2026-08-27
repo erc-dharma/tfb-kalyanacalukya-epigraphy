@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fragmentary Inscrption at Talagunda of the Reign of Taila II</title>
+                <title>Fragmentary Inscription at Talaguṇḍa of the Reign of Taila II</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -57,9 +57,8 @@
                         <!-- don't modify this -->
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary>This inscription is engraved onto two sides of a stone set up in front of the Jaina temple at Kolanupaka. According to the editors, the numerical date could be either Śaka 909 or 969. The Kalyāṇa Cālukya king mentioned is Āhavamalla, 
-                            an epithet used for both Taila II (r. 973-996) and Sōmēśvara I (r. 1044-1068), meaning that this inscription could be dated to either reign. It records the grant made by several bodies including the <foreign>aṟuvaru</foreign>, <foreign>seṭṭiyaru</foreign> (merchants), “the five hundred” and “the twenty.”
-                        </summary>
+                        <summary>This inscription, tentatively dated to 980 C.E. (for undefined reasons) by B.L. Rice identifies a subordinate of Āhavamalla or Taila II who was son of Iṟivabeḍaṁga a receiver of the blessing of Cāmuṇḍa, and ruler of the Banavāsi 12000 and another territory of which the name has been lost. 
+                            The inscription contains the beginning of an introduction to his subordinate, but cuts off there. The stone fragment on which the inscription is engraved was found north east of the Praṇavēśvara temple.</summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -103,10 +102,22 @@
       <body>
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
               
-              
-              
-             
-             
+              <p>
+                  <lb n="1"/>vanāśraya <gap reason="undefined" extent="unknown"/>
+                  <lb n="2" break="no"/>śvara-parama<gap reason="undefined" extent="unknown"/>
+                  <lb n="3" break="no"/><supplied reason="lost" evidence="parallel">kyā</supplied>-bharaṇa<gap reason="undefined" extent="unknown"/>malla-dēva<gap reason="undefined" extent="unknown"/>
+                  <lb n="4" break="no"/>m uttarō<supplied reason="lost" evidence="parallel">ttarā</supplied>bhivr̥ddhi salutt’ ire sva<supplied reason="lost" evidence="parallel">sti</supplied><gap reason="undefined" extent="unknown"/>
+                  <lb n="5" break="no"/>ñca-mahā-śabda-mahā-maṇḍalēśvara <gap reason="undefined" extent="unknown"/>
+                  <lb n="6"/>-varēśvaraṁ cāmuṇḍā-labdha-vara-prasā<gap reason="undefined" extent="unknown"/>
+                  <lb n="7" break="no"/>ri-nāmāḍi-samasta-praśasti-sa<gap reason="undefined" extent="unknown"/>
+                  <lb n="8" break="no"/>d’ iṟiva-beḍaṁga-dēvara magaṁ śrī<gap reason="undefined" extent="unknown"/>
+                  <lb n="9" break="no"/>rasar bbanavāsi pannir-cchāsira<gap reason="undefined" extent="unknown"/>
+                  <lb n="10"/>sāsiramumaṁ sukha-saṁka<gap reason="undefined" extent="unknown"/>
+                  <lb n="11" break="no"/>ttamire tat-pāda-padmōpajī<gap reason="undefined" extent="unknown"/>
+                  <lb n="12"/>paryyantaṁ banavāsiyū
+                  <gap reason="lost" unit="line" extent="unknown"></gap>
+              </p>
+
          </div>
           
         <div type="apparatus">
@@ -117,9 +128,11 @@
           
           
           
-        <div type="translation">
-           
-                
+        <div type="translation" source="bib:Rice1902_01">
+            
+            <p n="1-4">When, (with the usual Cālukya titles), Āhavamalla-dēva’s victorious kingdom was extending on all sides, to continue as long as the sun, moon, and stars: –</p> 
+            <p n="5-12">And, entitled to the five big drums, the mahāmaṇḍalēśvara, boon-lord of…., 
+            obtainer of a boon from Cāmuṇḍa, – with these and all other titles, Iriva-beḍaṁga’s son….rasa was ruling the Banavāsi Twelve Thousand in peace and wisdom:-- a dweller at his lotus feet…</p> 
           </div>
         
           <div type="commentary">
@@ -129,9 +142,9 @@
           <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 
-           <p>Encoded by Samana Gururaja from the below cited editions</p>
+           <p>Encoded by Samana Gururaja from the below cited editions, specifically the Kannada transcription in <ptr target="bib:Rice1902_01"/></p>
         	<listBibl type="primary">
-        	 <bibl n="R1992"><ptr target="bib:Rice1902_01"/><citedRange unit="part">3</citedRange><citedRange unit="page"></citedRange></bibl>  
+        	 <bibl n="R1992"><ptr target="bib:Rice1902_01"/><citedRange unit="part">3</citedRange><citedRange unit="page">273</citedRange></bibl>  
             <bibl n="B1921"><ptr target="bib:Nagayya2011"/><citedRange unit="page">39-40</citedRange></bibl>
 	</listBibl>
        </div>
