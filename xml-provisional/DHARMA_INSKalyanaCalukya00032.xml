@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kolanupāka Basadi Inscription of the reign of Taila II, Śaka 909</title>
+                <title>Fragmentary Inscrption at Talagunda of the Reign of Taila II</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -103,39 +103,7 @@
       <body>
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
               
-              <p>
-                  <milestone type="pagelike" n="A" unit="face"/>
-                  <lb n="1"/>svasti <choice><orig>saka</orig><reg>śaka</reg></choice>va<choice><orig>ri</orig><reg>r̥</reg></choice>
-                  <lb n="2" break="no"/>ṣa 909 sarvvaji
-                  <lb n="3" break="no"/>t· saṁvatsarada
-                  <lb n="4"/>kārttika-<choice><orig>suddha</orig><reg>śuddha</reg></choice>-pa
-                  <lb n="5" break="no"/>ñcamiyu sōma
-                  <lb n="6" break="no"/>vārad’ andu śrī-<choice><orig>prithi</orig><reg>pr̥th</reg></choice>
-                  <lb n="7" break="no"/>vī-vallabha-mahā
-                  <lb n="8" break="no"/>-rājādhi-rāja-para
-                  <lb n="9" break="no"/>mēśvara-parama-bha
-                  <lb n="10" break="no"/>ṭṭārakaṁ cāḷukyā-bha
-                  <lb n="11" break="no"/>raṇaṁ śrīmad-āhava
-                  
-                  <milestone type="pagelike" n="A" unit="face"/>
-                  <lb n="12" break="no"/>malla dēva
-                  <lb n="13"/><gap reason="undefined" extent="unknown"/>sukha-saṁkathā
-                  <lb n="14"/>-vinōdadiṁ <choice><orig>pri</orig><reg>pr̥</reg></choice>thvī-rājyaṁ
-                  <lb n="15"/>geyyutt’ iral 
-              </p>
               
-              <p>aṟu
-                  <lb n="16" break="no"/>varu seṭṭiyar’ aynū
-                  <lb n="17" break="no"/>ṟa<gap reason="undefined" extent="unknown"/>ppadimbaru
-                  <lb n="18"/>garamubariyā
-                  <lb n="19" break="no"/>ṟagedavaṇayava
-                  <lb n="20" break="no"/>n ā candrārkka-tāraṁ
-                  <lb n="21" break="no"/>baraṁ salve koṭṭar idaṁ ki
-                  <lb n="22" break="no"/>ḍisidavaṁ prayāga
-                  <lb n="23" break="no"/>yu bāraṇāsiyu
-                  <lb n="24"/>sāsira kavile<gap reason="undefined" extent="unknown"/>
-                  <lb n="25"/><gap reason="undefined" extent="unknown"/>sira
-              </p>
               
              
              
@@ -163,8 +131,8 @@
 
            <p>Encoded by Samana Gururaja from the below cited editions</p>
         	<listBibl type="primary">
-        	 <bibl n="S1992"><ptr target="bib:Sastry1992_01"/><citedRange unit="page">5-6</citedRange></bibl>  
-            <bibl n="B1921"><ptr target="bib:Nagayya2011"/><citedRange unit="page">34-35</citedRange></bibl>
+        	 <bibl n="R1992"><ptr target="bib:Rice1902_01"/><citedRange unit="part">3</citedRange><citedRange unit="page"></citedRange></bibl>  
+            <bibl n="B1921"><ptr target="bib:Nagayya2011"/><citedRange unit="page">39-40</citedRange></bibl>
 	</listBibl>
        </div>
       </body>
