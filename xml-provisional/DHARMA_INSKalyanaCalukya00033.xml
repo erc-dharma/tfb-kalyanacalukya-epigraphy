@@ -57,7 +57,7 @@
                         <!-- don't modify this -->
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary</summary>
+                        <summary></summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
@@ -131,8 +131,8 @@
               <lg n="3" met="mahāsragdharā">
                   <l n="a"><g type="symbol" ref="sym:spiral-right">.</g>dharaṇēndrēhiśvaraṁ mānava-bhava-nuta-bhū-lōkamaṁ nōrppen end’ ā</l>
                   <l n="b">daradiṁ ta<lb n="11" break="no"/>t-sainyamaṁ piṁtirisi vaniteyuṁ tānum ād’ akkaṟiṁdam</l>
-                  <l n="c">bare gar<choice><orig>bhbha</orig><reg>bbha</reg></choice>ṁ tōṟe tad-vallabhege paḍed’ ahiccha<lb n="12" break="no"/>tradoḷu puṭṭidaṁ</l>
-                  <l n="d">bhāsura-tējōdbhāsi siṁdhū-nadiya kuṟuvadoḷu siṁdan eṁba kumāra <g type="punctuation" ref="sym:doubleBar">.</g></l>
+                  <l n="c">bare gar<choice><orig>bhbha</orig><reg>bbha</reg></choice>ṁ tōṟe tad-vallabhege paḍed’ ahiccha<lb n="12" break="no"/>tradoḷu puṭṭidaṁ bhā</l>
+                  <l n="d">sura-tējōdbhāsi siṁdhū-nadiya kuṟuvadoḷu siṁdan eṁba kumāra <g type="punctuation" ref="sym:doubleBar">.</g></l>
               </lg>
               
               
@@ -150,6 +150,7 @@
                 </app>
             </listApp>
             
+                       
             
         </div>
          
