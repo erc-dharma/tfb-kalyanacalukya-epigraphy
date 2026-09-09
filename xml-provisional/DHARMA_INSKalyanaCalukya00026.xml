@@ -30,7 +30,7 @@
                     </persName>
    
                 </respStmt>
-            </titleStmt>
+            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
@@ -77,9 +77,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
+            
             <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>

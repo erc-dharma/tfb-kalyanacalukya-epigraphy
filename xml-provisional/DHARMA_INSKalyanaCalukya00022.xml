@@ -22,7 +22,7 @@
                     <resp key="creator">intellectual authorship of edition</resp>
                     <persName>Samana Gururaja</persName>                  
                 </respStmt>
-            </titleStmt>
+            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Berlin</pubPlace>
