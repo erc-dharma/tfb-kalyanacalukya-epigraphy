@@ -66,20 +66,20 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
 <p>
-    <lb n="2"/><g ref="sym:spiral-left" type="symbol">*</g>Samasta-bhuvan'āśraya śrī-pr̥thvī-vallabha ma
+    <lb n="2"/><g ref="sym:spiral-left" type="symbol">*</g>Samasta-bhuvan'<!--emfr: such apostrophe should be consistently deleted; dharma does not mark vowel sandhi-->āśraya śrī-pr̥thvī-vallabha ma
     <lb n="3"/>hārāj'ādhirāja paramēśvara paramabhaṭṭārakam satyāśraya-kuḷa-tiḷakaṁ cāḷuky'ābharaṇaṁ 
     <lb n="4"/>śrīmat-tribhuvanamalla-vallabhaṁ<g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     <lg n="2" met="sragdharā" xml:lang="kan-Latn">
         <l n="a">svasti śrīmac-cāḷuky'ānvaya-gagana-sudhā-rōciy' ā <lb n="5"/>namna-bhībhr̥n</l>
-        <l n="b">masta-nyast' āṁghri-padmaṁ nr̥ga-naḷa-nahuṣ'ādy'ādi-bhūpāḷa-lilā</l>
+        <l n="b">masta-nyast' āṁghri-padmaṁ nr̥ga-naḷa-nahuṣ'ādy-ādi-bhūpāḷa-lilā</l>
         <l n="c">vistīrṇṇ'ātma-prabhāvaṁ<lb n="6"/>vimaḷa-nija-yaśō-vallarī-vyāpta-dikpā</l>
         <l n="d">ḷa-stōmaṁ mūrtti-nārāyaṇan ene negarddaṁ vikramāditya-dēvaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     <lg n="3" met="campakamālā" xml:lang="kan-Latn">
         <l n="a"><lb n="7"/>Ida<choice><orig>ḍ</orig><reg>r</reg></choice>ina cōḷikaṁ kaḷake vārane lāḷana līle dūraṁ ā</l>
         <l n="b">dudu maleparkkaḍaṁgi tale-dōṟade kōṁ<lb n="8"/>kaṇam ellam ebja-pa</l>
-        <l n="c">tra<choice><orig>ḍ</orig><reg>d</reg></choice>a jaḷad' ante saṁcaḷisuttirppuvu mattin arātiḡ̣ligo</l>
+        <l n="c">tra<choice><orig>ḍ</orig><reg>d</reg></choice>a jaḷad ante saṁcaḷisuttirppuvu mattin arātiḡ̣ligo</l>
         <l n="d">ṭṭida soḍal ante naṁdidudu <lb n="9"/> vikraman intir aniṁdya-vikramaṁ</l>
     </lg>
     <lg n="4" met="kanda" xml:lang="kan-Latn">
@@ -107,7 +107,7 @@
     </lg>
     <p>
         Ant' enisi negardda śrīmat-piriy' a<lb n="23"/>rasi lakṣmā-dēviyar kalyāṇa-nele-viḍinoḷ sukha-saṁkathā-vinōdadiṁ rājyaṁ geyyu
-        <lb n="24"/>ttam irddu śrīmac-cāḷukya-vikrama-varṣa 9neya raktākṣi-saṁvatsarada puṣya-bahu
+        <lb n="24"/>ttam irddu śrīmac-cāḷukya-vikrama-varṣa <hi rend="check">9</hi>neya raktākṣi-saṁvatsarada puṣya-bahu
         <lb n="25"/>la-navami maṁgaḷa-vāradoḷ āduttarāyaṇ-<choice><orig>ś</orig><reg>s</reg></choice>aṁkrānti-nimittaṁ svasti yama-niyama-svadhyā
         <lb n="26"/>ya-dhyāna-dhāraṇa-m<choice><orig>ō</orig><reg>au</reg></choice>n' ānuṣṭhā<choice><orig>ṇ</orig><reg>n</reg></choice>a-japa-samādhi-śila-saṁpannaruṁ śrīmad-rājadhāni
         <lb n="27"/>sūṇḍiy ācalēśvarada sōmēśvara-paṇḍita-dēvargge alliya tapōdhanar āhāra-dānakkaṁ vidyā
