@@ -104,17 +104,17 @@
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
              <p>
                  <milestone n="A" type="pagelike" unit="face"/>
-                 <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavyadoḷan alindu <gap reason="lost" extent="unknown"/>
+                 <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>puṭṭi bhavyadoḷ ānalindu <gap reason="lost" extent="unknown"/>
                  <lb n="2"/><gap reason="lost" quantity="1" unit="character"/>seṭṭi paramārtha vaḍeda puṇamenisi tubā
-                 <lb n="3"/>ya dānaman anavarataṁ naḍeyisidaṁ <gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">mā</supplied>ḍidam ayaṁ
+                 <lb n="3"/>ya dānaman anarataṁ naḍeyisidaṁ <gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">mā</supplied>ḍidam ayaṁ
                  <gap reason="illegible" unit="character" quantity="1"/>du 
-                 <lb n="4" break="no"/>m ādudu vismayam enesalu jina-<choice><orig>gri</orig><reg>gr̥</reg></choice>hamaṁ māḍisidaṁ pu<gap reason="illegible" unit="character" quantity="2"/>danavidō
+                 <lb n="4" break="no"/>m ādudu vismayaman enalu jina-<choice><orig>gri</orig><reg>gr̥</reg></choice>hamaṁ māḍisidaṁ pu<gap reason="illegible" unit="character" quantity="2"/>danavidō
                  <lb n="5" break="no"/>didēnū <gap reason="illegible" unit="character" quantity="1"/> kāḷi-seṭṭi baḷḷaṁgoḷadoḷu <g type="punctuation" ref="sym:doubleBar">.</g></p>
                 
              <p> Ā vibhuge kā <gap reason="illegible" unit="character" quantity="2"/> caula-dē
                  <lb n="6" break="no"/>vi jagaj-jana-vinūtana-<gap reason="illegible" unit="character" quantity="2"/>-bhavita-bhūpādad' ira bhū-dēva-bā <gap reason="illegible" unit="character" quantity="3"/>
-                 <lb n="7"/>mā-dēvi tān enal udārita <gap reason="illegible" unit="character" quantity="2"/> jinan’ āptam nāyakīrti-dēva muni
-                 <lb n="8" break="no"/>paṁ rāddhānta cakrēśvaraṁ jinavaṁ <gap reason="illegible" unit="character" quantity="4"/> tataṁ śrī-kalidēva-śrēṣṭa-rāyaṁ
+                 <lb n="7"/>mā-dēvi tān enal udārita <gap reason="illegible" unit="character" quantity="2"/> jinan’ āptam nayakīrti-dēva muni
+                 <lb n="8" break="no"/>paṁ-rāddhānta-cakrēśvaraṁ jinavaṁ <gap reason="illegible" unit="character" quantity="4"/> tataṁ śrī-kalidēva-śrēṣṭi-rāyaṁ
                  <lb n="9"/>kīrtiy-aṁka-siṁhaṁ śruta <supplied reason="lost" evidence="previouseditor">tala-bhūpa</supplied> bhayavalu bhūsiradā <gap reason="illegible" unit="character" quantity="2"/>
                  <lb n="10"/>di vrinda nidānaṁ vibhu<supplied reason="lost" evidence="previouseditor">kāḷa</supplied>-seṭṭiya <gap reason="illegible" unit="character" quantity="2"/> dhanyaṁ peṟar dhanyarē <g type="punctuation" ref="sym:doubleBar">.</g>
              </p>
@@ -123,7 +123,7 @@
                  <lb n="11"/>varṇisuttire jagaṁ puṭṭidan agaṇya puṇyav ānuḷitavasurita gōtraṁ <g type="punctuation" ref="sym:doubleBar">.</g>
                  <lb n="12" break="no"/>dranano<supplied reason="lost" evidence="previouseditor">ḷ</supplied> virat' a<supplied reason="lost" evidence="previouseditor">nvaya marjja</supplied>naṁga-nāḍ' udarar āda
                  <lb n="13" break="no"/>n utpalan udāra<supplied reason="lost" evidence="previouseditor">kāḷapa-seṭṭi</supplied><gap reason="illegible" unit="character" quantity="4"/>gānaṁdade māḍisalke
-                 <lb n="14"/>bagedaṁ ke <gap reason="illegible" unit="character" quantity="8"/> daḍe divya-<choice><unclear>taragāvi</unclear><unclear>bhōgārtha</unclear></choice>
+                 <lb n="14"/>bagedaṁ kere<gap reason="illegible" unit="character" quantity="7"/> daḍe divya-<choice><unclear>taragāvi</unclear><unclear>bhōgārtha</unclear></choice>
                  <lb n="15"/>bhū-vaḷeyadoḷu <gap reason="illegible" unit="character" quantity="4"/>tā<supplied reason="lost" evidence="previouseditor">rama</supplied>ṁtaradol anāvidi                 
                  <lb n="16" break="no"/>māppasunāhama <gap reason="illegible" unit="character" quantity="6"/> nādi kaṇgoḷikukapa
                  <lb n="17" break="no"/>ranā<supplied reason="lost" evidence="previouseditor">dhadindrariṁda sāḷōparivājya</supplied>tālutadārdd' a
@@ -222,7 +222,7 @@
           <div type="apparatus">
               <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
-                     <lem>doḷana</lem>
+                     <lem>doḷāna</lem>
                      <rdg source="bib:NarasimhaMurthy2022_01">doḷ</rdg>
                   </app>
                </listApp>
