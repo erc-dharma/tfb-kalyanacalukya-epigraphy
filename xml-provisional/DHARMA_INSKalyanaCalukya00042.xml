@@ -58,7 +58,8 @@
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
                         <summary>
-                            
+                            This inscription records the endowment of a Jaina temple by Attimabbe at Lakkundi. The available contents of the inscription seem to mirror those of INSKalyanaCalukya00023, which strongly indicates that that inscription is a copy of this one. 
+                            This inscription was found in four incomplete fragments which contain a very limited amount of the original text. 
                         </summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
@@ -102,132 +103,132 @@
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
               <div type="textpart" subtype="fragment" n="A">
                       <p>
-                          <lb n="1"/>mahīndra-datta-sakala-kṣōṇi-vadhū-maṇḍane <g type="punctuation" ref="sym:bar"></g> sākṣā
-                          <lb n="2"/>na-nibhī srī-lokkiguṇḍyāḥvaye jaina sthāna
-                          <lb n="3"/>mātrā samarppitaḥ kārita jaina-gēhaḥ
+                          <lb n="1"/><gap reason="lost" extent="unknown"/>mahīndra-datta-sakala-kṣōṇi-vadhū-maṇḍane <g type="punctuation" ref="sym:bar"></g> sākṣā<gap reason="lost" extent="unknown"/>
+                          <lb n="2"/><gap reason="lost" extent="unknown"/>na-nibhī srī-lokkiguṇḍyāḥvaye jaina sthāna<gap reason="lost" extent="unknown"/>
+                          <lb n="3"/><gap reason="lost" extent="unknown"/>mātrā samarppitaḥ kārita jaina-gēhaḥ<gap reason="lost" extent="unknown"/>
                       </p>
                       
                       <p>
-                          <lb n="4"/><g type="symbol" ref="sym:floret">.</g>svasti-samasta-bhuvanāśraya-śrī-pr̥thvī-valla
-                          <lb n="5"/>ṭṭāraka-satyāśraya-kula-tiḷaka-cāḷukyā
-                          <lb n="6"/>jyam uttarōttarābhivr̥ddhige saluttam ire
+                          <lb n="4"/><gap reason="lost" extent="unknown"/><g type="symbol" ref="sym:floret">.</g>svasti-samasta-bhuvanāśraya-śrī-pr̥thvī-valla<gap reason="lost" extent="unknown"/>
+                          <lb n="5"/><gap reason="lost" extent="unknown"/>ṭṭāraka-satyāśraya-kula-tiḷaka-cāḷukyā<gap reason="lost" extent="unknown"/>
+                          <lb n="6"/><gap reason="lost" extent="unknown"/>jyam uttarōttarābhivr̥ddhige saluttam ire
                       </p> 
                           
-                      <p>tat-pāda pa
-                          <lb n="7"/>maṁtrākṣa-paṭalādhipatiyum enisi <g type="punctuation" ref="sym:doubleBar">.</g></p> 
+                      <p>tat-pāda pa<gap reason="lost" extent="unknown"/>
+                          <lb n="7"/><gap reason="lost" extent="unknown"/>maṁtrākṣa-paṭalādhipatiyum enisi <g type="punctuation" ref="sym:doubleBar">.</g></p> 
                           
                       <ab>kaṁda <g type="punctuation" ref="sym:doubleBar">.</g> </ab>
                           
-                      <p>mallā
-                          <lb n="8"/><gap reason="lost" unit="character" quantity="1"/>d' āhavalammana bhujā<supplied reason="lost" evidence="parallel">daṇḍa</supplied>m enisi dhallaṁ negaḻdaṁ
-                          <lb n="9"/><gap reason="lost" unit="character" quantity="3"/><supplied reason="lost" evidence="previouseditor">kaṇam er</supplied>diy’ i<supplied reason="lost" evidence="previouseditor">kki</supplied> beṁgi beṟagage tivuḻn' ella
-                          <lb n="10"/><gap reason="lost" unit="character" quantity="5"/>mati-raudram adbhutama
+                      <p>mallā<gap reason="lost" extent="unknown"/>
+                          <lb n="8"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="1"/>d' āhavalammana bhujā<supplied reason="lost" evidence="parallel">daṇḍa</supplied>m enisi dhallaṁ negaḻdaṁ<gap reason="lost" extent="unknown"/>
+                          <lb n="9"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="3"/><supplied reason="lost" evidence="previouseditor">kaṇam er</supplied>diy’ i<supplied reason="lost" evidence="previouseditor">kki</supplied> beṁgi beṟagage tivuḻn' ella<gap reason="lost" extent="unknown"/>
+                          <lb n="10"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="5"/>mati-raudram adbhutam a<gap reason="lost" extent="unknown"/>
                       </p>
               </div>
               
               <div type="textpart" subtype="fragment" n="B">
                   <p>
-                      <lb n="1"/>dal urkke dha<gap reason="lost" unit="character" quantity="11" precision="low"/>
-                      <lb n="2"/>havamallaṁgaṁ bhēdam uṁṭe vibhavadoḷ adan ēne
-                      <lb n="3"/>bhēdaṁ <g type="punctuation" ref="sym:doubleBar">.</g>
+                      <lb n="1"/><gap reason="lost" extent="unknown"/>dal urkke dha<gap reason="lost" unit="character" quantity="11" precision="low"/><gap reason="lost" extent="unknown"/>
+                      <lb n="2"/><gap reason="lost" extent="unknown"/>havamallaṁgaṁ bhēdam uṁṭe vibhavadoḷ adan ēne<gap reason="lost" extent="unknown"/>
+                      <lb n="3"/><gap reason="lost" extent="unknown"/>bhēdaṁ <g type="punctuation" ref="sym:doubleBar">.</g>
                   </p>
                   
                   <ab>vacanaṁ <g type="punctuation" ref="sym:doubleBar">.</g></ab>
                   
-                  <p>Antu maṇdaḷasiddhiyuṁ vivēka
-                      <lb n="4"/>kṣameyuṁ muḷisum mitraroḷ amitraroḷ sa
-                      <lb n="5"/>ṇḍa mahārṇnavam enisi nāgadēvaṁ negaḻdaṁ vr̥
-                      <lb n="6"/><gap reason="lost" unit="character" quantity="1"/>ṇājiradoḷ kaurava-sēneyan tuḻidu geld' ā
-                      <lb n="7"/><gap reason="lost" unit="character" quantity="1"/>aṁ vitsaradiṁ bhāvisuv' āgaḷē samarakoḷ gaṇḍaraṁ gaṇḍa
-                      <lb n="8"/>nanni mahārṇnavanuṁ kanduka purandaranuṁm enisuva
-                      <lb n="9"/>yoḷ andhranaṁ piḍidapeṁ magadhēśanan ikki meṭṭipeṁ
-                      <lb n="10"/>ḷikkipeṁ maleva pāṇḍyanan āhavamalla dēvaniṁ pē<gap reason="lost" unit="character" quantity="1"/> 
+                  <p>Antu maṇdaḷasiddhiyuṁ vivēka<gap reason="lost" extent="unknown"/>
+                      <lb n="4"/><gap reason="lost" extent="unknown"/>kṣameyuṁ muḷisum mitraroḷ amitraroḷ sa<gap reason="lost" extent="unknown"/>
+                      <lb n="5"/><gap reason="lost" extent="unknown"/>ṇḍa mahārṇnavam enisi nāgadēvaṁ negaḻdaṁ vr̥<gap reason="lost" extent="unknown"/>
+                      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="1"/>ṇājiradoḷ kaurava-sēneyan tuḻidu geld' ā<gap reason="lost" extent="unknown"/>
+                      <lb n="7"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="1"/>aṁ vitsaradiṁ bhāvisuv' āgaḷē samarakoḷ gaṇḍaraṁ gaṇḍa<gap reason="lost" extent="unknown"/>
+                      <lb n="8"/><gap reason="lost" extent="unknown"/>nanni mahārṇnavanuṁ kanduka purandaranuṁm enisuva<gap reason="lost" extent="unknown"/>
+                      <lb n="9"/><gap reason="lost" extent="unknown"/>yoḷ andhranaṁ piḍidapeṁ magadhēśanan ikki meṭṭipeṁ<gap reason="lost" extent="unknown"/>
+                      <lb n="10"/><gap reason="lost" extent="unknown"/>ḷikkipeṁ maleva pāṇḍyanan āhavamalla dēvaniṁ pē<gap reason="lost" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/> 
                   </p>
                   
                   <p>
-                      <lb n="11"/><supplied reason="lost" evidence="previouseditor">dē</supplied>va-kula-gagana-gabhasti-māḷige mahāsatī
-                      <lb n="12"/><supplied reason="lost" evidence="previouseditor">kā</supplied>madhēnuvuṁ kaṭaka-pavitrey<gap reason="lost" unit="character" quantity="3"/>
-                      <lb n="13"/>prabhāvamē doretene <g type="punctuation" ref="sym:doubleBar">.</g>
+                      <lb n="11"/><gap reason="lost" extent="unknown"/><supplied reason="lost" evidence="previouseditor">dē</supplied>va-kula-gagana-gabhasti-māḷige mahāsatī<gap reason="lost" extent="unknown"/>
+                      <lb n="12"/><gap reason="lost" extent="unknown"/><supplied reason="lost" evidence="previouseditor">kā</supplied>madhēnuvuṁ kaṭaka-pavitrey<gap reason="lost" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+                      <lb n="13"/><gap reason="lost" extent="unknown"/>prabhāvamē doretene <g type="punctuation" ref="sym:doubleBar">.</g>
                   </p>
                   
-                  <ab>v</ab> 
+                  <ab>v</ab><gap reason="lost" extent="unknown"/> 
               </div>
               
               <div type="textpart" subtype="fragment" n="C">
-                  <ab><lb n="1"/><gap reason="lost" unit="character" quantity="13"/>ji</ab>
+                  <ab><lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="13"/>ji</ab><gap reason="lost" extent="unknown"/>
                   
-                  <ab><lb n="2"/>vr̥ttaṁ <g type="punctuation" ref="sym:doubleBar">.</g></ab>
+                  <ab><lb n="2"/><gap reason="lost" extent="unknown"/>vr̥ttaṁ <g type="punctuation" ref="sym:doubleBar">.</g></ab>
                   
-                  <p>jinapadapaṁ
-                      <lb n="3"/>bbaya magaḷ sacivottaman appa dha
-                      <lb n="4"/>sakke bhājanam enip’ attimabbe jina-śā
-                      <lb n="5"/>di suṣēṇe-samaṁ śiva<supplied reason="lost" evidence="parallel">dē</supplied>vi-pāṭi lakṣmaṇe
-                      <lb n="6"/>sari satyabhāme-toṇe mikka sulōcane
-                      <lb n="7"/>kārttiyoḷ <g type="punctuation" ref="sym:doubleBar">.</g>   
+                  <p>jinapadapaṁ<gap reason="lost" extent="unknown"/>
+                      <lb n="3"/><gap reason="lost" extent="unknown"/>bbaya magaḷ sacivottaman appa dha<gap reason="lost" extent="unknown"/>
+                      <lb n="4"/><gap reason="lost" extent="unknown"/>sakke bhājanam enip’ attimabbe jina-śā<gap reason="lost" extent="unknown"/>
+                      <lb n="5"/><gap reason="lost" extent="unknown"/>di suṣēṇe-samaṁ śiva<supplied reason="lost" evidence="parallel">dē</supplied>vi-pāṭi lakṣmaṇe<gap reason="lost" extent="unknown"/>
+                      <lb n="6"/><gap reason="lost" extent="unknown"/>sari satyabhāme-toṇe mikka sulōcane<gap reason="lost" extent="unknown"/>
+                      <lb n="7"/><gap reason="lost" extent="unknown"/>kārttiyoḷ <g type="punctuation" ref="sym:doubleBar">.</g>   
                   </p>
                   
                   <ab>kandaṁ <g type="punctuation" ref="sym:doubleBar">.</g></ab>
                   
-                  <p>Ā paramēśvarige
-                      <lb n="8"/>gra-vijaya-srī-patiyene dharege negaḻda paḍava
-                      <lb n="9"/>ye būdiya boṭṭu gaṇdamātugibagi kīrtti kuppa
-                      <lb n="10"/><supplied reason="lost" evidence="previouseditor">sau</supplied>caguṇam attiya-paṇn enip' eḍa puṇḍaraṁ tegaḻvudu
-                      <lb n="11"/>na <g type="punctuation" ref="sym:doubleBar">.</g>
+                  <p>Ā paramēśvarige<gap reason="lost" extent="unknown"/>
+                      <lb n="8"/><gap reason="lost" extent="unknown"/>gra-vijaya-srī-patiyene dharege negaḻda paḍava<gap reason="lost" extent="unknown"/>
+                      <lb n="9"/><gap reason="lost" extent="unknown"/>ye būdiya boṭṭu gaṇdamātugibagi kīrtti kuppa<gap reason="lost" extent="unknown"/>
+                      <lb n="10"/><gap reason="lost" extent="unknown"/><supplied reason="lost" evidence="previouseditor">sau</supplied>caguṇam attiya-paṇn enip' eḍa puṇḍaraṁ tegaḻvudu<gap reason="lost" extent="unknown"/>
+                      <lb n="11"/><gap reason="lost" extent="unknown"/>na <g type="punctuation" ref="sym:doubleBar">.</g>
                   </p>
                   
                   <ab>vacanaṁ <g type="punctuation" ref="sym:doubleBar">.</g></ab>
                   
-                  <p>Intu nanninārāyaṇaṁ samyaktva
-                      <lb n="12"/><gap reason="lost" unit="character" quantity="1"/>karpūra-<choice><orig>variṣaṁ</orig><reg>varṣaṁ</reg></choice> catura-caturānanaṁ guṇa-mē
-                      <lb n="13"/><milestone n="C" type="gridlike" unit="fragment"/><gap reason="lost" unit="character" quantity="1"/>g-vadhudhamellamāḷey enisi śrīmad-vaḍevaḷḷa<milestone n="D" type="gridlike" unit="fragment"/><supplied reason="lost" evidence="previouseditor">taila</supplied>payyaṁ māsa
-                      <lb n="14"/><milestone n="C" type="gridlike" unit="fragment"/>nālvattumaṁ bīḻavṛttiyuman āḷuttam ire <g type="punctuation" ref="sym:bar">.</g>
+                  <p>Intu nanninārāyaṇaṁ samyaktva<gap reason="lost" extent="unknown"/>
+                      <lb n="12"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="1"/>karpūra-<choice><orig>variṣaṁ</orig><reg>varṣaṁ</reg></choice> catura-caturānanaṁ guṇa-mē<gap reason="lost" extent="unknown"/>
+                      <lb n="13"/><milestone n="C" type="gridlike" unit="fragment"/><gap reason="lost" extent="unknown"/><gap reason="lost" unit="character" quantity="1"/>g-vadhudhamellamāḷey enisi śrīmad-vaḍevaḷḷa<milestone n="D" type="gridlike" unit="fragment"/><supplied reason="lost" evidence="previouseditor">taila</supplied>payyaṁ māsa<gap reason="lost" extent="unknown"/>
+                      <lb n="14"/><milestone n="C" type="gridlike" unit="fragment"/><gap reason="lost" extent="unknown"/>nālvattumaṁ bīḻavṛttiyuman āḷuttam ire <g type="punctuation" ref="sym:bar">.</g>
                   </p>
                   
                   <ab>vṛttaṁ <supplied reason="lost" evidence="parallel"><g type="punctuation" ref="sym:doubleBar">.</g></supplied></ab>
                   
-                  <p><milestone n="D" type="gridlike" unit="fragment"/>paramaśrī-jinanātha
-                      <lb n="15"/><milestone n="C" type="gridlike" unit="fragment"/>ndōha-bhūsura-jaina-pratimā-vicitra-maṇi<milestone n="D" type="gridlike" unit="fragment"/>-ghaṁṭā-māḷikā-saṁkhye sā
-                      <lb n="16"/><milestone n="C" type="gridlike" unit="fragment"/>yevēṟ enipanaṁ nirmmāpaṇaṁ geydu bhūbharadoḷ <milestone n="D" type="gridlike" unit="fragment"/>dharmmaman attiyabbe
-                      <lb n="17"/><milestone n="C" type="gridlike" unit="fragment"/>r· <g type="punctuation" ref="sym:doubleBar">.</g>
+                  <p><milestone n="D" type="gridlike" unit="fragment"/>paramaśrī-jinanātha<gap reason="lost" extent="unknown"/>
+                      <lb n="15"/><gap reason="lost" extent="unknown"/><milestone n="C" type="gridlike" unit="fragment"/>ndōha-bhūsura-jaina-pratimā-vicitra-maṇi<milestone n="D" type="gridlike" unit="fragment"/>-ghaṁṭā-māḷikā-saṁkhye sā<gap reason="lost" extent="unknown"/>
+                      <lb n="16"/><milestone n="C" type="gridlike" unit="fragment"/><gap reason="lost" extent="unknown"/>yevēṟ enipanaṁ nirmmāpaṇaṁ geydu bhūbharadoḷ <milestone n="D" type="gridlike" unit="fragment"/>dharmmaman attiyabbe<gap reason="lost" extent="unknown"/>
+                      <lb n="17"/><gap reason="lost" extent="unknown"/><milestone n="C" type="gridlike" unit="fragment"/>r· <g type="punctuation" ref="sym:doubleBar">.</g>
                   </p>
                   
                   <ab>vacanaṁ <g type="punctuation" ref="sym:doubleBar">.</g></ab>
                   
-                  <p>Ā pavitra-caritra-śāḷi<milestone n="D" type="gridlike" unit="fragment"/>niy enisuva dānaci
-                      <lb n="18"/><milestone n="C" type="gridlike" unit="fragment"/>yānantaraṁ śrīmad-ā<supplied reason="lost" evidence="parallel">hava</supplied><milestone n="D" type="gridlike" unit="fragment"/>malla-dēvaṁge biṁnapaṁ ge
-                      <lb n="19"/>sāsanamaṁ paḍedu <g type="punctuation" ref="sym:bar">.</g> 
+                  <p>Ā pavitra-caritra-śāḷi<milestone n="D" type="gridlike" unit="fragment"/>niy enisuva dānaci<gap reason="lost" extent="unknown"/>
+                      <lb n="18"/><milestone n="C" type="gridlike" unit="fragment"/><gap reason="lost" extent="unknown"/>yānantaraṁ śrīmad-ā<supplied reason="lost" evidence="parallel">hava</supplied><milestone n="D" type="gridlike" unit="fragment"/>malla-dēvaṁge biṁnapaṁ ge<gap reason="lost" extent="unknown"/>
+                      <lb n="19"/><gap reason="lost" extent="unknown"/>śāsanamaṁ paḍedu <g type="punctuation" ref="sym:bar">.</g> 
                   </p>
                   
-                  <p>śaka-nṛpa-kāḷa-krānta-saṁ
-                      <lb n="20"/>ga samvatsaraṁ pravarttise phālguṇa māsada nandīśvarad' adaṣṭame
-                      <lb n="21"/>bha lagnōdayadoḷ mahā-dhvaja-mahābhiṣēkotsavadoḷ mahā
-                      <lb n="22"/>ttiyabbey arasiyar lokkiguṇḍi mahā-grāmadoḷ tamma gurugaḷ· a
-                      <lb n="23"/>kargge basadiyaṁ māḍisiy adarkke taḷavṛttiyendu koṭṭa su
-                      <lb n="24"/>dey ent' endoḍe teṁka pāl-vaḷḷaṁ nairitiyoḷ bara vuligeṟeya
-                      <lb n="25"/>gal· bareyerada kōḷanuṁ būdivāḻum vāyavyada dese
-                      <lb n="26"/>gal ā paḷḷame nīrvvariyāge mūḍal eraḍu paḷḷada <choice><unclear>ka</unclear><unclear>ku</unclear></choice>
-                      <lb n="27"/>rkke Aḻuvaṇa gadyāṇaṁ 10 
+                  <p>śaka-nṛpa-kāḷa-krānta-saṁ<gap reason="lost" extent="unknown"/>
+                      <lb n="20"/><gap reason="lost" extent="unknown"/>ga samvatsaraṁ pravarttise phālguṇa māsada nandīśvarad' adaṣṭame<gap reason="lost" extent="unknown"/>
+                      <lb n="21"/><gap reason="lost" extent="unknown"/>bha lagnōdayadoḷ mahā-dhvaja-mahābhiṣēkotsavadoḷ mahā<gap reason="lost" extent="unknown"/>
+                      <lb n="22"/><gap reason="lost" extent="unknown"/>ttiyabbey arasiyar lokkiguṇḍi mahā-grāmadoḷ tamma gurugaḷ· a<gap reason="lost" extent="unknown"/>
+                      <lb n="23"/><gap reason="lost" extent="unknown"/>kargge basadiyaṁ māḍisiy adarkke taḷavṛttiyendu koṭṭa su<gap reason="lost" extent="unknown"/>
+                      <lb n="24"/><gap reason="lost" extent="unknown"/>dey ent' endoḍe teṁka pāl-vaḷḷaṁ nairitiyoḷ bara vuligeṟeya<gap reason="lost" extent="unknown"/>
+                      <lb n="25"/><gap reason="lost" extent="unknown"/>gal· bareyerada kōḷanuṁ būdivāḻum vāyavyada dese<gap reason="lost" extent="unknown"/>
+                      <lb n="26"/><gap reason="lost" extent="unknown"/>gal ā paḷḷame nīrvvariyāge mūḍal eraḍu paḷḷada <choice><unclear>ka</unclear><unclear>ku</unclear></choice><gap reason="lost" extent="unknown"/>
+                      <lb n="27"/><gap reason="lost" extent="unknown"/>rkke Aḻuvaṇa gadyāṇaṁ 10 
                   </p>
                   
-                  <p>ī maryyādeyaṁ dha
-                      <lb n="28"/>yāge <choice><orig>gurukṣētra</orig><reg>kurukṣētra</reg></choice>-<choice><orig>bāṇārāsi</orig><reg>vāraṇāsi</reg></choice> Argghya-tīrtthaṁ bē
-                      <lb n="29"/>kavileya koḍuṁ koḷaginoḷaṁ ponnaṁ beḷḷiyoḷaṁ kaṭṭisida
-                      <lb n="30"/>rkkaḷig’ ubhaya-mukhi koṭṭa phalaṁ
+                  <p>ī maryyādeyaṁ dha<gap reason="lost" extent="unknown"/>
+                      <lb n="28"/><gap reason="lost" extent="unknown"/>yāge <choice><orig>gurukṣētra</orig><reg>kurukṣētra</reg></choice>-<choice><orig>bāṇārāsi</orig><reg>vāraṇāsi</reg></choice> Argghya-tīrtthaṁ bē<gap reason="lost" extent="unknown"/>
+                      <lb n="29"/><gap reason="lost" extent="unknown"/>kavileya koḍuṁ koḷaginoḷaṁ ponnaṁ beḷḷiyoḷaṁ kaṭṭisida<gap reason="lost" extent="unknown"/>
+                      <lb n="30"/><gap reason="lost" extent="unknown"/>rkkaḷig’ ubhaya-mukhi koṭṭa phalaṁ
                   </p>
                   
-                  <p>Ida<choice><sic>ṁn</sic><corr>n</corr></choice> aḍeyisid’ ātaṁ I
-                      <lb n="31"/>pātakan āgi narakaṁ buguguṁ <g type="punctuation" ref="sym:bar">.</g>
+                  <p>Ida<choice><sic>ṁn</sic><corr>n</corr></choice> aḍeyisid’ ātaṁ I<gap reason="lost" extent="unknown"/>
+                      <lb n="31"/><gap reason="lost" extent="unknown"/>pātakan āgi narakaṁ buguguṁ <g type="punctuation" ref="sym:bar">.</g>
                   </p>
                   
                   <ab>ślōkaṁ</ab>
                   
-                  <p>svadattaṁ parada
-                      <lb n="32"/><gap reason="illegible" unit="character" quantity="3"/><choice><sic>śa</sic><corr>sa</corr></choice>hasrāṇi viṣṭāyāṁ jāyatē krimiḥ
+                  <p>svadattaṁ parada<gap reason="lost" extent="unknown"/>
+                      <lb n="32"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/><choice><sic>śa</sic><corr>sa</corr></choice>hasrāṇi viṣṭāyāṁ jāyatē krimiḥ<gap reason="lost" extent="unknown"/>
                   </p>
                   
                   <p>
-                      <lb n="33"/>ḷe kāḷe pālanī<choice><sic>yō</sic><corr></corr></choice> bhavadbhi<supplied reason="omitted">ḥ</supplied> sarvān ētā<choice><sic>ṁn</sic><corr>n</corr></choice> bhāvi
-                      <lb n="34"/>rāma-bhadraḥ <g type="symbol" ref="sym:floret-complex">.</g><g type="symbol" ref="sym:floret">.</g><g type="symbol" ref="sym:floret">.</g><g type="symbol" ref="sym:floret">.</g>
+                      <lb n="33"/><gap reason="lost" extent="unknown"/>ḷe kāḷe pālanī<choice><sic>yō</sic><corr></corr></choice> bhavadbhi<supplied reason="omitted">ḥ</supplied> sarvān ētā<choice><sic>ṁn</sic><corr>n</corr></choice> bhāvi<gap reason="lost" extent="unknown"/>
+                      <lb n="34"/><gap reason="lost" extent="unknown"/>rāma-bhadraḥ <g type="symbol" ref="sym:floret-complex">.</g><g type="symbol" ref="sym:floret">.</g><g type="symbol" ref="sym:floret">.</g><g type="symbol" ref="sym:floret">.</g><gap reason="lost" extent="unknown"/>
                   </p>
               </div>
               
@@ -268,7 +269,10 @@
           </div>
         
           <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>I have encoded gaps in two different ways -- the gaps without specific quantities indicate the text that would have existed outside of the available fragments. The gaps with quantities are based on either illegible characters or gaps for which the quantity of characters can be conjectured based on 
+            the physical form of the inscription.</p>
+              
+            <p>Encoding each fragment as a separate text part means the numbering of the lines differs significantly from the edition in <ptr target="bib:Krishnamacharlu1940_01"/> who edited the four fragments without interruption in the line numbers.</p>  
          </div>
       
           <div type="bibliography">
