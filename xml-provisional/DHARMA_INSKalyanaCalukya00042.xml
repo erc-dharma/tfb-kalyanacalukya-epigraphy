@@ -179,10 +179,56 @@
                   
                   <p>Intu nanninārāyaṇaṁ samyaktva
                       <lb n="12"/><gap reason="lost" unit="character" quantity="1"/>karpūra-<choice><orig>variṣaṁ</orig><reg>varṣaṁ</reg></choice> catura-caturānanaṁ guṇa-mē
-                      <lb n="13"/><gap reason="lost" unit="character" quantity="1"/>gvadhu dhamellamāḷey enisi śrīmad-vaḍevaḷḷa 
-                      
+                      <lb n="13"/><milestone n="C" type="pagelike" unit="fragment"/><gap reason="lost" unit="character" quantity="1"/>g-vadhudhamellamāḷey enisi śrīmad-vaḍevaḷḷa<milestone n="D" type="pagelike" unit="fragment"/><supplied reason="lost" evidence="previouseditor">taila</supplied>payyaṁ māsa
+                      <lb n="14"/><milestone n="C" type="pagelike" unit="fragment"/>nālvattumaṁ bīḻavṛttiyuman āḷuttam ire <g type="punctuation" ref="sym:bar">.</g>
                   </p>
                   
+                  <ab>vṛttaṁ <supplied reason="lost" evidence="parallel"><g type="punctuation" ref="sym:doubleBar">.</g></supplied></ab>
+                  
+                  <p><milestone n="D" type="pagelike" unit="fragment"/>paramaśrī-jinanātha
+                      <lb n="15"/><milestone n="C" type="pagelike" unit="fragment"/>ndōha-bhūsura-jaina-pratimā-vicitra-maṇi<milestone n="D" type="pagelike" unit="fragment"/>-ghaṁṭā-māḷikā-saṁkhye sā
+                      <lb n="16"/><milestone n="C" type="pagelike" unit="fragment"/>yevēṟ enipanaṁ nirmmāpaṇaṁ geydu bhūbharadoḷ <milestone n="D" type="pagelike" unit="fragment"/>dharmmaman attiyabbe
+                      <lb n="17"/><milestone n="C" type="pagelike" unit="fragment"/>r· <g type="punctuation" ref="sym:doubleBar">.</g>
+                  </p>
+                  
+                  <ab>vacanaṁ <g type="punctuation" ref="sym:doubleBar">.</g></ab>
+                  
+                  <p>Ā pavitra-caritra-śāḷi<milestone n="D" type="pagelike" unit="fragment"/>niy enisuva dānaci
+                      <lb n="18"/><milestone n="C" type="pagelike" unit="fragment"/>yānantaraṁ śrīmad-ā<supplied reason="lost" evidence="parallel">hava</supplied><milestone n="D" type="pagelike" unit="fragment"/>malla-dēvaṁge biṁnapaṁ ge
+                      <lb n="19"/>sāsanamaṁ paḍedu <g type="punctuation" ref="sym:bar">.</g> 
+                  </p>
+                  
+                  <p>śaka-nṛpa-kāḷa-krānta-saṁ
+                      <lb n="20"/>ga samvatsaraṁ pravarttise phālguṇa māsada nandīśvarad' adaṣṭame
+                      <lb n="21"/>bha lagnōdayadoḷ mahā-dhvaja-mahābhiṣēkotsavadoḷ mahā
+                      <lb n="22"/>ttiyabbey arasiyar lokkiguṇḍi mahā-grāmadoḷ tamma gurugaḷ· a
+                      <lb n="23"/>kargge basadiyaṁ māḍisiy adarkke taḷavṛttiyendu koṭṭa su
+                      <lb n="24"/>dey ent' endoḍe teṁka pāl-vaḷḷaṁ nairitiyoḷ bara vuligeṟeya
+                      <lb n="25"/>gal· bareyerada kōḷanuṁ būdivāḻum vāyavyada dese
+                      <lb n="26"/>gal ā paḷḷame nīrvvariyāge mūḍal eraḍu paḷḷada <choice><unclear>ka</unclear><unclear>ku</unclear></choice>
+                      <lb n="27"/>rkke Aḻuvaṇa gadyāṇaṁ 10 
+                  </p>
+                  
+                  <p>ī maryyādeyaṁ dha
+                      <lb n="28"/>yāge <choice><orig>gurukṣētra</orig><reg>kurukṣētra</reg></choice>-<choice><orig>bāṇārāsi</orig><reg>vāraṇāsi</reg></choice> Argghya-tīrtthaṁ bē
+                      <lb n="29"/>kavileya koḍuṁ koḷaginoḷaṁ ponnaṁ beḷḷiyoḷaṁ kaṭṭisida
+                      <lb n="30"/>rkkaḷig’ ubhaya-mukhi koṭṭa phalaṁ
+                  </p>
+                  
+                  <p>Ida<choice><sic>ṁn</sic><corr>n</corr></choice> aḍeyisid’ ātaṁ I
+                      <lb n="31"/>pātakan āgi narakaṁ buguguṁ <g type="punctuation" ref="sym:bar">.</g>
+                  </p>
+                  
+                  <ab>ślōkaṁ</ab>
+                  
+                  <p>svadattaṁ parada
+                      <lb n="32"/><gap reason="illegible" unit="character" quantity="3"/><choice><sic>śa</sic><corr>sa</corr></choice>hasrāṇi viṣṭāyāṁ jāyatē krimiḥ
+                  </p>
+                  
+                  <p>
+                      <lb n="33"/>ḷe kāḷe pālanī<choice><sic>yō</sic><corr></corr></choice> bhavadbhi<supplied reason="omitted">ḥ</supplied> sarvān ētā<choice><sic>ṁn</sic><corr>n</corr></choice> bhāvi
+                      <lb n="34"/>rāma-bhadraḥ <g type="symbol" ref="sym:floret-complex">.</g><g type="symbol" ref="sym:floret">.</g><g type="symbol" ref="sym:floret">.</g><g type="symbol" ref="sym:floret">.</g>
+                  </p>
               </div>
               
               
@@ -192,6 +238,21 @@
          </div>
           
         <div type="apparatus">
+            <div type="textpart" n="C">
+                <listApp>
+                    <app loc="15">
+                        <lem source="bib:Krishnamacharlu1940_01">saṁkhye</lem>
+                        <note>This word is written in smaller text below the main line of text as noted in SII XI and by the present editor in the estampage.</note>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <app loc="31">
+                        <lem>pātakan</lem>
+                        <rdg source="bib:Krishnamacharlu1940_01">sātakan</rdg>
+                    </app>
+                </listApp>
+            </div>
             
             
             
