@@ -58,7 +58,8 @@
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
                         <summary>
-                            This inscription acknowledges Āhavamalla’s subordinate (<foreign>sāmanta</foreign>), Sōma-nr̥pāḷa and the establishment of a pillar (<foreign>jina-khaṁba</foreign>) at a Jaina temple.
+                            This inscription records the donation of land to the Kāvēśvara-dēva temple in Maṇṇiyūru by Cāmuṇḍayya, a subordinate of the <foreign>yuvarāja</foreign> or heir apparent, Satyāśraya while his father was king. 
+                            This inscription is dated to the reign of Tribhuvanamalla-dēva, which is not the usual epithet for Taila II. 
                         </summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
@@ -101,7 +102,7 @@
       <body>
           <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
               <p>
-                  <lb n="1"/>svasti <supplied reason="undefined" evidence="previouseditor">sa</supplied>masta-bhuvanāśraya-<choice><orig>prithvi</orig><reg>pr̥thvī</reg>-va</choice>
+                  <lb n="1"/>svasti <supplied reason="undefined" evidence="previouseditor">sa</supplied>masta-bhuvanāśraya-<choice><orig>prithvi</orig><reg>pr̥thvī</reg></choice>-va
                   <lb n="2" break="no"/>llabha-mahārājādhirāja-paramēśvara-para
                   <lb n="3" break="no"/>ma-bhaṭṭārakaṁ satyāśraya-kuḷa-tila<supplied reason="undefined" evidence="previouseditor">kaṁ</supplied> cā
                   <lb n="4" break="no"/>ḷukyā-bharaṇaṁ śrīmat-tribhuvanamalla
