@@ -126,9 +126,9 @@
           <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 
-           <p>Encoded by Samana Gururaja from the estampage photograph published in <ptr target="bib:Patil2004"/></p>
+           <p>Encoded by Samana Gururaja from the estampage photograph published in <ptr target="bib:Ramalakshman+Murthy+Row2001"/></p>
         	<listBibl type="primary"> 
-        	  <bibl n="P2004"><ptr target="bib:Patil2004"/><citedRange unit="page">17</citedRange></bibl>
+        	  <bibl n="RMR2001"><ptr target="bib:Ramalakshman+Murthy+Row2001"/><citedRange unit="page">17</citedRange></bibl>
         	  <bibl n="N2011"><ptr target="bib:Nagayya2011"/><citedRange unit="page">69</citedRange></bibl>
 	</listBibl>
        </div>
