@@ -99,7 +99,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-          <div type="edition">
+          <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:middle">
              <p>
                  <lb n="1"/><gap reason="undefined" extent="unknown"/>jina-kaṁbham alisida
                  <lb n="2"/>kaḍabādala sāsanaṁge daṁbaradi
