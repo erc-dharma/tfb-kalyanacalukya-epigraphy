@@ -143,7 +143,7 @@
           <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 
-           <p>Encoded by Samana Gururaja from the edition</p>
+           <p>Encoded by Samana Gururaja from the estampage provided by ASI, Mysuru</p>
         	<listBibl type="primary"> 
         	  <bibl n="N2017"><ptr target="bib:Nagaraju2017_01"/><citedRange unit="page">6-7</citedRange></bibl>
 	</listBibl>
